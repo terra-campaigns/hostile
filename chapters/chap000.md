@@ -24,7 +24,7 @@ tags:
 - [x] Define a consequence in the world of the actions of the PCs on the previous session (consider snoozing hooks)
 - [x] Review Abridged
 - [x] Think about characters, write motivations & hooks
-- [x] Review and organise [_siliconSambaNotions](../_siliconSambaNotions.md)
+- [x] Review and organise
 - [x] Define party rank and xp
 - [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 20+ game days ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
 - [x] Detail strong start
