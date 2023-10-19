@@ -1,6 +1,6 @@
 ---
 type: faction
-name: Haruna Biolabs
+name: Haruna Biolabs AmCap
 id: 02
 world: Terra
 continent: 
@@ -22,7 +22,7 @@ interest:
 tags: 
 ---
 
-# Haruna Biolabs
+# Haruna Biolabs American-Capella
 
 > [!success] Features
 > - **Wealth 1 asset:** Harversters in Perdurabo
