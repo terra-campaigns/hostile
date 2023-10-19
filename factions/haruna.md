@@ -1,12 +1,6 @@
 ---
-type: faction
 name: Haruna Biolabs AmCap
 id: 02
-world: Terra
-continent: 
-region:  
-megacorp: Matsuyama
-campaign: Hostile
 power: 2
 features: 1
 trouble: 1
@@ -19,14 +13,20 @@ interest:
   ico:
   lebkuchen: -6
   bookSky:
+
+meta:
+  category: faction
+  campaign: Hostile
+  sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
+  parent: Wu-Ketai
 tags: 
 ---
 
 # Haruna Biolabs American-Capella
 
 > [!success] Features
-> - **Wealth 1 asset:** Harversters in Perdurabo
-> - **Wealth 1 asset:** Local investments in Perdurabo
+> - **Wealth 1:** Harversters (WvW) in Perdurabo
+> - **Wealth 1:** Local investments (WvW) in Perdurabo
 
 > [!failure] Troubles
 > - Brightside station, where Novium is mined for the SMU, is caught in a petty scheme

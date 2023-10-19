@@ -1,33 +1,41 @@
 ---
-type: faction
-name: Tharsis Mining
+name: Tharsis Mining American
 id: 03
-world: Terra
-continent: 
-region:  
-megacorp: Tharsis
-campaign: Hostile
-tier: 
-features: 
-trouble: 
-cohesion: 
-dominion: 
+power: 4
+features: 3
+trouble: 3
+cohesion: 3
+dominion: 0
 interest:
   makita: 
-  haruna: 
-tags: 
+  haruna: -3
+  tharsisMining:
+  ico: -6
+  lebkuchen:
+  bookSky:
+
+meta:
+  category: faction
+  campaign: Hostile
+  sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
+  parent: Wu-Ketai
+tags:  
 ---
 
-# Tharsis Mining
+# Tharsis Mining American
 
-- **Features**
-	- ...
-- **Trouble**
-	- ...
-- **Goals**
-	- [ ] ...
+> [!success] Features
+> - **Wealth 6**: Commodities broker (WvW) - They substantially lessen the cost of large-scale investments by timing mate- rials purchases properly.
 
+> [!failure] Troubles
+> - **1 pt:** Lack of new exploration plays (cost 5 to solve)
+> - **2pt**: Brain drain of employees from The Salomons that nurses a bitter grudge to high management (cost 8 to solve)
 
-**Parent MegaCorp**
+> [!example] Goals
+> - [ ] **Solve a problem**: find new exploration plays (cost 5)
 
-![|500](https://i.imgur.com/L5HnfMF.png)
+> [!info] Background
+> ...
+
+> [!warning] Parent MegaCorp
+> ![](https://i.imgur.com/L5HnfMF.png)

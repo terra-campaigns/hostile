@@ -1,12 +1,6 @@
 ---
-type: faction
 name: Makita Genetics AmCap
 id: 01
-world: Terra
-continent: Asia
-region: Japan
-megacorp: Wu-Ketai
-campaign: Hostile
 power: 2
 features: 1
 trouble: 3
@@ -19,13 +13,19 @@ interest:
   ico:
   lebkuchen:
   bookSky: -2
+
+meta:
+  category: faction
+  campaign: Hostile
+  sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
+  parent: Wu-Ketai
 tags: 
 ---
 
 # Makita Genetics  American-Capella
 
 > [!success] Features
-> - **Wealth 2 asset:** Surveyors in planet [Crown](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/planet/ysUkFdztevjYWcA3qRwm) in [Wolf 359](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/z1jB7lrczNTuAcrK5i51)
+> - **Wealth 2:** Surveyors (WvW) in planet [Crown](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/planet/ysUkFdztevjYWcA3qRwm) in [Wolf 359](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/z1jB7lrczNTuAcrK5i51)
 
 > [!failure] Troubles
 > - Surveyors cannot smuggle out of Crown what they find
