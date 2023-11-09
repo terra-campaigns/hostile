@@ -3,7 +3,7 @@ category: chapter
 name: Prologue
 world: Terra
 campaign: Hostile
-game_date: 2225 Sep 30
+game_date: 2225-09-30
 location: French Guiana Starport
 pcs: 
 members: 5
@@ -26,7 +26,7 @@ tags:
 - [x] Think about characters, write motivations & hooks
 - [x] Review and organise
 - [x] Define party rank and xp
-- [x] Review [Factions](../factions/_factionGame.md) and run one [faction turn](../../../rules/factionRules.md), if last turn was 20+ game days ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
+- [x] Review Factions and run one faction turn,  if last turn was 20+ game days ago, including decide what remaining relevant NPCs are doing, and their respective checks (Background Actors, wwn334)
 - [x] Detail strong start
 - [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
 - [x] Review and order/highlight information pool
@@ -49,7 +49,7 @@ tags:
 
 ## Strong start
 
-- Contract kick-off meeting with [tharsisMining](campaign/hostile/factions/tharsisMining.md) General Manager for Ice Exploration John McLeod. Details of the mission, milestones, payment, starship etc.:
+- Contract kick-off meeting with [tharsisMining](hostile/factions/tharsisMining.md) General Manager for Ice Exploration John McLeod. Details of the mission, milestones, payment, starship etc.:
 	- Their ship is already in Brightside (starship is modified with lead panels), travel by shuttle
 	- Description of the region of NEZ that the crew is going
 	- All ore you find is property of Tharsis, and you need to refine it and set for delivery in Brightside. You will be compensated with 10% of its base price.
@@ -68,7 +68,7 @@ tags:
 ## Potential scenes
 
 - **Combat system**: Boxing bet rig in the starport (organised, no danger of much harm) HD 2 NPC
-- **Social skills system**: Bar scene where a computer scientist nerd from [haruna](campaign/hostile/factions/haruna.md) is **locked** in a toilet by a [lebkuchen](campaign/hostile/factions/lebkuchen.md)
+- **Social skills system**: Bar scene where a computer scientist nerd from [haruna](hostile/factions/haruna.md) is **locked** in a toilet by a [lebkuchen](hostile/factions/lebkuchen.md)
 	- The nerd is tied, and just un-gagged himself to scream for help
 	- A lebkuchen hd01 is 5 toilet booths to the right, and if someone comes to help, the lebkuchen will make a mess to diverge their attention, but run when the timer blips for 20 seconds (either door or window)
 
@@ -85,7 +85,7 @@ tags:
 
 ## Information pool
 
-[_informationPool](campaign/hostile/_informationPool.md)
+[_informationPool](hostile/_informationPool.md)
 
 
 ## Locations
