@@ -4,7 +4,6 @@ layout: Terra Campaigns Leiaute v04
 template: Terra Campaigns 3-attribute NPC statblocks
 source: Homebrew for Hostile
 
-
 name: John McLeod
 concept: AI, GM Ice Exploration Tharsis Mining
 hp: '16'
@@ -66,4 +65,5 @@ npc_link: "[JohnMcLeod](JohnMcLeod.md)"
 - ..
 ## Key info and notes
 
-- ..
+- Works for [tharsisMining](../factions/tharsisMining.md)
+- Wants to hostile acquire [BrightsideStation](../locations/BrightsideStation.md)
