@@ -1,0 +1,1 @@
+> - [**Dirk**](https://docs.google.com/spreadsheets/d/131u5VYaqt8BsQ4kW_Y58bV4Cpby-lEJ6GJYHUL33rNo/edit#gid=989086139): Make money and explode things
