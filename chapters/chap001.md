@@ -40,13 +40,15 @@ tags:
 > - [ ] Define treasure
 > - [ ] Update random encounter tables
 > - [ ] Print information pool (applicable parts)
+> - [x] Evaluate heat
+> - [ ] Update graph view
 
 > [!abstract] Doomborgs crewmembers motivation
-> - [**Olaf**](https://docs.google.com/spreadsheets/d/17TM6jr2J91baWqlrEe8RxPmwCunUliwKtylcwN2SC5E/edit#gid=989086139): Make money and find advanced life
-> - [**Oni**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS0rM_d2dBdocF09UAlxlKN-AImLO5XwiqPlB-0SdKyAxmEyL1jGqsxBNuhGD45edHfYu4X0bxQOIqa/pubhtml): Do something meaningful, that's helpful to societies that are underprivileged and exploited.
-> - [**Dirk**](https://docs.google.com/spreadsheets/d/131u5VYaqt8BsQ4kW_Y58bV4Cpby-lEJ6GJYHUL33rNo/edit#gid=989086139): Make money and explode things
-> - **Sabaka**: Find proof of Aliens similar to the one that attacked their family
-> - [**Vagabond**](https://docs.google.com/spreadsheets/d/1r9b1XCIeruyOI8BaxgLbJtRpju0VX04IwUHVD4fXIac/edit#gid=1671565117): Have a life outside earth
+> - [**Olaf**](../pcs/Olaf.md): Make money and find advanced life
+> - [**Oni**](../pcs/Oni.md): Do something meaningful, that's helpful to societies that are underprivileged and exploited.
+> - [**MadSpark**](../pcs/MadSpark.md): Make money and explode things
+> - [**Sabaka**](../pcs/Sabaka.md): Find proof of Aliens similar to the one that attacked their family
+> - [**Oliver**](../pcs/Oliver.md): Have a life outside earth
 
 > [!warning] Intro
 > - The name is really Doomborgs?
@@ -57,7 +59,7 @@ tags:
 
 > [!danger] Strong start
 
-**Arrival in [Brigthside](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/spaceStation/8LCcs3wrwRYwyUx5P0OL) on 2225-10-27**
+**Arrival in [BrightsideStation](../locations/BrightsideStation.md) on 2225-10-27**
 - Mingle with NPCs
 
 > [!example] Potential scenes
@@ -67,11 +69,9 @@ tags:
 
 **Get [The Frostbreaker](https://www.swnfreebooter.net/starshipDesigner/DOefjLYWNp812UH0Tqic) anchored outside Brightside**
 - Sign paperwork for **Perdurian Frostbreaker 2**
-- Ship looks like a utility system in a large industrial site
-- Wis/notice dc 10 (1 less per day), to notice there are signs of blood in the ship (look at information pool)
-- **Feed the isolation, loneness and fear of space** 
 
-![](https://i.imgur.com/MRdCXz0.jpg)
+![Frostbreaker](../objects/Frostbreaker.md)
+
 
 **Ship malfunction (1 in 6 during travel) - pre rolled for now**
 
@@ -86,6 +86,7 @@ tags:
 
 **Ice/RNA Mining**
 - RNA, if inhaled, cause loss of 1 sanity/humanity per hour, mental save.
+- Might find the [emptyGraves](../locations/emptyGraves.md)
 
 ![Mining](../../_published/hostile/system.md#Mining)
 
@@ -94,12 +95,11 @@ tags:
 > [!info]- Information pool
 > ![_informationPool](../_informationPool.md)
 
-> [!tip]- Locations
-- [Brightside Station](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/spaceStation/8LCcs3wrwRYwyUx5P0OL)
-- [emptyGraves](../locations/emptyGraves.md)
-
-> [!bug]- NPCs
-- [JohnMcLeod](../npcs/JohnMcLeod.md)
-
-> [!check] Treasures
-- 
+> [!tip] Interaction table 
+> 
+> ```dataview
+> TABLE without ID link(file.link, name) as Entity, file.folder as Type, file.outlinks as "Further interactions"
+> FROM outgoing([[]]) 
+> SORT Type ASC
+> WHERE contains(file.folder, "hostile/")
+> ```
