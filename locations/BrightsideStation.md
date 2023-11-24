@@ -11,3 +11,20 @@ meta:
 
 - Built by [haruna](../factions/haruna.md)
 - Of interest for a hostile acquisition from [tharsisMining](../factions/tharsisMining.md) 
+
+## NPC population
+
+```encounter
+creatures:
+  - Jaffa Okoye
+  - John McLeod
+  - Livingston Roy
+  - Marion Hardlee
+  - Marius Rochambeau
+  - Mary Tomlinson
+  - Randall Bellows
+  - Ranse Hardlee
+  - Roland Lomax
+  - Suyin Indrani
+  - Yash Dutta
+```
