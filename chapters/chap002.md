@@ -21,16 +21,15 @@ tags:
 > [!todo]- Planning checklist
 > - [x] Abridge previous chapter and distribute XP
 > - [x] Evaluate Holds and Heat
-> - [ ] Commit next chapter draft
-> - [ ] Clean up previous chapter files, update tags and name, make final commit
-> - [ ] Update (battle)maps, if applicable
-> - [ ] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in the faction game or notion file
+> - [x] Commit next chapter draft
+> - [x] Clean up previous chapter files, update tags and name, make final commit
+> - [x] Update (battle)maps, if applicable
+> - [x] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in the faction game or notion file
 > - [ ] Think about characters, write motivations & hooks
-> - [ ] Evaluate new game date
+> - [x] Evaluate new game date
 > - [ ] Review Abridged
-> - [ ] Evaluate Faction turn
+> - [x] Evaluate Faction turn
 > - [ ] Review and organise Notions
-> - [ ] Define XP
 > - [ ] Detail strong start
 > - [ ] Prepare Owlbear, if applicable
 > - [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.

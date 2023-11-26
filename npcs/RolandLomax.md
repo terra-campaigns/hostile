@@ -49,8 +49,6 @@ personality:
 roleplay:
 - name: Aspect
   desc: A fat man with a wide grin, pasty complexion and steel-gray eyes. His hands are perpetually sweaty.
-- name: Idiosyncrasy
-  desc: 
 - name: Languages
   desc: ''
 

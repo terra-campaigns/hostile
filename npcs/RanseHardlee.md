@@ -61,6 +61,7 @@ npc_link: "[RanseHardlee](RanseHardlee.md)"
 ## Connections
 - [BrightsideStation](../locations/BrightsideStation.md)
 - Husband of [MarionHardlee](MarionHardlee.md)
+- Dislikes [Olaf](../pcs/Olaf.md)
 
 ## Key info and notes
 - ...

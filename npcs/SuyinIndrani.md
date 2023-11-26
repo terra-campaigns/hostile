@@ -62,6 +62,7 @@ npc_link: "[SuyinIndrani](SuyinIndrani.md)"
 ## Connections
 - [BrightsideStation](../locations/BrightsideStation.md)
 - [RolandLomax](RolandLomax.md)
+- Does not like [Oliver](../pcs/Oliver.md)
 
 ## Key info and notes
 - ...

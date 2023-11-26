@@ -12,7 +12,7 @@ sort id asc
 
 # Next turn on 2225-11-01
 
-- Lebkuchen is aware the PCs have stopped a initiative in French Guiana
+- 
 
 ## Factions
 

@@ -48,8 +48,6 @@ roleplay:
 - name: Aspect
   desc: A slim blonde, with beautiful teeth and astonishing physical grace. Laughs often.
 - name: Idiosyncrasy
-  desc: 
-- name: Languages
   desc: ''
 
 npc_link: "[RandallBellows](RandallBellows.md)"
