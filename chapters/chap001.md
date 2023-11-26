@@ -29,7 +29,7 @@ tags:
 > - [x] Evaluate new game date
 > - [x] Review Abridged
 > - [x] Evaluate Faction turn
-> - [x] Review and organise Notions
+> - [x] Take note of **Holds**, review and organise Notions
 > - [x] Define XP
 > - [x] Detail strong start
 > - [x] Prepare Owlbear, if applicable
@@ -38,10 +38,10 @@ tags:
 > - [x] Outline and update location notes, reviewing scenes and secrets
 > - [x] Outline potential NPCs, reviewing all above
 > - [ ] Define treasure
-> - [ ] Update random encounter tables
+> - [x] Update random encounter tables
 > - [ ] Print information pool (applicable parts)
 > - [x] Evaluate heat
-> - [ ] Update graph view
+> - [x] Update graph view
 
 > [!abstract] Doomborgs crewmembers motivation
 > - [**Olaf**](../pcs/Olaf.md): Make money and find advanced life
@@ -51,7 +51,7 @@ tags:
 > - [**Oliver**](../pcs/Oliver.md): Have a life outside earth
 
 > [!warning] Intro
-> - The name is really Doomborgs?
+> - The name is really Doomborg?
 > - Travel to Perdurabo:
 > 	- Red Giant: Large fast transfer liner Tau Ceti star port: 7 days, then transfer.
 > 	- Red Giant: Transfer liner Tau Ceti - Defiance: 8 days, then transfer.
@@ -61,6 +61,7 @@ tags:
 
 **Arrival in [BrightsideStation](../locations/BrightsideStation.md) on 2225-10-27**
 - Mingle with NPCs
+- NPCs met: [RolandLomax](../npcs/RolandLomax.md), [RanseHardlee](../npcs/RanseHardlee.md), [MaryTomlinson](../npcs/MaryTomlinson.md), [YashDutta](../npcs/YashDutta.md), [MarionHardlee](../npcs/MarionHardlee.md), [MariusRochambeau](../npcs/MariusRochambeau.md)
 
 > [!example] Potential scenes
 
@@ -71,26 +72,6 @@ tags:
 - Sign paperwork for **Perdurian Frostbreaker 2**
 
 ![Frostbreaker](../objects/Frostbreaker.md)
-
-
-**Ship malfunction (1 in 6 during travel) - pre rolled for now**
-
-| d6 roll | result                                     | skill                   |
-| ------- | ------------------------------------------ | ----------------------- |
-| 1       | Heating/Life support problems              | fix or programme        |
-| 2       | Hyperdrive field generator                 | fix, programme or pilot |
-| 3       | Waste disposal problem                     | fix                     |
-| 4       | Ship’s Boat/Lifeboat/Auxiliary Craft drive | pilot                   |
-| 5       | Grav plates                                | fix, programme          |
-| 6       | Fuel pump problem                          | fix                     |
-
-**Ice/RNA Mining**
-- RNA, if inhaled, cause loss of 1 sanity/humanity per hour, mental save.
-- Might find the [emptyGraves](../locations/emptyGraves.md)
-
-![Mining](../../_published/hostile/system.md#Mining)
-
-![|400](https://imgur.com/swvqhSV.png)
 
 > [!info]- Information pool
 > ![_informationPool](../_informationPool.md)
