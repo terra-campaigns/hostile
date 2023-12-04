@@ -25,22 +25,22 @@ tags:
 > - [x] Clean up previous chapter files, update tags and name, make final commit
 > - [x] Update (battle)maps, if applicable
 > - [x] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in the faction game or notion file
-> - [ ] Think about characters, write motivations & hooks
+> - [x] Think about characters, write motivations & hooks
 > - [x] Evaluate new game date
-> - [ ] Review Abridged
+> - [x] Review Abridged
 > - [x] Evaluate Faction turn
-> - [ ] Review and organise Notions
-> - [ ] Detail strong start
-> - [ ] Prepare Owlbear, if applicable
-> - [ ] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
-> - [ ] Review and order/highlight information pool.
-> - [ ] Outline and update location notes, reviewing scenes and secrets
-> - [ ] Outline potential NPCs, reviewing all above
-> - [ ] Define treasure
-> - [ ] Update random encounter tables
+> - [x] Review and organise Notions
+> - [x] Detail strong start
+> - [x] Prepare Owlbear, if applicable
+> - [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
+> - [x] Review and order/highlight information pool.
+> - [x] Outline and update location notes, reviewing scenes and secrets
+> - [x] Outline potential NPCs, reviewing all above
+> - [x] Define treasure
+> - [x] Update random encounter tables
 > - [ ] Print information pool (applicable parts)
-> - [ ] Evaluate heat
-> - [ ] Update graph view
+> - [x] Evaluate heat
+> - [x] Update graph view
 
 > [!abstract] Doomborgs crewmembers motivation
 > - [**Olaf**](../pcs/Olaf.md): Make money and find advanced life
@@ -50,45 +50,49 @@ tags:
 > - [**Oliver**](../pcs/Oliver.md): Have a life outside earth
 
 > [!warning] Intro
-> - The name is really Doomborg?
-> - Travel to Perdurabo:
-> 	- Red Giant: Large fast transfer liner Tau Ceti star port: 7 days, then transfer.
-> 	- Red Giant: Transfer liner Tau Ceti - Defiance: 8 days, then transfer.
-> 	- Colonial Endeavours' Novium Transport: Transfer to Brightside: 10 days.
+> - You can have almost anything you'd like from the environment
 
 > [!danger] Strong start
 
-Going to the Cold Tombs
+Going to the [ColdTomb](../locations/ColdTomb.md)
+- Travel in the [Frostbreaker](../objects/Frostbreaker.md)
+- **Enforce the isolation and hostility of space**
+- Notice check DM+2 for finding blood in the starship
 - The Tomb is a dangerous one, but probably full of riches. The dislike [RanseHardlee](../npcs/RanseHardlee.md) has with [Olaf](../pcs/Olaf.md) influenced him to make a choice to share the coordinates of this Tomb. [MariusRochambeau](../npcs/MariusRochambeau.md) is also very keen on the riches. The two of them will share some of the profit from the findings.
 
 > [!example] Potential scenes
 
-**Meeting with [JohnMcLeod](../npcs/JohnMcLeod.md) (briefcase)**
-- Work is expected to start on 2225-11-01
-
-**Get [The Frostbreaker](https://www.swnfreebooter.net/starshipDesigner/DOefjLYWNp812UH0Tqic) anchored outside Brightside**
-- Sign paperwork for **Perdurian Frostbreaker 2**
-
-![Frostbreaker](../objects/Frostbreaker.md)
-
-**Ship malfunction (1 in 6 during travel) - pre rolled for now**
-
-| d6 roll | result                                     | skill                   |
-| ------- | ------------------------------------------ | ----------------------- |
-| 1       | Heating/Life support problems              | fix or programme        |
-| 2       | Hyperdrive field generator                 | fix, programme or pilot |
-| 3       | Waste disposal problem                     | fix                     |
-| 4       | Ship’s Boat/Lifeboat/Auxiliary Craft drive | pilot                   |
-| 5       | Grav plates                                | fix, programme          |
-| 6       | Fuel pump problem                          | fix                     |
+**Vacc suit and cold water**
+- **Enforce the isolation and hostility of space**
+- Suit power in cold water: **d6 usage die**. Each room is one turn, move between rooms is another turn. 
+	- A vacc suit needs to swap in a fresh type A power cell every **thirty minutes** or the PC will start to suffer **hypothermia**. **Every five minutes** without heat, the PC must make a Physical Effect saving throw or else lose 1 point of Strength and Constitution. A character reduced below Strength 3 cannot move, and one reduced below Constitution 3 will die.
+- Attribute point losses to hypothermia can be restored by an hour’s warmth and treatment by a medkit, or else a day’s recovery if a medkit is lacking.
+- Aside from the chill, **communications** are complicated by the fact that radios do not function underwater. Communication in the tomb relies on hand signals, lengths of comm hardline plugged in between suits, or pressing helmets together to let the vibrations of speech carry through. **Visibility** underwater is limited by the murky water. A character can see no more than **ten meters** in any direction.
+- Modern lasers and projectile weapons are designed for operating in hostile environments, and so they **will work underwater**. The water is murky, but it doesn’t quite qualify as hindering laser weaponry. **Use of grenades and other explosives is extremely dangerous underwater**
+- **Movement is cumbersome** underwater. All movement rates are cut in half due to the water’s resistance. The streamlined shape of the Chittik drones allows them to move at normal speed. Thrown objects have only half ordinary maximum range. Characters can swim upward at one-third their normal movement rate. Many rooms have very high ceilings due to the flux of erosion and refreezing, with some rising as high as 20 meters.
+- A **character’s vacc suit may be cut** by a danger in the tomb or by a hit from a Chittik drone’s claws when they have 10 or fewer hit points. Such a **hit has a 50% chance of cutting a vacc** suit in addition to whatever damage may be done. Characters **can patch** a vacc suit with one of its emergency sealing patches, but the **cold water that enters** a suit will severely strain the suit’s heating element and immediately drain the power cell. A character must replace the cell within five minutes or they will begin to suffer hypothermia
 
 **Ice/RNA Mining**
-- RNA, if inhaled, cause loss of 1 sanity/humanity per hour, mental save.
-- Might find the [EmptyGraves](../locations/EmptyGraves.md)
+- RNA, if inhaled, make a mental save per hour. Failure gains 1 SS.
 
 ![Mining](../../_gm/moves/README.md#Mining)
 
 ![|400](https://imgur.com/swvqhSV.png)
+
+> [!bug] Random encounters
+
+| id| totalLevel|partySize |effect                                                                    |
+|--:|----------:|:---------|:-------------------------------------------------------------------------|
+|  1|          1|few       |Ship computer is acting oddly                                             |
+|  2|          4|pair      |Ship encounter (if starport up to D) Ship’s Boat                          |
+|  3|          9|pair      |Crew training session protocol - Fuel-Leak and fire-fighting              |
+|  4|          1|pair      |Ship Malfunction - Fuel pump problem Engineering or Mechanical            |
+|  5|         11|many      |Ship Malfunction - Ship’s Boat/Lifeboat/Auxiliary Craft drive Engineering |
+|  6|         11|mob       |Readings of a stowaway                                                    |
+|  7|         22|many      |Ship encounter (if starport up to C) Light Towship                        |
+|  8|          6|few       |Ship encounter (all starports) Colonial Support Vessel                    |
+|  9|         12|mob       |Ship Malfunction - Micrometeoroid strike, 1D6 damage -                    |
+| 10|         19|many      |Ship Malfunction - Water recycling Mechanical                             |
 
 > [!info]- Information pool
 > ![_informationPool](../_informationPool.md)
