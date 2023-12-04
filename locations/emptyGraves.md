@@ -14,8 +14,6 @@ meta:
 tags: 
 ---
 
-![|400](https://i.imgur.com/dyogS6G.png)
-
 # Rooms
 
 ## 3
