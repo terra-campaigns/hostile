@@ -62,6 +62,7 @@ npc_link: "[YashDutta](YashDutta.md)"
 - [BrightsideStation](../locations/BrightsideStation.md)
 - [RolandLomax](RolandLomax.md)
 - [LivingstonRoy](LivingstonRoy.md)
+- Does not like [MadSpark](../pcs/MadSpark.md)
 
 ## Key info and notes
 - ...

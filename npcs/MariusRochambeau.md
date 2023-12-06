@@ -61,7 +61,7 @@ npc_link: "[MariusRochambeau](MariusRochambeau.md)"
 ## Connections
 - [BrightsideStation](../locations/BrightsideStation.md)
 - [makita](../factions/makita.md)
-- 
+- Boyfriend of [Sabaka](../pcs/Sabaka.md)
 
 ## Key info and notes
 - ...

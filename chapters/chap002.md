@@ -51,6 +51,7 @@ tags:
 
 > [!warning] Intro
 > - You can have almost anything you'd like from the environment
+> - Do you want to have a push-a-roll mechanic? With +1 SS per +1 on attack, skill, save checks or AC?
 
 > [!danger] Strong start
 
@@ -64,7 +65,7 @@ Going to the [ColdTomb](../locations/ColdTomb.md)
 
 **Vacc suit and cold water**
 - **Enforce the isolation and hostility of space**
-- Suit power in cold water: **d6 usage die**. Each room is one turn, move between rooms is another turn. 
+- Suit power in cold water: **d6 usage die**. Each room is one turn (5-10 min), move between rooms is another turn. 
 	- A vacc suit needs to swap in a fresh type A power cell every **thirty minutes** or the PC will start to suffer **hypothermia**. **Every five minutes** without heat, the PC must make a Physical Effect saving throw or else lose 1 point of Strength and Constitution. A character reduced below Strength 3 cannot move, and one reduced below Constitution 3 will die.
 - Attribute point losses to hypothermia can be restored by an hour’s warmth and treatment by a medkit, or else a day’s recovery if a medkit is lacking.
 - Aside from the chill, **communications** are complicated by the fact that radios do not function underwater. Communication in the tomb relies on hand signals, lengths of comm hardline plugged in between suits, or pressing helmets together to let the vibrations of speech carry through. **Visibility** underwater is limited by the murky water. A character can see no more than **ten meters** in any direction.
@@ -79,7 +80,17 @@ Going to the [ColdTomb](../locations/ColdTomb.md)
 
 ![|400](https://imgur.com/swvqhSV.png)
 
-> [!bug] Random encounters
+> [!bug] Progress clocks
+
+| Type   | Status   | Description                         |
+| ------ | -------- | ----------------------------------- |
+| Goal   | 0/8      | Ushan's mRNA                        |
+| Threat | 1/8      | Dutta's awareness of PCs intentions |
+| Threat | 0/6      | Suit batteries                      |
+| Threat | 0/6      | Drone awareness of intruders        |
+| Threat | 0/4 each | Random encounters (see table below) |
+
+**Random encounter rolls**
 
 | id| totalLevel|partySize |effect                                                                    |
 |--:|----------:|:---------|:-------------------------------------------------------------------------|
@@ -105,3 +116,4 @@ Going to the [ColdTomb](../locations/ColdTomb.md)
 > SORT Type ASC
 > WHERE contains(file.folder, "hostile/")
 > ```
+
