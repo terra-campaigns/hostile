@@ -51,7 +51,8 @@ tags:
 
 > [!warning] Intro
 > - You can have almost anything you'd like from the environment
-> - Do you want to have a push-a-roll mechanic? With +1 SS per +1 on attack, skill, save checks or AC?
+> - Max HP at level 1
+> - Major injuries (CWN)
 
 > [!danger] Strong start
 
@@ -76,7 +77,7 @@ Going to the [ColdTomb](../locations/ColdTomb.md)
 **Ice/RNA Mining**
 - RNA, if inhaled, make a mental save per hour. Failure gains 1 SS.
 
-![Mining](../../_gm/moves/README.md#Mining)
+[Mining](../../_gm/moves/README.md#Mining)
 
 ![|400](https://imgur.com/swvqhSV.png)
 
@@ -84,11 +85,11 @@ Going to the [ColdTomb](../locations/ColdTomb.md)
 
 | Type   | Status   | Description                         |
 | ------ | -------- | ----------------------------------- |
-| Goal   | 0/8      | Ushan's mRNA                        |
-| Threat | 1/8      | Dutta's awareness of PCs intentions |
-| Threat | 0/6      | Suit batteries                      |
-| Threat | 0/6      | Drone awareness of intruders        |
-| Threat | 0/4 each | Random encounters (see table below) |
+| Gain   | 0/8      | Ushan's mRNA                        |
+| Loss | 1/8      | Dutta's awareness of PCs intentions |
+| Loss | 0/6      | Suit batteries                      |
+| Loss | 0/6      | Drone awareness of intruders        |
+| Loss | 0/4 each | Random encounters (see table below) |
 
 **Random encounter rolls**
 
