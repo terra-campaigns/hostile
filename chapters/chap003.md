@@ -1,34 +1,34 @@
 ---
 name: The ICO
-game_date: 2225-10-??
-pcs: Olaf, Oni, Dirk, Sabaka, Vagabond
-rank: 0.5
-heat: 0
-xp: 3
+game_date: 2225-11-04
+pcs: Olaf, Oni, Dirk, Sabaka, Oliver
+rank: 5
+heat: 1
+xp: 5
 
 meta:
   category: chapter
   campaign: Hostile
   sector: "[Near Earth Zone](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe)"
-  system: '[Perdurabo](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/PWrHAjd6P64k61Ga1PfQ)'
-  world: Deep Space
+  system: 'Teegarden Star'
+  world: 
   realm: 
   region: 
-  location: "[Brightside Station](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/spaceStation/8LCcs3wrwRYwyUx5P0OL)"
+  location: ""
 tags: 
 ---
 
 > [!todo]- Planning checklist
-> - [ ] Abridge previous chapter and distribute XP
-> - [ ] Evaluate Holds and Heat
-> - [ ] Commit next chapter draft
-> - [ ] Clean up previous chapter files, update tags and name, make final commit
-> - [ ] Update (battle)maps, if applicable
-> - [ ] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in the faction game or notion file
+> - [x] Abridge previous chapter and distribute XP
+> - [x] Evaluate Heat
+> - [x] Commit next chapter draft and check metadata
+> - [x] Clean up previous chapter files, update tags and name, make final commit
+> - [x] Update (battle)maps, if applicable
+> - [x] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in the faction game or notion file
 > - [ ] Think about characters, write motivations & hooks
-> - [ ] Evaluate new game date
-> - [ ] Review Abridged
-> - [ ] Evaluate Faction turn
+> - [x] Evaluate new game date
+> - [x] Review Abridged
+> - [x] Evaluate Faction turn
 > - [ ] Review and organise Notions
 > - [ ] Detail strong start
 > - [ ] Prepare Owlbear, if applicable
@@ -39,7 +39,6 @@ tags:
 > - [ ] Define treasure
 > - [ ] Update random encounter tables
 > - [ ] Print information pool (applicable parts)
-> - [ ] Evaluate heat
 > - [ ] Update graph view
 
 > [!abstract] Doomborgs crewmembers motivation
@@ -51,17 +50,24 @@ tags:
 
 > [!warning] Intro
 > - One final Mental Save for the mRNA
-> - Spike drive rules
+> - Ship rules: spike drive, scan, chase, combat
 
 > [!danger] Strong start
 
+Just before the spike drills.
+
+**Arrival in Teegarden System.**
+- Tharsis will organise a shuttle to take the corpse to a large transport to Earth (in secret)
+- ICO would want to have the corpse too, and can promise protection.
+- Only factions aware of the corpse would (now) chase the PCs
+
+> [!example] Situations 
+
+Research on the alien language
+
+Travel back to Perdurabo with the crew of The Boxer (coming from The Solomons - they will take 3+6 days to get there) meeting you there, to gather as many corpses as possible and then deliver the contract working 48h per day. Need to map the ice and conclude the work **urgently** and **stealthly**.
 
 
-> [!example] Potential scenes
-
-![|400](https://imgur.com/swvqhSV.png)
-
-> [!bug] Progress clocks
 
 > [!info]- Information pool
 > ![_informationPool](../_informationPool.md)

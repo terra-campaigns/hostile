@@ -20,6 +20,29 @@ meta:
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
   parent: Wu-Ketai
 tags:  
+
+statblock: yes
+layout: Terra Campaigns Factions v01
+
+goal: nonono
+
+stats:
+- cunning: 5
+- force: 3
+- wealth: 7
+- magic: None
+- income: 
+
+ac: 
+hp: 
+
+traits:
+- name: 
+  desc: ""
+
+assets:
+- name: Headquarters (BoI)
+  desc: ""
 ---
 
 # Tharsis Mining American
