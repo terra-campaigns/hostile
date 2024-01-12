@@ -2,7 +2,7 @@
 name: The Frostbreaker
 game_date: 2225-10-27
 pcs: Olaf, Oni, Dirk, Sabaka, Vagabond
-rank: 0.5
+levels: 5
 xp: 3
 
 meta:

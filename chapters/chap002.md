@@ -2,7 +2,7 @@
 name: The Cold Tomb
 game_date: 2225-10-29
 pcs: Olaf, Oni, Dirk, Sabaka, Vagabond
-rank: 0.5
+levels: 5
 heat: 0
 xp: 4
 

@@ -7,9 +7,18 @@ game_date: 2225-09-30
 location: French Guiana Starport
 pcs: 
 members: 5
-party_rank: 0.5
+levels: 5
+pcs: Olaf, Oni, Dirk, Sabaka, Vagabond
 xp: 2
 tags: 
+
+meta:
+  campaign: Hostile
+  sector: "[Near Earth Zone](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe)"
+  system: 'Sol'
+  world: Earth
+  location: "Starport Guiana"
+
 ---
 
 # Chapter 00 Prologue
