@@ -1,24 +1,68 @@
 ---
 type: faction
-name: Lebkuchen
+name: Lebkuchen Defiance
 id: 05
 world: Terra
 continent: 
 region:  
 megacorp: 
 campaign: Hostile
-tier: 
-features: 
-trouble: 
-cohesion: 
-dominion: 
+power: 1
+features: 2
+trouble: 2
+cohesion: 1
+dominion: 0
 interest:
   makita: 
-  haruna: 
+  haruna: -6
+  tharsisMining:
+  ico:
+  lebkuchen:
+  bookSky:
 tags: 
+
+statblock: yes
+layout: Terra Campaigns Factions v01
+
+goal: nonono
+
+stats:
+- cunning: 2
+- force: 3
+- wealth: 1
+- magic: None
+- income: 
+
+ac: 
+hp: 
+
+traits:
+- name: 
+  desc: ""
+
+assets:
+- name: Headquarters (BoI)
+  desc: ""
 ---
 
-# Lebkuchen
+# Lebkuchen Defiance
+
+> [!success] Features
+> - ...
+
+> [!failure] Troubles
+> - ...
+
+> [!example] Goals
+> - [ ] ...
+
+> [!info] Background
+> ...
+
+> [!warning] Parent MegaCorp
+> ...
+
+
 
 - **Features**
 	- ...
