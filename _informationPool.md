@@ -22,9 +22,9 @@
 
 - [ ] A tablet was found in the first tomb, within the sepulchre, which gave the astronomic coordinates of more of the well hidden “sky tombs”.
 - [ ] Pilgrimages to Hard Light in order to plunder these ancient tombs.
-- [ ] More than one team of explorers has been lost forever in the depths of a sky tomb, and there are persistent tales of pirates and worse lairing in the pressurized safety of a looted tomb
 - [ ] A few of the ancient rocks are known to be inhabited by hermits or small, reclusive communities that care little for outsiders. They do minimal trade with Brightside Station for the necessities they require.
-- [ ] The sky tombs resemble the architecture of the ruins found a hundred years ago
-- [ ] Alien race are the ancestors of the Ngar'tho
+- [ ] Alien race are the ancestors of the [ngar-tho](../_gm/statblocks/ngar-tho.md)
 
+## Rest of sector
 
+- [ ] The Boxer's crew assassinated informants of ICO in The Salomons - and this has pissed of many supporters of the ICO.
