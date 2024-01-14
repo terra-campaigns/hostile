@@ -1,6 +1,6 @@
 
 ```dataview
-table without ID link(file.link, name) AS "name", game_date AS "date", pcs, levels, meta.sector as "sector", meta.system as "system", meta.world as "world", meta.location as "location"
+table without ID link(file.link, name) AS "name", game_date AS "date", pcs, levels, heat, meta.sector as "sector", meta.system as "system", meta.world as "world", meta.location as "location"
 from "hostile/chapters"
 sort file.name asc
 ```

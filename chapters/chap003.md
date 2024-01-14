@@ -1,18 +1,18 @@
 ---
-name: The ICO?
+name: The Boxer
 game_date: 2225-11-04
 pcs: Olaf, Oni, Dirk, Sabaka, Oliver
 levels: 5
+heat: 1
 
 meta:
   category: chapter
   campaign: Hostile
   sector: "[Near Earth Zone](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe)"
-  system: 'Teegarden Star'
-  world: 
-  realm: 
-  region: 
-  location: ""
+  system: '[Teegarden Star](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/EK7eZhRuSaUmzSTEwm7a) and [Perdurabo](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/PWrHAjd6P64k61Ga1PfQ)'
+  world: "[Defiance](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/planet/UBzrpfVGWXxJZq6C9ndC) and Deep Space"
+  region: "Defiance: The Terminator"
+  location: "Defiance: Tharsis Estate"
 tags: 
 ---
 
@@ -42,6 +42,7 @@ tags:
 > - [**Oliver**](../pcs/Oliver.md): Have a life outside earth
 
 > [!warning] Intro
+> - Abridged [link](https://github.com/efsalvarenga/terraCampaigns_published/blob/main/hostile/abridged.md#chapter-02-the-cold-tomb)
 > - One final Mental Save for the mRNA
 > - Ship rules: spike drive, scan, chase, combat
 > - GM, remember that **Space is Hostile**.
@@ -53,15 +54,8 @@ Spike drill to Teegarden and then...
 **Arrival in Teegarden System (World: [Defiance](../locations/Defiance.md))**
 - [tharsisMining](../factions/tharsisMining.md) expects the Doomborgs, they received the recording of the meeting one day before their arrival. They will be scanning the entrance of the system.
 - [tharsisMining](../factions/tharsisMining.md) will organise a shuttle to take the corpse to a large transport to Earth (in secret). They will read the coordinates of the Cold Tomb from the [Frostbreaker](../objects/Frostbreaker.md) computer - and send [TheBoxer](../npcs/TheBoxer.md) from [TheSolomons](../locations/TheSolomons.md) directly to Perdurabo for the [ColdTomb](../locations/ColdTomb.md). **The crew will be paid well for the corpse and large sums of bonus for expediting the mining.**
-- [ico](../factions/ico.md) would want to have the corpse too, and can promise protection. But they are unaware of it for now.
-- Only factions aware of the corpse would (now) chase the PCs
-- The best way to offload the corpse to another faction that is not Tharsis is to do so on the refueling station Sucre
 
 > [!example] Situations 
-
-**Research on the alien language filmed.**
-- Some lore from Hard Light
-- The brain species (Traktorians) was enslaved by a belligerent species (Metalians)
 
 **The Boxer in the Cold Tomb**
 - [TheBoxer](../npcs/TheBoxer.md) and his crew arrive in the [ColdTomb](../locations/ColdTomb.md) 10 days after being notified by [JohnMcLeod](../npcs/JohnMcLeod.md).
@@ -73,8 +67,6 @@ Spike drill to Teegarden and then...
 
 **Continue mining, but much faster now.**
 - Need to map the ice and conclude the work **urgently** and **stealthily**.
-
-**Get info Dutta down** if the mRNA mapping is successful.
 
 **Encounter generator table**
 
