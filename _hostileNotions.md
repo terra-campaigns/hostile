@@ -6,24 +6,23 @@ kanban-plugin: basic
 
 ## Inbox
 
-- [ ] Chap 1 and 2 are mostly non horror, to set the normality feeling of space first
-- [ ] Enforce the isolation of space, espacially with vac suits
-- [ ] Add notes for things in the PCs past
-- [ ] Lebkuchen is aware the PCs have stopped a initiative in French Guiana, and someone arrives in Brightside after 2225-12-01
+- [ ] Evourec is alien 120
+- [ ] The perfected: https://www.google.com/search?client=ms-android-google&sca_esv=600476754&sxsrf=ACQVn0-lFzcAf5xkHc3NPIHV8GbwKskuMQ:1705958146411&q=H.+R.+Giger+Li&tbm=isch&source=lnms&prmd=ivnmbtz&sa=X&ved=2ahUKEwjo5MWq9fGDAxVW1AIHHbP6Cq4Q0pQJegQIDhAB&biw=485&bih=916&dpr=2.98#imgrc=C83VBpi5IFdnJM&imgdii=TRw0XrI__uM0nM
+- [ ] The guy that had the eyes stolen searches for the Doomborgs
 
 
 ## opportunityAttack
 
-- [ ] Prepare factions
-- [ ] 2 intelligent alien species: Ngar'tho+another one (no gods)
-- [ ] Implement heat for hostile
 
 
 ## snoozed
 
-- [ ] Ngar'tho are a Metadimensional anomaly
 - [ ] RNA is a virus that will infect all human networks for knowledge
 - [ ] Book of sky as a cult, after playing dead planet. Check shadows in the sky SL178
+- [ ] Add notes for things in the PCs past - when drained of sandbox ideas
+- [ ] Lebkuchen is aware the PCs have stopped a initiative in French Guiana, and someone arrives in Brightside after 2225-12-01. From there, every session, another interested faction traces the PCs
+- [ ] Alien from Olaf and Sabaka story are Metalianos
+- [ ] Maintenance pay for cyber from 2226-Nov?
 
 
 ## parkingLot
@@ -48,6 +47,20 @@ kanban-plugin: basic
 - [ ] What is novium used for, what is the RNA useful for?
 - [ ] Add PCs background to abrigded (hostile)
 - [ ] Add cy_borg NPC tables to generator
+- [ ] Chap 1 and 2 are mostly non horror, to set the normality feeling of space first
+- [ ] Enforce the isolation of space, espacially with vac suits
+- [ ] Implement heat for hostile
+- [ ] Ngar'tho are a Metadimensional anomaly
+- [ ] Meet the BOXER in Teegarden
+- [ ] Import other systems from JSON, keeping existing data
+- [ ] Ico will try to get the corpse, and then kill the PCs. Tharsis the same, but through the ICO.
+- [ ] John will ask PCs to mine as much as possible mRNA before perdurabo is controlled by the ICO (faction turn)
+- [ ] Corpse found is a chicktick (traktoriano) that infected and enslaved a species
+- [ ] [ico](../factions/ico.md) would want to have the corpse too, and can promise protection. But they are unaware of it for now.<br>- Only factions aware of the corpse would (now) chase the PCs
+- [ ] A Vampire-themed Nightclub Gang for your Cities<br><br>I was putting together materials for an upcoming CWN game, wherein the (low level) players need to find a client's missing daughter, who upon investigation appears to have an obsession with vampires.<br><br>As part of it, I put together a little gang for the girl to have fallen into, and I thought I'd share in case anyone needed a themed gang for one of their games.  You can call them and their leader whatever you like in your game.  :)   Hopefully somebody can find some use in them.<br><br>Leader: A depressive "byronic man" cybered up to mimic the abilities of a master vampire<br><br>Organization: A circle of cybered "vampires" who serve under the leader, and direct the gang's foot soldiers, called "thralls"<br><br>Recruitment: "Thralls" drawn from all walks of life, focusing on people with interest in the supernatural and occult, or just partying.  Thralls who prove themselves can "ascend"- in ceremony of drinking a chalice of the leader's blood, laced with powerful sedatives.  While out, they undergo cyber implantation and awake a "vampire".<br><br>HQ: A condemned church converted into a night club<br><br>Activities: Manufacturing and distribution of narcotics, Human trafficking, and a Night-time themed protection racket<br><br>Stat Blocks:<br><br>“Vampire” Leader<br><br>Cyberware: Assisted Glide System (glide from high points, 30m move) Body Blades I (1d8 dmg, 2/15 shock, 1d8/x3 trauma) Coordination Augment I (+1 to dex-based stats) Cybereyes (pair, flash protected) Eye mod/Imposter (mimic retinal patterns) Eye mod/Infrared vision (see heat patterns in area) Dermal Armor I (AC 16, +1 TT) Enhanced Reflexes II (1/scene, bonus main and move instant action) Skinmod (vampire traits)<br><br>Edges: Ghost (pg 16)<br><br>HD: 5 (30 hp) AC: 17r/17m TT: 7+ Skill: +2 (+3 dex-based) Save: 13+ (12+ evasion) Attacks: Body Blades I (+8, 1d8+1 dmg, 2/15 shock, 1d8/x3 trauma) Advanced (Cross)Bow (+8, 1d8+1 dmg, 1d8+1/x3 trauma, mag 1) Move: 10m<br><br>“Vampires”<br><br>Cyberware: Body Blades I (1d8 dmg, 2/15 shock, 1d8/x3 trauma) Coordination Augment I (+1 to dex-based stats) Cybereyes (pair, flash protected) Eye mod/Imposter (mimic retinal patterns) Eye mod/Infrared vision (see heat patterns in area) Skinmod (vampire traits)<br><br>HD: 1 (5 hp+3) AC: 14r/13m (street leathers) TT: 6+ Skill: +1 (+2 dex-based) Save: 15+ (14+ evasion) Attacks: Body Blades I (+3, 1d8+1 dmg, 2/15 shock, 1d8/x3 trauma) Move: 10m<br><br>“Thralls”<br><br>HD: 1 (5 hp) AC: 10r/10m TT: 6+ Skill: +1 Save: 15+ Attacks (pick one): Knife (+1, 1d4 dmg, 2/15 shock, 1d6/x3 trauma) Club (+1, 1d4 dmg, 1/18 shock, non-lethal) Light Pistol (+1, 1d6 dmg, 1d8/x2 trauma, mag 15) Move: 10m
+- [ ] Crab is the popper from alien book
+- [ ] Prepare factions
+- [ ] 2 intelligent alien species: Ngar'tho+another one (no gods)
 
 %% kanban:settings
 ```

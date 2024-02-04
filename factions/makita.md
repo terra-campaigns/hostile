@@ -1,7 +1,7 @@
 ---
 name: Makita Genetics Solomons
 id: 01
-power: 2
+power: d8
 features: 1
 trouble: 3
 cohesion: 2
@@ -19,6 +19,7 @@ meta:
   campaign: Hostile
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
   parent: Wu-Ketai
+  die: Dark blue d8
 tags: 
 
 statblock: yes

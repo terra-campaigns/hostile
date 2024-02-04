@@ -1,7 +1,7 @@
 ---
 name: ICO American Sector
 id: 04
-power: 4
+power: d12
 features: 3
 trouble: 2
 cohesion: 3
@@ -19,6 +19,7 @@ meta:
   campaign: Hostile
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
   parent: ICO Terran Mandate
+  die: Light-blue d12
 tags:  
 
 statblock: yes

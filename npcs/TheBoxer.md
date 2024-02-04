@@ -63,11 +63,12 @@ roleplay:
 npc_link: '[TheBoxer](TheBoxer.md)'
 ---
 
-![](https://i.imgur.com/MRCZWpX.png)
+![](https://i.imgur.com/G8qPDTT.png)
+
 
 ## Background
 - ...
 
 ## Key info and notes
-- ...
+- [MadSpark](../pcs/MadSpark.md) exploded his Ship and killed his crew!
 

@@ -7,7 +7,7 @@ continent:
 region:  
 megacorp: 
 campaign: Hostile
-power: 1
+power: d6
 features: 2
 trouble: 2
 cohesion: 1
@@ -32,6 +32,13 @@ stats:
 - wealth: 1
 - magic: None
 - income: 
+
+meta:
+  category: faction
+  campaign: Hostile
+  sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
+  parent: 
+  die: Grey d6
 
 ac: 
 hp: 

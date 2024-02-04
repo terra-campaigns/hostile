@@ -7,7 +7,7 @@ continent:
 region:  
 megacorp: 
 campaign: Hostile
-power: 2
+power: d10
 features: 2
 trouble: 2
 cohesion: 2
@@ -25,6 +25,13 @@ statblock: yes
 layout: Terra Campaigns Factions v01
 
 goal: nonono
+
+meta:
+  category: faction
+  campaign: Hostile
+  sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
+  parent: 
+  die: Orange d10
 
 stats:
 - cunning: 4

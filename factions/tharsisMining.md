@@ -1,7 +1,7 @@
 ---
 name: Tharsis Mining American
 id: 03
-power: 4
+power: d12
 features: 3
 trouble: 3
 cohesion: 3
@@ -18,7 +18,8 @@ meta:
   category: faction
   campaign: Hostile
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
-  parent: Wu-Ketai
+  parent: Tharsis
+  die: Dark blue d12
 tags:  
 
 statblock: yes

@@ -1,7 +1,7 @@
 ---
 name: Haruna Biolabs Solomons
 id: 02
-power: 2
+power: d8
 features: 1
 trouble: 1
 cohesion: 2
@@ -19,6 +19,7 @@ meta:
   campaign: Hostile
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
   parent: Wu-Ketai
+  die: Pink d8
 tags: 
 
 statblock: yes

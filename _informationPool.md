@@ -28,3 +28,7 @@
 ## Rest of sector
 
 - [ ] The Boxer's crew assassinated informants of ICO in The Salomons - and this has pissed of many supporters of the ICO.
+- [ ] ***Chain reaction from Tharsis to Haruna, then to Makita, then to ICO.***
+	- [ ] Haruna figured out that the Doomborgs are working for Tharsis.
+	- [ ] In the process, Makita is also made aware because of the scientist in Perdurabo (information leaks)
+	- [ ] The ICO traces the presence of the Doomborgs in Teegarden Star, and now are interested in the Doomborgs as well.
