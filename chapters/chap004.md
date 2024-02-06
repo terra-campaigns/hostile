@@ -39,9 +39,9 @@ tags:
 > - [x] Update random encounter tables
 > - [ ] Print information pool (applicable parts)
 
-> [!abstract] Doomborgs crewmembers motivation
+> [!abstract] Doomborgs crew members motivation
 > - [**Olaf**](../pcs/Olaf.md): Make money and find advanced life
-> - [**Oni**](../pcs/Oni.md): Do something meaningful, that's helpful to societies that are underprivileged and exploited.
+> - [**Oni**](../pcs/Oni.md): Do something meaningful, that's helpful to societies that are underprivileged and exploited. Learn if the alien corpse found poses any threat to humanity.
 > - [**MadSpark**](../pcs/MadSpark.md): Make money and explode things
 > - [**Sabaka**](../pcs/Sabaka.md): Find proof of Aliens similar to the one that attacked their family
 > - [**Oliver**](../pcs/Oliver.md): Have a life outside earth
@@ -68,33 +68,57 @@ tags:
 
 > [!danger] Strong start
 
-- [TheBoxer](../npcs/TheBoxer.md) is pissed off but also afraid: *Were them send by the [ico](../factions/ico.md)? Are they here to kill us?! Who sent you? Who fucking sent you??!!*
+- [TheBoxer](../npcs/TheBoxer.md) is **pissed off but also afraid**: *Were them send by the [ico](../factions/ico.md)? Are they here to kill us?! Who sent you? Who fucking sent you??!!*
 - The Boxer takes [Sabaka](../pcs/Sabaka.md) hostage. Sabaka faints and is unconscious.
-- You will steal me another ship! (Players have to figure out how to find one to steal)
+- The Leadbelly is my ship for now.
+- **You will steal me another ship!** There is one drifting for years around Sirius that probably none have captured the distress signal.
 
 > [!example] Situations 
 
 **[Popper](../../_gm/statblocks/Popper.md) continue to propagate through the Frostbreaker.**
+- **Objective**: Fright and show that the ship is still inhabited (eggs lived the flushing)
 
 **Research on the alien language filmed.**
-- Some lore from Hard Light
-- The brain species ([TraktorianoPerdurabo](../../_gm/statblocks/TraktorianoPerdurabo.md)) was enslaved by a belligerent species ([Metaliano XX121](../../_gm/statblocks/Metaliano%20XX121.md))
-- The corpse found is a Traktoriano that took over another intelligent species
+- **Objective**: Gain knowledge
+- **3/5**: view of a space suit camera through icy water
+- **2+**:
+	- Bas relief is ritualistic in nature
+	- some parts of the insectoids seem to had metal covering, but that has long rusted and is mostly gone
+- **3x3**:
+	- Brain ([TraktorianoPerdurabo](../../_gm/statblocks/TraktorianoPerdurabo.md)) species can move between 2 bodies
+	- Insectoid ([Metaliano XX121](../../_gm/statblocks/Metaliano%20XX121.md)carry swords. Sometimes only their contour is depicted
+	- Insectoid were the slavers
+
+![](https://i.imgur.com/8Q6BYmV.png)
+
 
 **Continue mining, but much faster now.**
+- **Objective**: complete the contract 
 - Need to map the ice and conclude the work **urgently** and **stealthily**.
 - How can mining checks be easier (i.e. one single roll)
 - How will PCs continue to mine?
 
 **Get info [YashDutta](../npcs/YashDutta.md) down** if the mRNA mapping is successful.
+- **Objective**: Complete the contract
+
+**The Boxer attempts to kill MadSpark** 
+- **Objective**: Pay the price of actions.
 
 **Encounters**
 
-1. **Asteroid Field Drift:** The ship's navigation systems fail suddenly, leaving it drifting dangerously close to a dense asteroid field.
-2. **Solar Flare Surge:** An unexpected solar flare disrupts the ship's electrical systems, causing critical systems to shut down temporarily.
-3. **Pirate Ambush in the Nebula:** While navigating through a nebula, the ship is ambushed by pirates hiding within the gas clouds, jamming communications and demanding surrender.
-4. **Hull Breach from Space Debris:** High-speed space debris from an old satellite collision punctures the hull, causing a rapid decompression in one of the living quarters.
-5. **Alien Parasite Infestation:** The crew discovers an alien parasite [Popper](../../_gm/statblocks/Popper.md) aboard the ship, which begins to interfere with the electrical systems and crew health, spreading through the ventilation system.
+| Type                  | Encounter                                                                                              | Hostility Level |
+| --------------------- | ------------------------------------------------------------------------------------------------------ | --------------- |
+| Ship Malfunction      | A critical life support system failure leaves the crew with limited oxygen.                            | High            |
+| Ship Malfunction      | The ship's artificial gravity system malfunctions, causing chaos and injury among the crew.            | Medium          |
+| Ship Malfunction      | Navigation systems glitch and send the ship off-course into uncharted territory.                       | Low             |
+| Environment Effect    | A solar storm disrupts all electronic devices, leaving the ship vulnerable and communications cut off. | High            |
+| Environment Effect    | The ship enters a magnetic anomaly, causing temporary loss of power to engines.                        | Medium          |
+| Environment Effect    | Encountering a field of space debris requires precise maneuvering to avoid damage.                     | Low             |
+| Non-Obvious Hostility | An alien AI subtly hijacks the ship's systems, attempting to take control.                             | High            |
+| Non-Obvious Hostility | A seemingly abandoned ship emits a distress signal, but it's a trap set by pirates.                    | Medium          |
+| Non-Obvious Hostility | A mysterious signal lures the ship towards a hidden space station with unclear intentions.             | Low             |
+|                       |                                                                                                        |                 |
+
 
 | id|prompt                  |
 |--:|:-----------------------|
