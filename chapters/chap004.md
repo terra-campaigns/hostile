@@ -94,8 +94,8 @@ tags:
 	- Bas relief is ritualistic in nature
 	- some parts of the insectoids seem to had metal covering, but that has long rusted and is mostly gone
 - **3x3**:
-	- Brain ([TraktorianoPerdurabo](../../_gm/statblocks/TraktorianoPerdurabo.md)) species can move between 2 bodies
-	- Insectoid ([Metaliano XX121](../../_gm/statblocks/Metaliano%20XX121.md)carry swords. Sometimes only their contour is depicted
+	- Brain ([TraktorianoHumanoid](../statblocks/TraktorianoHumanoid.md)) species can move between 2 bodies
+	- Insectoid ([MetalianoXX121](../statblocks/MetalianoXX121.md)) carry swords. Sometimes only their contour is depicted
 	- Insectoid were the slavers
 
 ![](https://i.imgur.com/8Q6BYmV.png)
