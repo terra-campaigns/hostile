@@ -1,8 +1,8 @@
 ---
-name: name
+name: The Boxer
 game_date: 2225-11-23
-pcs: Olaf, Oni, Dirk, Sabaka, Oliver
-levels: 5
+pcs: Olaf, Oni, Dirk, Oliver
+levels: 8
 heat: 4
 
 meta:
@@ -17,7 +17,7 @@ meta:
 tags: 
 ---
 
-> [!todo]- Planning checklist
+> [!todo]- Planning checklist & tracker
 > - [x] Abridge previous chapter and distribute XP
 > - [x] Commit next chapter draft and check metadata
 > - [x] Clean up previous chapter files, update tags and name, make final commit
@@ -38,6 +38,13 @@ tags:
 > - [x] Update graph view
 > - [x] Update random encounter tables
 > - [ ] Print information pool (applicable parts)
+> 
+>> [!done]- Tracker 
+>> ```dataview
+>> table without ID link(file.link, name) AS "Chapter", game_date AS "Date", pcs as "PCs", levels as "Rank", meta.sector as "Sector", meta.system as "System", meta.world as "World", meta.location as "Location"
+>> from "hostile/chapters"
+>> sort file.name asc
+>> ```
 
 > [!abstract] Doomborgs crew members motivation
 > - [**Olaf**](../pcs/Olaf.md): Make money and find advanced life
@@ -73,6 +80,8 @@ tags:
 - The Leadbelly is my ship for now.
 - **You will steal me another ship!** There is one drifting for years around Sirius that probably none have captured the distress signal.
 
+![](https://i.imgur.com/G8qPDTT.png)
+
 > [!example] Situations 
 
 **[Popper](../../_gm/statblocks/Popper.md) continue to propagate through the Frostbreaker.**
@@ -106,19 +115,17 @@ tags:
 
 **Encounters**
 
-| Type                  | Encounter                                                                                              | Hostility Level |
-| --------------------- | ------------------------------------------------------------------------------------------------------ | --------------- |
-| Ship Malfunction      | A critical life support system failure leaves the crew with limited oxygen.                            | High            |
-| Ship Malfunction      | The ship's artificial gravity system malfunctions, causing chaos and injury among the crew.            | Medium          |
-| Ship Malfunction      | Navigation systems glitch and send the ship off-course into uncharted territory.                       | Low             |
-| Environment Effect    | A solar storm disrupts all electronic devices, leaving the ship vulnerable and communications cut off. | High            |
-| Environment Effect    | The ship enters a magnetic anomaly, causing temporary loss of power to engines.                        | Medium          |
-| Environment Effect    | Encountering a field of space debris requires precise maneuvering to avoid damage.                     | Low             |
-| Non-Obvious Hostility | An alien AI subtly hijacks the ship's systems, attempting to take control.                             | High            |
-| Non-Obvious Hostility | A seemingly abandoned ship emits a distress signal, but it's a trap set by pirates.                    | Medium          |
-| Non-Obvious Hostility | A mysterious signal lures the ship towards a hidden space station with unclear intentions.             | Low             |
-|                       |                                                                                                        |                 |
-
+| Type | Encounter | Hostility Level |
+| ---- | ---- | ---- |
+| Ship Malfunction | A critical life support system failure leaves the crew with limited oxygen. | High |
+| Ship Malfunction | The ship's artificial gravity system malfunctions, causing chaos and injury among the crew. | Medium |
+| Ship Malfunction | Navigation systems glitch and send the ship off-course into uncharted territory. | Low |
+| Environment Effect | A solar storm disrupts all electronic devices, leaving the ship vulnerable and communications cut off. | High |
+| Environment Effect | The ship enters a magnetic anomaly, causing temporary loss of power to engines. | Medium |
+| Environment Effect | Encountering a field of space debris requires precise maneuvering to avoid damage. | Low |
+| Non-Obvious Hostility | An alien AI subtly hijacks the ship's systems, attempting to take control. | High |
+| Non-Obvious Hostility | A seemingly abandoned ship emits a distress signal, but it's a trap set by pirates. | Medium |
+| Non-Obvious Hostility | A mysterious signal lures the ship towards a hidden space station with unclear intentions. | Low |
 
 | id|prompt                  |
 |--:|:-----------------------|

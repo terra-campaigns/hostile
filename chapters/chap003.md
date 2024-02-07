@@ -1,5 +1,5 @@
 ---
-name: The Boxer
+name: Defiance and Back
 game_date: 2225-11-04
 pcs: Olaf, Oni, Dirk, Sabaka, Oliver
 levels: 5
