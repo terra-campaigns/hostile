@@ -140,7 +140,7 @@ tags:
 | 10|`encounter: 4 l0h0e0w0` |
 
 > [!info]- Information pool
-> ![_informationPool](../_informationPool.md)
+> ![_hostileInformationPool](../_hostileInformationPool.md)
 
 > [!tip] Interaction table 
 > 

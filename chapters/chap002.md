@@ -105,7 +105,7 @@ Going to the [ColdTomb](../locations/ColdTomb.md)
 | 10|         19|many      |Ship Malfunction - Water recycling Mechanical                             |
 
 > [!info]- Information pool
-> ![_informationPool](../_informationPool.md)
+> ![_hostileInformationPool](../_hostileInformationPool.md)
 
 > [!tip] Interaction table 
 > 

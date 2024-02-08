@@ -83,7 +83,7 @@ Spike drill to Teegarden and then...
 |  9|     8|Ship Malfunction - Sensor hardware failure Electronics and Comms            |        1|    1|    6|
 
 > [!info]- Information pool
-> ![_informationPool](../_informationPool.md)
+> ![_hostileInformationPool](../_hostileInformationPool.md)
 
 > [!tip] Interaction table 
 > 

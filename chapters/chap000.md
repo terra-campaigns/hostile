@@ -98,7 +98,7 @@ meta:
 
 ## Information pool
 
-[_informationPool](hostile/_informationPool.md)
+[_hostileInformationPool](../_hostileInformationPool.md)
 
 
 ## Locations

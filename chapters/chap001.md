@@ -74,7 +74,7 @@ tags:
 ![Frostbreaker](../objects/Frostbreaker.md)
 
 > [!info]- Information pool
-> ![_informationPool](../_informationPool.md)
+> ![_hostileInformationPool](../_hostileInformationPool.md)
 
 > [!tip] Interaction table 
 > 
