@@ -77,8 +77,6 @@ Going to the [ColdTomb](../locations/ColdTomb.md)
 **Ice/RNA Mining**
 - RNA, if inhaled, make a mental save per hour. Failure gains 1 SS.
 
-[Mining](../../_gm/_deprecated/moves/README.md#Mining)
-
 ![|400](https://imgur.com/swvqhSV.png)
 
 > [!bug] Progress clocks

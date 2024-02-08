@@ -1,7 +1,7 @@
 ---
 name: The Boxer
 game_date: 2225-11-23
-pcs: Olaf, Oni, Dirk, Oliver
+pcs: "[Olaf](../pcs/Olaf.md), [Oni](../pcs/Oni.md), [MadSpark](../pcs/MadSpark.md), [Oliver](../pcs/Oliver.md)"
 levels: 8
 heat: 4
 
@@ -39,7 +39,7 @@ tags:
 > - [x] Update random encounter tables
 > - [ ] Print information pool (applicable parts)
 > 
->> [!done]- Tracker 
+>> [!done] Tracker 
 >> ```dataview
 >> table without ID link(file.link, name) AS "Chapter", game_date AS "Date", pcs as "PCs", levels as "Rank", meta.sector as "Sector", meta.system as "System", meta.world as "World", meta.location as "Location"
 >> from "hostile/chapters"
@@ -47,15 +47,15 @@ tags:
 >> ```
 
 > [!abstract] Doomborgs crew members motivation
-> - [**Olaf**](../pcs/Olaf.md): Make money and find advanced life
-> - [**Oni**](../pcs/Oni.md): Do something meaningful, that's helpful to societies that are underprivileged and exploited. Learn if the alien corpse found poses any threat to humanity.
-> - [**MadSpark**](../pcs/MadSpark.md): Make money and explode things
-> - [**Sabaka**](../pcs/Sabaka.md): Find proof of Aliens similar to the one that attacked their family
-> - [**Oliver**](../pcs/Oliver.md): Have a life outside earth
+> - **Olaf**: Make money and find advanced life
+> - **Oni**: Do something meaningful, that's helpful to societies that are underprivileged and exploited. Learn if the alien corpse found poses any threat to humanity.
+> - **MadSpark**: Make money and explode things
+> - **Sabaka**: Find proof of Aliens similar to the one that attacked their family
+> - **Oliver**: Have a life outside earth
 
 > [!quote]- Factions 
 > ```dataview
-> table without ID link(file.link, name) AS "Faction", meta.die as "Die"
+> table without ID link(file.link, name) AS "Faction", stats[0].cunning + stats[1].force + stats[2].wealth as "Level", meta.die as "Die", stats[0].cunning as "C", stats[1].force as "F", stats[2].wealth as "W"
 > from "hostile/factions"
 > WHERE contains(meta.category, "faction")=true
 > sort id asc
@@ -84,7 +84,7 @@ tags:
 
 > [!example] Situations 
 
-**[Popper](../../_gm/statblocks/Popper.md) continue to propagate through the Frostbreaker.**
+**[PopperSwarm](../statblocks/PopperSwarm.md) continue to propagate through the Frostbreaker.**
 - **Objective**: Fright and show that the ship is still inhabited (eggs lived the flushing)
 
 **Research on the alien language filmed.**
@@ -113,19 +113,18 @@ tags:
 **The Boxer attempts to kill MadSpark** 
 - **Objective**: Pay the price of actions.
 
-**Encounters**
+> [!bug] Random encounters
 
-| Type | Encounter | Hostility Level |
-| ---- | ---- | ---- |
-| Ship Malfunction | A critical life support system failure leaves the crew with limited oxygen. | High |
-| Ship Malfunction | The ship's artificial gravity system malfunctions, causing chaos and injury among the crew. | Medium |
-| Ship Malfunction | Navigation systems glitch and send the ship off-course into uncharted territory. | Low |
-| Environment Effect | A solar storm disrupts all electronic devices, leaving the ship vulnerable and communications cut off. | High |
-| Environment Effect | The ship enters a magnetic anomaly, causing temporary loss of power to engines. | Medium |
-| Environment Effect | Encountering a field of space debris requires precise maneuvering to avoid damage. | Low |
-| Non-Obvious Hostility | An alien AI subtly hijacks the ship's systems, attempting to take control. | High |
-| Non-Obvious Hostility | A seemingly abandoned ship emits a distress signal, but it's a trap set by pirates. | Medium |
-| Non-Obvious Hostility | A mysterious signal lures the ship towards a hidden space station with unclear intentions. | Low |
+1. **Malfunctioning Airlock** (Ship Malfunction): The ship's primary airlock randomly opens and closes due to a faulty circuit, risking decompression.
+2. **Derelict Research Vessel** (Other Spaceships): A seemingly abandoned research vessel emits a distress signal, hiding secrets and potential danger.
+3. **Black Market Deal Gone Wrong** (Humans in Starports): A routine supply run at a remote starport turns tense when a black market deal nearby goes south.
+4. **Colony Under Siege** (Space Colony): A mining colony on a nearby moon sends out a distress call, under attack by unknown forces.
+5. **Nest of Space Leeches** (Alien Creatures): While refueling near a gas giant, the ship becomes infested with space leeches that drain power from the hull.
+6. **Meteor Shower** (Panic Events): A sudden meteor shower forces the crew to navigate through perilous debris or take significant hull damage.
+7. **Solar Flare Surge** (Environment Effects): A powerful solar flare from the red giant star disrupts electronic systems and increases radiation levels.
+8. **Emergency Drill Confusion** (Starship Training Drill Alarm): A routine emergency drill causes confusion and panic when it's mistakenly believed to be a real emergency.
+9. **Ghost Ship Encounter** (Non-Obvious Space Hostility): The crew encounters a ship that appears and disappears erratically, hinting at possible cloaking technology or supernatural phenomena.
+10. **Oxygen Garden Sabotage** (Ship Malfunction): The ship's oxygen garden starts failing after a crew member discovers signs of sabotage, threatening life support.
 
 | id|prompt                  |
 |--:|:-----------------------|

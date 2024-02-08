@@ -22,7 +22,7 @@ tags:
 
 ## 4
 
-Bodies of ancestors of the [ngar-tho](../../_gm/statblocks/ngar-tho.md)
+Bodies of ancestors of the [ngar-tho](../../arrival/statblocks/ngar-tho.md)
 
 ![|400](https://i.imgur.com/9bNAri9.png)
 

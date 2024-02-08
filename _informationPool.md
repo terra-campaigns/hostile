@@ -23,7 +23,7 @@
 - [ ] A tablet was found in the first tomb, within the sepulchre, which gave the astronomic coordinates of more of the well hidden “sky tombs”.
 - [ ] Pilgrimages to Hard Light in order to plunder these ancient tombs.
 - [ ] A few of the ancient rocks are known to be inhabited by hermits or small, reclusive communities that care little for outsiders. They do minimal trade with Brightside Station for the necessities they require.
-- [ ] Alien race are the ancestors of the [ngar-tho](../_gm/statblocks/ngar-tho.md)
+- [ ] Alien race are the ancestors of the [ngar-tho](../arrival/statblocks/ngar-tho.md)
 
 ## Rest of sector
 
