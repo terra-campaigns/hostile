@@ -16,17 +16,6 @@ stats:
 
 # Haruna Biolabs Solomons
 
-> [!success] Features
-> - **Wealth 1:** Harversters (WvW) in Perdurabo
-> - **Wealth 1:** Local investments (WvW) in Perdurabo
-
-> [!failure] Troubles
-> - Brightside station, where Novium is mined for the SMU, is caught in a petty scheme
-
-> [!example] Goals
-> - [ ] **Wealth 4 asset:** Monopoly - Find another source of Novium in NEZ (cost 8).
-
- 
 ![|200](https://i.imgur.com/YPhNpQn.png)
 
 This corporation deals in medical services, drugs and genetic treatments. Haruna previously did some bio-weapons designs for the Japanese Self Defence Force but this was stopped when the viral agent Delta-2 contaminated food supplies, water and some areas back in the early 23rd century. Many deaths ensued, but no-one was ever certain who was actually responsible. The government blamed a radical terrorist group called the Imperial Restoration League. **Haruna, for its part, suspects Makita Genetics of trying (in vain) to discredit Haruna and win the military contract for itself. In mutual fear, both corporations are at virtual full-scale war.** The people of Tokyo and the Asia Pacific Partnership are bracing themselves for further violence. Haruna’s network of clinics and hospitals are run by a subsidiary called Life Corp.
