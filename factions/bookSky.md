@@ -1,55 +1,17 @@
 ---
-type: faction
 name: Book of the Sky Solomons
-id: 06
-world: Terra
-continent: 
-region:  
-megacorp: 
-campaign: Hostile
-power: d10
-features: 2
-trouble: 2
-cohesion: 2
-dominion: 0
-interest:
-  makita: -5
-  haruna: -1
-  tharsisMining: -1
-  ico: -1
-  lebkuchen:
-  bookSky:
-tags: 
-
-statblock: yes
-layout: Terra Campaigns Factions v01
-
-goal: nonono
 
 meta:
   category: faction
   campaign: Hostile
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
   parent: 
-  die: Orange d10
+  die: Orange
 
 stats:
-- cunning: 4
-- force: 2
-- wealth: 3
-- magic: None
-- income: 
-
-ac: 
-hp: 
-
-traits:
-- name: 
-  desc: ""
-
-assets:
-- name: Headquarters (BoI)
-  desc: ""
+- cunning: 5
+- force: 3
+- wealth: 4
 ---
 
 # Book of the Sky Solomons

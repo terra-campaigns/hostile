@@ -1,49 +1,17 @@
 ---
 name: Haruna Biolabs Solomons
-id: 02
-power: d8
-features: 1
-trouble: 1
-cohesion: 2
-dominion: 0
-interest:
-  makita: -8
-  haruna: 
-  tharsisMining:
-  ico:
-  lebkuchen: -6
-  bookSky:
 
 meta:
   category: faction
   campaign: Hostile
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
   parent: Wu-Ketai
-  die: Pink d8
-tags: 
-
-statblock: yes
-layout: Terra Campaigns Factions v01
-
-goal: nonono
+  die: Pink
 
 stats:
-- cunning: 4
-- force: 1
-- wealth: 4
-- magic: None
-- income: 
-
-ac: 
-hp: 
-
-traits:
-- name: 
-  desc: ""
-
-assets:
-- name: Headquarters (BoI)
-  desc: ""
+- cunning: 5
+- force: 2
+- wealth: 5
 ---
 
 # Haruna Biolabs Solomons

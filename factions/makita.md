@@ -1,49 +1,17 @@
 ---
 name: Makita Genetics Solomons
-id: 01
-power: d8
-features: 1
-trouble: 3
-cohesion: 2
-dominion: 0
-interest:
-  makita: 
-  haruna: -8
-  tharsisMining:
-  ico:
-  lebkuchen:
-  bookSky: -2
 
 meta:
   category: faction
   campaign: Hostile
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
   parent: Wu-Ketai
-  die: Dark blue d8
-tags: 
-
-statblock: yes
-layout: Terra Campaigns Factions v01
-
-goal: nonono
+  die: Dark blue
 
 stats:
-- cunning: 3
-- force: 2
-- wealth: 4
-- magic: None
-- income: 
-
-ac: 
-hp: 
-
-traits:
-- name: 
-  desc: ""
-
-assets:
-- name: Headquarters (BoI)
-  desc: ""
+- cunning: 4
+- force: 3
+- wealth: 5
 ---
 
 # Makita Genetics  Solomons

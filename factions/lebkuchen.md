@@ -1,55 +1,17 @@
 ---
-type: faction
 name: Lebkuchen Defiance
-id: 05
-world: Terra
-continent: 
-region:  
-megacorp: 
-campaign: Hostile
-power: d6
-features: 2
-trouble: 2
-cohesion: 1
-dominion: 0
-interest:
-  makita: 
-  haruna: -6
-  tharsisMining:
-  ico:
-  lebkuchen:
-  bookSky:
-tags: 
-
-statblock: yes
-layout: Terra Campaigns Factions v01
-
-goal: nonono
-
-stats:
-- cunning: 2
-- force: 3
-- wealth: 1
-- magic: None
-- income: 
 
 meta:
   category: faction
   campaign: Hostile
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
   parent: 
-  die: Grey d6
+  die: Grey
 
-ac: 
-hp: 
-
-traits:
-- name: 
-  desc: ""
-
-assets:
-- name: Headquarters (BoI)
-  desc: ""
+stats:
+- cunning: 3
+- force: 4
+- wealth: 2
 ---
 
 # Lebkuchen Defiance

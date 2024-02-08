@@ -1,49 +1,17 @@
 ---
 name: ICO American Sector
-id: 04
-power: d12
-features: 3
-trouble: 2
-cohesion: 3
-dominion: 0
-interest:
-  makita: 
-  haruna: 
-  tharsisMining: -4
-  ico:
-  lebkuchen:
-  bookSky: -3
 
 meta:
   category: faction
   campaign: Hostile
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
   parent: ICO Terran Mandate
-  die: Light-blue d12
-tags:  
-
-statblock: yes
-layout: Terra Campaigns Factions v01
-
-goal: nonono
+  die: Light-blue
 
 stats:
-- cunning: 7
-- force: 5
-- wealth: 3
-- magic: None
-- income: 
-
-ac: 
-hp: 
-
-traits:
-- name: 
-  desc: ""
-
-assets:
-- name: Headquarters (BoI)
-  desc: ""
+- cunning: 8
+- force: 6
+- wealth: 4
 ---
 
 # Interstellar Commerce Organisation (ICO) American Sector
