@@ -22,21 +22,21 @@ tags:
 > - [x] Commit next chapter draft and check metadata
 > - [x] Clean up previous chapter files, update tags and name, make final commit
 > - [x] Update (battle)maps, if applicable
-> - [ ] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in the faction game or notion file
+> - [x] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in notion file
 > - [ ] Think about characters, write motivations & hooks
-> - [ ] Evaluate new game date
+> - [x] Evaluate new game date
 > - [ ] Review Abridged
-> - [ ] Evaluate Faction turn (if 3 weeks after the previous)
-> - [ ] Review and organise Notions
-> - [ ] Detail strong start
-> - [ ] Outline situations:
-> 	- [ ] Draft locations 
-> 	- [ ] Draft NPCs
+> - [x] Evaluate Faction turn (if 3 weeks after the previous)
+> - [x] Review and organise Notions
+> - [x] Detail strong start
+> - [x] Outline situations:
+> 	- [x] Draft locations 
+> 	- [x] Draft NPCs
 > 	- [ ] Prepare random encounters table
 > 	- [ ] Prepare Owlbear, if applicable
-> - [ ] Review and order/highlight information pool.
-> - [ ] Update graph view
-> - [ ] Update random encounter tables
+> - [x] Review and order/highlight information pool.
+> - [x] Update graph view
+> - [x] Update random encounter tables
 > - [ ] Print information pool (applicable parts)
 > 
 >> [!done] Tracker 
@@ -66,19 +66,33 @@ tags:
 > [!warning] Intro
 > - Previously: Abridged [link](https://github.com/efsalvarenga/terraCampaigns_published/blob/main/hostile/abridged.md#chapter-02-the-cold-tomb)
 > - 
-> - GM, remember that **Space is Hostile**.
+> - GM: remember that **Space is Hostile**.
 
 > [!danger] Strong start
 
-- Random encounter arriving in Teegarden 
-- Call from [JohnMcLeod](../npcs/JohnMcLeod.md)
+**Call from [JohnMcLeod](../npcs/JohnMcLeod.md)**
+- You missed the status report for last Saturday
+- What is the update on the contract?
+- Why the ship transponder if off?
 
 > [!example] Situations 
+
+**Fly stealthy into [Defiance](../locations/Defiance.md)** 
+- Takes 2 days (2 dice on tension pool)
+
+**Land on Defiance**
+
+![|400](https://i.imgur.com/xlfV2y5.png)
+
+- d8 difficulty (to determine weather and region for landing)
+- If they find it too difficult, and decide to wait, it takes 1d4 days for improving (add tension die), and then roll 2d6 and get the highest.
+- If they fail on the check, bring in the Popper swarm during landing!!
 
 **[PopperSwarm](../statblocks/PopperSwarm.md) continue to propagate through the Frostbreaker.**
 - **Objective**: Fright and show that the ship is still inhabited (eggs lived the flushing)
 
-Boxing match?
+**Boxing match and say farewell to the Boxer?**
+- [EnochMarshfield](../npcs/EnochMarshfield.md) is the farmer they will meet
 
 **Research on the alien language filmed.**
 - **Objective**: Gain knowledge
@@ -91,8 +105,7 @@ Boxing match?
 	- Insectoid ([MetalianoXX121](../statblocks/MetalianoXX121.md)) carry swords. Sometimes only their contour is depicted
 	- Insectoid were the slavers
 
-![](https://i.imgur.com/8Q6BYmV.png)
-
+![|400](https://i.imgur.com/8Q6BYmV.png)
 
 **Continue mining, but much faster now.**
 - **Objective**: complete the contract 
@@ -100,11 +113,13 @@ Boxing match?
 - How can mining checks be easier (i.e. one single roll)
 - How will PCs continue to mine?
 
+**If in Brightside now: Lebkuhen**
+- Lebkuchen is aware the PCs have stopped a initiative in French Guiana, and someone arrives in Brightside after 2225-12-01. From there, every session, another interested faction traces the PCs
+- [CassianVireo](../npcs/CassianVireo.md)
+- Carries a bomb.
+
 **Get info [YashDutta](../npcs/YashDutta.md) down** if the mRNA mapping is successful.
 - **Objective**: Complete the contract
-
-**The Boxer attempts to kill MadSpark** 
-- **Objective**: Pay the price of actions.
 
 > [!bug] Random encounters
 

@@ -75,6 +75,8 @@ roleplay:
   desc: 
 - name: Languages
   desc: 
+
+npc_link: 
 ---
 ```
 

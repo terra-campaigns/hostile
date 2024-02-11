@@ -1,11 +1,5 @@
 ## Highlights
 
-## Starbounder Frostbreaker
-
-- [ ] Starbounder Frostbreaker has been cleaned, but there are signs of blood and gore in corners
-- [ ] The ship was rescued by THE BOXER in a mercenary job. He was paid well. The deceased seemed to have suicided, and no hostile creatures were found in the ship.
-- [ ] THE BOXER tells people he went alone, but he actually sub-hired pirates for the mission.
-
 ## Brightside Station
 
 - [ ] Haruna's chairman (Tang)'s son (Gui) tried to steal operation money from the Matsuyama's bank 

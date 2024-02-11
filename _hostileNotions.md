@@ -8,7 +8,7 @@ kanban-plugin: basic
 
 - [ ] Evourec is alien 120
 - [ ] The perfected: https://www.google.com/search?client=ms-android-google&sca_esv=600476754&sxsrf=ACQVn0-lFzcAf5xkHc3NPIHV8GbwKskuMQ:1705958146411&q=H.+R.+Giger+Li&tbm=isch&source=lnms&prmd=ivnmbtz&sa=X&ved=2ahUKEwjo5MWq9fGDAxVW1AIHHbP6Cq4Q0pQJegQIDhAB&biw=485&bih=916&dpr=2.98#imgrc=C83VBpi5IFdnJM&imgdii=TRw0XrI__uM0nM
-- [ ] The guy that had the eyes stolen searches for the Doomborgs
+- [ ] Starts on next faction turn: Chain reaction from Tharsis to Haruna, then to Makita, then to ICO.
 
 
 ## opportunityAttack
@@ -19,10 +19,12 @@ kanban-plugin: basic
 
 - [ ] RNA is a virus that will infect all human networks for knowledge
 - [ ] Book of sky as a cult, after playing dead planet. Check shadows in the sky SL178
-- [ ] Add notes for things in the PCs past - when drained of sandbox ideas
 - [ ] Lebkuchen is aware the PCs have stopped a initiative in French Guiana, and someone arrives in Brightside after 2225-12-01. From there, every session, another interested faction traces the PCs
 - [ ] Alien from Olaf and Sabaka story are Metalianos
 - [ ] Maintenance pay for cyber from 2226-Nov?
+- [ ] The guy that had the eyes stolen searches for the Doomborgs
+- [ ] While deleting films that proof The Boxer is alive, some third level backup was missed.
+- [ ] Crew on Brightside knows that the Doomborgs were taking the pannels from the Frostbreaker. Maybe they know the reason, maybe they don't.
 
 
 ## parkingLot
@@ -61,6 +63,7 @@ kanban-plugin: basic
 - [ ] Crab is the popper from alien book
 - [ ] Prepare factions
 - [ ] 2 intelligent alien species: Ngar'tho+another one (no gods)
+- [ ] Add notes for things in the PCs past - when drained of sandbox ideas
 
 %% kanban:settings
 ```
