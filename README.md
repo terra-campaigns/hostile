@@ -47,7 +47,7 @@ When creating NPCs they should be generated with the following framework, as a s
 statblock: yes
 layout: Terra Campaigns Leiaute v04b
 template: Terra Campaigns 3-attribute NPC statblocks
-source: Arrival Oracle
+source: Hostile Oracle
 
 name: 
 concept: 

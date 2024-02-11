@@ -6,6 +6,7 @@ source: Hard Light
 
 name: Ranse Hardlee
 concept: Pilot of the Leadbelly
+status: Dead
 
 hp: '14'
 hit_dice: 3d8

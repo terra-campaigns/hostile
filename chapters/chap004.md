@@ -1,5 +1,5 @@
 ---
-name: The Boxer
+name: MadSpark perishes
 game_date: 2225-11-23
 pcs: "[Olaf](../pcs/Olaf.md), [Oni](../pcs/Oni.md), [MadSpark](../pcs/MadSpark.md), [Oliver](../pcs/Oliver.md)"
 levels: 8
@@ -10,7 +10,7 @@ meta:
   campaign: Hostile
   sector: "[Near Earth Zone](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe)"
   system: "[Perdurabo](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/PWrHAjd6P64k61Ga1PfQ)"
-  world: 
+  world: Deep Space
   realm: 
   region: 
   location: ""
@@ -73,71 +73,42 @@ tags:
 > - MadSpark exploded a ship and killed several people. How does this affect him?
 > - GM, remember that **Space is Hostile**.
 
-> [!danger] Strong start
+> [!example] Situations 
 
 - [TheBoxer](../npcs/TheBoxer.md) is **pissed off but also afraid**: *Were them send by the [ico](../factions/ico.md)? Are they here to kill us?! Who sent you? Who fucking sent you??!!*
-- The Boxer takes [Sabaka](../pcs/Sabaka.md) hostage. Sabaka faints and is unconscious.
-- The Leadbelly is my ship for now.
-- **You will steal me another ship!** There is one drifting for years around Sirius that probably none have captured the distress signal.
+- [TheBoxer](../npcs/TheBoxer.md) mentions he will kill [MadSpark](../pcs/MadSpark.md), but [Olaf](../pcs/Olaf.md) asks him not to take any actions
 
 ![](https://i.imgur.com/G8qPDTT.png)
 
-> [!example] Situations 
+- The Doomborgs count their numbers, after the explosion of the Brutomaker. It seems [Sabaka](../pcs/Sabaka.md) is missing in action.
+- Most of [TheBoxer](../npcs/TheBoxer.md) 's crew has also perished.
+- There is a high stakes discussion between [TheBoxer](../npcs/TheBoxer.md) and [Olaf](../pcs/Olaf.md), where the boxer agrees to stay in the Leadbelly while the Doomborgs discuss.
+- [Oni](../pcs/Oni.md) communicates with [Oliver Bennet](../pcs/Oliver.md) and [MadSpark](../pcs/MadSpark.md) who are on the [Frostbreaker](../objects/Frostbreaker.md), and agree on a debris-free area to dock both ships.
+- [MadSpark](../pcs/MadSpark.md) does a fearsome flyby with the [Frostbreaker](../objects/Frostbreaker.md), scaring Oliver Bennet.
+- [Olaf](../pcs/Olaf.md) and [Oni](../pcs/Oni.md) try to convince [MadSpark](../pcs/MadSpark.md) to retire from the crew, after the unfortunate actions of [MadSpark](../pcs/MadSpark.md). They propose tying up the engineer to guarantee everyone's safety.
+- Madspark does not agree, and runs and locks himself in the workshop.
+- Olaf, afraid of what could happen in the workshop makes a tough decision and commands all crew to go to the bridge, while he flushes the air from the ship.
+- [MadSpark](../pcs/MadSpark.md) perishes trying to escape though a ventilation shaft.
+- [Oliver](../pcs/Oliver.md) questions the leadership of Olaf: "Sir, I don't think you are leading us for the successful completion of our contract. Now we don't have all required skills in the crew. We need those skills - I could't care less for the human lives lost."
 
-**[PopperSwarm](../statblocks/PopperSwarm.md) continue to propagate through the Frostbreaker.**
-- **Objective**: Fright and show that the ship is still inhabited (eggs lived the flushing)
+![|400](https://i.imgur.com/ghsOnYr.png)
 
-**Research on the alien language filmed.**
-- **Objective**: Gain knowledge
-- **3/5**: view of a space suit camera through icy water
-- **2+**:
-	- Bas relief is ritualistic in nature
-	- some parts of the insectoids seem to had metal covering, but that has long rusted and is mostly gone
-- **3x3**:
-	- Brain ([TraktorianoHumanoid](../statblocks/TraktorianoHumanoid.md)) species can move between 2 bodies
-	- Insectoid ([MetalianoXX121](../statblocks/MetalianoXX121.md)) carry swords. Sometimes only their contour is depicted
-	- Insectoid were the slavers
+- Considering his remaining options, [TheBoxer](../npcs/TheBoxer.md) sees an opportunity to forge his own death and finally retire in a small farm in Defiance.
+- This setup is agreed with everyone, but it requires erasing the proofs of Boxer being alive - which includes killing the hostages from the Leadbelly.
+- The Boxer and Oliver coldly push [RanseHardlee](../npcs/RanseHardlee.md), [RandallBellows](../npcs/RandallBellows.md), [JaffaOkoye](../npcs/JaffaOkoye.md) from the airlock.
 
-![](https://i.imgur.com/8Q6BYmV.png)
+![](https://i.imgur.com/9GTszYL.png)
 
+![](https://i.imgur.com/pWh5JDL.png)
 
-**Continue mining, but much faster now.**
-- **Objective**: complete the contract 
-- Need to map the ice and conclude the work **urgently** and **stealthily**.
-- How can mining checks be easier (i.e. one single roll)
-- How will PCs continue to mine?
+![](https://i.imgur.com/Tsa2Km7.png)
 
-**Get info [YashDutta](../npcs/YashDutta.md) down** if the mRNA mapping is successful.
-- **Objective**: Complete the contract
-
-**The Boxer attempts to kill MadSpark** 
-- **Objective**: Pay the price of actions.
+- The Boxer parks the Leadbelly in a hidden coordinate in the asteroid field.
+- The crew takes the Frostbreaker to [BrightsideStation](../locations/BrightsideStation.md). An afraid [YashDutta](../npcs/YashDutta.md) greets them, and allow them to refuel, but not to enter the station.
+- [Oni](../pcs/Oni.md) skilfully uninstall the lead panels from the[Frostbreaker](../objects/Frostbreaker.md), so they can land the ship in [Defiance](../locations/Defiance.md) to drop the Boxer.
 
 > [!bug] Random encounters
 
-1. **Malfunctioning Airlock** (Ship Malfunction): The ship's primary airlock randomly opens and closes due to a faulty circuit, risking decompression.
-2. **Derelict Research Vessel** (Other Spaceships): A seemingly abandoned research vessel emits a distress signal, hiding secrets and potential danger.
-3. **Black Market Deal Gone Wrong** (Humans in Starports): A routine supply run at a remote starport turns tense when a black market deal nearby goes south.
-4. **Colony Under Siege** (Space Colony): A mining colony on a nearby moon sends out a distress call, under attack by unknown forces.
-5. **Nest of Space Leeches** (Alien Creatures): While refueling near a gas giant, the ship becomes infested with space leeches that drain power from the hull.
-6. **Meteor Shower** (Panic Events): A sudden meteor shower forces the crew to navigate through perilous debris or take significant hull damage.
-7. **Solar Flare Surge** (Environment Effects): A powerful solar flare from the red giant star disrupts electronic systems and increases radiation levels.
-8. **Emergency Drill Confusion** (Starship Training Drill Alarm): A routine emergency drill causes confusion and panic when it's mistakenly believed to be a real emergency.
-9. **Ghost Ship Encounter** (Non-Obvious Space Hostility): The crew encounters a ship that appears and disappears erratically, hinting at possible cloaking technology or supernatural phenomena.
-10. **Oxygen Garden Sabotage** (Ship Malfunction): The ship's oxygen garden starts failing after a crew member discovers signs of sabotage, threatening life support.
-
-| id|prompt                  |
-|--:|:-----------------------|
-|  1|`encounter: 3 l5h2e1w2` |
-|  2|`encounter: 2 l7h2e3w2` |
-|  3|`encounter: 4 l3h1e1w1` |
-|  4|`encounter: 5 l2h1e1w0` |
-|  5|`encounter: 5 l2h0e1w1` |
-|  6|`encounter: 2 l4h2e2w0` |
-|  7|`encounter: 4 l2h1e0w1` |
-|  8|Effect only             |
-|  9|`encounter: 6 l0h0e0w0` |
-| 10|`encounter: 4 l0h0e0w0` |
 
 > [!info]- Information pool
 > ![_hostileInformationPool](../_hostileInformationPool.md)

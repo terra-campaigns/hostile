@@ -6,6 +6,7 @@ source: Hard Ligth
 
 name: Jaffa Okoye
 concept: Technical Chief of Brightside Station
+status: Dead
 
 hp: '4'
 hit_dice: 1d6

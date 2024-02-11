@@ -75,5 +75,7 @@ His reputation as a reliable if not somewhat unpredictable, mercenary precedes h
 As he navigates the precarious world of space mercenary work, The Boxer stands at a crossroads between his turbulent present and the tranquil future he yearns for. Each mission for Tharsis Mining brings him closer to his dream, yet it also entangles him further in the very life he seeks to escape. The path to redemption and peace is fraught with the same dangers and decisions that have marked his life thus far, but The Boxer remains steadfast, driven by a foolhardy bravery and an earnest desire for change.
 
 ## Key info and notes
+
 - [MadSpark](../pcs/MadSpark.md) exploded his Ship and killed his crew!
+- 
 

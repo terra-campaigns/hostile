@@ -6,6 +6,7 @@ source: NPC Generator
 
 name: Randall Bellows
 concept: Prostitute working at the Clouds and Rain
+status: Dead
 
 hp: '9'
 hit_dice: 2d8
