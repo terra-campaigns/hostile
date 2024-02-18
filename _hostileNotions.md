@@ -9,6 +9,11 @@ kanban-plugin: basic
 - [ ] Evourec is alien 120
 - [ ] The perfected: https://www.google.com/search?client=ms-android-google&sca_esv=600476754&sxsrf=ACQVn0-lFzcAf5xkHc3NPIHV8GbwKskuMQ:1705958146411&q=H.+R.+Giger+Li&tbm=isch&source=lnms&prmd=ivnmbtz&sa=X&ved=2ahUKEwjo5MWq9fGDAxVW1AIHHbP6Cq4Q0pQJegQIDhAB&biw=485&bih=916&dpr=2.98#imgrc=C83VBpi5IFdnJM&imgdii=TRw0XrI__uM0nM
 - [ ] Starts on next faction turn: Chain reaction from Tharsis to Haruna, then to Makita, then to ICO.
+- [ ] Metalianos attack Brightside
+- [ ] Mission to transport ignition tech to Nibiru
+- [ ] Mine as much as possible of the mRNA to produce large quantities of Aetherium
+- [ ] Asteroids coming to wipe earth.
+- [ ] Villains: bestial alien species, environment and institutions
 
 
 ## opportunityAttack

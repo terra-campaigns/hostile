@@ -1,5 +1,6 @@
 ---
 name: ICO American Sector
+status:
 
 meta:
   category: faction

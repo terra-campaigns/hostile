@@ -2,7 +2,7 @@
 name: xx
 game_date: 2225-12-07
 pcs: "[Olaf](../pcs/Olaf.md), [Oni](../pcs/Oni.md), [Oliver](../pcs/Oliver.md)"
-levels: 7
+levels: 6
 heat: 
 
 meta:
@@ -39,7 +39,7 @@ tags:
 > - [x] Update random encounter tables
 > - [ ] Print information pool (applicable parts)
 > 
->> [!done] Tracker 
+>> [!done]- Tracker 
 >> ```dataview
 >> table without ID link(file.link, name) AS "Chapter", game_date AS "Date", pcs as "PCs", levels as "Rank", meta.sector as "Sector", meta.system as "System", meta.world as "World", meta.location as "Location"
 >> from "hostile/chapters"
@@ -65,7 +65,7 @@ tags:
 
 > [!warning] Intro
 > - Previously: Abridged [link](https://github.com/efsalvarenga/terraCampaigns_published/blob/main/hostile/abridged.md#chapter-02-the-cold-tomb)
-> - 
+> - Is an **affliction** due, to the cold blood actions?
 > - GM: remember that **Space is Hostile**.
 
 > [!danger] Strong start
@@ -74,6 +74,9 @@ tags:
 - You missed the status report for last Saturday
 - What is the update on the contract?
 - Why the ship transponder if off?
+- If the ship is detected in the Teegarden Star system
+	- they will be pushed to mine as much as possible and carry it back to Defiance. Other corporations are aware now.
+	- the ship has to be maintained in contractual operable conditions. Please ask your engineers to fix some cameras and swap memory drives.
 
 > [!example] Situations 
 
@@ -84,8 +87,8 @@ tags:
 
 ![|400](https://i.imgur.com/xlfV2y5.png)
 
-- d8 difficulty (to determine weather and region for landing)
-- If they find it too difficult, and decide to wait, it takes 1d4 days for improving (add tension die), and then roll 2d6 and get the highest.
+- d6 difficulty (to determine weather and region for landing)
+- If they find it too difficult, and decide to wait, it takes 2d4 days for improving (add tension die), and then roll 2d4 and get the highest.
 - If they fail on the check, bring in the Popper swarm during landing!!
 
 **[PopperSwarm](../statblocks/PopperSwarm.md) continue to propagate through the Frostbreaker.**
@@ -108,9 +111,9 @@ tags:
 ![|400](https://i.imgur.com/8Q6BYmV.png)
 
 **Continue mining, but much faster now.**
-- **Objective**: complete the contract 
+- There are 3 other mining ships from Tharsis now, mining the asteroid. The ICO is coming and shit will get messy.
 - Need to map the ice and conclude the work **urgently** and **stealthily**.
-- How can mining checks be easier (i.e. one single roll)
+- How can mining checks be easier
 - How will PCs continue to mine?
 
 **If in Brightside now: Lebkuhen**
