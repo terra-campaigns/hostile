@@ -1,8 +1,8 @@
 ---
-name: xx
+name: The Box with The Boxer
 game_date: 2225-12-07
-pcs: "[Olaf](../pcs/Olaf.md), [Oni](../pcs/Oni.md), [Oliver](../pcs/Oliver.md)"
-levels: 6
+pcs: "[Olaf](../pcs/Olaf.md), [Oni](../pcs/Oni.md), [Oliver](../pcs/Oliver.md), [Danny](../pcs/Danny.md)"
+levels: 7
 heat: 
 
 meta:
@@ -49,7 +49,7 @@ tags:
 > [!abstract] Doomborgs crew members motivation
 > - **Olaf**: Make money and find advanced life
 > - **Oni**: Do something meaningful, that's helpful to societies that are underprivileged and exploited. Learn if the alien corpse found poses any threat to humanity.
-> - **Brawn**: ...
+> - **Danny**: ...
 > - **Sabaka**: Find proof of Aliens similar to the one that attacked their family
 > - **Oliver**: Have a life outside earth
 
@@ -68,87 +68,28 @@ tags:
 > - Is an **affliction** due, to the cold blood actions?
 > - GM: remember that **Space is Hostile**.
 
-> [!danger] Strong start
-
-**Call from [JohnMcLeod](../npcs/JohnMcLeod.md)**
-- You missed the status report for last Saturday
-- What is the update on the contract?
-- Why the ship transponder if off?
-- If the ship is detected in the Teegarden Star system
-	- they will be pushed to mine as much as possible and carry it back to Defiance. Other corporations are aware now.
-	- the ship has to be maintained in contractual operable conditions. Please ask your engineers to fix some cameras and swap memory drives.
-
 > [!example] Situations 
 
-**Fly stealthy into [Defiance](../locations/Defiance.md)** 
-- Takes 2 days (2 dice on tension pool)
-
-**Land on Defiance**
+- The Doomborgs took their time and evaluated all the options to unload [TheBoxer](../npcs/TheBoxer.md) into Defiance.
+- They decide that putting The Boxer in a large box is the best alternative.
+- They called flight control from [Defiance](../locations/Defiance.md) and requested to speak with [tharsisMining](../factions/tharsisMining.md).
+- Lucas called back and agreed to find a maintenance bay for the [Frostbreaker](../objects/Frostbreaker.md) in two days.
+- [Oni](../pcs/Oni.md) skilfully (again) landed the [Frostbreaker](../objects/Frostbreaker.md) through a light storm for Defiance's standards. 
 
 ![|400](https://i.imgur.com/xlfV2y5.png)
 
-- d6 difficulty (to determine weather and region for landing)
-- If they find it too difficult, and decide to wait, it takes 2d4 days for improving (add tension die), and then roll 2d4 and get the highest.
-- If they fail on the check, bring in the Popper swarm during landing!!
+- Lucas spoke again with the crew, and was astonished to know that [JohnMcLeod](../npcs/JohnMcLeod.md) speaks with the crew through an AI version of himself - this is not allowed on Earth.
+- Lucas also updates the crew that information leaked about the alien bodies, and the possible extraction of the mRNA - which is expensive in the market.
+- [Olaf](../pcs/Olaf.md) becomes anxious, and postpone the next chat with [JohnMcLeod](../npcs/JohnMcLeod.md)
+- [Danny](../pcs/Danny.md) and [Oliver](../pcs/Oliver.md) go to a local lowlife bar and meet the owner of a small and shady logistics company, Harry.
+- Harry agrees to take the box and ask no questions.
+- The crew meet again at the bay, prepare everything and load the box with The Boxer into Harry's company truckers' truck.
+- The crew speaks with [JohnMcLeod](../npcs/JohnMcLeod.md) who confirms what Lucas has shared. John mentions that there is an inevitable gold rush about to start for Perdurabo. The crew is to be back there ASAP, and start mining as much as possible. A new contract will be sent to them.
+- After the long day, Oliver goes take a nap, while the others decide to continue drinking into the small hours.
+- In the same low life bar the crew meet a (very drunk) [CassianVireo](../npcs/CassianVireo.md)
+- Cassian mentions she is an investigator, and she wants to get information on what is happening in [BrightsideStation](../locations/BrightsideStation.md) and the Perdurabo system. Cassian offers her skills in computing and communications in return to be brought to Brightside. The crew is undecided and were to speak with her again next day, before departing Defiance.
 
-**[PopperSwarm](../statblocks/PopperSwarm.md) continue to propagate through the Frostbreaker.**
-- **Objective**: Fright and show that the ship is still inhabited (eggs lived the flushing)
-
-**Boxing match and say farewell to the Boxer?**
-- [EnochMarshfield](../npcs/EnochMarshfield.md) is the farmer they will meet
-
-**Research on the alien language filmed.**
-- **Objective**: Gain knowledge
-- **3/5**: view of a space suit camera through icy water
-- **2+**:
-	- Bas relief is ritualistic in nature
-	- some parts of the insectoids seem to had metal covering, but that has long rusted and is mostly gone
-- **3x3**:
-	- Brain ([TraktorianoHumanoid](../statblocks/TraktorianoHumanoid.md)) species can move between 2 bodies
-	- Insectoid ([MetalianoXX121](../statblocks/MetalianoXX121.md)) carry swords. Sometimes only their contour is depicted
-	- Insectoid were the slavers
-
-![|400](https://i.imgur.com/8Q6BYmV.png)
-
-**Continue mining, but much faster now.**
-- There are 3 other mining ships from Tharsis now, mining the asteroid. The ICO is coming and shit will get messy.
-- Need to map the ice and conclude the work **urgently** and **stealthily**.
-- How can mining checks be easier
-- How will PCs continue to mine?
-
-**If in Brightside now: Lebkuhen**
-- Lebkuchen is aware the PCs have stopped a initiative in French Guiana, and someone arrives in Brightside after 2225-12-01. From there, every session, another interested faction traces the PCs
-- [CassianVireo](../npcs/CassianVireo.md)
-- Carries a bomb.
-
-**Get info [YashDutta](../npcs/YashDutta.md) down** if the mRNA mapping is successful.
-- **Objective**: Complete the contract
-
-> [!bug] Random encounters
-
-1. **Malfunctioning Airlock** (Ship Malfunction): The ship's primary airlock randomly opens and closes due to a faulty circuit, risking decompression.
-2. **Derelict Research Vessel** (Other Spaceships): A seemingly abandoned research vessel emits a distress signal, hiding secrets and potential danger.
-3. **Black Market Deal Gone Wrong** (Humans in Starports): A routine supply run at a remote starport turns tense when a black market deal nearby goes south.
-4. **Colony Under Siege** (Space Colony): A mining colony on a nearby moon sends out a distress call, under attack by unknown forces.
-5. **Nest of Space Leeches** (Alien Creatures): While refueling near a gas giant, the ship becomes infested with space leeches that drain power from the hull.
-6. **Meteor Shower** (Panic Events): A sudden meteor shower forces the crew to navigate through perilous debris or take significant hull damage.
-7. **Solar Flare Surge** (Environment Effects): A powerful solar flare from the red giant star disrupts electronic systems and increases radiation levels.
-8. **Emergency Drill Confusion** (Starship Training Drill Alarm): A routine emergency drill causes confusion and panic when it's mistakenly believed to be a real emergency.
-9. **Ghost Ship Encounter** (Non-Obvious Space Hostility): The crew encounters a ship that appears and disappears erratically, hinting at possible cloaking technology or supernatural phenomena.
-10. **Oxygen Garden Sabotage** (Ship Malfunction): The ship's oxygen garden starts failing after a crew member discovers signs of sabotage, threatening life support.
-
-| id|prompt                  |
-|--:|:-----------------------|
-|  1|`encounter: 3 l5h2e1w2` |
-|  2|`encounter: 2 l7h2e3w2` |
-|  3|`encounter: 4 l3h1e1w1` |
-|  4|`encounter: 5 l2h1e1w0` |
-|  5|`encounter: 5 l2h0e1w1` |
-|  6|`encounter: 2 l4h2e2w0` |
-|  7|`encounter: 4 l2h1e0w1` |
-|  8|Effect only             |
-|  9|`encounter: 6 l0h0e0w0` |
-| 10|`encounter: 4 l0h0e0w0` |
+![|400](https://i.imgur.com/GfAeVZ7.png)
 
 > [!info]- Information pool
 > ![_hostileInformationPool](../_hostileInformationPool.md)
