@@ -9,7 +9,7 @@ meta:
   die: Grey
 
 stats:
-- cunning: 3
+- cunning: 2
 - force: 4
 - wealth: 2
 ---

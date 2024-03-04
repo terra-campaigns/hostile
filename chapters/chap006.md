@@ -22,22 +22,22 @@ tags:
 > - [x] Commit next chapter draft and check metadata
 > - [x] Clean up previous chapter files, update tags and name, make final commit
 > - [x] Update (battle)maps, if applicable
-> - [ ] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in notion file
-> - [ ] Think about characters, write motivations & hooks
-> - [ ] Take two Kult tarot cards to inform prep
+> - [x] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in notion file and change one faction's attribute (+/-)
+> - [x] Think about characters, write motivations & hooks
+> - [x] Take two Kult tarot cards to inform prep
 > - [x] Evaluate new game date
-> - [ ] Review Abridged
-> - [ ] Evaluate Faction turn
-> - [ ] Review and organise Notions
-> - [ ] Detail strong start
-> - [ ] Outline situations:
-> 	- [ ] Draft locations 
-> 	- [ ] Draft NPCs
-> 	- [ ] Prepare random encounters table
-> 	- [ ] Prepare Owlbear, if applicable
-> - [ ] Review and order/highlight information pool.
-> - [ ] Update graph view
-> - [ ] Update random encounter tables
+> - [x] Review Abridged
+> - [x] Evaluate Faction turn
+> - [x] Review and organise Notions
+> - [x] Detail strong start
+> - [x] Outline situations:
+> 	- [x] Draft locations 
+> 	- [x] Draft NPCs
+> 	- [x] Prepare random encounters table
+> 	- [x] Prepare Owlbear, if applicable
+> - [x] Review and order/highlight information pool.
+> - [x] Update graph view
+> - [x] Update random encounter tables
 > - [ ] Print information pool (applicable parts)
 > 
 >> [!done]- Tracker 
@@ -50,13 +50,13 @@ tags:
 > [!abstract] Doomborgs crew members motivation & inspiration
 > - **Olaf**: Make money and find advanced life
 > - **Oni**: Do something meaningful, that's helpful to societies that are underprivileged and exploited. Learn if the alien corpse found poses any threat to humanity.
-> - **Brawn**: ...
+> - **Danny**: Lay low and avoid earth. Make some cash when possible.
 > - **Sabaka**: Find proof of Aliens similar to the one that attacked their family
 > - **Oliver**: Have a life outside earth
 > 
-> **Kult tarot**:
+> **Kult tarot**: Sathariel and 4 hourglass 
 
-> [!quote]- Factions 
+> [!quote] Factions 
 > ```dataview
 > table without ID link(file.link, name) AS "Faction", stats[0].cunning + stats[1].force + stats[2].wealth as "Level", meta.die as "Die", stats[0].cunning as "C", stats[1].force as "F", stats[2].wealth as "W"
 > from "hostile/factions"
@@ -64,7 +64,10 @@ tags:
 > sort id asc
 > ```
 > 
-> **Delete one wealth because of the fuss created with [JohnMcLeod](../npcs/JohnMcLeod.md) being an AI**
+> **Cunning round**
+> - Makita 4 Vs 1 Lebkuchen: Makita's spies are aware of the Lebkuchen activist [CassianVireo](../npcs/CassianVireo.md) in Defiance.
+> - Haruna harassing Makita
+> 
 
 > [!warning] Intro
 > - Previously: Abridged [link](https://github.com/efsalvarenga/terraCampaigns_published/blob/main/hostile/abridged.md#chapter-02-the-cold-tomb)
@@ -74,38 +77,37 @@ tags:
 
 > [!danger] Strong start
 
-**Call from [JohnMcLeod](../npcs/JohnMcLeod.md)**
-- You missed the status report for last Saturday
-- What is the update on the contract?
-- Why the ship transponder if off?
-- If the ship is detected in the Teegarden Star system
-	- they will be pushed to mine as much as possible and carry it back to Defiance. Other corporations are aware now.
-	- the ship has to be maintained in contractual operable conditions. Please ask your engineers to fix some cameras and swap memory drives.
+**Decide if they take [CassianVireo**](../npcs/CassianVireo.md)
+- Next night she will have a call set with the **thugs** of the guy they PCs stole the eye from.
+- If PCs take her, she will never make the call - if they don't, she will.
+- Regardless, they will be following the crew from the bar to the hangar in an old pickup.
+
+```encounter
+creatures:
+  - l3h0e1w2
+  - l2h0e3w-1
+  - l1h2e-1w0
+```
+
 
 > [!example] Situations 
 
-Decide if they take [CassianVireo](../npcs/CassianVireo.md)
-Fly off
-Get the drone in a space station on the same system
-New mining contract
+**Fly off (h 2d4 weather) from Defiance**
 
-**Fly stealthy into [Defiance](../locations/Defiance.md)** 
-- Takes 2 days (2 dice on tension pool)
+**Dock to [tharsisMining](../factions/tharsisMining.md) supply station to get the drone**
+- Roll for random encounter.
+- Get new mining contract:
+	- 10k credits for each Hull cargo space full of unrefined mRNA ice.
+	- 50k credits for if refined mRNA ice (requires a mobile extractor)
+- Reinstall panels
 
-**Land on Defiance**
-
-![|400](https://i.imgur.com/xlfV2y5.png)
-
-- d6 difficulty (to determine weather and region for landing)
-- If they find it too difficult, and decide to wait, it takes 2d4 days for improving (add tension die), and then roll 2d4 and get the highest.
-- If they fail on the check, bring in the Popper swarm during landing!!
+**Where to get an extractor (d3 connect)**
+- Steal from [BrightsideStation](../locations/BrightsideStation.md)
+- Buy one is Solomons
+- Steal one from Makita or Haruna in Crown
 
 **[PopperSwarm](../statblocks/PopperSwarm.md) continue to propagate through the Frostbreaker.**
 - **Objective**: Fright and show that the ship is still inhabited (eggs lived the flushing)
-
-**Boxing match and say farewell to the Boxer?**
-- [EnochMarshfield](../npcs/EnochMarshfield.md) is the farmer they will meet
-	- He is a prepper, and believes his son was taken by Metalianos
 
 **Research on the alien language filmed.**
 - **Objective**: Gain knowledge
@@ -122,12 +124,10 @@ New mining contract
 
 **Continue mining, but much faster now.**
 - There are 3 other mining ships from Tharsis now, mining the asteroid. The ICO is coming and shit will get messy.
+	- Roll random encounters
 - Need to map the ice and conclude the work **urgently** and **stealthily**.
-- How can mining checks be easier
-- How will PCs continue to mine?
 
 **If in Brightside now: Lebkuhen**
-- Lebkuchen is aware the PCs have stopped a initiative in French Guiana, and someone arrives in Brightside after 2225-12-01. From there, every session, another interested faction traces the PCs
 - [CassianVireo](../npcs/CassianVireo.md)
 - Carries a bomb.
 

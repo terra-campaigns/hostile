@@ -73,7 +73,7 @@ tags:
 - The Doomborgs took their time and evaluated all the options to unload [TheBoxer](../npcs/TheBoxer.md) into Defiance.
 - They decide that putting The Boxer in a large box is the best alternative.
 - They called flight control from [Defiance](../locations/Defiance.md) and requested to speak with [tharsisMining](../factions/tharsisMining.md).
-- Lucas called back and agreed to find a maintenance bay for the [Frostbreaker](../objects/Frostbreaker.md) in two days.
+- [LucasMaluf](../npcs/LucasMaluf.md) called back and agreed to find a maintenance bay for the [Frostbreaker](../objects/Frostbreaker.md) in two days.
 - [Oni](../pcs/Oni.md) skilfully (again) landed the [Frostbreaker](../objects/Frostbreaker.md) through a light storm for Defiance's standards. 
 
 ![|400](https://i.imgur.com/xlfV2y5.png)

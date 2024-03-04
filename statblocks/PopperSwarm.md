@@ -41,7 +41,7 @@ instant:
   desc: ~
 
 system: d20 Mod 2d, AC/DC 9 + Mod, Save 16+ & 2d6 Mod 1d, AC/DC 6 + Mod
-npc_link: "[Popper](Popper.md)"
+npc_link: "[PopperSwarm](PopperSwarm.md)"
 ---
 
 ![](https://i.imgur.com/U3rM5gA.png)

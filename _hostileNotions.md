@@ -14,6 +14,8 @@ kanban-plugin: basic
 - [ ] Mine as much as possible of the mRNA to produce large quantities of Aetherium
 - [ ] Asteroids coming to wipe earth.
 - [ ] Villains: bestial alien species, environment and institutions
+- [ ] If PCs want to steal the Icebreaker, they can cool its plates in The Solomons.
+- [ ] Add some degenesis bygone factions
 
 
 ## opportunityAttack
@@ -24,11 +26,8 @@ kanban-plugin: basic
 
 - [ ] RNA is a virus that will infect all human networks for knowledge
 - [ ] Book of sky as a cult, after playing dead planet. Check shadows in the sky SL178
-- [ ] Lebkuchen is aware the PCs have stopped a initiative in French Guiana, and someone arrives in Brightside after 2225-12-01. From there, every session, another interested faction traces the PCs
 - [ ] Alien from Olaf and Sabaka story are Metalianos
-- [ ] Maintenance pay for cyber from 2226-Nov?
-- [ ] The guy that had the eyes stolen searches for the Doomborgs
-- [ ] While deleting films that proof The Boxer is alive, some third level backup was missed.
+- [ ] While deleting films that proof The Boxer is alive, some third level backup was missed. Analysis finished on January 7th will reveal that and connect the dots that Boxer is alive. Move the box was a 7 on the die. Harry Tungla (the trucker company guy) might open his mouth.
 - [ ] Crew on Brightside knows that the Doomborgs were taking the pannels from the Frostbreaker. Maybe they know the reason, maybe they don't.
 
 
@@ -69,6 +68,9 @@ kanban-plugin: basic
 - [ ] Prepare factions
 - [ ] 2 intelligent alien species: Ngar'tho+another one (no gods)
 - [ ] Add notes for things in the PCs past - when drained of sandbox ideas
+- [ ] Lebkuchen is aware the PCs have stopped a initiative in French Guiana, and someone arrives in Brightside after 2225-12-01. From there, every session, another interested faction traces the PCs
+- [ ] Maintenance pay for cyber from 2226-Nov?
+- [ ] The guy that had the eyes stolen searches for the Doomborgs
 
 %% kanban:settings
 ```

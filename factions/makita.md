@@ -9,7 +9,7 @@ meta:
   die: Dark blue
 
 stats:
-- cunning: 4
+- cunning: 5
 - force: 3
 - wealth: 5
 ---

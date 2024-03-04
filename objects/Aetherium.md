@@ -33,3 +33,5 @@ The synthesis of Aetherium, therefore, would not only require a highly advanced 
 Aetherium needs to be synthesized to be sent to Formahault to kick start Nibiru. Everyone that sees Nibiru Will have to join the crew and loose their memories. This ends the campaign.
 
 Adds [TraktorianoHumanoid](../statblocks/TraktorianoHumanoid.md) DNA to the mix.
+
+Both mRNA and Novium are extracted from Perdurabo 
