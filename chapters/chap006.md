@@ -1,5 +1,5 @@
 ---
-name: 
+name: Start of Dutta's fall
 game_date: 2225-12-10
 pcs: "[Olaf](../pcs/Olaf.md), [Oni](../pcs/Oni.md), [Oliver](../pcs/Oliver.md), [Danny](../pcs/Danny.md)"
 levels: 7
@@ -9,11 +9,11 @@ meta:
   category: chapter
   campaign: Hostile
   sector: "[Near Earth Zone](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe)"
-  system: "[Teegarden Star](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/EK7eZhRuSaUmzSTEwm7a)"
+  system: "[Teegarden Star](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/EK7eZhRuSaUmzSTEwm7a) and [Perdurabo](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/PWrHAjd6P64k61Ga1PfQ)"
   world: "[Defiance](../locations/Defiance.md)"
   realm: 
   region: 
-  location: ""
+  location: "[BrightsideStation](../locations/BrightsideStation.md)"
 tags: 
 ---
 
@@ -71,95 +71,43 @@ tags:
 
 > [!warning] Intro
 > - Previously: Abridged [link](https://github.com/efsalvarenga/terraCampaigns_published/blob/main/hostile/abridged.md#chapter-02-the-cold-tomb)
-> - Is an **affliction** due, to the cold blood actions?
-> - GM: remember that **Space is Hostile**.
 > - Paid the 600 for Harry?
-
-> [!danger] Strong start
-
-**Decide if they take [CassianVireo**](../npcs/CassianVireo.md)
-- Next night she will have a call set with the **thugs** of the guy they PCs stole the eye from.
-- If PCs take her, she will never make the call - if they don't, she will.
-- Regardless, they will be following the crew from the bar to the hangar in an old pickup.
-
-```encounter
-creatures:
-  - l3h0e1w2
-  - l2h0e3w-1
-  - l1h2e-1w0
-```
-
+> - Who is the engineer and Comms now?
+> - GM: remember that **Space is Hostile**.
 
 > [!example] Situations 
 
-**Fly off (h 2d4 weather) from Defiance**
+- The Doomborgs receive a **new contract** that voids the exploration framework of the previous contract, but maintain taking down the directorship of [BrightsideStation](../locations/BrightsideStation.md)
+	- The crew will be paid C5k for each Hull cargo space full of unrefined mRNA-rich ice. This value is doubled if the ice is refined.
+- The Doomborgs try to find a mobile extractor micro refinery to install on their ship, but that was too difficult in a planet like [Defiance](../locations/Defiance.md). Oni sends a message to her friend in [TheSolomons](../locations/TheSolomons.md) and asks her to buy one and bring it to Brightside. The message ends with '*Don't rip me off*'.
+- While trying to find an extractor, Danny inadvertently tells Harry Tungla that there was someone inside the box his trucker carried to the farm.
+- They crew then decides to take [CassianVireo](../npcs/CassianVireo.md) with them to Brightside, for what she pays C2k.
+- Flying off defiance is delayed in 4 days, due to weather. But even when the weather improves the [Frostbreaker](../objects/Frostbreaker.md) barely does it, with its fusion reactor shutting down due to load as the ship gains orbit.
+- They dock the ship in a refuelling station in high orbit and get a new drone, and from there depart to Perdurabo
 
-**Dock to [tharsisMining](../factions/tharsisMining.md) supply station to get the drone**
-- Roll for random encounter.
-- Get new mining contract:
-	- 10k credits for each Hull cargo space full of unrefined mRNA ice.
-	- 50k credits for if refined mRNA ice (requires a mobile extractor)
-- Reinstall panels
+![](https://i.imgur.com/8iAc2zM.png)
 
-**Where to get an extractor (d3 connect)**
-- Steal from [BrightsideStation](../locations/BrightsideStation.md)
-- Buy one is Solomons
-- Steal one from Makita or Haruna in Crown
+- Upon arriving in Brightside, the Doomborgs learn that Dutta has fallen ill, and [RolandLomax](../npcs/RolandLomax.md) is now in charge. It became useful that the crew had a night drinking with Lomax when they first arrived in Perdurabo.
 
-**[PopperSwarm](../statblocks/PopperSwarm.md) continue to propagate through the Frostbreaker.**
-- **Objective**: Fright and show that the ship is still inhabited (eggs lived the flushing)
+![](https://i.imgur.com/0PTNdEm.png)
 
-**Research on the alien language filmed.**
-- **Objective**: Gain knowledge
-- **3/5**: view of a space suit camera through icy water
-- **2+**:
-	- Bas relief is ritualistic in nature
-	- some parts of the insectoids seem to had metal covering, but that has long rusted and is mostly gone
-- **3x3**:
-	- Brain ([TraktorianoHumanoid](../statblocks/TraktorianoHumanoid.md)) species can move between 2 bodies
-	- Insectoid ([MetalianoXX121](../statblocks/MetalianoXX121.md)) carry swords. Sometimes only their contour is depicted
-	- Insectoid were the slavers
+- Lomax asks them to offboard the Frostbreaker and explains that in about 6 days a large [haruna](../factions/haruna.md) bank transport will arrive to carry the Novium ingots. A bank auditor will be on this ship, and Lomax intends to share the information he has about Dutta's embezzlement. 
+- Lomax asks the Doomborgs to be around when this happens, to show strength against [YashDutta](../npcs/YashDutta.md)'s faction on the station.
+- Lomax also mentions that another [tharsisMining](../factions/tharsisMining.md) ship recently refuelled in Brigthside, and the crew updates him that they also work for Tharsis. '*Why is Tharsis Mining involved in finding alien artefacts?*'.
 
-![|400](https://i.imgur.com/8Q6BYmV.png)
+![|400](https://i.imgur.com/dyogS6G.png)
 
-**Continue mining, but much faster now.**
-- There are 3 other mining ships from Tharsis now, mining the asteroid. The ICO is coming and shit will get messy.
-	- Roll random encounters
-- Need to map the ice and conclude the work **urgently** and **stealthily**.
+- The crew goes back to the [ColdTomb](../locations/ColdTomb.md) to mine the mRNA-rich ice around the construction (that is now destroyed).
+- Mining was a dangerous endeavour, where one drone and many ice cargoes were lost.
+- Incidentally, the crab infestation in the ship attacks Danny while he is piloting, in one of the most critical moments: Olaf and Oni are on an EVA, while Bennet is monitoring the harness. Danny is alone in the bridge and tries to fight off the crabs. He was unsuccessful and falls with a mortal face wound when one of the crabs lands on his face.
 
-**If in Brightside now: Lebkuhen**
-- [CassianVireo](../npcs/CassianVireo.md)
-- Carries a bomb.
+![](https://i.imgur.com/U3rM5gA.png)
 
-**Get info [YashDutta](../npcs/YashDutta.md) down** if the mRNA mapping is successful.
-- **Objective**: Complete the contract
-
-> [!bug] Random encounters
-
-1. **Malfunctioning Airlock** (Ship Malfunction): The ship's primary airlock randomly opens and closes due to a faulty circuit, risking decompression.
-2. **Derelict Research Vessel** (Other Spaceships): A seemingly abandoned research vessel emits a distress signal, hiding secrets and potential danger.
-3. **Black Market Deal Gone Wrong** (Humans in Starports): A routine supply run at a remote starport turns tense when a black market deal nearby goes south.
-4. **Colony Under Siege** (Space Colony): A mining colony on a nearby moon sends out a distress call, under attack by unknown forces.
-5. **Nest of Space Leeches** (Alien Creatures): While refueling near a gas giant, the ship becomes infested with space leeches that drain power from the hull.
-6. **Meteor Shower** (Panic Events): A sudden meteor shower forces the crew to navigate through perilous debris or take significant hull damage.
-7. **Solar Flare Surge** (Environment Effects): A powerful solar flare from the red giant star disrupts electronic systems and increases radiation levels.
-8. **Emergency Drill Confusion** (Starship Training Drill Alarm): A routine emergency drill causes confusion and panic when it's mistakenly believed to be a real emergency.
-9. **Ghost Ship Encounter** (Non-Obvious Space Hostility): The crew encounters a ship that appears and disappears erratically, hinting at possible cloaking technology or supernatural phenomena.
-10. **Hyperspace encounter** (Non-Obvious Space Hostility): Repellent Hostile scenario.
-11. **Oxygen Garden Sabotage** (Ship Malfunction): The ship's oxygen garden starts failing after a crew member discovers signs of sabotage, threatening life support.
-
-|  id | prompt                  |
-| --: | :---------------------- |
-|   1 | `encounter: 3 l5h2e1w2` |
-|   2 | `encounter: 2 l7h2e3w2` |
-|   3 | `encounter: 4 l3h1e1w1` |
-|   4 | `encounter: 5 l2h1e1w0` |
-|   5 | `encounter: 5 l2h0e1w1` |
-|   6 | `encounter: 2 l4h2e2w0` |
-|   7 | `encounter: 4 l2h1e0w1` |
-|   8 | Effect only             |
-|   9 | `encounter: 6 l0h0e0w0` |
-|  10 | `encounter: 4 l0h0e0w0` |
+- The other crew members rush back when they notice Danny screaming, and Olaf in a heroic save fends off multiple crabs while grappling an unconscious Danny.
+- The Doomborgs are able to seal the crabs in the bridge and Bennet with his laser sharp medic skills is able to stabilize Danny - who looked already dead.
+- After this accident, the crew decides to go back to Brightside with a partial load. They would come back later with someone skilled in piloting the drones.
+- Upon arrival on Brightside, Danny is rushed into the infirmary. Olaf speaks with the doctor, [SuyinIndrani](../npcs/SuyinIndrani.md), who supports Dutta and thinks Lomax has poisoned the director. She also shares that Lomax is not liked by his own employees.
+- The personnel on the station start to go about quickly now, as the bank's transport is arriving. Lomax is ready to share what he knows.
 
 > [!info]- Information pool
 > ![_hostileInformationPool](../_hostileInformationPool.md)

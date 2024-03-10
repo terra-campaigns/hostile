@@ -85,7 +85,17 @@ When creating images for NPCs, it is important they are credible. This means tha
 
 Random encounters shall be created randomly based on the chapter Encounters from the Hostile Rules book, focusing on the industrial and hostile aspects of space. The objective is to create 10 entries, mixing and matching different types of encounters.
 
-The expected types of encounters are: ship malfunction, other spaceships, humans in starports, space colony, alien creatures, personal panic events, environment effects, starship training drill alarm or some non-obvious space hostility.
+The types of encounters are:
+
+- ship malfunction
+- other spaceships
+- humans in starports
+- space colony
+- alien creatures
+- personal panic events
+- environment effects
+- starship training drill alarm
+- non-obvious space environment hostility
 
 The output should be a markdown numbered list, with each encounter as a single-line entry. Each entry has its title in bond, then in parentheses the encounter type and, after a colon, a short description.
 

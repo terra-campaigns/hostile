@@ -61,9 +61,15 @@ npc_link: "[RolandLomax](RolandLomax.md)"
 - ...
 
 ## Connections
+
 - [BrightsideStation](../locations/BrightsideStation.md)
 - [YashDutta](YashDutta.md)
 - Fond of the PCs: [MadSpark](../pcs/MadSpark.md), [Olaf](../pcs/Olaf.md), [Oni](../pcs/Oni.md), [Oliver](../pcs/Oliver.md)
+
+Supporters in the station:
+- [MariusRochambeau](MariusRochambeau.md)
+- [MaryTomlinson](MaryTomlinson.md)
+- 20-30 miner/workers (except those in the cargo bay area)
 
 ## Key info and notes
 - ...
