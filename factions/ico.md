@@ -11,7 +11,7 @@ meta:
 
 stats:
 - cunning: 8
-- force: 6
+- force: 7
 - wealth: 4
 ---
 
