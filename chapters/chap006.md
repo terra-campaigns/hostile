@@ -98,7 +98,7 @@ tags:
 ![|400](https://i.imgur.com/dyogS6G.png)
 
 - The crew goes back to the [ColdTomb](../locations/ColdTomb.md) to mine the mRNA-rich ice around the construction (that is now destroyed).
-- Mining was a dangerous endeavour, where one drone and many ice cargoes were lost.
+- Mining was a dangerous endeavour, where one drone, many ice cargoes were lost and one of the airlocks is damaged.
 - Incidentally, the crab infestation in the ship attacks Danny while he is piloting, in one of the most critical moments: Olaf and Oni are on an EVA, while Bennet is monitoring the harness. Danny is alone in the bridge and tries to fight off the crabs. He was unsuccessful and falls with a mortal face wound when one of the crabs lands on his face.
 
 ![](https://i.imgur.com/U3rM5gA.png)
