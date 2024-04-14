@@ -1,7 +1,7 @@
 ---
 name: 
-game_date: 2225-12-10
-pcs: "[Olaf](../pcs/Olaf.md), [Oni](../pcs/Oni.md), [Oliver](../pcs/Oliver.md), [Danny](../pcs/Danny.md)"
+game_date: 2225-12-29
+pcs: "[Olaf](../pcs/Olaf.md), [Oni](../pcs/Oni.md), [Oliver](../pcs/Oliver.md), [Danny](../pcs/Danny.md), [Sabaka](../pcs/Sabaka.md)"
 levels: 7
 heat: 
 
@@ -9,26 +9,26 @@ meta:
   category: chapter
   campaign: Hostile
   sector: "[Near Earth Zone](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe)"
-  system: "[Teegarden Star](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/EK7eZhRuSaUmzSTEwm7a)"
-  world: "[Defiance](../locations/Defiance.md)"
+  system: "[Perdurabo](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/PWrHAjd6P64k61Ga1PfQ)"
+  world: ""
   realm: 
   region: 
-  location: ""
+  location: "[BrightsideStation](../locations/BrightsideStation.md)"
 tags: 
 ---
 
 > [!todo]- Planning checklist & tracker
-> - [ ] Abridge previous chapter and distribute XP
-> - [ ] Commit next chapter draft and check metadata
-> - [ ] Clean up previous chapter files, update tags and name, make final commit
-> - [ ] Update (battle)maps, if applicable
-> - [ ] Update oracle
+> - [x] Abridge previous chapter and distribute XP
+> - [x] Commit next chapter draft and check metadata
+> - [x] Clean up previous chapter files, update tags and name, make final commit
+> - [x] Update (battle)maps, if applicable
+> - [x] Update oracle
+> - [x] Draw two tarot cards to inform prep
+> - [x] Evaluate Faction turn
+> - [ ] Review Abridged
 > - [ ] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in notion file and change one faction's attribute (+/-)
 > - [ ] Think about characters, write motivations & hooks
-> - [ ] Take two Kult tarot cards to inform prep
 > - [ ] Evaluate new game date
-> - [ ] Review Abridged
-> - [ ] Evaluate Faction turn
 > - [ ] Review and organise Notions
 > - [ ] Detail strong start
 > - [ ] Outline situations:
@@ -37,7 +37,6 @@ tags:
 > 	- [ ] Prepare random encounters table
 > 	- [ ] Prepare Owlbear, if applicable
 > - [ ] Review and order/highlight information pool.
-> - [ ] Update graph view
 > - [ ] Update random encounter tables
 > - [ ] Print information pool (applicable parts)
 > 
@@ -65,16 +64,21 @@ tags:
 > sort id asc
 > ```
 > 
-> **Cunning round**
-> - Makita 4 Vs 1 Lebkuchen: Makita's spies are aware of the Lebkuchen activist [CassianVireo](../npcs/CassianVireo.md) in Defiance.
-> - Haruna harassing Makita
+> **Turn: force**
+> - Makita Genetics Solomons: 1, Lebkuchen Defiance: 3
+> - Book of the Sky Solomons: 1
+> - Book of the Sky Solomons: 2, Tharsis Mining American: 3, Haruna Biolabs Solomons: 2, ICO American Sector: 3
 > 
 
 > [!warning] Intro
 > - Previously: Abridged [link](https://github.com/efsalvarenga/terraCampaigns_published/blob/main/hostile/abridged.md#chapter-02-the-cold-tomb)
-> - Paid the 600 for Harry?
-> - Who is the engineer and Comms now?
+> - Paid the 150 to the Terminator?
+> - Tom has +1 SS min.
 > - GM: remember that **Space is Hostile**.
+>  
+> **Tarot cards**
+> - Forgetfulness
+> - Future
 
 
 > [!danger] Strong start
@@ -87,25 +91,7 @@ Machinations with the bank auditor in Brightside. Let PCs have time to interfere
 
 The exterminator cleans the ship. It was infested with [PopperSwarm](../statblocks/PopperSwarm.md) spores. He explains about this creatures.
 
-**Fly off (h 2d4 weather) from Defiance**
 
-**Dock to [tharsisMining](../factions/tharsisMining.md) supply station to get the drone**
-- Roll for random encounter.
-- Get new mining contract:
-	- 5k credits for each Hull cargo space full of unrefined mRNA ice.
-	- 10k credits for if refined mRNA ice (requires a mobile extractor)
-- Reinstall panels?
-
-**Where to get an extractor (d3 connect)**
-- Steal from [BrightsideStation](../locations/BrightsideStation.md)
-- Buy one is Solomons
-	- Order it delivered in Teagarden Star
-- Steal one from Makita or Haruna in Crown
-- Steal and adapt a land refinery from Defiance
-- Steal from a ship in Teegarden Star
-
-**[PopperSwarm](../statblocks/PopperSwarm.md) continue to propagate through the Frostbreaker.**
-- **Objective**: Fright and show that the ship is still inhabited (eggs lived the flushing)
 
 **Research on the alien language filmed.**
 - **Objective**: Gain knowledge
