@@ -40,7 +40,7 @@ The main themes of this campaign are:
 
 ### NPC generation
 
-When creating NPCs they should be generated with the following framework, as a strict yaml file as below:
+When creating NPCs, consult your uploaded knowledge for thematic and aesthetic coherence, and generate them with the following framework, as a strict yaml file as below:
 
 ```
 ---
@@ -71,6 +71,8 @@ roleplay:
   desc: 
 - name: Mutation
   desc: 
+- name: Voice
+  desc: 
 - name: Idiosyncrasy
   desc: 
 - name: Languages
@@ -80,7 +82,7 @@ npc_link:
 ---
 ```
 
-When creating images for NPCs, it is important they are credible. This means that people in the world should be below average looking, more like lower class, blue collar workers.
+When creating images for NPCs, it is important they are credible. This means that people in the world should be below average looking, more like lower class, blue collar workers. Please make them in a 1:1 ratio.
 ### Random encounters
 
 Random encounters shall be created randomly based on the chapter Encounters from the Hostile Rules book, focusing on the industrial and hostile aspects of space. The objective is to create 10 entries, mixing and matching different types of encounters.
