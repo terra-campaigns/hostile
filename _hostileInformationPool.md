@@ -22,7 +22,6 @@
 ## Rest of sector
 
 - [ ] The Boxer's crew assassinated informants of ICO in The Salomons - and this has pissed of many supporters of the ICO.
-- [ ] ***Chain reaction from Tharsis to Haruna, then to Makita, then to ICO.***
-	- [x] Haruna figured out that the Doomborgs are working for Tharsis.
-	- [x] In the process, Makita is also made aware because of the scientist in Perdurabo (information leaks)
-	- [ ] The ICO traces the presence of the Doomborgs in Teegarden Star, and now are interested in the Doomborgs as well.
+- [ ] [tharsisMining](factions/tharsisMining.md) has disgraced the Boxer because of assassinations. It has now gained further support from the [ico](factions/ico.md) and is becoming the strongest player in the sector.
+- [ ] The ICO traces the presence of the Doomborgs in Teegarden Star, and now are interested in the Doomborgs as well.
+- [ ] [lebkuchen](factions/lebkuchen.md) riot invaded a small refinery [makita](factions/makita.md) had on Solomons and destroyed it. The refinery's purpose is unknown, something shady.

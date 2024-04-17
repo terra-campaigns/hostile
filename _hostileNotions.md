@@ -6,20 +6,23 @@ kanban-plugin: basic
 
 ## Inbox
 
-- [ ] Evourec is alien 120
-- [ ] The perfected: https://www.google.com/search?client=ms-android-google&sca_esv=600476754&sxsrf=ACQVn0-lFzcAf5xkHc3NPIHV8GbwKskuMQ:1705958146411&q=H.+R.+Giger+Li&tbm=isch&source=lnms&prmd=ivnmbtz&sa=X&ved=2ahUKEwjo5MWq9fGDAxVW1AIHHbP6Cq4Q0pQJegQIDhAB&biw=485&bih=916&dpr=2.98#imgrc=C83VBpi5IFdnJM&imgdii=TRw0XrI__uM0nM
-- [ ] Starts on next faction turn: Chain reaction from Tharsis to Haruna, then to Makita, then to ICO.
-- [ ] Metalianos attack Brightside
-- [ ] Mission to transport ignition tech to Nibiru
-- [ ] Mine as much as possible of the mRNA to produce large quantities of Aetherium
-- [ ] Asteroids coming to wipe earth.
 - [ ] Villains: bestial alien species, environment and institutions
 - [ ] If PCs want to steal the Icebreaker, they can cool its plates in The Solomons.
 - [ ] Add some degenesis bygone factions
+- [ ] PCs will find documentation related to RG in Brightside when they look into Dutta documents
+- [ ] Define faction goals
+- [ ] Harry tungla knows there was a person inside the box
+- [ ] Roland lomax knows the PCs work for Tharsis
+- [ ] There is an issue with the fusion reactor now of the Frostbreaker
+- [ ] Add some important NPC from the bygones of DEG
+- [ ] Oni's friend will send the mobile extractor micro refinery (costing 1.2x) to Brightside. Arrives on 17/Jan.
+- [ ] Lomax also mentions that another [tharsisMining](../factions/tharsisMining.md) ship (the Ore Voyager) recently refuelled in Brigthside, and the crew updates him that they also work for Tharsis. '*Why is Tharsis Mining involved in finding alien artefacts?*'. This can come to rescue the PCs if the nuclear reactor is destroyed. The ship will be carrying Ice, which might infect everyone in the station.
 
 
-## opportunityAttack
+## foreshadowing
 
+- [ ] Haruna will spin off Haruna Salomons to become the RG: https://degenesis.fandom.com/wiki/Recombination_Group to develop Nanites technology. It requires Novium for it (and that is why Haruna is in Perdurabo) and the black dust from Crow.
+- [ ] Mine as much as possible of the mRNA to produce large quantities of Aetherium
 
 
 ## snoozed
@@ -35,6 +38,11 @@ kanban-plugin: basic
 
 - [ ] Hyperspace anomalies (htl stt 218)
 - [ ] Define paths out of NEZ
+- [ ] Asteroids coming to wipe earth.
+- [ ] Mission to transport ignition tech to Nibiru
+- [ ] The perfected: https://www.google.com/search?client=ms-android-google&sca_esv=600476754&sxsrf=ACQVn0-lFzcAf5xkHc3NPIHV8GbwKskuMQ:1705958146411&q=H.+R.+Giger+Li&tbm=isch&source=lnms&prmd=ivnmbtz&sa=X&ved=2ahUKEwjo5MWq9fGDAxVW1AIHHbP6Cq4Q0pQJegQIDhAB&biw=485&bih=916&dpr=2.98#imgrc=C83VBpi5IFdnJM&imgdii=TRw0XrI__uM0nM
+- [ ] Metalianos attack Brightside
+- [ ] Evourec is alien 120
 
 
 ***
@@ -71,6 +79,7 @@ kanban-plugin: basic
 - [ ] Lebkuchen is aware the PCs have stopped a initiative in French Guiana, and someone arrives in Brightside after 2225-12-01. From there, every session, another interested faction traces the PCs
 - [ ] Maintenance pay for cyber from 2226-Nov?
 - [ ] The guy that had the eyes stolen searches for the Doomborgs
+- [ ] Starts on next faction turn: Chain reaction from Tharsis to Haruna, then to Makita, then to ICO.
 
 %% kanban:settings
 ```
