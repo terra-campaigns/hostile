@@ -1,8 +1,8 @@
 ---
-name: 
-game_date: 2225-12-23
+name: Chaos in Brightside
+game_date: 2225-12-30
 pcs: "[Olaf](../pcs/Olaf.md), [Oni](../pcs/Oni.md), [Oliver](../pcs/Oliver.md), [Danny](../pcs/Danny.md), [Sabaka](../pcs/Sabaka.md)"
-levels: 7
+levels: 13
 heat: 
 
 meta:
@@ -76,56 +76,90 @@ tags:
 > - Forgetfulness
 > - Future
 
-> [!danger] Strong start
-
-**Christmas party**
-- PCs can mingle with people from the station during the evening.
-- They can also meet the bank auditor [ElianaMurovec](../npcs/ElianaMurovec.md)
-- During the party, [CassianVireo](../npcs/CassianVireo.md) will set up one bomb in the banker transport (that would carry the Novium ingots) and one in the fusion reactor of the station
-	- TREMOR: One of the bombs will go off randomly 1-10 for each hour of the party, roll d6 to determine which bomb goes off
-- The guy that cleaned the [Frostbreaker](../objects/Frostbreaker.md) becomes nuts (if there is ice mined in the ship). Eventually, others in the station will also become mad and violent. PCs may do a mental save or gain SS. GM adds tension die every time a PC fails on the save.
-
-***Look at the oracle for ideas. There is an ongoing chat.***
-
 > [!example] Situations 
 
-**Frostbreaker clean up**
-The exterminator cleans the ship. It was infested with [PopperSwarm](../statblocks/PopperSwarm.md) spores. He explains about this creatures.
+**Arrival of Sabaka**
+- The banker transport arrives and, while they wait and prepare to disembark, a burnt escape pod also arrives in the station.
+- Inside the pod is [Sabaka](../pcs/Sabaka.md), unconscious. There is also a significant amount of transparent and reflective goo.
+- A technician takes the goo to the station laboratory for study.
+- Sakaba is taken to the infirmary, where they are evaluated. [Oliver](../pcs/Oliver.md) Bennet helps Dr [SuyinIndrani](../npcs/SuyinIndrani.md) and finds a metallic object inside Sabaka's anus. Sabaka wakes up as the object is being removed.
+- [Olaf](../pcs/Olaf.md) and [Oni](../pcs/Oni.md) go to the [Frostbreaker](../objects/Frostbreaker.md) to study the egg like metallic object.
+- Bennet stays in the infirmary with Sabaka and [Danny](../pcs/Danny.md), who were recovering from the [PopperSwarm](../statblocks/PopperSwarm.md) attack.
 
-**Investigate Dutta's documents**
-Purchase orders from **Recombination Group** ([logo](https://i.imgur.com/1ouPtfu.png)) and forecast demand of Novium to make **Nanites**.
-MoU with [makita](../factions/makita.md)'s subsidiary for ice mining rights - although the two companies are competitors
+![|400](https://i.imgur.com/7c4MxZ1.png)
 
-**[RolandLomax](../npcs/RolandLomax.md) makes his move against [YashDutta](../npcs/YashDutta.md)**
-Lomax wants the PCs to be on his side, to show force.
-Let PCs interfere with the auditor, [RolandLomax](../npcs/RolandLomax.md) and [YashDutta](../npcs/YashDutta.md) if they want.
+**Research the metallic egg and the alien language filmed.**
+- Oni and Olaf are in the Frostbreaker, and start researching the alien bas relief from the cold tomb, recorded on film month ago.
+- **Metallic egg**
+	- Oni researches the egg. It is made of some unknown metal, with hardness 6.5 (slightly harder than a steel alloy)
+	- The egg does not crush when hit repeatedly with a hammer, but no further destructive tests were conducted.
 
-**Infirmary chat**
-[SuyinIndrani](../npcs/SuyinIndrani.md) will ask PCs to spy on Lomax, and try to accompany him to the empty graves.
+![](https://i.imgur.com/gCdfOrE.png)
 
-**Meeting update with [JohnMcLeod](../npcs/JohnMcLeod.md)**
-What are the updates on the new contract?
-
-**Someone that goes crazy sees the construction of Nibiru**
-
-**Research on the alien language filmed.**
-- **Objective**: Gain knowledge
-- **3/5**: view of a space suit camera through icy water
-- **2+**:
+- **Film**
 	- Bas relief is ritualistic in nature
-	- some parts of the insectoids seem to had metal covering, but that has long rusted and is mostly gone
-- **3x3**:
-	- Brain ([TraktorianoHumanoid](../statblocks/TraktorianoHumanoid.md)) species can move between 2 bodies
-	- Insectoid ([MetalianoXX121](../statblocks/MetalianoXX121.md)) carry swords. Sometimes only their contour is depicted
-	- Insectoid were the slavers
+	- On the right side, multiple species are shown to be linked somehow. This can be an evolutionary link, a carrier link, some kind of multi symbiosis or maybe some hive mind. They do remind Earth animals somehow.
+	- On the left side, a technological insect humanoid species seems to control the other civilisation. They are clearly aliens to the beings on the right side.
+	- It seems that the approach taken by the insectoids is to swarm a civilisation and conquer. They are shown with weapons.
 
 ![|400](https://i.imgur.com/8Q6BYmV.png)
 
-**Continue mining, but much faster now.**
-- There are 3 other mining ships from Tharsis now, mining the asteroid. The ICO is coming and shit will get messy.
-	- Roll random encounters
-- Work **urgently** and **stealthily**.
-	- Known Ice chunks: Cold Tomb and Empty Graves
+- As they look at the video, Olaf becomes very interested in the insectoid aliens and his mind is suddenly taken by the memories and emotions of his abduction decades ago. His mind rebuilds a perfect image of these aliens as Olaf starts to become anxious.
+
+![|400](https://i.imgur.com/8D39rQN.png)
+
+- Half a second later a flash of light is seen from one of the windows of the Frosbreaker, Olaf curls himself in the floor, repeating some kind of mantra. Oni looks at the windows and sees that some kind of explosion has happened on the high deck of Brigthside.
+
+**Bombs in Brightside**
+- For those in Brigthside, a tremor is felt, and the alarm goes off first, then lights turn off, while emergency lights turn on.
+- Bennet and Danny come down from the infirmary carrying Sabaka, to meet Olaf and Oni again on the cargo bay.
+- The banker transport is preparing to depart, to avoid any kind of terrorist act that seems to be taking place in the station. As the belly of the ship is exposed, Olaf and Oni immediately notice some kind of explosive attached to the ship.
+- Olaf rapidly informs this on open channel to the banker transport and 20 seconds later a escape pod leaves the ship. A second escape pod leaves a minute later. The transport does not explode, yet.
+
+**Investigate Dutta's documents**
+- Olaf speaks with [RolandLomax](../npcs/RolandLomax.md) and take the documentations that would expose Dutta from Roland's hands. Roland is ok with it, feeling it is the best route of action.
+- Oni quickly parse these documents and finds:
+	- Embezzlement of [YashDutta](../npcs/YashDutta.md), who stole money during the construction of Brightside, alonside the son of one of the private minor investors.
+	- Purchase orders from **Recombination Group** ([logo](https://i.imgur.com/1ouPtfu.png)) for shipment of Novium - which might explain the fact the the station was not meeting Haruna's production quotas.
+	- MoU with [makita](../factions/makita.md)'s subsidiary for ice mining rights - although the two companies are competitors and such an extraction agreement would not be allowed in the new space law from the [ico](../factions/ico.md).
+
+![](https://i.imgur.com/xE2V8yO.png)
+
+**Repairs on the fusion reactor**
+- Oni and Bennet go to the high deck to help repair the fusion reactor. The core is not damaged, but most auxiliary systems are destroyed. It will take weeks, if not months, for a complete fix. A crew of technicians start the work.
+
+**The Haruna Banker**
+- [ElianaMurovec](../npcs/ElianaMurovec.md) and her bodyguard leave the transport
+- Olaf softly tells her of the documents the crew has in their possession.
+- Eliana agrees to a private conversation inside her pod where Olaf shares what he knows, and the documentation that proves it.
+- Eliana is flabbergast, and after thinking of her options, she offers to pay Olaf to take her back to [TheSolomons](../locations/TheSolomons.md).
+- Olaf explains he needs to discuss it with his crew first, and leaves the pod.
+
+![](https://i.imgur.com/q6m1Pir.png)
+
+**Conversation with [CassianVireo](../npcs/CassianVireo.md)**
+- Bennet finds Cassian again, in the midst of turmoil in the station.
+- Cassian explain she has been working in the Midnight Sun bar, and wishes to go back and leave Brightside, as she is afraid of what is happening.
+- Bennet promises to contact her again before they depart.
+
+**Decisions**
+- The crew meets again in the cargo bay, and decide they will take the banker.
+- Before they leave, Bennet, Danny and Sabaka go to the Midnight Sun bar and speak with [MarionHardlee](../npcs/MarionHardlee.md). Marion confirms Cassian was never an employee on the bar. The crew decides to leave her behind, and it would be too risky to confront her now.
+- Bennet decides to inform the risk of Cassian to Roland, who becomes very unpleased. Roland demands that the Frosbreaker crew take Cassian back, if there is a risk she is the bomber. It was the Frostbreaker who brought Cassian to the station in the first place.
+- The conversation does not go well, and it turns to violence. Bennet quickly stab Roland twice before Roland decides to give up this fight. Roland covers his wound, and decide to go to the infirmary.
+- The crew discusses and decide it is best to leave Roland alive.
+- They board Eliana in the Frostbreaker and depart the station.
+
+**Leaving Perdurabo, and...**
+- The Frostbreaker scoops hydrogen fuel from the penumbra of The Beast and are ready to go.
+- Around two days later, close to the edge of the Perdurabo system, something hard and heavy hits the Frostbreaker.
+- Alarms go off:
+	- Mass centre of the ship has chanced, something is attached to the Frostbreaker...
+	- There is an attempt to breach the hull...
+	- Nothing is seen, but the hull is cut open cold...
+	- A flap of the hull is pulled to the outside, opening a hole...
+- The crew quickly move to the citadel of the ship once more. They take the metallic egg, inside a Faraday cage, with them. The rest of the ship looses pressure to space.
+- It will be an uncomfortable week travelling to [Defiance](../locations/Defiance.md), packed inside the citadel, with 2 additional people, and maybe *something* outside...
 
 > [!bug] Random encounters
 
