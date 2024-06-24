@@ -1,7 +1,7 @@
 ---
 name: Chaos in Brightside
 game_date: 2225-12-30
-pcs: "[Olaf](../pcs/Olaf.md), [Oni](../pcs/Oni.md), [Oliver](../pcs/Oliver.md), [Danny](../pcs/Danny.md), [Sabaka](../pcs/Sabaka.md)"
+pcs: "Olaf, Oni, Oliver, Danny, Sabaka"
 levels: 13
 heat: 
 

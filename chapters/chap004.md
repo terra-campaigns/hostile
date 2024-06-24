@@ -1,7 +1,7 @@
 ---
 name: MadSpark perishes
 game_date: 2225-11-23
-pcs: "[Olaf](../pcs/Olaf.md), [Oni](../pcs/Oni.md), [MadSpark](../pcs/MadSpark.md), [Oliver](../pcs/Oliver.md)"
+pcs: "Olaf, Oni, MadSpark, Oliver"
 levels: 8
 heat: 4
 

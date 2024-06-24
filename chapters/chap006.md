@@ -1,7 +1,7 @@
 ---
 name: Start of Dutta's fall
 game_date: 2225-12-10
-pcs: "[Olaf](../pcs/Olaf.md), [Oni](../pcs/Oni.md), [Oliver](../pcs/Oliver.md), [Danny](../pcs/Danny.md)"
+pcs: "Olaf, Oni, Oliver, Danny"
 levels: 7
 heat: 
 
