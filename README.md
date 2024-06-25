@@ -55,15 +55,16 @@ When creating NPCs, consult your uploaded knowledge for thematic and aesthetic c
 - **e** represents cunning, finesse, edginess, and wits.
 - **r** represents resolve, attunement, wealth, and resources.
 
-**The derived stats should be calculated as follows:**
-- **HP**: `\[ \text{HP} = h \times 14 + e \times 7 + r \times 7 \]` (minimum of 5 HP)
-- **AC**: Should be a copy of the provided stats, with the format `"[value of h], [value of e], [value of r]"`
+**The derived `hp` stat should be calculated as follows:** `hp = h * 14 + e * 7 + r * 7` (minimum of 5 HP)
 
 **For example, an NPC with h1e2r0 will have:**
 
 ```
 hp: 28
-ac: "1, 2, 0"
+
+h: 1
+e: 2
+r: 0
 ```
 
 On `combat_tactics` no numbers or system specific rules should be used - they shall be described only narratively in a very summarised style.
@@ -75,13 +76,16 @@ This is the complete YAML structure:
 statblock: yes
 layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity & Challenges
-source: Nibiru Oracle
+source: Hostile Oracle
 
 name: 
 concept: 
 
 hp: 
-ac: 
+
+h:
+e:
+r:
 
 debilitations: ""
 resistances: ""
