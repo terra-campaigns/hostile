@@ -7,12 +7,11 @@ meta:
   campaign: Hostile
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
   parent: ICO Terran Mandate
-  die: Light-blue
 
-stats:
-- cunning: 8
-- force: 7
-- wealth: 4
+h: 7
+e: 8
+r: 4
+
 ---
 
 # Interstellar Commerce Organisation (ICO) American Sector

@@ -1,17 +1,16 @@
 ---
 name: Book of the Sky Solomons
+status:
 
 meta:
   category: faction
   campaign: Hostile
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
   parent: 
-  die: Orange
 
-stats:
-- cunning: 5
-- force: 2
-- wealth: 4
+h: 2
+e: 5
+r: 4
 ---
 
 # Book of the Sky Solomons

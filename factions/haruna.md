@@ -1,17 +1,17 @@
 ---
 name: Haruna Biolabs Solomons
+status:
 
 meta:
   category: faction
   campaign: Hostile
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
   parent: Wu-Ketai
-  die: Pink
 
-stats:
-- cunning: 5
-- force: 1
-- wealth: 5
+h: 1
+e: 5
+r: 5
+
 ---
 
 # Haruna Biolabs Solomons

@@ -1,17 +1,17 @@
 ---
 name: Lebkuchen Defiance
+status:
 
 meta:
   category: faction
   campaign: Hostile
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
   parent: 
-  die: Grey
 
-stats:
-- cunning: 3
-- force: 5
-- wealth: 2
+h: 5
+e: 3
+r: 2
+
 ---
 
 # Lebkuchen Defiance

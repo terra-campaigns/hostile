@@ -1,17 +1,17 @@
 ---
 name: Tharsis Mining American
+status:
 
 meta:
   category: faction
   campaign: Hostile
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
   parent: Tharsis
-  die: Dark blue
+ 
+h: 5
+e: 6
+r: 7
 
-stats:
-- cunning: 6
-- force: 5
-- wealth: 7
 ---
 
 # Tharsis Mining American

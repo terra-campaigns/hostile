@@ -1,20 +1,20 @@
 ---
 name: Makita Genetics Solomons
+status:
 
 meta:
   category: faction
   campaign: Hostile
   sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
   parent: Wu-Ketai
-  die: Dark blue
 
-stats:
-- cunning: 5
-- force: 2
-- wealth: 5
+h: 2
+e: 5
+r: 5
+
 ---
 
-# Makita Genetics  Solomons
+# Makita Genetics Solomons
 
 A market leader in genetics and the creator of Retrogenics, the science of retroactively splicing and force-growing animal or engineered DNA into a host. Retrogenics technology is experimental and not licensed for use on humans. The chairman of Makita is the mysterious Taneo Tomita, a virtual recluse in the Tokyo Sky Tower that serves as the corporation’s global headquarters. The corporation spends a great deal on its public image and the corp is seen as the first of a new kind of company that could change the world and the destiny of the human race purely through genetics. The company has incorporated several medical companies including Alcor, the 1970s cryogenics firm. Makita made the cryonics breakthrough that now allows full-body freezing (or ‘stasis’) using the now ubiquitous hypersleep chamber. Makita’s rival is [Haruna Biolabs](haruna.md).
 
