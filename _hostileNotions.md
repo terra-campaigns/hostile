@@ -6,32 +6,29 @@ kanban-plugin: basic
 
 ## Inbox
 
-- [ ] Villains: bestial alien species, environment and institutions
-- [ ] If PCs want to steal the Icebreaker, they can cool its plates in The Solomons.
-- [ ] Add some degenesis bygone factions
-- [ ] PCs will find documentation related to RG in Brightside when they look into Dutta documents
-- [ ] Define faction goals
 - [ ] Harry tungla knows there was a person inside the box
-- [ ] Roland lomax knows the PCs work for Tharsis
-- [ ] There is an issue with the fusion reactor now of the Frostbreaker
 - [ ] Add some important NPC from the bygones of DEG
 - [ ] Oni's friend will send the mobile extractor micro refinery (costing 1.2x) to Brightside. Arrives on 17/Jan.
 - [ ] Lomax also mentions that another [tharsisMining](../factions/tharsisMining.md) ship (the Ore Voyager) recently refuelled in Brigthside, and the crew updates him that they also work for Tharsis. '*Why is Tharsis Mining involved in finding alien artefacts?*'. This can come to rescue the PCs if the nuclear reactor is destroyed. The ship will be carrying Ice, which might infect everyone in the station.
+- [ ] Implement trinity on *WN
 
 
 ## foreshadowing
 
 - [ ] Haruna will spin off Haruna Salomons to become the RG: https://degenesis.fandom.com/wiki/Recombination_Group to develop Nanites technology. It requires Novium for it (and that is why Haruna is in Perdurabo) and the black dust from Crow.
+- [ ] More RG stuff
 - [ ] Mine as much as possible of the mRNA to produce large quantities of Aetherium
+- [ ] Lebkuchen becomes the apocalyptics from DEG
+- [ ] Book of Sky becomes Jehammed
 
 
 ## snoozed
 
 - [ ] RNA is a virus that will infect all human networks for knowledge
 - [ ] Book of sky as a cult, after playing dead planet. Check shadows in the sky SL178
-- [ ] Alien from Olaf and Sabaka story are Metalianos
+- [ ] Add some degenesis bygone factions
 - [ ] While deleting films that proof The Boxer is alive, some third level backup was missed. Analysis finished on January 7th will reveal that and connect the dots that Boxer is alive. Move the box was a 7 on the die. Harry Tungla (the trucker company guy) might open his mouth.
-- [ ] Crew on Brightside knows that the Doomborgs were taking the pannels from the Frostbreaker. Maybe they know the reason, maybe they don't.
+- [ ] Roland lomax knows the PCs work for Tharsis
 
 
 ## parkingLot
@@ -41,8 +38,8 @@ kanban-plugin: basic
 - [ ] Asteroids coming to wipe earth.
 - [ ] Mission to transport ignition tech to Nibiru
 - [ ] The perfected: https://www.google.com/search?client=ms-android-google&sca_esv=600476754&sxsrf=ACQVn0-lFzcAf5xkHc3NPIHV8GbwKskuMQ:1705958146411&q=H.+R.+Giger+Li&tbm=isch&source=lnms&prmd=ivnmbtz&sa=X&ved=2ahUKEwjo5MWq9fGDAxVW1AIHHbP6Cq4Q0pQJegQIDhAB&biw=485&bih=916&dpr=2.98#imgrc=C83VBpi5IFdnJM&imgdii=TRw0XrI__uM0nM
-- [ ] Metalianos attack Brightside
-- [ ] Evourec is alien 120
+- [ ] Define faction goals
+- [ ] If PCs want to steal the Icebreaker, they can cool its plates in The Solomons.
 
 
 ***
@@ -80,6 +77,19 @@ kanban-plugin: basic
 - [ ] Maintenance pay for cyber from 2226-Nov?
 - [ ] The guy that had the eyes stolen searches for the Doomborgs
 - [ ] Starts on next faction turn: Chain reaction from Tharsis to Haruna, then to Makita, then to ICO.
+- [ ] Villains: bestial alien species, environment and institutions
+- [ ] PCs will find documentation related to RG in Brightside when they look into Dutta documents
+- [ ] There is an issue with the fusion reactor now of the Frostbreaker
+- [ ] Lebkuchen celebrates the destruction of brightside and claim the act
+- [ ] "Dutta was stealing money and Roland was onto him. He had proof of embezzlement including a file with...... (Makita and Haruna deal explained) and a PO with .... (reCombination group buying Novium). Brightside station might be at risk of loss. Other megaCorps will be hawking around it for a while until things stabilize. Use this information as you wish. <br><br>Singed by: the MECHAnic "
+- [ ] Add and represent the noises of scenes
+- [ ] List of random names and random locations
+- [ ] Lebkuhen claims terrorism on Brightside
+- [ ] Station management lost its way, time to take over. -> Tharsis and Makita will compete.
+- [ ] Alien from Olaf and Sabaka story are Metalianos
+- [ ] Crew on Brightside knows that the Doomborgs were taking the pannels from the Frostbreaker. Maybe they know the reason, maybe they don't.
+- [ ] Metalianos attack Brightside
+- [ ] Evourec is alien 120
 
 %% kanban:settings
 ```
