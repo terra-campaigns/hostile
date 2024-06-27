@@ -1,13 +1,52 @@
 ---
-statblock: 'no'
-layout: Terra Campaigns Leiaute v04b
-template: Terra Campaigns 3 Attribute NPCs
+statblock: yes
+layout: Terra Campaigns Leiaute v04d
+template: Terran Trinity & Challenges
 source: Invasão
 
-name: Metaliano XX121
-concept: Xenemorph Metaliano
+name: Korvax-7 (Metaliano XX121)
+concept: Hive-Minded Bio-Metallic Scout
 
+hp: '70'
 
+h: 3
+e: 2
+r: 2
+
+debilitations: "Vulnerable to strong electromagnetic pulses"
+resistances: "Immune to poison and radiation"
+senses: "Advanced electromagnetic field detection"
+other_traits: "Nearly invisible by manipulating EM light fields"
+
+combat_tactics:
+- name: Electromagnetic Cloak
+  desc: Activates invisibility to approach targets unnoticed or evade detection.
+- name: Metal Manipulation
+  desc: Uses control over metal to create barriers or disarm enemies.
+- name: Strength of Steel
+  desc: Engages in melee combat using superior physical strength.
+- name: Hive Coordination
+  desc: Coordinates with other Metalianos for strategic advantages, such as flanking or pincer movements.
+
+personality:
+- name: Virtue
+  desc: Hive-minded unity, acting with collective efficiency and purpose.
+- name: Flaw
+  desc: Lack of individuality, struggles with concepts not benefiting the hive.
+- name: Problem
+  desc: Difficulty understanding and predicting human emotions and motivations.
+
+roleplay:
+- name: Aspect
+  desc: Communicates through luminescent patterns and vibrations; no facial expressions.
+- name: Voice
+  desc: Emits harmonic and otherworldly vibrational sounds.
+- name: Idiosyncrasy
+  desc: Body movement like an insect
+- name: Languages
+  desc: Communicates through a unique blend of light signals and low-frequency vibrations.
+
+npc_link: "[MetalianoXX121](MetalianoXX121.md)"
 ---
 
 - [ ] https://theoreticalgm.blogspot.com/2016/04/90s-era-sci-fi-horror-monster-stats.html?m=1
@@ -67,6 +106,8 @@ Metalianos possess a striking, otherworldly appearance that blends the mechanica
 
 ![](https://i.imgur.com/IrmgvpS.png)
 
+
+![](https://i.imgur.com/dmPWCvD.jpeg)
 
 
 ---
