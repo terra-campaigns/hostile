@@ -2,26 +2,14 @@
 
 ## Brightside Station
 
-- [ ] Haruna's chairman (Tang)'s son (Gui) tried to steal operation money from the Matsuyama's bank 
-- [ ] Brightside Station was built here fifty years ago, its materials brought up from the half-melted planetoid of iron and rock that serves as its shield against Perdurabo.
-- [ ] The star emits tiny particles of novium amid its sleet of radiation. This rare substance is vital for the new SMU memory systems.
-- [ ] Director Yash Dutta framed Gui
-- [ ] Tang's family is blackmailing Dutta, who is scared and does not leave Brightside
-- [ ] Refined novium is not as rich as expected, and the project is struggling to keep up quotas
-- [ ] For Dutta, the selling of Brightside would be a death sentence.
-- [ ] Roland Lomax, the station cargo chief and a bitter enemy of Dutta. He want the Directorship of the station
 - [ ] Roland is an outlaw from another system.
-
-## Sky tombs
-
-- [ ] A tablet was found in the first tomb, within the sepulchre, which gave the astronomic coordinates of more of the well hidden “sky tombs”.
-- [ ] Pilgrimages to Hard Light in order to plunder these ancient tombs.
-- [ ] A few of the ancient rocks are known to be inhabited by hermits or small, reclusive communities that care little for outsiders. They do minimal trade with Brightside Station for the necessities they require.
-- [ ] Alien race are the ancestors of the [ngar-tho](../arrival/statblocks/ngar-tho.md)
+- [ ] Haruna apologises to the public because of the operational accident in Perdurabo. They step down from their license on the system, which is now put back on the ICO for new tender.
+- [ ] Makita allies with Tharsis and an agreement is signed to operate Perdurabo. A third party company is put in control, to avoid issues with the ICO. RG takes the operations and will continue to sell to all interested parties.
+- [ ] Alien race in Sky Tomb are the ancestors of the [ngar-tho](../arrival/statblocks/ngar-tho.md)
 
 ## Rest of sector
 
-- [ ] The Boxer's crew assassinated informants of ICO in The Salomons - and this has pissed of many supporters of the ICO.
-- [ ] [tharsisMining](factions/tharsisMining.md) has disgraced the Boxer because of assassinations. It has now gained further support from the [ico](factions/ico.md) and is becoming the strongest player in the sector.
+- [ ] [tharsisMining](factions/tharsisMining.md) has disgraced the Boxer because of assassinations of ICO members. It has now gained further support from the [ico](factions/ico.md) and is becoming the strongest player in the sector.
 - [ ] The ICO traces the presence of the Doomborgs in Teegarden Star, and now are interested in the Doomborgs as well.
 - [ ] [lebkuchen](factions/lebkuchen.md) riot invaded a small refinery [makita](factions/makita.md) had on Solomons and destroyed it. The refinery's purpose is unknown, something shady.
+- [ ] RG purchases the Baikonur spaceport from the Kazakhstan government.
