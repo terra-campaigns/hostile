@@ -6,7 +6,7 @@ source: Homebrew for Hostile
 
 name: John McLeod
 concept: AI, GM Ice Exploration Tharsis Mining
-hp: '16'
+hp: '14'
 hit_dice: 4d6
 ac: '12'
 
@@ -14,6 +14,10 @@ debilitations: ~
 resistances: ~
 immunities: ~
 senses: ~
+
+h: 0
+e: 1
+r: 1
 
 stats:
 - brawl: '+0'

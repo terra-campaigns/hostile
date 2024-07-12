@@ -37,3 +37,7 @@ npc_link: "[ElianaMurovec](ElianaMurovec.md)"
 ---
 
 ![](https://i.imgur.com/vwOnWha.png)
+
+## Links
+
+[haruna](../factions/haruna.md)

@@ -1,4 +1,6 @@
-Expanding on the lore of Nibiru and considering its vast capabilities, mysteries, and the advanced technologies it likely houses, a rare ingredient that could have been required for its construction might be a substance or element known as **"Aetherium"**. Aetherium, in this speculative extension of the lore, would be a material not found on any periodic table known to the civilizations of the galaxy. Its properties and capabilities could include:
+Aetherium is a speculative, advanced material central to the construction and functioning of the space station Nibiru. Its unique properties and capabilities make it an essential component in various high-tech applications.
+
+**Properties and Capabilities:**
 
 1. **Energy Manipulation**: Aetherium could possess the unique ability to manipulate and store vast amounts of energy in a stable form, making it the heart of Nibiru's power systems. This would allow the station to support life, maintain its structure, and power any defenses or systems without the need for traditional fuel sources.
 
@@ -12,26 +14,19 @@ Expanding on the lore of Nibiru and considering its vast capabilities, mysteries
 
 6. **Consciousness Interface**: The material could interact directly with the consciousness of beings, allowing for intuitive control of the station's systems and an empathetic bond between Nibiru and its inhabitants. This would add a mystical or almost magical aspect to the technology of the station.
 
-Incorporating Aetherium as a core element in the lore of Nibiru not only enriches the mystery and allure of the space station but also provides a versatile foundation for storytelling, offering game masters and players a wide canvas for their adventures.
+**Synthesis Components:**
 
-To synthesize Aetherium in large quantities, considering its described properties and the inclusion of a cognitive enhancement mRNA component and Novium as a radiative energy carrier, the third component required could be something known as **"Quantex Crystals."** These crystals would serve multiple critical functions in the creation of Aetherium:
+To synthesize Aetherium, three key components are required:
 
-1. **Catalyst for Synthesis**: Quantex Crystals could act as a catalyst, facilitating the binding of the cognitive enhancement mRNA with Novium. This process would not only enable the production of Aetherium but also ensure its stability and the preservation of its unique properties.
+1. **Cognitive Enhancement mRNA**: For memory and cognitive capabilities.
+2. **Novium**: Acts as a radiative energy carrier.
+3. **Quantex Crystals**: Serve multiple critical functions, including acting as a catalyst for synthesis, providing dimensional stability, amplifying and regulating energy, and contributing to the formation of a memory matrix.
 
-2. **Dimensional Stability**: Given Aetherium's capability to potentially manipulate or interface with different dimensions or realities, Quantex Crystals might provide the dimensional stability needed for Aetherium to safely harness and interact with these energies without causing harm to the space-time continuum or the station itself.
+These components harmoniously integrate advanced genetics, energy manipulation, and quantum physics to produce Aetherium, a material with unparalleled properties suited for the sophisticated technology of the space station Nibiru.
 
-3. **Energy Amplification and Regulation**: While Novium acts as a radiative energy carrier, Quantex Crystals could amplify and regulate this energy, allowing for the precise control necessary to power Nibiru's diverse systems and habitats. This regulation ensures that energy is distributed evenly and only as needed, preventing overloads or energy waste.
+## Links
 
-4. **Memory Matrix Formation**: In conjunction with the cognitive enhancement mRNA, Quantex Crystals could contribute to the formation of a memory matrix, a structural component of Aetherium that allows it to store and project memories. This matrix would be essential for the memory encoding and projection capabilities that are central to Nibiru's lore.
-
-5. **Environmental Adaptation**: The crystals might also allow Aetherium to adapt its properties based on environmental needs, such as changing its form or function to repair damage, create new habitats, or adjust its energy output.
-
-The synthesis of Aetherium, therefore, would not only require a highly advanced understanding of genetics, energy manipulation, and quantum physics but also a harmonious integration of these three components: the cognitive enhancement mRNA for memory and cognitive capabilities, Novium for energy manipulation and carrying, and Quantex Crystals for catalysis, dimensional stability, energy regulation, and the creation of a memory matrix. This combination would result in a material with unparalleled properties, fitting for the heart of a space station as mysterious and powerful as Nibiru.
-
-[tharsisMining](../factions/tharsisMining.md) has been purchasing all the Novium from the market through laranjas.
-
-Aetherium needs to be synthesized to be sent to Formahault to kick start Nibiru. Everyone that sees Nibiru Will have to join the crew and loose their memories. This ends the campaign.
-
-Adds [TraktorianoHumanoid](../statblocks/TraktorianoHumanoid.md) DNA to the mix.
-
-Both mRNA and Novium are extracted from Perdurabo 
+[tharsisMining](../factions/tharsisMining.md)
+[RG](../factions/RG.md)
+[haruna](../factions/haruna.md)
+[makita](../factions/makita.md)

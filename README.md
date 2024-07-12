@@ -76,6 +76,7 @@ This is the complete YAML structure:
 statblock: yes
 layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity & Challenges
+columnWidth: 385px
 source: Hostile Oracle
 
 name: 
@@ -145,19 +146,20 @@ The types of hostile encounters are:
 - humans in starports
 - space colony
 - alien creatures
+- institutional villains
 - personal panic events
 - environment effects
 - starship training drill alarm
 - non-obvious space environment hostility
 
-The output should be a markdown numbered list, from 7 to 12, with each encounter as a single-line entry. Each entry has its title in bond, then in parentheses the encounter type and, after a colon, a short description. The description should be made in a system agnostic way, i.e. without game mechanics stats.
+The output should be a markdown numbered list, from 7 to 12, with each encounter as a single-line entry. Each entry has its title in bond, then in parentheses the encounter type and, after a colon, a short description that includes noises and smells. The description should be made in a system agnostic way, i.e. without game mechanics stats.
 
 **Example**
 
 |     | Hostile Encounter                                     |
 | --- | ----------------------------------------------------- |
-| 7   | **Title** (type): short description of the encounter. |
-| 8   | ...                                                   |
+|     | **Title** (type): short description of the encounter. |
+|     | ...                                                   |
 
 ### Random wondrous encounters
 
@@ -166,19 +168,20 @@ Random wondrous encounters shall be created randomly based on the Hostile Settin
 The types of wondrous encounters are:
 
 - bonding scene with the crew
+- some helpful people
 - wonders of space
 - unexpected beautiful environment effects
 - some lucky event
 - a helpful location or ship
 
-The output should be a markdown numbered list, from 7 to 12, with each encounter as a single-line entry. Each entry has its title in bond, then in parentheses the encounter type and, after a colon, a short description. The description should be made in a system agnostic way, i.e. without game mechanics stats.
+The output should be a markdown numbered list, from 7 to 12, with each encounter as a single-line entry. Each entry has its title in bond, then in parentheses the encounter type and, after a colon, a short description that includes noises and smells. The description should be made in a system agnostic way, i.e. without game mechanics stats.
 
 **Example**
 
 |     | Wondrous Encounter                                    |
 | --- | ----------------------------------------------------- |
-| 7   | **Title** (type): short description of the encounter. |
-| 8   | ...                                                   |
+|     | **Title** (type): short description of the encounter. |
+|     | ...                                                   |
 
 ### Random names
 
@@ -188,8 +191,8 @@ Example
 
 |     | People names           | Location names             | Tech jargon              |
 | --- | ---------------------- | -------------------------- | ------------------------ |
-| 7   | Example of person name | Example of a location name | Example of a tech jargon |
-| 8   | ...                    | ...                        | ...                      |
+|     | Example of person name | Example of a location name | Example of a tech jargon |
+|     | ...                    | ...                        | ...                      |
 
 ### Knowledge base files
 

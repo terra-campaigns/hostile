@@ -2,16 +2,17 @@
 statblock: yes
 layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity & Challenges
+columnWidth: 385px
 source: Invasão
 
-name: Korvax-7 (Metaliano XX121)
+name: Metaliano XX121
 concept: Hive-Minded Bio-Metallic Scout
 
-hp: '70'
+hp: '42'
 
-h: 3
-e: 2
-r: 2
+h: 2
+e: 1
+r: 1
 
 debilitations: "Vulnerable to strong electromagnetic pulses"
 resistances: "Immune to poison and radiation"
@@ -48,6 +49,17 @@ roleplay:
 
 npc_link: "[MetalianoXX121](MetalianoXX121.md)"
 ---
+
+
+![](https://i.imgur.com/IrmgvpS.png)
+
+
+![](https://i.imgur.com/dmPWCvD.jpeg)
+
+```statblock
+creature: Metaliano XX121
+```
+
 
 - [ ] https://theoreticalgm.blogspot.com/2016/04/90s-era-sci-fi-horror-monster-stats.html?m=1
 - [x] Livro invasao
@@ -104,12 +116,6 @@ Adding the ability for Metalianos to become translucent not only enhances their 
 
 Metalianos possess a striking, otherworldly appearance that blends the mechanical with the organic. Standing taller than the average human, their bodies are sculpted from a shimmering bio-metallic compound that gleams like polished steel under light. Lacking traditional facial features, Metalianos communicate through an intricate array of luminescent patterns that dance across their chest cavities, emitting soft, harmonious vibrations. Their limbs are slender yet show an underlying strength, capable of delicate precision or formidable power. A unique ability to manipulate electromagnetic fields allows them to become translucent at will, their forms blurring into near invisibility as light bends around them, leaving only a faint, ghostly outline visible to the naked eye. This ethereal quality, combined with their enigmatic presence, makes Metalianos a truly mesmerizing species to behold.
 
-![](https://i.imgur.com/IrmgvpS.png)
-
-
-![](https://i.imgur.com/dmPWCvD.jpeg)
-
-
 ---
 ### Extras
 
@@ -118,3 +124,5 @@ The peaceful existence of the [ngar-tho](ngar-tho.md) ended when they encountere
 Chittik are roughly human-sized, with a segmented body, four compound eyes, six limbs, chewing mandibles, and a flat, beetle-like torso that terminates in a forward-curling, scorpion-like ovipositor. They have two legs for walking and four for manipulating, each manipulator-leg ending in a three-fingered hand. They are omnivores, though they prefer meat.
 
 Chittik are almost entirely female, save for a few sluggish drone males that serve to fertilize the females. Reproduction requires the oviposition of hundreds of small eggs into the body of a host mammal. The paralytic venom of the Chittik is useless on mammals not native to their world, so victims generally must be restrained by other means. The eggs gestate for two weeks before hatching and eating their way out of the host.
+
+Enemies of the [TraktorianoHumanoid](TraktorianoHumanoid.md)
