@@ -12,6 +12,12 @@ h: 5
 e: 4
 r: 1
 
+s: 3
+
+scheme:
+  goal: Get the Doomborgs to work with them
+  progress: 4/10
+  milestone: Get a fixer to speak to the Doomborgs
 ---
 
 # Lebkuchen Defiance

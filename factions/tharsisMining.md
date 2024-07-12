@@ -12,6 +12,12 @@ h: 5
 e: 6
 r: 7
 
+s: 6
+
+scheme:
+  goal: Adapt to a problem with AI managers
+  progress: 4/20
+  milestone: Get John McLeod fired
 ---
 
 # Tharsis Mining American

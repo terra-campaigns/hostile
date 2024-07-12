@@ -12,6 +12,12 @@ h: 2
 e: 5
 r: 6
 
+s: 4
+
+scheme:
+  goal: Build financial resources
+  progress: 9/30
+  milestone: Stock a large quantity of Novium
 ---
 
 # Makita Genetics Solomons

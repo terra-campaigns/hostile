@@ -12,6 +12,12 @@ h: 7
 e: 8
 r: 4
 
+s: 6
+
+scheme:
+  goal: Enthrone a leader
+  progress: 7/40
+  milestone: Damage/fine Tharsis, as a scape goat
 ---
 
 # Interstellar Commerce Organisation (ICO) American Sector
