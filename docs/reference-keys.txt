@@ -38,6 +38,7 @@ makita
 rg
 tharsis
 locations
-near-earth-zone
+nez
+fsz
 objects
 frostbreaker
