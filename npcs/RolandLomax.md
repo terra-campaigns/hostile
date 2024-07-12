@@ -54,7 +54,7 @@ roleplay:
 
 npc_link: "[RolandLomax](RolandLomax.md)"
 ---
-### Roland Lomax
+### Roland Lomax {#lomax}
 
 > Cargo Chief of Brightside Station
 

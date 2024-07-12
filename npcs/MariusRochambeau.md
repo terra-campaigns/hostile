@@ -50,7 +50,7 @@ roleplay:
 
 npc_link: "[MariusRochambeau](MariusRochambeau.md)"
 ---
-### Marius Rochambeau
+### Marius Rochambeau {#marius}
 
 > Scientific representative for [Makita](#makita)
 

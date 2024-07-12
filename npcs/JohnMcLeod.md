@@ -59,8 +59,8 @@ personality:
 
 npc_link: "[JohnMcLeod](JohnMcLeod.md)"
 ---
-### John McLeod
+### John McLeod {#johnmcleod}
 
-> AI, Supervisor of Ice Exploration [Tharsis Mining](#tharsis)
+> Supervisor of Ice Exploration [Tharsis Mining](#tharsis)
 
 ![](https://i.imgur.com/csVt4tj.png)

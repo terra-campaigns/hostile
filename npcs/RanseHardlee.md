@@ -53,7 +53,7 @@ roleplay:
 
 npc_link: "[RanseHardlee](RanseHardlee.md)"
 ---
-### Ranse Hardlee
+### Ranse Hardlee {#ranse}
 
 > Pilot of the Leadbelly
 > *DECEASED*

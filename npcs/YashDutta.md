@@ -54,7 +54,7 @@ roleplay:
 
 npc_link: "[YashDutta](YashDutta.md)"
 ---
-### Yash Dutta
+### Yash Dutta {#yash}
 
 > Director of Brightside Station
 
