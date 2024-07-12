@@ -53,17 +53,9 @@ roleplay:
 
 npc_link: "[RanseHardlee](RanseHardlee.md)"
 ---
+### Ranse Hardlee
+
+> Pilot of the Leadbelly
+> *DECEASED*
 
 ![](https://i.imgur.com/9GTszYL.png)
-
-## Background
-- ...
-
-## Connections
-- [BrightsideStation](../locations/BrightsideStation.md)
-- Husband of [MarionHardlee](MarionHardlee.md)
-- Dislikes [Olaf](../pcs/Olaf.md)
-
-## Key info and notes
-- ...
-

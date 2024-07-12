@@ -53,18 +53,8 @@ roleplay:
 
 npc_link: "[RandallBellows](RandallBellows.md)"
 ---
-# Randall Bellows
-***Prostitute working at the Clouds and Rain***
+### Randall Bellows
+
+> Prostitute working at the Clouds and Rain
 
 ![](https://i.imgur.com/Tsa2Km7.png)
-
-## Background
-- ...
-
-## Connections
-- [BrightsideStation](../locations/BrightsideStation.md)
-- [JaffaOkoye](JaffaOkoye.md)
-
-## Key info and notes
-- ...
-

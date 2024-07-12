@@ -19,7 +19,7 @@ scheme:
   progress: 6/50
   milestone: Stop a the Lebkuhen before they destroy more value
 ---
-### Haruna Biolabs Solomons
+### Haruna Biolabs Solomons {#haruna}
 
 ![](https://i.imgur.com/YPhNpQn.png)
 

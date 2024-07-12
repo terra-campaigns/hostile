@@ -56,20 +56,8 @@ roleplay:
 
 npc_link: "[LivingstonRoy](LivingstonRoy.md)"  
 ---
-# Livingston Roy
-***Security Chief of Brightside Station***
+### Livingston Roy
+
+> Security Chief of Brightside Station
 
 ![](https://i.imgur.com/xMXC8Lz.png)
-
-## Background
-- ...
-
-## Key info and notes
-- ...
-
-## Connections
-- [BrightsideStation](../locations/BrightsideStation.md)
-- [YashDutta](YashDutta.md)
-- [JaffaOkoye](JaffaOkoye.md)
-
-

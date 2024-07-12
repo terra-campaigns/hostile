@@ -53,19 +53,8 @@ roleplay:
 
 npc_link: "[JaffaOkoye](JaffaOkoye.md)"
 ---
-# Jaffa Okoye
-***Technical Chief of Brightside Station***
+### Jaffa Okoye
+
+> Technical Chief of Brightside Station
 
 ![](https://i.imgur.com/pWh5JDL.png)
-
-
-## Background
-- ...
-
-## Connections
-- [BrightsideStation](../locations/BrightsideStation.md)
-- [RandallBellows](RandallBellows.md)
-
-## Key info and notes
-- ...
-

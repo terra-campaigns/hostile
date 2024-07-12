@@ -52,19 +52,8 @@ roleplay:
 
 npc_link: "[MarionHardlee](MarionHardlee.md)"
 ---
-# Marion Hardlee
-***Owner of the Midnight Sun***
+### Marion Hardlee
+
+> Owner of the Midnight Sun
 
 ![](https://i.imgur.com/knPwkwz.png)
-
-
-## Background
-- ...
-
-## Connections
-- [BrightsideStation](../locations/BrightsideStation.md)
-- [RanseHardlee](RanseHardlee.md)
-
-## Key info and notes
-- ...
-

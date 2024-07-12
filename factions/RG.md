@@ -9,7 +9,7 @@ scheme:
   progress: 2/20
   milestone: Get their Psycho Strength vaccines certified
 ---
-### Recombination Group
+### Recombination Group {#rg}
 
 ![](https://i.imgur.com/xE2V8yO.png)
 

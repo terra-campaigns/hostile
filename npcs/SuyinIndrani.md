@@ -56,14 +56,8 @@ roleplay:
 
 npc_link: "[SuyinIndrani](SuyinIndrani.md)"
 ---
+### Suyin Indrani
+
+> Medical Chief of Brightside Station and owner of the Clouds and Rain brothel
 
 ![](https://i.imgur.com/B138ywi.png)
-
-## Connections
-- [BrightsideStation](../locations/BrightsideStation.md)
-- [RolandLomax](RolandLomax.md)
-- Does not like [Oliver](../pcs/Oliver.md)
-
-## Key info and notes
-- ...
-

@@ -59,15 +59,8 @@ personality:
 
 npc_link: "[JohnMcLeod](JohnMcLeod.md)"
 ---
-# John McLeod
-***AI, Supervisor of Ice Exploration Tharsis Mining***
+### John McLeod
 
-![|500](https://i.imgur.com/csVt4tj.png)
+> AI, Supervisor of Ice Exploration [Tharsis Mining](#tharsis)
 
-## Background
-
-- ..
-## Key info and notes
-
-- Works for [tharsisMining](../factions/tharsisMining.md)
-- Wants to hostile acquire [BrightsideStation](../locations/BrightsideStation.md)
+![](https://i.imgur.com/csVt4tj.png)

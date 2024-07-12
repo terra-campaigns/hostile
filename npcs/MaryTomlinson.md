@@ -52,18 +52,8 @@ roleplay:
 
 npc_link: "[MaryTomlinson](MaryTomlinson.md)"
 ---
-# Mary Tomlinson
-***Mining Chief of Brightside Station and third-in-command***
+### Mary Tomlinson
+
+> Mining Chief of Brightside Station and third-in-command
 
 ![](https://i.imgur.com/aOLG8fs.png)
-
-## Background
-- ...
-
-## Connections
-- [BrightsideStation](../locations/BrightsideStation.md)
-- [YashDutta](YashDutta.md)
-
-## Key info and notes
-- ...
-

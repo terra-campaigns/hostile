@@ -50,19 +50,8 @@ roleplay:
 
 npc_link: "[MariusRochambeau](MariusRochambeau.md)"
 ---
-# Marius Rochambeau
-***NPC Concept***
+### Marius Rochambeau
+
+> Scientific representative for [Makita](#makita)
 
 ![](https://i.imgur.com/BWuv3Qe.png)
-
-## Background
-- ...
-
-## Connections
-- [BrightsideStation](../locations/BrightsideStation.md)
-- Employed by [makita](../factions/makita.md)
-- Boyfriend of [Sabaka](../pcs/Sabaka.md)
-
-## Key info and notes
-- ...
-

@@ -32,6 +32,6 @@ roleplay:
     desc: Fluent in English and has learned basic communication skills in several indigenous and colonial languages, reflecting his interactions with diverse settlers and researchers on Defiance.
 
 npc_link: "[EnochMarshfield](EnochMarshfield.md)"
+image: https://i.imgur.com/429NmG0.png
 ---
 
-![|400](https://i.imgur.com/429NmG0.png)

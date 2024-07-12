@@ -35,9 +35,8 @@ roleplay:
 
 npc_link: "[ElianaMurovec](ElianaMurovec.md)"
 ---
+### Eliana Murovec
+
+> [Haruna](#haruna) Bank Auditor
 
 ![](https://i.imgur.com/vwOnWha.png)
-
-## Links
-
-[haruna](../factions/haruna.md)

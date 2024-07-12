@@ -49,5 +49,9 @@ roleplay:
 
 npc_link: "[CassianVireo](CassianVireo.md)"
 ---
+### Cassian Vireo
 
-![|400](https://i.imgur.com/GfAeVZ7.png)
+> Links with the [Lebkuchen](#lebkuchen)
+
+![](https://i.imgur.com/GfAeVZ7.png)
+

@@ -54,23 +54,8 @@ roleplay:
 
 npc_link: "[YashDutta](YashDutta.md)"
 ---
+### Yash Dutta
+
+> Director of Brightside Station
 
 ![](https://i.imgur.com/PJUQUQn.png)
-
-## Connections and links
-
-- [haruna](../factions/haruna.md)
-- [BrightsideStation](../locations/BrightsideStation.md)
-- [RolandLomax](RolandLomax.md)
-- [LivingstonRoy](LivingstonRoy.md)
-- Does not like [MadSpark](../pcs/MadSpark.md)
-
-Supporters in the station:
-- [LivingstonRoy](LivingstonRoy.md)
-- [SuyinIndrani](SuyinIndrani.md)
-- [MarionHardlee](MarionHardlee.md)
-- 20 workers: office and cargo bay personel
-
-## Key info and notes
-- ...
-

@@ -19,7 +19,7 @@ scheme:
   progress: 4/20
   milestone: Get John McLeod fired
 ---
-### Tharsis Mining American
+### Tharsis Mining American {#tharsis}
 
 > **Parent MegaCorp**
 > ![](https://i.imgur.com/L5HnfMF.png)
