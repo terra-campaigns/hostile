@@ -1,3 +1,10 @@
-![Oliver](../../_published/hostile/context.md#Oliver)
+### Oliver {#oliver}
 
-> - [**Oliver**](https://docs.google.com/spreadsheets/d/1r9b1XCIeruyOI8BaxgLbJtRpju0VX04IwUHVD4fXIac/edit#gid=1671565117): Have a life outside earth
+```
+name: Oliver Bennet
+status: OPERATIVE
+file: https://github.com/efsalvarenga/hostile/blob/main/pcs/Oliver.md
+```
+
+![](https://i.imgur.com/UwZVnT9.png)
+

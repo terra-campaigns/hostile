@@ -9,6 +9,12 @@ chaos-in-brightside
 hitchhiker
 directory
 people
+danny
+madspark
+olaf
+oliver
+oni
+sabaka
 factions
 locations
 near-earth-zone
