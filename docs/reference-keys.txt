@@ -16,6 +16,13 @@ oliver
 oni
 sabaka
 factions
+book-of-the-sky-solomons-clergy
+haruna-biolabs-solomons
+interstellar-commerce-organisation-ico-american-sector
+lebkuchen-defiance
+makita-genetics-solomons
+recombination-group
+tharsis-mining-american
 locations
 near-earth-zone
 objects

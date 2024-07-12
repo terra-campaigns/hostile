@@ -8,8 +8,7 @@ scheme:
   goal: Finish Traktoriano consumption experiment
   progress: 4/30
   milestone: Engage with Traktoriano body
+
+notes: race from alpha centauri
 ---
 
-## Metalianos
-
-Race from Alpha Centauri

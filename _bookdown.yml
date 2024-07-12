@@ -6,7 +6,7 @@ delete_merged_file: yes
 output_dir: docs
 rmd_files:
 - index.Rmd
-- Perdurabo.md
+- mRNA.md
 - assets/directory.md
 - assets/people.md
 - pcs/Danny.md
@@ -16,6 +16,14 @@ rmd_files:
 - pcs/Oni.md
 - pcs/Sabaka.md
 - assets/factions.md
+- factions/bookSky.md
+- factions/haruna.md
+- factions/ico.md
+- factions/lebkuchen.md
+- factions/makita.md
+- factions/Metalianos.md
+- factions/RG.md
+- factions/tharsisMining.md
 - assets/locations.md
 - assets/objects.md
 - objects/Aetherium.md

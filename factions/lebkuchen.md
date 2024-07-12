@@ -19,8 +19,7 @@ scheme:
   progress: 4/10
   milestone: Get a fixer to speak to the Doomborgs
 ---
-
-# Lebkuchen Defiance
+### Lebkuchen Defiance
 
 Members of the German Lebkuchen are genetic activists, fighters for the rights of cloned human beings. Speed-grown clones (‘proles’) were used as colonists until they went on a murdering spree on Paydirt in 2151. After some investigation it was revealed that the force- grown clones were all sociopaths - emotionally illiterate, troubled, and without any sense of morality or conscience. For a new batch of proles implanted training and memory programs were utilized, but colonists no longer trusted these corporate slaves. They are, today, a second-class person, tolerated in places, reviled in others. Proles have a built-in four-year lifespan. Lebkuchen fight to give them human rights.
 
