@@ -1,6 +1,7 @@
-Aetherium is a speculative, advanced material central to the construction and functioning of the space station Nibiru. Its unique properties and capabilities make it an essential component in various high-tech applications.
+---
+main: Aetherium is a speculative, advanced material central to the construction and functioning of the space station Nibiru. Its unique properties and capabilities make it an essential component in various high-tech applications.
 
-**Properties and Capabilities:**
+Properties and Capabilities:
 
 1. **Energy Manipulation**: Aetherium could possess the unique ability to manipulate and store vast amounts of energy in a stable form, making it the heart of Nibiru's power systems. This would allow the station to support life, maintain its structure, and power any defenses or systems without the need for traditional fuel sources.
 
@@ -14,7 +15,7 @@ Aetherium is a speculative, advanced material central to the construction and fu
 
 6. **Consciousness Interface**: The material could interact directly with the consciousness of beings, allowing for intuitive control of the station's systems and an empathetic bond between Nibiru and its inhabitants. This would add a mystical or almost magical aspect to the technology of the station.
 
-**Synthesis Components:**
+Synthesis Components:
 
 To synthesize Aetherium, three key components are required:
 
@@ -22,11 +23,5 @@ To synthesize Aetherium, three key components are required:
 2. **Novium**: Acts as a radiative energy carrier.
 3. **Quantex Crystals**: Serve multiple critical functions, including acting as a catalyst for synthesis, providing dimensional stability, amplifying and regulating energy, and contributing to the formation of a memory matrix.
 
-These components harmoniously integrate advanced genetics, energy manipulation, and quantum physics to produce Aetherium, a material with unparalleled properties suited for the sophisticated technology of the space station Nibiru.
-
-## Links
-
-[tharsisMining](../factions/tharsisMining.md)
-[RG](../factions/RG.md)
-[haruna](../factions/haruna.md)
-[makita](../factions/makita.md)
+comment: These components harmoniously integrate advanced genetics, energy manipulation, and quantum physics to produce Aetherium, a material with unparalleled properties suited for the sophisticated technology of the space station Nibiru.
+---

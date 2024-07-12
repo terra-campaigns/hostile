@@ -1,7 +1,5 @@
-- [Link to starship designer](https://www.swnfreebooter.net/starshipDesigner/DOefjLYWNp812UH0Tqic)
-- Property of [tharsisMining](../factions/tharsisMining.md)
-- Ship looks like a utility system in a large industrial site
-- Wis/notice dc 10 (1 less per day), to notice there are signs of blood in the ship (look at information pool)
-- **Feed the isolation, loneness and fear of space** 
+### Frostbreaker
 
 ![](https://i.imgur.com/MRdCXz0.jpg)
+
+> Link to [Frostbreaker in Ship Designer](https://www.swnfreebooter.net/starshipDesigner/DOefjLYWNp812UH0Tqic)

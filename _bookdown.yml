@@ -11,4 +11,7 @@ rmd_files:
 - assets/people.md
 - assets/factions.md
 - assets/locations.md
+- assets/objects.md
+- objects/Aetherium.md
+- objects/Frostbreaker.md
 

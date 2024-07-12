@@ -12,3 +12,5 @@ people
 factions
 locations
 near-earth-zone
+objects
+frostbreaker
