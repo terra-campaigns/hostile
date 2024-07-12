@@ -11,3 +11,4 @@ directory
 people
 factions
 locations
+near-earth-zone
