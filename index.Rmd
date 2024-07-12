@@ -1,0 +1,19 @@
+---
+title: "Hostile"
+# author: "Estevao Alvarenga"
+# date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+# bibliography: [book.bib]
+description: "These are Hostile materials."
+link-citations: yes
+github-repo: efsalvarenga/terraCampaigns_published
+url: https://efsalvarenga.github.io/terraSystemsssssss/
+favicon: "imgs/favicon.ico"
+cover-image: "imgs/TerraCampaignsCover-noBG.png"
+---
+
+# Hostile {-}
+
+![](imgs/hostile.png)
+
