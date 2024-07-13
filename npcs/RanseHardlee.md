@@ -55,7 +55,6 @@ npc_link: "[RanseHardlee](RanseHardlee.md)"
 ---
 ### Ranse Hardlee {#ranse}
 
-> Pilot of the Leadbelly
-> *DECEASED*
+> ***DECEASED*** Pilot of the Leadbelly
 
 ![](https://i.imgur.com/9GTszYL.png)
