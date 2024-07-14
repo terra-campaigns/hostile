@@ -9,12 +9,15 @@ rmd_files:
 - mRNA.md
 - assets/directory.md
 - assets/people.md
+- pcs/Aaros.md
 - pcs/Danny.md
 - pcs/MadSpark.md
 - pcs/Olaf.md
 - pcs/Oliver.md
 - pcs/Oni.md
 - pcs/Sabaka.md
+- npcs/Argyre.md
+- npcs/AvamcKenzie.md
 - npcs/CassianVireo.md
 - npcs/ElianaMurovec.md
 - npcs/EnochMarshfield.md
@@ -39,6 +42,7 @@ rmd_files:
 - factions/makita.md
 - factions/Metalianos.md
 - factions/RG.md
+- factions/TDC.md
 - factions/tharsisMining.md
 - assets/locations.md
 - assets/objects.md
