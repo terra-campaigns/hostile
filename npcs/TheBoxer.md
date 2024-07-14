@@ -59,7 +59,7 @@ roleplay:
 
 npc_link: '[TheBoxer](TheBoxer.md)'
 ---
-### The Boxer
+### The Boxer {#boxer}
 
 ![](https://i.imgur.com/G8qPDTT.png)
 

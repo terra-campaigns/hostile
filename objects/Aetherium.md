@@ -25,3 +25,7 @@ To synthesize Aetherium, three key components are required:
 
 comment: These components harmoniously integrate advanced genetics, energy manipulation, and quantum physics to produce Aetherium, a material with unparalleled properties suited for the sophisticated technology of the space station Nibiru.
 ---
+
+### Novium {#novium}
+
+> Radiative energy carrier

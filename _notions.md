@@ -10,6 +10,7 @@ kanban-plugin: basic
 - [ ] They will search the chip for the metaliano tracker?
 - [ ] What do they do with tbe metaliano footage?
 - [ ] What does the ico do with metaliano footage?
+- [ ] Boxer will know, eventually, to get to Fomalhaut, because Ava told husband, who told Lucas Maluf
 
 
 ## foreshadowing
