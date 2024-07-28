@@ -16,7 +16,7 @@ s: 6
 
 scheme:
   goal: Adapt to a problem with AI managers
-  progress: 4/20
+  progress: 0/4
   milestone: Get John McLeod fired
 ---
 ### Tharsis Mining American {#tharsis}

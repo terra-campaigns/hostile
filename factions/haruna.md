@@ -16,7 +16,7 @@ s: 3
 
 scheme:
   goal: Break free from Matsuyama
-  progress: 6/50
+  progress: 1/10
   milestone: Stop a the Lebkuhen before they destroy more value
 ---
 ### Haruna Biolabs Solomons {#haruna}

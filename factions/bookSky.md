@@ -16,7 +16,7 @@ s: 4
 
 scheme:
   goal: Form an alliance with sentient aliens
-  progress: 9/40
+  progress: 1.8/8
   milestone: Communicate with Metalianos or Traktorianos
 ---
 

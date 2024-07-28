@@ -16,7 +16,7 @@ s: 4
 
 scheme:
   goal: Build financial resources
-  progress: 9/30
+  progress: 1.8/6
   milestone: Stock a large quantity of Novium
 ---
 ### Makita Genetics Solomons {#makita}
