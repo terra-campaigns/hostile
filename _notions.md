@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: basic
+kanban-plugin: board
 
 ---
 
@@ -11,6 +11,23 @@ kanban-plugin: basic
 - [ ] What do they do with tbe metaliano footage?
 - [ ] What does the ico do with metaliano footage?
 - [ ] Boxer will know, eventually, to get to Fomalhaut, because Ava told husband, who told Lucas Maluf
+- [ ] Set up fixers to pass jobs to players - Oni's mentor can be one
+- [ ] Boxer invites for a box tournament.
+	- pays 500k for 1st place 
+	- champion is cybermod, with metal teeth
+	- private bets are "not" allowed
+	- 10k subscription 
+	-
+- [ ] If they search for spionage, the link is broken - but actually a fixer, outside the company, will call them up.
+- [ ] Solomons is polychrome
+- [ ] Check how space travel and Comms work (times, tech, etc)
+- [ ] Evaluate currency to use
+- [ ] Purchase solomons
+- [ ] Think of engagement rolls for every mission (BitD)
+- [ ] Look at heat from BitD
+- [ ] The stream?
+- [ ] Ship values should follow hostile, not swn
+- [ ] distribuir xp (terra)
 
 
 ## foreshadowing
@@ -61,6 +78,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","max-archive-size":100}
+{"kanban-plugin":"board","max-archive-size":100}
 ```
 %%
