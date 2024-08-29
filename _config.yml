@@ -4,6 +4,10 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
+permalink: pretty
+plugins:
+  - jekyll-relative-links
+
 aux_links:
   Repository: https://github.com/terra-campaigns/hostile
 
