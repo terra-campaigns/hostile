@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ava McKenzie
+parent: People
+
+---
 ### Ava McKenzie {#avamc}
 
 > Hacker in Defiance

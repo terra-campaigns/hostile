@@ -1,6 +1,10 @@
 ---
+layout: default
+title: John McLeod
+parent: People
+
 statblock: yes
-layout: Terra Campaigns Leiaute v04
+layout_deprecated: Terra Campaigns Leiaute v04
 template: Terra Campaigns 3-attribute NPC statblocks
 source: Homebrew for Hostile
 
@@ -61,6 +65,6 @@ npc_link: "[JohnMcLeod](JohnMcLeod.md)"
 ---
 ### John McLeod {#johnmcleod}
 
-> Supervisor of Ice Exploration [Tharsis Mining](#tharsis)
+> Supervisor of Ice Exploration [Tharsis Mining](#tharsis). Also appears in [Arrival](https://terra-campaigns.github.io/arrival/arrivals-wars.html#chapter-27-finale), as Loquiroth.
 
 ![](https://i.imgur.com/csVt4tj.png)

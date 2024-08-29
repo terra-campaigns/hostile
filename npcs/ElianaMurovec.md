@@ -1,6 +1,10 @@
 ---
+layout: default
+title: Eliana Murovec
+parent: People
+
 statblock: yes
-layout: Terra Campaigns Leiaute v04b
+layout_deprecated: Terra Campaigns Leiaute v04b
 template: Terra Campaigns 3-attribute NPC statblocks
 source: Hostile Oracle
 
