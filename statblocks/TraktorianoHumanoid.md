@@ -1,6 +1,6 @@
 ---
 statblock: 'no'
-layout: Terra Campaigns Leiaute v04b
+layout_deprecated: Terra Campaigns Leiaute v04b
 template: Terra Campaigns 3 Attribute NPCs
 source: Invasão
 

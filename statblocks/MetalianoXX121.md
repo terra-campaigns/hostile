@@ -1,6 +1,6 @@
 ---
 statblock: yes
-layout: Terra Campaigns Leiaute v04d
+layout_deprecated: Terra Campaigns Leiaute v04d
 template: Terran Trinity & Challenges
 columnWidth: 385px
 source: Invasão
