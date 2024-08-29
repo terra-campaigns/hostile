@@ -1,3 +1,10 @@
+---
+layout: default
+title: Oliver Bennet
+parent: Protagonists
+
+---
+
 ### Oliver Bennet {#bennet}
 
 > `record `[`access`](https://github.com/efsalvarenga/hostile/blob/main/pcs/Oliver.md)

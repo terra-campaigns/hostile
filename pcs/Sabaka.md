@@ -1,3 +1,10 @@
+---
+layout: default
+title: Sabaka
+parent: Protagonists
+
+---
+
 ### Sabaka {#sabaka}
 
 ```
