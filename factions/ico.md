@@ -1,5 +1,8 @@
 ---
-name: ICO American Sector
+layout: default
+title: ICO American Sector
+parent: Factions
+
 status:
 
 meta:

@@ -1,5 +1,10 @@
 ---
-name: Metalianos
+layout: default
+title: Metalianos
+
+nav_exclude: true
+search_exclude: true
+
 status:
 
 s: 2

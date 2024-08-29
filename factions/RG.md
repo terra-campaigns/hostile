@@ -1,5 +1,8 @@
 ---
-name: Recombination Group
+layout: default
+title: Recombination Group
+parent: Factions
+
 status:
 
 s: 1
