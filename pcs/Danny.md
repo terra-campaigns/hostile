@@ -1,3 +1,10 @@
+---
+layout: default
+title: Danny Dire
+parent: Protagonists
+
+---
+
 ### Danny Dire {#danny}
 
 ```

@@ -1,5 +1,8 @@
 ---
-name: Book of the Sky Solomons
+layout: default
+title: Book of the Sky Solomons
+parent: Factions
+
 status:
 
 meta:

@@ -1,3 +1,10 @@
+---
+layout: default
+title: MadSpark
+parent: Protagonists
+
+---
+
 ### Dirk "MadSpark" McBride {#madspark}
 
 ```

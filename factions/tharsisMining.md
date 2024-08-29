@@ -1,5 +1,8 @@
 ---
-name: Tharsis Mining American
+layout: default
+title: Tharsis Mining American
+parent: Factions
+
 status:
 
 meta:

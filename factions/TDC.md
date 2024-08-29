@@ -1,3 +1,11 @@
+---
+layout: default
+title: Transdyne Cybersystems
+parent: Factions
+
+---
+
+
 ### Transdyne Cybersystems (TDC) {#tdc}
 
 > Cybernetics manufacturer, owns a failed android construction facility in [Fomalhaut](https://sectorswithoutnumber.com/sector/NLQzbUMehZwe6d9pSuj8/system/iVUtn5m8fePOTNBy1hx2).

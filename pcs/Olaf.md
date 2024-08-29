@@ -1,3 +1,10 @@
+---
+layout: default
+title: Olaf Gustafson
+parent: Protagonists
+
+---
+
 ### Olaf Gustafson {#olaf}
 
 ```

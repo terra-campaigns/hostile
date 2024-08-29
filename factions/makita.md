@@ -1,5 +1,8 @@
 ---
-name: Makita Genetics Solomons
+layout: default
+title: Makita Genetics Solomons
+parent: Factions
+
 status:
 
 meta:

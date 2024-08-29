@@ -1,5 +1,8 @@
 ---
-name: Lebkuchen Defiance
+layout: default
+title: Lebkuchen Defiance
+parent: Factions
+
 status:
 
 meta:

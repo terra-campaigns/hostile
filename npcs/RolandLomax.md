@@ -1,6 +1,10 @@
 ---
+layout: default
+title: Roland Lomax
+parent: People
+
 statblock: yes
-layout: Terra Campaigns Leiaute v04
+layout_deprecated: Terra Campaigns Leiaute v04
 template: Terra Campaigns 3-attribute NPC statblocks
 source: Hard Light
 

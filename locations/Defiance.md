@@ -1,3 +1,11 @@
+---
+layout: default
+title: Defiance
+parent: Locations
+
+---
+
+
 https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/planet/UBzrpfVGWXxJZq6C9ndC
 
 B868744 Locked-Warm/Garden, Agri, Rich

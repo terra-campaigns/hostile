@@ -1,5 +1,8 @@
 ---
-name: Haruna Biolabs Solomons
+layout: default
+title: Haruna Biolabs Solomons
+parent: Factions
+
 status:
 
 meta:

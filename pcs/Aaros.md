@@ -1,3 +1,10 @@
+---
+layout: default
+title: Aaros Foste
+parent: Protagonists
+
+---
+
 ### Aaros Foste {#aaros}
 
 ```
