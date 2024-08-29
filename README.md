@@ -1,3 +1,14 @@
+---
+title: Home
+layout: home
+nav_order: 1
+permalink: /
+
+
+footer_content: 
+
+---
+
 # Hostile {-}
 
 ![](imgs/hostile.png)
