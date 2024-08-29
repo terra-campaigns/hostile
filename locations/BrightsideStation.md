@@ -1,5 +1,10 @@
 ---
-name: Brightside Station
+layout: default
+title: Brightside Station
+
+nav_exclude: true
+search_exclude: true
+
 meta:
   category: location
   type: spaceStation

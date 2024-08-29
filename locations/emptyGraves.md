@@ -1,5 +1,10 @@
 ---
-name: Empty Graves
+layout: default
+title: Empty Graves
+
+nav_exclude: true
+search_exclude: true
+
 
 meta:
   category: location

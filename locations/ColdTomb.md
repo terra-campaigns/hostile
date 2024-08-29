@@ -1,5 +1,10 @@
 ---
-name: Cold Tomb
+layout: default
+title: Cold Tomb
+
+nav_exclude: true
+search_exclude: true
+
 
 meta:
   category: location
