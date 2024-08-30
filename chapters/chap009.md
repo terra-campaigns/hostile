@@ -41,7 +41,7 @@ log disconnection OK
 ### In Solomons
 
 - After an uneventful spike drive, the Doomborgs arrive in [The Solomons](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/asteroidBelt/JUkP8shMcIxoqivuOFBp).
-- Somewhere they see the news that [Haruna](#haruna) is publicly apologising for the accident in [Brightside](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/spaceStation/8LCcs3wrwRYwyUx5P0OL) - not recognising it was a terrorist attack.
+- Somewhere they see the news that [Haruna](../factions/haruna.md) is publicly apologising for the accident in [Brightside](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/spaceStation/8LCcs3wrwRYwyUx5P0OL) - not recognising it was a terrorist attack.
 - Olaf has been exchanging messages with The Boxer, and they agree to eventually meet in the base known as Suliman.
 - Oni leads the group to meet Katrina, his old good friend. They meet in the base called Payback. After being told the entire story of Oni's last year, Katrina shares that a famous researcher, [Nathan Argyre](#argyre) has been trying to purchase [Novium](#novium), which is manufactured in Perdurabo. "What a coincidence, GM".
 - They also speak with a trader about buying starships, including black market options, or on how to get small ships in long haul to the Rim.

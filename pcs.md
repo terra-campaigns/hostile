@@ -6,6 +6,9 @@ nav_order: 70
 
 ---
 
-# Protagonists
+# The Doomborgs
 
 Players are welcome to edit their own characters.
+Use the link on the bottom of your character page.
+
+![](https://i.imgur.com/k8eNLl0.png)

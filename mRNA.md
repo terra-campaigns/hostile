@@ -4,6 +4,8 @@ title: mRNA Resources
 has_children: true
 nav_order: 10
 
+footer_content: Perdurado is adapted from the <a href="https://www.drivethrurpg.com/en/product/86468/Hard-Light">Hard Light</a> adventure by Kevin Crawfort, for private use only.
+
 ---
 
 # mRNA resources
@@ -20,7 +22,7 @@ Perdurabo is a system blazing with the murderous light of a red giant star. The 
 
 ### Contract
 
-**Contract signed with [Tharsis Mining](#tharsis) Supervisor for Ice Exploration [John McLeod](#johnmcleod).**
+**Contract signed with [Tharsis Mining](factions/tharsisMining.md) Supervisor for Ice Exploration [John McLeod](npcs/JohnMcLeod.md).**
 
 You are the crew going to Perdurabo. You main goal is to execute the Exploration Framework that enables the commercial evaluation of the Ice Mine play. Non-disclosed milestones, that will be paid off books, is infiltrating and deteriorating the leadership of [Brightside Mining Station](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/spaceStation/8LCcs3wrwRYwyUx5P0OL), so its later acquisition is even cheaper. 
 
@@ -73,6 +75,8 @@ Mission kick off meeting in Earth's largest starport in French Guiana.
 
 ### Perdurian Frostbreaker
 
+Link to [Frostbreaker](_site/objects/Frostbreaker.md)
+
 ```
 Certificate of Flight
 
@@ -107,18 +111,11 @@ Small letters:
 
 ```
 
-
-![](https://i.imgur.com/MRdCXz0.png)
-
 ### Perdurabo
 
 ![](https://i.imgur.com/RLOfasI.png)
 
-### The Doomborgs
-
-![](https://i.imgur.com/k8eNLl0.png)
-
-On the evening before the mission kick-off meeting with [Tharsis Mining](#tharsis) Manager for Ice Exploration [John McLeod](#johnmcleod), the crew find a scientist from [Haruna](#haruna) tied to a bomb in the toilets of a bar in French Guiana. They learn of the animosity of the [Lebkuchen](#lebkuchen) activists against Haruna's cloning endeavours. After all that is sorted, they decide to bet on Olaf in a boxing ring, which proves to be successful.
+On the evening before the mission kick-off meeting with [Tharsis Mining](factions/tharsisMining.md) Manager for Ice Exploration [John McLeod](npcs/JohnMcLeod.md), the crew find a scientist from [Haruna](../factions/haruna.md) tied to a bomb in the toilets of a bar in French Guiana. They learn of the animosity of the [Lebkuchen](factions/lebkuchen.md) activists against Haruna's cloning endeavours. After all that is sorted, they decide to bet on Olaf in a boxing ring, which proves to be successful.
 
 On the next day they finally meet with John McLeod, and preparations for the travel to Perdurabo start.
 
