@@ -1,86 +1,32 @@
 ---
-name: The Frostbreaker
-game_date: 2225-10-27
-pcs: Olaf, Oni, Dirk, Sabaka, Vagabond
-levels: 5
-xp: 3
+layout: default
+title: The Frostbreaker
+parent: mRNA Resources
+nav_order: 1
 
-meta:
-  category: chapter
-  campaign: Hostile
-  sector: "[Near Earth Zone](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe)"
-  system: '[Perdurabo](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/PWrHAjd6P64k61Ga1PfQ)'
-  world: Deep Space
-  realm: 
-  region: 
-  location: "[Brightside Station](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/spaceStation/8LCcs3wrwRYwyUx5P0OL)"
-tags: 
 ---
-# Chapter 01 The Frostbreaker
+# The Frostbreaker
 
-> [!todo]- Planning checklist
-> - [x] Abridge previous chapter and distribute XP
-> - [x] Evaluate heat of previous chapter
-> - [x] Commit next chapter draft
-> - [x] Clean up previous chapter files, update tags and name, make final commit
-> - [x] Update (battle)maps, if applicable
-> - [x] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in the faction game or notion file
-> - [x] Think about characters, write motivations & hooks
-> - [x] Evaluate new game date
-> - [x] Review Abridged
-> - [x] Evaluate Faction turn
-> - [x] Take note of **Holds**, review and organise Notions
-> - [x] Define XP
-> - [x] Detail strong start
-> - [x] Prepare Owlbear, if applicable
-> - [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
-> - [x] Review and order/highlight information pool.
-> - [x] Outline and update location notes, reviewing scenes and secrets
-> - [x] Outline potential NPCs, reviewing all above
-> - [ ] Define treasure
-> - [x] Update random encounter tables
-> - [ ] Print information pool (applicable parts)
-> - [x] Evaluate heat
-> - [x] Update graph view
+The Doomborgs crew's arrival at [Brightside](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/spaceStation/8LCcs3wrwRYwyUx5P0OL) was marked by a tangible tension that clung to the metallic corridors and dimly lit alcoves of the mining station. Brightside, a dilapidated outpost owned by [Haruna](../factions/haruna.md), part of the Matsuyama group, stood as a testament to both human ingenuity and the relentless decay wrought by the hostile environment of space.
 
-> [!abstract] Doomborgs crewmembers motivation
-> - [**Olaf**](../pcs/Olaf.md): Make money and find advanced life
-> - [**Oni**](../pcs/Oni.md): Do something meaningful, that's helpful to societies that are underprivileged and exploited.
-> - [**MadSpark**](../pcs/MadSpark.md): Make money and explode things
-> - [**Sabaka**](../pcs/Sabaka.md): Find proof of Aliens similar to the one that attacked their family
-> - [**Oliver**](../pcs/Oliver.md): Have a life outside earth
+As the crew disembarked, they were greeted by a few of the station's weary inhabitants—faces etched with the grime of long hours and the stress of constant vigilance. A space raft ferried them to their own ship, the [Frostbreaker](#frostbreaker), which floated serenely nearby, its exterior promising the safety and stability they craved. The Frostbreaker’s inspection was swift and thorough; everything seemed in order, a rare and welcome relief.
 
-> [!warning] Intro
-> - The name is really Doomborg?
-> - Travel to Perdurabo:
-> 	- Red Giant: Large fast transfer liner Tau Ceti star port: 7 days, then transfer.
-> 	- Red Giant: Transfer liner Tau Ceti - Defiance: 8 days, then transfer.
-> 	- Colonial Endeavours' Novium Transport: Transfer to Brightside: 10 days.
+With the ship confirmed to be in working condition, the crew returned to Brightside to finalize their paperwork. The station's inhabitants, a motley mix of engineers, miners, and administrators, eyed them with a mix of curiosity and suspicion. Amidst the routine chaos, the crew struck up a conversation with [Marius](#marius), a scientific representative from [Makita](#makita), a subsidiary of the Wu-Ketai group. His demeanor spoke of a man burdened by the monotony and perceived insignificance of his work.
 
-> [!danger] Strong start
+Marius accepted an invitation to the Frostbreaker’s mission launch party, and on their way to the ship, they also extended the invitation to [Roland](#lomax), another of Brightside’s eclectic residents. The party that ensued aboard the Frostbreaker was a hedonistic escape from their grim reality. Amid the haze of alcohol and recreational drugs, Marius confided his frustrations about his job, while Roland let slip that he possessed damning data implicating [Yash](#yash), Brightside’s Director, in embezzlement.
 
-**Arrival in [BrightsideStation](../locations/BrightsideStation.md) on 2225-10-27**
-- Mingle with NPCs
-- NPCs met: [RolandLomax](../npcs/RolandLomax.md), [RanseHardlee](../npcs/RanseHardlee.md), [MaryTomlinson](../npcs/MaryTomlinson.md), [YashDutta](../npcs/YashDutta.md), [MarionHardlee](../npcs/MarionHardlee.md), [MariusRochambeau](../npcs/MariusRochambeau.md)
+Morning came with the weight of a hangover and the gravity of secrets revealed. A virtual meeting with [John McLeod](#johnmcleod), the stern supervisor for Ice Exploration at Tharsis Mining, brought a chilling reprimand. McLeod was displeased, concerned that the crew's indiscretions might have compromised their mission to drill ice in the asteroid. [Olaf](#olaf), the captain, made a decisive move to divert attention by planning a visit to one of the nearby sky tombs, under the guise of adventurers seeking fortune.
 
-> [!example] Potential scenes
+Negotiations with Marius and [Ranse](#ranse) were swift, resulting in the purchase of coordinates to one such tomb, rumored to hold untold riches. The Frostbreaker set a course for the tomb, each member of the crew knowing that the path ahead was fraught with danger and intrigue, yet driven by the promise of discovery and the thrill of the unknown.
 
-**Meeting with [JohnMcLeod](../npcs/JohnMcLeod.md) (briefcase)**
-- Work is expected to start on 2225-11-01
+> ***MadSpark doesn’t remember much of this, his version of events goes as follows***
+> - arrived at a space station after a boring travel but made a neat little BB Gun from my seatbelt
+> - got told to put my shotgun in a locker (but luckily kept my hunting knife)
+> - found some great spare parts for the little drone I’ve been planning to make 
+> - the ship has a basic but adequately equipped workshop, so started work on the drone 
+> - everyone wanted to explore the space station & I needed a drink anyway so off we went 
+> - then there were some of these guys who had a bug in their asses about something to do with stealing (apparently it’s not allowed here… 🤷🏼‍♂️) but the skipper sorted it out & then we headed to the bar (it’s interesting that the cameras here are ATX18956 model - I haven’t seen those of years, I’ll have to take one apart at some point for nostalgic reasons)
+> - I bought drinks all night & did that trick with the exploding gunpowder shots - I don’t remember much after that
+> - Oh yeah, we’re going to see if we can find some valuable alien artefacts to make some extra moolah 💰(sounds more interesting than the mission anyway!)
 
-**Get [The Frostbreaker](https://www.swnfreebooter.net/starshipDesigner/DOefjLYWNp812UH0Tqic) anchored outside Brightside**
-- Sign paperwork for **Perdurian Frostbreaker 2**
-
-![Frostbreaker](../objects/Frostbreaker.md)
-
-> [!info]- Information pool
-> ![_hostileInformationPool](../_hostileInformationPool.md)
-
-> [!tip] Interaction table 
-> 
-> ```dataview
-> TABLE without ID link(file.link, name) as Entity, file.folder as Type, file.outlinks as "Further interactions"
-> FROM outgoing([[]]) 
-> SORT Type ASC
-> WHERE contains(file.folder, "hostile/")
-> ```
+![](https://i.imgur.com/IgINh43.png)

@@ -41,6 +41,6 @@ npc_link: "[ElianaMurovec](ElianaMurovec.md)"
 ---
 ### Eliana Murovec
 
-> [Haruna](#haruna) Bank Auditor
+> [Haruna](../factions/haruna.md) Bank Auditor
 
 ![](https://i.imgur.com/vwOnWha.png)
