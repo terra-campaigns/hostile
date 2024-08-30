@@ -1,118 +1,24 @@
 ---
-name: The Cold Tomb
-game_date: 2225-10-29
-pcs: Olaf, Oni, Dirk, Sabaka, Vagabond
-levels: 5
-heat: 0
-xp: 4
+layout: default
+title: The Cold tomb
+parent: mRNA Resources
+nav_order: 2
 
-meta:
-  category: chapter
-  campaign: Hostile
-  sector: "[Near Earth Zone](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe)"
-  system: '[Perdurabo](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/PWrHAjd6P64k61Ga1PfQ)'
-  world: Deep Space
-  realm: 
-  region: 
-  location: "[Brightside Station](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/spaceStation/8LCcs3wrwRYwyUx5P0OL)"
-tags: 
 ---
+## The Cold tomb
 
-> [!todo]- Planning checklist
-> - [x] Abridge previous chapter and distribute XP
-> - [x] Evaluate Holds and Heat
-> - [x] Commit next chapter draft
-> - [x] Clean up previous chapter files, update tags and name, make final commit
-> - [x] Update (battle)maps, if applicable
-> - [x] Define at least one consequence in the world of the actions of the PCs on the previous session, record it in the faction game or notion file
-> - [x] Think about characters, write motivations & hooks
-> - [x] Evaluate new game date
-> - [x] Review Abridged
-> - [x] Evaluate Faction turn
-> - [x] Review and organise Notions
-> - [x] Detail strong start
-> - [x] Prepare Owlbear, if applicable
-> - [x] Outline potential scenes, drafting locations, NPCs and encounters as needed. Define alternatives to combat for all scenes.
-> - [x] Review and order/highlight information pool.
-> - [x] Outline and update location notes, reviewing scenes and secrets
-> - [x] Outline potential NPCs, reviewing all above
-> - [x] Define treasure
-> - [x] Update random encounter tables
-> - [ ] Print information pool (applicable parts)
-> - [x] Evaluate heat
-> - [x] Update graph view
+- The Doomborgs crew arrive in the Cold Tomb. The structure was built in an ice chunk in one of the asteroids in the Perdurabo system.
+- The ship is docked in the entrance of the tomb, and Olaf and Oliver suit up and are ready in the air lock. Through a scan they know that beyond the tomb entrance door the environment is filled with icy water.
+- The two crewmen venture inside, with a system of communication and power umbilicals and a 50 meter harness cable. Sabaka stays behind in the airlock ready to rewind the cable if necessary.
+- In the entrance room, shaped like a sphere, they record on their cameras alien language carved in the icy wall, and an image depicting a blurred humanoid alien in what seems like a position of power.
+- While this was happening, MadSpark feels the need of action, and leaves the ship in a second airlock. While investigating the surroundings of the construction, he detects faint biological matter readings on his suit. He communicates that to Olaf and Oliver, who now turn on their precise detectors too, receiving the same readings.
+- The crew hypothesise that the readings are coming from the water (melted from the asteroid ice), and take a sample from inside the tomb. MadSpark gets back on the ship and take the sample to the lab. He starts to feel dizzy.
+- In the tomb, Oliver and Olaf reach another room where they find dozens of alien bodies floating in the water. They quickly grab one and, in a haste movement, decide to retreat to the spaceship.
+- On their way back, a drone swims in their direction and shoots a shard of metal in their direction, but the crewmen were faster and lock themselves in the airlock before the drone can enter. Oni skillfully undock the Frostbreaker from the tomb and pilot the ship back to Brightside.
+- After decontaminating the air, Olaf and Oliver join the crew in the ship again, but now everyone is feeling slightly sick, unfocused and dizzy.
+- On the way back, some movement readings withing the starship structure alert Oni. The crew quickly retreat to the citadel and command the ship from there. They soon see in the cameras a dozens crab-like alien creatures exploring she starship. 
+- MadSpark flushes the starship atmosphere. At the same time Olaf starts to feel very sick and anxious. He thinks for a brief moment that MadSpark is flushing the citadel and panics. The other crew members calm him down, and they all see the crab creatures passing out.
+- Upon arrival in Brightside, Yash Dutta does not allow the immediate off boarding of the crew due to contamination risk, and Olaf decides to speak with John McLeod. John quickly decides that the finding is too high profile, and the Doomborgs are ordered to immediatelly travel back to Earth.
+- After a failed attempt to threat Yash, the Frostbreaker departs from Brightside. The destination is the Teegarden’s Star system, where in the main world (Defiance) a remote office of Tharsis and the ICO (Interstellar Commerce Organisation) are available.
 
-> [!abstract] Doomborgs crewmembers motivation
-> - [**Olaf**](../pcs/Olaf.md): Make money and find advanced life
-> - [**Oni**](../pcs/Oni.md): Do something meaningful, that's helpful to societies that are underprivileged and exploited.
-> - [**MadSpark**](../pcs/MadSpark.md): Make money and explode things
-> - [**Sabaka**](../pcs/Sabaka.md): Find proof of Aliens similar to the one that attacked their family
-> - [**Oliver**](../pcs/Oliver.md): Have a life outside earth
-
-> [!warning] Intro
-> - You can have almost anything you'd like from the environment
-> - Max HP at level 1
-> - Major injuries (CWN)
-
-> [!danger] Strong start
-
-Going to the [ColdTomb](../locations/ColdTomb.md)
-- Travel in the [Frostbreaker](../objects/Frostbreaker.md)
-- **Enforce the isolation and hostility of space**
-- Notice check DM+2 for finding blood in the starship
-- The Tomb is a dangerous one, but probably full of riches. The dislike [RanseHardlee](../npcs/RanseHardlee.md) has with [Olaf](../pcs/Olaf.md) influenced him to make a choice to share the coordinates of this Tomb. [MariusRochambeau](../npcs/MariusRochambeau.md) is also very keen on the riches. The two of them will share some of the profit from the findings.
-
-> [!example] Potential scenes
-
-**Vacc suit and cold water**
-- **Enforce the isolation and hostility of space**
-- Suit power in cold water: **d6 usage die**. Each room is one turn (5-10 min), move between rooms is another turn. 
-	- A vacc suit needs to swap in a fresh type A power cell every **thirty minutes** or the PC will start to suffer **hypothermia**. **Every five minutes** without heat, the PC must make a Physical Effect saving throw or else lose 1 point of Strength and Constitution. A character reduced below Strength 3 cannot move, and one reduced below Constitution 3 will die.
-- Attribute point losses to hypothermia can be restored by an hour’s warmth and treatment by a medkit, or else a day’s recovery if a medkit is lacking.
-- Aside from the chill, **communications** are complicated by the fact that radios do not function underwater. Communication in the tomb relies on hand signals, lengths of comm hardline plugged in between suits, or pressing helmets together to let the vibrations of speech carry through. **Visibility** underwater is limited by the murky water. A character can see no more than **ten meters** in any direction.
-- Modern lasers and projectile weapons are designed for operating in hostile environments, and so they **will work underwater**. The water is murky, but it doesn’t quite qualify as hindering laser weaponry. **Use of grenades and other explosives is extremely dangerous underwater**
-- **Movement is cumbersome** underwater. All movement rates are cut in half due to the water’s resistance. The streamlined shape of the Chittik drones allows them to move at normal speed. Thrown objects have only half ordinary maximum range. Characters can swim upward at one-third their normal movement rate. Many rooms have very high ceilings due to the flux of erosion and refreezing, with some rising as high as 20 meters.
-- A **character’s vacc suit may be cut** by a danger in the tomb or by a hit from a Chittik drone’s claws when they have 10 or fewer hit points. Such a **hit has a 50% chance of cutting a vacc** suit in addition to whatever damage may be done. Characters **can patch** a vacc suit with one of its emergency sealing patches, but the **cold water that enters** a suit will severely strain the suit’s heating element and immediately drain the power cell. A character must replace the cell within five minutes or they will begin to suffer hypothermia
-
-**Ice/RNA Mining**
-- RNA, if inhaled, make a mental save per hour. Failure gains 1 SS.
-
-![|400](https://imgur.com/swvqhSV.png)
-
-> [!bug] Progress clocks
-
-| Type   | Status   | Description                         |
-| ------ | -------- | ----------------------------------- |
-| Gain   | 0/8      | Ushan's mRNA                        |
-| Loss | 1/8      | Dutta's awareness of PCs intentions |
-| Loss | 0/6      | Suit batteries                      |
-| Loss | 0/6      | Drone awareness of intruders        |
-| Loss | 0/4 each | Random encounters (see table below) |
-
-**Random encounter rolls**
-
-| id| totalLevel|partySize |effect                                                                    |
-|--:|----------:|:---------|:-------------------------------------------------------------------------|
-|  1|          1|few       |Ship computer is acting oddly                                             |
-|  2|          4|pair      |Ship encounter (if starport up to D) Ship’s Boat                          |
-|  3|          9|pair      |Crew training session protocol - Fuel-Leak and fire-fighting              |
-|  4|          1|pair      |Ship Malfunction - Fuel pump problem Engineering or Mechanical            |
-|  5|         11|many      |Ship Malfunction - Ship’s Boat/Lifeboat/Auxiliary Craft drive Engineering |
-|  6|         11|mob       |Readings of a stowaway                                                    |
-|  7|         22|many      |Ship encounter (if starport up to C) Light Towship                        |
-|  8|          6|few       |Ship encounter (all starports) Colonial Support Vessel                    |
-|  9|         12|mob       |Ship Malfunction - Micrometeoroid strike, 1D6 damage -                    |
-| 10|         19|many      |Ship Malfunction - Water recycling Mechanical                             |
-
-> [!info]- Information pool
-> ![_hostileInformationPool](../_hostileInformationPool.md)
-
-> [!tip] Interaction table 
-> 
-> ```dataview
-> TABLE without ID link(file.link, name) as Entity, file.folder as Type, file.outlinks as "Further interactions"
-> FROM outgoing([[]]) 
-> SORT Type ASC
-> WHERE contains(file.folder, "hostile/")
-> ```
-
+![](https://i.imgur.com/agivvC9.png)
