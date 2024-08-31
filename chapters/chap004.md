@@ -39,3 +39,24 @@ nav_order: 4
 - The Boxer parks the Leadbelly in a hidden coordinate in the asteroid field.
 - The crew takes the Frostbreaker to [BrightsideStation](../locations/BrightsideStation.md). An afraid [YashDutta](../npcs/YashDutta.md) greets them, and allow them to refuel, but not to enter the station.
 - [Oni](../pcs/Oni.md) skilfully uninstall the lead panels from the[Frostbreaker](../objects/Frostbreaker.md), so they can land the ship in [Defiance](../locations/Defiance.md) to drop the Boxer.
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+- [MadSpark](https://terra-campaigns.github.io/hostile/pcs/MadSpark), from pcs
+- [Olaf Gustafson](https://terra-campaigns.github.io/hostile/pcs/Olaf), from pcs
+- [Sabaka](https://terra-campaigns.github.io/hostile/pcs/Sabaka), from pcs
+- [Oni Ro](https://terra-campaigns.github.io/hostile/pcs/Oni), from pcs
+- [Oliver Bennet](https://terra-campaigns.github.io/hostile/pcs/Oliver), from pcs
+- [Frostbreaker](https://terra-campaigns.github.io/hostile/objects/Frostbreaker), from objects
+- [The Boxer](https://terra-campaigns.github.io/hostile/npcs/TheBoxer), from npcs
+- [Ranse Hardlee](https://terra-campaigns.github.io/hostile/npcs/RanseHardlee), from npcs
+- [Randall Bellows](https://terra-campaigns.github.io/hostile/npcs/RandallBellows), from npcs
+- [Jaffa Okoye](https://terra-campaigns.github.io/hostile/npcs/JaffaOkoye), from npcs
+- [Yash Dutta](https://terra-campaigns.github.io/hostile/npcs/YashDutta), from npcs
+- [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
+- [Defiance](https://terra-campaigns.github.io/hostile/locations/Defiance), from locations
+- [ICO American Sector](https://terra-campaigns.github.io/hostile/factions/ico), from factions
+<!-- SerializedQuery END -->
