@@ -98,3 +98,29 @@ nav_order: 7
 	- A flap of the hull is pulled to the outside, opening a hole...
 - The crew quickly move to the citadel of the ship once more. They take the metallic egg, inside a Faraday cage, with them. The rest of the ship looses pressure to space.
 - It will be an uncomfortable week travelling to [Defiance](../locations/Defiance.md), packed inside the citadel, with 2 additional people, and maybe *something* outside...
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM ([[]]) SORT file.folder DESC -->
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM outgoing([[]]) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM outgoing([[]]) SORT file.folder DESC -->
+- [\-](https://terra-campaigns.github.io/hostile/statblocks/PopperSwarm)
+- [Sabaka](https://terra-campaigns.github.io/hostile/pcs/Sabaka)
+- [Oliver Bennet](https://terra-campaigns.github.io/hostile/pcs/Oliver)
+- [Olaf Gustafson](https://terra-campaigns.github.io/hostile/pcs/Olaf)
+- [Oni Ro](https://terra-campaigns.github.io/hostile/pcs/Oni)
+- [Danny Dire](https://terra-campaigns.github.io/hostile/pcs/Danny)
+- [Frostbreaker](https://terra-campaigns.github.io/hostile/objects/Frostbreaker)
+- [Suyin Indrani](https://terra-campaigns.github.io/hostile/npcs/SuyinIndrani)
+- [Roland Lomax](https://terra-campaigns.github.io/hostile/npcs/RolandLomax)
+- [Yash Dutta](https://terra-campaigns.github.io/hostile/npcs/YashDutta)
+- [Eliana Murovec](https://terra-campaigns.github.io/hostile/npcs/ElianaMurovec)
+- [Cassian Vireo](https://terra-campaigns.github.io/hostile/npcs/CassianVireo)
+- [Marion Hardlee](https://terra-campaigns.github.io/hostile/npcs/MarionHardlee)
+- [The Solomons](https://terra-campaigns.github.io/hostile/locations/TheSolomons)
+- [Defiance](https://terra-campaigns.github.io/hostile/locations/Defiance)
+- [Makita Genetics Solomons](https://terra-campaigns.github.io/hostile/factions/makita)
+- [ICO American Sector](https://terra-campaigns.github.io/hostile/factions/ico)
+<!-- SerializedQuery END -->

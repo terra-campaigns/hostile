@@ -55,3 +55,17 @@ o Weary (-1d Resolve)               |
        BACKGROUND CLASSIFIED
 '====================================='
 ```
+
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM ([[]]) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM ([[]]) SORT file.folder DESC -->
+- [MadSpark perishes](https://terra-campaigns.github.io/hostile/chapters/chap004)
+- [The Boxer's box](https://terra-campaigns.github.io/hostile/chapters/chap005)
+- [Chaos in Brigthside](https://terra-campaigns.github.io/hostile/chapters/chap007)
+- [Hitchhiker](https://terra-campaigns.github.io/hostile/chapters/chap008)
+<!-- SerializedQuery END -->
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM outgoing([[]]) SORT file.folder DESC -->
