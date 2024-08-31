@@ -24,7 +24,7 @@ nav_order: 4
 - [MadSpark](../pcs/MadSpark.md) perishes trying to escape though a ventilation shaft.
 - [Oliver](../pcs/Oliver.md) questions the leadership of Olaf: "Sir, I don't think you are leading us for the successful completion of our contract. Now we don't have all required skills in the crew. We need those skills - I could't care less for the human lives lost."
 
-![|400](https://i.imgur.com/ghsOnYr.png)
+![](https://i.imgur.com/ghsOnYr.png)
 
 - Considering his remaining options, [TheBoxer](../npcs/TheBoxer.md) sees an opportunity to forge his own death and finally retire in a small farm in Defiance.
 - This setup is agreed with everyone, but it requires erasing the proofs of Boxer being alive - which includes killing the hostages from the Leadbelly.

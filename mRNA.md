@@ -122,18 +122,3 @@ On the next day they finally meet with John McLeod, and preparations for the tra
 ![](https://i.imgur.com/ir2ixFW.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
