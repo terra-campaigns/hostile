@@ -26,4 +26,6 @@ Some asteroids are known to house alien tombs, such as the [Cold Tomb](ColdTomb.
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
 - [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
 - [Cold Tomb](https://terra-campaigns.github.io/hostile/locations/ColdTomb), from locations
+- [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002), from chapters
+- [Defiance and back](https://terra-campaigns.github.io/hostile/chapters/chap003), from chapters
 <!-- SerializedQuery END -->
