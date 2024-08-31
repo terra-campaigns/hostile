@@ -35,6 +35,7 @@ scheme:
 - [Ava McKenzie](https://terra-campaigns.github.io/hostile/npcs/AvamcKenzie)
 - [Lucas Maluf](https://terra-campaigns.github.io/hostile/npcs/LucasMaluf)
 - [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation)
+- [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002)
 - [The Boxer's box](https://terra-campaigns.github.io/hostile/chapters/chap005)
 - [Start of Dutta's fall](https://terra-campaigns.github.io/hostile/chapters/chap006)
 - [Hitchhiker](https://terra-campaigns.github.io/hostile/chapters/chap008)
