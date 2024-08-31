@@ -98,3 +98,39 @@ nav_order: 7
 	- A flap of the hull is pulled to the outside, opening a hole...
 - The crew quickly move to the citadel of the ship once more. They take the metallic egg, inside a Faraday cage, with them. The rest of the ship looses pressure to space.
 - It will be an uncomfortable week travelling to [Defiance](../locations/Defiance.md), packed inside the citadel, with 2 additional people, and maybe *something* outside...
+
+---
+
+```dataview
+TABLE without ID link(file.link, name) as Entity, file.folder as Type, file.outlinks as "Further interactions" FROM outgoing([[]])  SORT Type ASC WHERE contains(file.folder, "hostile/")
+```
+
+
+
+
+<!-- QueryToSerialize: TABLE without ID link(file.link, name) as Entity, file.folder as Type, file.outlinks as "Further interactions" FROM outgoing([[]])  SORT Type ASC WHERE contains(file.folder, "hostile/") -->
+<!-- SerializedQuery: TABLE without ID link(file.link, name) as Entity, file.folder as Type, file.outlinks as "Further interactions" FROM outgoing([[]])  SORT Type ASC WHERE contains(file.folder, "hostile/") -->
+
+| Entity                                              | Type               | Further interactions                                                     |
+| --------------------------------------------------- | ------------------ | ------------------------------------------------------------------------ |
+| [[Sabaka]]                   | hostile/pcs        | <ul></ul>                                                                |
+| [[Oliver]]                   | hostile/pcs        | <ul></ul>                                                                |
+| [[Suyin Indrani]]     | hostile/npcs       | <ul></ul>                                                                |
+| [[Olaf]]                       | hostile/pcs        | <ul></ul>                                                                |
+| [[Oni]]                         | hostile/pcs        | <ul></ul>                                                                |
+| [[Frostbreaker]]   | hostile/objects    | <ul></ul>                                                                |
+| [[Danny]]                     | hostile/pcs        | <ul></ul>                                                                |
+| [[Popper Swarm]] | hostile/statblocks | <ul></ul>                                                                |
+| [[Roland Lomax]]       | hostile/npcs       | <ul></ul>                                                                |
+| [[Yash Dutta]]           | hostile/npcs       | <ul></ul>                                                                |
+| [[makita]]              | hostile/factions   | <ul><li>[[Haruna Biolabs]]</li></ul>        |
+| [[ico]]                    | hostile/factions   | <ul></ul>                                                                |
+| [[Eliana Murovec]]   | hostile/npcs       | <ul><li>[[Haruna]]</li></ul>                |
+| [[TheSolomons]]   | hostile/locations  | <ul></ul>                                                                |
+| [[Cassian Vireo]]     | hostile/npcs       | <ul><li>[[Lebkuchen]]</li></ul> |
+| [[Marion Hardlee]]   | hostile/npcs       | <ul></ul>                                                                |
+| [[Defiance]]         | hostile/locations  | <ul></ul>                                                                |
+| [[haruna]]              | hostile/factions   | <ul></ul>                                                                |
+| [[lebkuchen]]        | hostile/factions   | <ul></ul>                                                                |
+
+<!-- SerializedQuery END -->
