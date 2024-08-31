@@ -22,3 +22,9 @@ nav_order: 2
 - After a failed attempt to threat Yash, the Frostbreaker departs from Brightside. The destination is the Teegarden’s Star system, where in the main world (Defiance) a remote office of Tharsis and the ICO (Interstellar Commerce Organisation) are available.
 
 ![](https://i.imgur.com/agivvC9.png)
+
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->

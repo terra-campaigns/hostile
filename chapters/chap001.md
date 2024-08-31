@@ -30,3 +30,20 @@ Negotiations with Marius and [Ranse Hardlee](../npcs/RanseHardlee.md) were swift
 > - Oh yeah, we’re going to see if we can find some valuable alien artefacts to make some extra moolah 💰(sounds more interesting than the mission anyway!)
 
 ![](https://i.imgur.com/IgINh43.png)
+
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+- [Olaf Gustafson](https://terra-campaigns.github.io/hostile/pcs/Olaf), from pcs
+- [Frostbreaker](https://terra-campaigns.github.io/hostile/objects/Frostbreaker), from objects
+- [Marius Rochambeau](https://terra-campaigns.github.io/hostile/npcs/MariusRochambeau), from npcs
+- [Roland Lomax](https://terra-campaigns.github.io/hostile/npcs/RolandLomax), from npcs
+- [Yash Dutta](https://terra-campaigns.github.io/hostile/npcs/YashDutta), from npcs
+- [Ranse Hardlee](https://terra-campaigns.github.io/hostile/npcs/RanseHardlee), from npcs
+- [Haruna Biolabs Solomons](https://terra-campaigns.github.io/hostile/factions/haruna), from factions
+- [Makita Genetics Solomons](https://terra-campaigns.github.io/hostile/factions/makita), from factions
+- [The Frostbreaker](https://terra-campaigns.github.io/hostile/chapters/chap001), from chapters
+<!-- SerializedQuery END -->
