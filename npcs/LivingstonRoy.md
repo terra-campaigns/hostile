@@ -61,8 +61,12 @@ roleplay:
 
 npc_link: "[LivingstonRoy](LivingstonRoy.md)"  
 ---
-### Livingston Roy
+# Livingston Roy
 
-> Security Chief of Brightside Station
+> Security Chief of [Brightside Station](../locations/BrightsideStation.md)
 
 ![](https://i.imgur.com/xMXC8Lz.png)
+
+## Links
+
+- [Jaffa Okoye](JaffaOkoye.md)
