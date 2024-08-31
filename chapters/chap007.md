@@ -54,7 +54,7 @@ nav_order: 7
 - Oni quickly parse these documents and finds:
 	- Embezzlement of [YashDutta](../npcs/YashDutta.md), who stole money during the construction of Brightside, alonside the son of one of the private minor investors.
 	- Purchase orders from **Recombination Group** ([logo](https://i.imgur.com/1ouPtfu.png)) for shipment of Novium - which might explain the fact the the station was not meeting Haruna's production quotas.
-	- MoU with [makita](../factions/makita.md)'s subsidiary for ice mining rights - although the two companies are competitors and such an extraction agreement would not be allowed in the new space law from the [ico](../factions/ico.md).
+	- MoU with [makita](../factions/makita.md)'s subsidiary for ice mining rights - although the two companies are competitors and such an extraction agreement would not be allowed in the new space law from the [ico](../factions/ico.md). [Argyre](../npcs/Argyre.md)
 
 ![](https://i.imgur.com/xE2V8yO.png)
 
@@ -100,37 +100,28 @@ nav_order: 7
 - It will be an uncomfortable week travelling to [Defiance](../locations/Defiance.md), packed inside the citadel, with 2 additional people, and maybe *something* outside...
 
 ---
+#### Connected to
 
-```dataview
-TABLE without ID link(file.link, name) as Entity, file.folder as Type, file.outlinks as "Further interactions" FROM outgoing([[]])  SORT Type ASC WHERE contains(file.folder, "hostile/")
-```
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM ([[]]) SORT file.folder DESC -->
 
-
-
-
-<!-- QueryToSerialize: TABLE without ID link(file.link, name) as Entity, file.folder as Type, file.outlinks as "Further interactions" FROM outgoing([[]])  SORT Type ASC WHERE contains(file.folder, "hostile/") -->
-<!-- SerializedQuery: TABLE without ID link(file.link, name) as Entity, file.folder as Type, file.outlinks as "Further interactions" FROM outgoing([[]])  SORT Type ASC WHERE contains(file.folder, "hostile/") -->
-
-| Entity                                              | Type               | Further interactions                                                     |
-| --------------------------------------------------- | ------------------ | ------------------------------------------------------------------------ |
-| [[Sabaka]]                   | hostile/pcs        | <ul></ul>                                                                |
-| [[Oliver]]                   | hostile/pcs        | <ul></ul>                                                                |
-| [[Suyin Indrani]]     | hostile/npcs       | <ul></ul>                                                                |
-| [[Olaf]]                       | hostile/pcs        | <ul></ul>                                                                |
-| [[Oni]]                         | hostile/pcs        | <ul></ul>                                                                |
-| [[Frostbreaker]]   | hostile/objects    | <ul></ul>                                                                |
-| [[Danny]]                     | hostile/pcs        | <ul></ul>                                                                |
-| [[Popper Swarm]] | hostile/statblocks | <ul></ul>                                                                |
-| [[Roland Lomax]]       | hostile/npcs       | <ul></ul>                                                                |
-| [[Yash Dutta]]           | hostile/npcs       | <ul></ul>                                                                |
-| [[makita]]              | hostile/factions   | <ul><li>[[Haruna Biolabs]]</li></ul>        |
-| [[ico]]                    | hostile/factions   | <ul></ul>                                                                |
-| [[Eliana Murovec]]   | hostile/npcs       | <ul><li>[[Haruna]]</li></ul>                |
-| [[TheSolomons]]   | hostile/locations  | <ul></ul>                                                                |
-| [[Cassian Vireo]]     | hostile/npcs       | <ul><li>[[Lebkuchen]]</li></ul> |
-| [[Marion Hardlee]]   | hostile/npcs       | <ul></ul>                                                                |
-| [[Defiance]]         | hostile/locations  | <ul></ul>                                                                |
-| [[haruna]]              | hostile/factions   | <ul></ul>                                                                |
-| [[lebkuchen]]        | hostile/factions   | <ul></ul>                                                                |
-
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM outgoing([[]]) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM outgoing([[]]) SORT file.folder DESC -->
+- [\-](https://terra-campaigns.github.io/hostile/statblocks/PopperSwarm)
+- [Sabaka](https://terra-campaigns.github.io/hostile/pcs/Sabaka)
+- [Oliver Bennet](https://terra-campaigns.github.io/hostile/pcs/Oliver)
+- [Olaf Gustafson](https://terra-campaigns.github.io/hostile/pcs/Olaf)
+- [Oni Ro](https://terra-campaigns.github.io/hostile/pcs/Oni)
+- [Danny Dire](https://terra-campaigns.github.io/hostile/pcs/Danny)
+- [Frostbreaker](https://terra-campaigns.github.io/hostile/objects/Frostbreaker)
+- [Suyin Indrani](https://terra-campaigns.github.io/hostile/npcs/SuyinIndrani)
+- [Roland Lomax](https://terra-campaigns.github.io/hostile/npcs/RolandLomax)
+- [Yash Dutta](https://terra-campaigns.github.io/hostile/npcs/YashDutta)
+- [Nathan Argyre](https://terra-campaigns.github.io/hostile/npcs/Argyre)
+- [Eliana Murovec](https://terra-campaigns.github.io/hostile/npcs/ElianaMurovec)
+- [Cassian Vireo](https://terra-campaigns.github.io/hostile/npcs/CassianVireo)
+- [Marion Hardlee](https://terra-campaigns.github.io/hostile/npcs/MarionHardlee)
+- [The Solomons](https://terra-campaigns.github.io/hostile/locations/TheSolomons)
+- [Defiance](https://terra-campaigns.github.io/hostile/locations/Defiance)
+- [Makita Genetics Solomons](https://terra-campaigns.github.io/hostile/factions/makita)
+- [ICO American Sector](https://terra-campaigns.github.io/hostile/factions/ico)
 <!-- SerializedQuery END -->

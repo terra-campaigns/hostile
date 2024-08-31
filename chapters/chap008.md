@@ -47,3 +47,19 @@ log disconnection OK
 - He does commend the crew on their tactics of bringing a terrorist to Perdurabo.
 - After landing in Defiance, Olaf reports the alien to the ICO, and [Eliana Murovec](../npcs/ElianaMurovec.md) pays the crew for her transport.
 - The crew is now driven to take down John McLeod. But first, a visit to the low life bar close to the repair docks.
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM ([[]]) SORT file.folder DESC -->
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM outgoing([[]]) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM outgoing([[]]) SORT file.folder DESC -->
+- [Oni Ro](https://terra-campaigns.github.io/hostile/pcs/Oni)
+- [Olaf Gustafson](https://terra-campaigns.github.io/hostile/pcs/Olaf)
+- [Oliver Bennet](https://terra-campaigns.github.io/hostile/pcs/Oliver)
+- [Frostbreaker](https://terra-campaigns.github.io/hostile/objects/Frostbreaker)
+- [John McLeod](https://terra-campaigns.github.io/hostile/npcs/JohnMcLeod)
+- [Eliana Murovec](https://terra-campaigns.github.io/hostile/npcs/ElianaMurovec)
+- [Tharsis Mining American](https://terra-campaigns.github.io/hostile/factions/tharsisMining)
+<!-- SerializedQuery END -->
