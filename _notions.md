@@ -28,6 +28,12 @@ kanban-plugin: board
 - [ ] The stream?
 - [ ] Ship values should follow hostile, not swn
 - [ ] distribuir xp (terra)
+- [ ] People paying to be taken to other systems
+- [ ] Metalianos:
+	- [ ] https://theoreticalgm.blogspot.com/2016/04/90s-era-sci-fi-horror-monster-stats.html?m=1
+	- [x] Livro invasao
+	- [ ] Livro Alien
+	- [ ] Definir relação com os 'tho
 
 
 ## foreshadowing
