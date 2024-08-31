@@ -2,6 +2,7 @@
 layout: default
 title: MadSpark
 parent: Protagonists
+grand_parent: People
 
 ---
 

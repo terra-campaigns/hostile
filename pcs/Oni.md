@@ -2,6 +2,7 @@
 layout: default
 title: Oni Ro
 parent: Protagonists
+grand_parent: People
 
 Personality traits: Skillful and helpful. Comfortable making technical decisions, but does not like being responsible for others. That's why he would never aspire to be a team leader or captain. He'd rather be part of a team and do his tasks, maybe socialize a bit, too; but the rest of the time, you'll see him relaxing in his room or common area playing games. Sometimes even when he drives - don't worry, it's mainly when on auto-pilot. :)..  
   
@@ -64,6 +65,7 @@ o Weary (-1d Resolve)               |
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM ([[]]) SORT file.folder DESC -->
 - [MadSpark perishes](https://terra-campaigns.github.io/hostile/chapters/chap004)
 - [The Boxer's box](https://terra-campaigns.github.io/hostile/chapters/chap005)
+- [Start of Dutta's fall](https://terra-campaigns.github.io/hostile/chapters/chap006)
 - [Chaos in Brigthside](https://terra-campaigns.github.io/hostile/chapters/chap007)
 - [Hitchhiker](https://terra-campaigns.github.io/hostile/chapters/chap008)
 <!-- SerializedQuery END -->

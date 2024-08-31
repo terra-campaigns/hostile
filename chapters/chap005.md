@@ -30,3 +30,21 @@ nav_order: 5
 - Cassian mentions she is an investigator, and she wants to get information on what is happening in [BrightsideStation](../locations/BrightsideStation.md) and the Perdurabo system. Cassian offers her skills in computing and communications in return to be brought to Brightside. The crew is undecided and were to speak with her again next day, before departing Defiance.
 
 ![](https://i.imgur.com/GfAeVZ7.png)
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+- [Oni Ro](https://terra-campaigns.github.io/hostile/pcs/Oni), from pcs
+- [Olaf Gustafson](https://terra-campaigns.github.io/hostile/pcs/Olaf), from pcs
+- [Danny Dire](https://terra-campaigns.github.io/hostile/pcs/Danny), from pcs
+- [Oliver Bennet](https://terra-campaigns.github.io/hostile/pcs/Oliver), from pcs
+- [Frostbreaker](https://terra-campaigns.github.io/hostile/objects/Frostbreaker), from objects
+- [The Boxer](https://terra-campaigns.github.io/hostile/npcs/TheBoxer), from npcs
+- [John McLeod](https://terra-campaigns.github.io/hostile/npcs/JohnMcLeod), from npcs
+- [Cassian Vireo](https://terra-campaigns.github.io/hostile/npcs/CassianVireo), from npcs
+- [Defiance](https://terra-campaigns.github.io/hostile/locations/Defiance), from locations
+- [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
+- [Tharsis Mining American](https://terra-campaigns.github.io/hostile/factions/tharsisMining), from factions
+<!-- SerializedQuery END -->

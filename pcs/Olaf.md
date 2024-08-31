@@ -2,6 +2,7 @@
 layout: default
 title: Olaf Gustafson
 parent: Protagonists
+grand_parent: People
 
 ---
 

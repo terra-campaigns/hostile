@@ -2,6 +2,7 @@
 layout: default
 title: Oliver Bennet
 parent: Protagonists
+grand_parent: People
 
 ---
 

@@ -20,3 +20,8 @@ nav_order: 3
 - The Doomborg meets The Boxer and his crew, while they loot the Cold Tomb and move the valuables to the Brutomaker. The crew of the Leadbelly is tied up and gagged, and left in the Leadbelly for the Doomborgs to figure out.
 - Then, suddenly, while being playful with the new drone, MadSpark cause an accident and an oxygen leak in the Brutomaker. The two crews start running, but most of The Boxer's crew was further in the aft of the starship, and are lost to space with everything in that part of the ship when it explodes.
 - Bennet and MadSpark are safe in the Frostbreaker, while Oni, Olaf and Sabaka - together with TheBoxer and his engineer and the hostages - are safe in the Leadbelly.
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->

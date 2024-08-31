@@ -10,7 +10,7 @@ footer_content: Perdurado is adapted from the <a href="https://www.drivethrurpg.
 
 # mRNA resources
 
-> Core Worlds, 2225 AD {-}
+> Core Worlds, 2225 AD
 
 ## Prelude
 

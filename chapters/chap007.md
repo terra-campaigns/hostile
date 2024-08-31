@@ -67,7 +67,7 @@ nav_order: 7
 - [ElianaMurovec](../npcs/ElianaMurovec.md) and her bodyguard leave the transport
 - Olaf softly tells her of the documents the crew has in their possession.
 - Eliana agrees to a private conversation inside her pod where Olaf shares what he knows, and the documentation that proves it.
-- Eliana is flabbergast, and after thinking of her options, she offers to pay Olaf to take her back to [TheSolomons](../locations/TheSolomons.md).
+- Eliana is flabbergast, and after thinking of her options, she offers to pay Olaf to take her back to [Solomons](../locations/Solomons.md).
 - Olaf explains he needs to discuss it with his crew first, and leaves the pod.
 
 ![](https://i.imgur.com/q6m1Pir.png)
@@ -119,7 +119,7 @@ nav_order: 7
 - [Eliana Murovec](https://terra-campaigns.github.io/hostile/npcs/ElianaMurovec)
 - [Cassian Vireo](https://terra-campaigns.github.io/hostile/npcs/CassianVireo)
 - [Marion Hardlee](https://terra-campaigns.github.io/hostile/npcs/MarionHardlee)
-- [The Solomons](https://terra-campaigns.github.io/hostile/locations/TheSolomons)
+- [The Solomons](https://terra-campaigns.github.io/hostile/locations/Solomons)
 - [Defiance](https://terra-campaigns.github.io/hostile/locations/Defiance)
 - [Makita Genetics Solomons](https://terra-campaigns.github.io/hostile/factions/makita)
 - [ICO American Sector](https://terra-campaigns.github.io/hostile/factions/ico)

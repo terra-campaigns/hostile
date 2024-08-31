@@ -2,6 +2,7 @@
 layout: default
 title: Aaros Foste
 parent: Protagonists
+grand_parent: People
 
 ---
 

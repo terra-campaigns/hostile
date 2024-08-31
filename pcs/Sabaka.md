@@ -2,6 +2,7 @@
 layout: default
 title: Sabaka
 parent: Protagonists
+grand_parent: People
 
 ---
 

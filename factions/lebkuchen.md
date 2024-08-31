@@ -30,3 +30,12 @@ When Lebkuchen activists broke in to the facilities of Haruna Corporation in Mun
 their induced comas and then paid members of the Snakeheads people-smuggling crime gang, to provide new IDs for them. Lebkuchen had no idea what they were dealing with, however, and the replicants rebelled, killing and torturing many of their ‘saviors’ before fleeing across Europe. Some maintained links with the Snakeheads to become emotionless gang members and assassins-for-hire. Many innocent people were killed in the replicant uprising of 2209 and police were able to shoot several of them dead.
 
 Today there are believed to be almost 320 clones roaming free, some in the service of the Snakeheads, whilst others masquerade as normal human beings using their forged Snakehead identities. At any moment they might flip, causing destruction, pain and death before fleeing the scene and adopting yet another identity. They cannot be reasoned with, retrained or rehabilitated. Replicants are feared – and executed as soon as they are identified.
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+- [Cassian Vireo](https://terra-campaigns.github.io/hostile/npcs/CassianVireo), from npcs
+- [mRNA Resources](https://terra-campaigns.github.io/hostile/mRNA), from hostile
+<!-- SerializedQuery END -->
