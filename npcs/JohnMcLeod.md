@@ -68,3 +68,15 @@ npc_link: "[JohnMcLeod](JohnMcLeod.md)"
 > Supervisor of Ice Exploration [Tharsis Mining](#tharsis). Also appears in [Arrival](https://terra-campaigns.github.io/arrival/arrivals-wars.html#chapter-27-finale), as Loquiroth.
 
 ![](https://i.imgur.com/csVt4tj.png)
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+- [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002), from chapters
+- [The Boxer's box](https://terra-campaigns.github.io/hostile/chapters/chap005), from chapters
+- [Hitchhiker](https://terra-campaigns.github.io/hostile/chapters/chap008), from chapters
+- [mRNA Resources](https://terra-campaigns.github.io/hostile/mRNA), from hostile
+- [\-](https://terra-campaigns.github.io/arrival/npcs/Loquiroth), from arrival/npcs
+<!-- SerializedQuery END -->

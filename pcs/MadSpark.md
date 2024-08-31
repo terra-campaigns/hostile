@@ -6,7 +6,7 @@ grand_parent: People
 
 ---
 
-### Dirk "MadSpark" McBride {#madspark}
+# Dirk "MadSpark" McBride
 
 ```
 name: MadSpark
@@ -22,3 +22,13 @@ file: https://github.com/efsalvarenga/hostile/blob/main/pcs/MadSpark.md
 - He is a practical engineer who is constantly making new gadgets. If you ask him to make something & he has the right materials / tools, he can make anything. If he’s not asked to make something useful, he will spend his time making pointless gadgets that amuse him. He has invented his own type of shotgun that can be used in space (it mixes oxygen & nitrogen in the right quantities to provide quite a kick!). 
 - He finds it difficult to communicate with people & is definitely “on the spectrum”!
 - Appearance: tall, lean but strong & redneck in appearance. Around 30 years old but looks older. He has no eyebrows (they keep getting burnt off in explosions!).
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
+- [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002), from chapters
+- [Defiance and back](https://terra-campaigns.github.io/hostile/chapters/chap003), from chapters
+- [MadSpark perishes](https://terra-campaigns.github.io/hostile/chapters/chap004), from chapters
+<!-- SerializedQuery END -->
