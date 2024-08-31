@@ -56,8 +56,17 @@ roleplay:
 
 npc_link: "[MaryTomlinson](MaryTomlinson.md)"
 ---
-### Mary Tomlinson
+# Mary Tomlinson
 
-> Mining Chief of Brightside Station and third-in-command
+> Mining Chief of [Brightside Station](../locations/BrightsideStation.md) and third-in-command
 
 ![](https://i.imgur.com/aOLG8fs.png)
+
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+- [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
+<!-- SerializedQuery END -->

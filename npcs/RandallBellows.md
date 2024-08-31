@@ -57,8 +57,18 @@ roleplay:
 
 npc_link: "[RandallBellows](RandallBellows.md)"
 ---
-### Randall Bellows
+# Randall Bellows
 
-> Prostitute working at the Clouds and Rain
+> ***DECEASED*** Prostitute working at the Clouds and Rain, [Brightside Station](../locations/BrightsideStation.md)
 
 ![](https://i.imgur.com/Tsa2Km7.png)
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+- [Jaffa Okoye](https://terra-campaigns.github.io/hostile/npcs/JaffaOkoye), from npcs
+- [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
+- [MadSpark perishes](https://terra-campaigns.github.io/hostile/chapters/chap004), from chapters
+<!-- SerializedQuery END -->

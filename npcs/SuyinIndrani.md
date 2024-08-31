@@ -60,8 +60,18 @@ roleplay:
 
 npc_link: "[SuyinIndrani](SuyinIndrani.md)"
 ---
-### Suyin Indrani
+# Suyin Indrani
 
-> Medical Chief of Brightside Station and owner of the Clouds and Rain brothel
+> Medical Chief of [Brightside Station](../locations/BrightsideStation.md) and owner of the Clouds and Rain brothel
 
 ![](https://i.imgur.com/B138ywi.png)
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+- [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
+- [Start of Dutta's fall](https://terra-campaigns.github.io/hostile/chapters/chap006), from chapters
+- [Chaos in Brigthside](https://terra-campaigns.github.io/hostile/chapters/chap007), from chapters
+<!-- SerializedQuery END -->

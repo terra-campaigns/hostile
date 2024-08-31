@@ -4,6 +4,6 @@ title: Nathan Argyre
 parent: People
 
 ---
-### Nathan Argyre {#argyre}
+# Nathan Argyre
 
-> Genius researcher in the field of Memetics
+> Genius researcher in the field of Memetics.

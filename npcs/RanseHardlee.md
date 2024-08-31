@@ -57,8 +57,19 @@ roleplay:
 
 npc_link: "[RanseHardlee](RanseHardlee.md)"
 ---
-### Ranse Hardlee {#ranse}
+# Ranse Hardlee
 
-> ***DECEASED*** Pilot of the Leadbelly
+> ***DECEASED*** Pilot of the Leadbelly, from [Brightside Station](../locations/BrightsideStation.md)
 
 ![](https://i.imgur.com/9GTszYL.png)
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+- [Marion Hardlee](https://terra-campaigns.github.io/hostile/npcs/MarionHardlee), from npcs
+- [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
+- [The Frostbreaker](https://terra-campaigns.github.io/hostile/chapters/chap001), from chapters
+- [MadSpark perishes](https://terra-campaigns.github.io/hostile/chapters/chap004), from chapters
+<!-- SerializedQuery END -->

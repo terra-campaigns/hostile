@@ -56,8 +56,21 @@ roleplay:
 
 npc_link: "[MarionHardlee](MarionHardlee.md)"
 ---
-### Marion Hardlee
+# Marion Hardlee
 
-> Owner of the Midnight Sun
+> Owner of the Midnight Sun, on the [Brightside Station](../locations/BrightsideStation.md)
 
 ![](https://i.imgur.com/knPwkwz.png)
+
+- She is a hard, humorless woman who doesn’t think much of anyone on the station, least of all her no-good husband [Ranse Hardlee](RanseHardlee.md). She’ll point out his piloting services to strangers.
+
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+- [Ranse Hardlee](https://terra-campaigns.github.io/hostile/npcs/RanseHardlee), from npcs
+- [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
+- [Chaos in Brigthside](https://terra-campaigns.github.io/hostile/chapters/chap007), from chapters
+<!-- SerializedQuery END -->

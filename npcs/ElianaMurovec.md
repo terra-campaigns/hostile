@@ -39,8 +39,18 @@ roleplay:
 
 npc_link: "[ElianaMurovec](ElianaMurovec.md)"
 ---
-### Eliana Murovec
+# Eliana Murovec
 
 > [Haruna](../factions/haruna.md) Bank Auditor
 
 ![](https://i.imgur.com/vwOnWha.png)
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+- [Haruna Biolabs Solomons](https://terra-campaigns.github.io/hostile/factions/haruna), from factions
+- [Chaos in Brigthside](https://terra-campaigns.github.io/hostile/chapters/chap007), from chapters
+- [Hitchhiker](https://terra-campaigns.github.io/hostile/chapters/chap008), from chapters
+<!-- SerializedQuery END -->
