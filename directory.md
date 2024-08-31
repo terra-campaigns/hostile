@@ -7,7 +7,7 @@ nav_order: 45
 
 #### [People](npcs.md)
 
--  [Protagonists](pcs.md)
+-  [Protagonists](Doomborgs.md)
 
 #### [Factions](factions.md)
 

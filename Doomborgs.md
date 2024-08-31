@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Protagonists
+title: Doomborgs
 parent: People
 has_children: true
 nav_order: 1

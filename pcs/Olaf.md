@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Olaf Gustafson
-parent: Protagonists
+parent: Doomborgs
 grand_parent: People
 
 ---

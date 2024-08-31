@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MadSpark
-parent: Protagonists
+parent: Doomborgs
 grand_parent: People
 
 ---

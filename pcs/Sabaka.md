@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sabaka
-parent: Protagonists
+parent: Doomborgs
 grand_parent: People
 
 ---

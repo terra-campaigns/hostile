@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oni Ro
-parent: Protagonists
+parent: Doomborgs
 grand_parent: People
 
 Personality traits: Skillful and helpful. Comfortable making technical decisions, but does not like being responsible for others. That's why he would never aspire to be a team leader or captain. He'd rather be part of a team and do his tasks, maybe socialize a bit, too; but the rest of the time, you'll see him relaxing in his room or common area playing games. Sometimes even when he drives - don't worry, it's mainly when on auto-pilot. :)..  
