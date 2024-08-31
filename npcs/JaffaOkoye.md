@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Jaffa Okoye
+location: Brightside Station
 parent: People
 
 statblock: yes

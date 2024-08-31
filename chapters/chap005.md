@@ -13,7 +13,7 @@ nav_order: 5
 - Lucas called back and agreed to find a maintenance bay for the [Frostbreaker](../objects/Frostbreaker.md) in two days.
 - [Oni](../pcs/Oni.md) skilfully (again) landed the [Frostbreaker](../objects/Frostbreaker.md) through a light storm for Defiance's standards. 
 
-![|400](https://i.imgur.com/xlfV2y5.png)
+![](https://i.imgur.com/xlfV2y5.png)
 
 - Lucas spoke again with the crew, and was astonished to know that [JohnMcLeod](../npcs/JohnMcLeod.md) speaks with the crew through an AI version of himself - this is not allowed on Earth.
 - Lucas also updates the crew that information leaked about the alien bodies, and the possible extraction of the mRNA - which is expensive in the market.
@@ -21,7 +21,7 @@ nav_order: 5
 - [Danny](../pcs/Danny.md) and [Oliver](../pcs/Oliver.md) go to a local lowlife bar and meet the owner of a small and shady logistics company, Harry.
 - Harry agrees to take the box and ask no questions.
 
-![|400](https://i.imgur.com/MEpbMly.png)
+![](https://i.imgur.com/MEpbMly.png)
 
 - The crew meet again at the bay, prepare everything and load the box with The Boxer into Harry's company truckers' truck.
 - The crew speaks with [JohnMcLeod](../npcs/JohnMcLeod.md) who confirms what Lucas has shared. John mentions that there is an inevitable gold rush about to start for Perdurabo. The crew is to be back there ASAP, and start mining as much as possible. A new contract will be sent to them.
@@ -29,4 +29,4 @@ nav_order: 5
 - In the same low life bar the crew meet a (very drunk) [CassianVireo](../npcs/CassianVireo.md)
 - Cassian mentions she is an investigator, and she wants to get information on what is happening in [BrightsideStation](../locations/BrightsideStation.md) and the Perdurabo system. Cassian offers her skills in computing and communications in return to be brought to Brightside. The crew is undecided and were to speak with her again next day, before departing Defiance.
 
-![|400](https://i.imgur.com/GfAeVZ7.png)
+![](https://i.imgur.com/GfAeVZ7.png)

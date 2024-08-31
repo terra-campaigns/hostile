@@ -1,3 +1,9 @@
+---
+layout: default
+title: Frostbreaker
+nav_exclude: true
+
+---
 ### Frostbreaker
 
 ![](https://i.imgur.com/MRdCXz0.jpg)
