@@ -31,8 +31,10 @@ scheme:
 
 ![](https://i.imgur.com/EUXWq3P.png)
 
-
 ---
 #### Connected to
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+- [Ava McKenzie](https://terra-campaigns.github.io/hostile/npcs/AvamcKenzie), from npcs
+<!-- SerializedQuery END -->
