@@ -1,4 +1,8 @@
 ---
+title: Metaliano
+layout: default
+nav_exclude: true
+
 statblock: yes
 layout_deprecated: Terra Campaigns Leiaute v04d
 template: Terran Trinity & Challenges
@@ -56,20 +60,8 @@ npc_link: "[MetalianoXX121](MetalianoXX121.md)"
 
 ![](https://i.imgur.com/dmPWCvD.jpeg)
 
-```statblock
-creature: Metaliano XX121
-```
-
-
-- [ ] https://theoreticalgm.blogspot.com/2016/04/90s-era-sci-fi-horror-monster-stats.html?m=1
-- [x] Livro invasao
-- [ ] Livro Alien
-- [ ] Definir relação com os 'tho
-
-The Metalianos are a formidable and mysterious alien species, designed to fit seamlessly into the dark, gritty, and industrial space opera aesthetic of your RPG campaign. Here’s a detailed outline of their characteristics, society, technology, and potential plot hooks to enrich your storytelling.
-
 ### Physical Characteristics
-- **Appearance**: Metalianos are bipedal with a skeletal structure made of a naturally occurring bio-metallic compound, giving them a shimmering, steel-like appearance. They have no facial features in the human sense but communicate through a series of lights and vibrations emanating from their chest cavity.
+- **Appearance**: Metalianos are bipedal with a skeletal structure made of a naturally occurring bio-metallic compound, giving them a shimmering, steel-like appearance. They have no facial features in the human sense but communicate through a series of lights and vibrations emanating from their chest cavities.
 - **Physiology**: Their bodies are highly resistant to extreme temperatures and pressures, making them adept at surviving in the harsh environments of space and hostile planets. They do not breathe, eat, or sleep in the traditional sense but recharge their energy from solar sources and electromagnetic fields.
 - **Abilities**: Metalianos possess an innate ability to manipulate metal and electromagnetic fields, using these skills for defense, communication, and controlling technology. Their physical strength is superior to humans, and their metallic bodies can withstand significant damage before degrading.
 
