@@ -9,7 +9,7 @@ nav_order: 6
 
 - The Doomborgs receive a **new contract** that voids the exploration framework of the previous contract, but maintain taking down the directorship of [BrightsideStation](../locations/BrightsideStation.md)
 	- The crew will be paid C5k for each Hull cargo space full of unrefined mRNA-rich ice. This value is doubled if the ice is refined.
-- The Doomborgs try to find a mobile extractor micro refinery to install on their ship, but that was too difficult in a planet like [Defiance](../locations/Defiance.md). [Oni](../pcs/Oni.md) sends a message to her friend in [The Solomons](../locations/TheSolomons.md) and asks her to buy one and bring it to Brightside. The message ends with '*Don't rip me off*'.
+- The Doomborgs try to find a mobile extractor micro refinery to install on their ship, but that was too difficult in a planet like [Defiance](../locations/Defiance.md). [Oni](../pcs/Oni.md) sends a message to her friend in [The Solomons](../locations/Solomons.md) and asks her to buy one and bring it to Brightside. The message ends with '*Don't rip me off*'.
 - While trying to find an extractor, [Danny](../pcs/Danny.md) inadvertently tells Harry Tungla that there was someone inside the box his trucker carried to the farm.
 - The crew then decides to take [Cassian Vireo](../npcs/CassianVireo.md) with them to Brightside, for what she pays C2k.
 - Flying off defiance is delayed in 4 days, due to weather. But even when the weather improves the [Frostbreaker](../objects/Frostbreaker.md) barely does it, with its fusion reactor shutting down due to load as the ship gains orbit.
@@ -54,7 +54,7 @@ nav_order: 6
 - [Suyin Indrani](https://terra-campaigns.github.io/hostile/npcs/SuyinIndrani), from npcs
 - [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
 - [Defiance](https://terra-campaigns.github.io/hostile/locations/Defiance), from locations
-- [The Solomons](https://terra-campaigns.github.io/hostile/locations/TheSolomons), from locations
+- [The Solomons](https://terra-campaigns.github.io/hostile/locations/Solomons), from locations
 - [Cold Tomb](https://terra-campaigns.github.io/hostile/locations/ColdTomb), from locations
 - [Haruna Biolabs Solomons](https://terra-campaigns.github.io/hostile/factions/haruna), from factions
 - [Tharsis Mining American](https://terra-campaigns.github.io/hostile/factions/tharsisMining), from factions
