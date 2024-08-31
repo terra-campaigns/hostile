@@ -36,5 +36,16 @@ When a Haruna customer dies, the company picks up his body (or head at the very 
 > ![](https://i.imgur.com/VY7zssZ.png)
 
 
+---
+#### Connected to
 
-
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+- [Eliana Murovec](https://terra-campaigns.github.io/hostile/npcs/ElianaMurovec), from npcs
+- [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
+- [Makita Genetics Solomons](https://terra-campaigns.github.io/hostile/factions/makita), from factions
+- [Start of Dutta's fall](https://terra-campaigns.github.io/hostile/chapters/chap006), from chapters
+- [The Frostbreaker](https://terra-campaigns.github.io/hostile/chapters/chap001), from chapters
+- [Clues](https://terra-campaigns.github.io/hostile/chapters/chap009), from chapters
+- [mRNA Resources](https://terra-campaigns.github.io/hostile/mRNA), from hostile
+<!-- SerializedQuery END -->

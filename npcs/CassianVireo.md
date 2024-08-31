@@ -55,7 +55,7 @@ npc_link: "[CassianVireo](CassianVireo.md)"
 ---
 ### Cassian Vireo
 
-> Terrorist from the [Lebkuchen](#lebkuchen)
+> Terrorist from the [Lebkuchen](../factions/lebkuchen.md)
 
 ![](https://i.imgur.com/GfAeVZ7.png)
 
