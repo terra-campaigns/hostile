@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Livingston Roy
+location: Brightside Station
 parent: People
 
 statblock: yes

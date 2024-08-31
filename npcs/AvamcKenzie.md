@@ -10,6 +10,6 @@ parent: People
 
 ![](https://i.imgur.com/zDqHsoO.png)
 
-- Ava's daughter was saved, in an accident, by [Aaros](#aaros).
+- Ava's daughter was saved, in an accident, by [Aaros](../pcs/Aaros.md).
 - She follows the [Book of Sky](#booksky)
-- Her husband works for [Lucas Maluf](#lucasmaluf) from [Tharsis](#tharsis).
+- Her husband works for [Lucas Maluf](#lucasmaluf) from [Tharsis Mining](../factions/tharsisMining.md).
