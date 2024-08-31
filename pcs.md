@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Protagonists
+parent: People
 has_children: true
-nav_order: 70
+nav_order: 1
 
 ---
 

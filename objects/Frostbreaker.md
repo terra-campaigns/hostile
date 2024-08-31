@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Frostbreaker
-nav_exclude: true
+parent: Miscellanea
 
 ---
 ### Frostbreaker

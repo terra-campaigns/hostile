@@ -5,10 +5,12 @@ nav_order: 45
 
 ---
 
-#### [Locations](locations.md)
+#### [People](npcs.md)
+
+-  [Protagonists](pcs.md)
 
 #### [Factions](factions.md)
 
-#### [Protagonists](pcs.md)
+#### [Locations](locations.md)
 
-#### [People](npcs.md)
+#### [Miscellanea](misc.md)

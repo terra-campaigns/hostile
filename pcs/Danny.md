@@ -2,6 +2,7 @@
 layout: default
 title: Danny Dire
 parent: Protagonists
+grand_parent: People
 
 ---
 

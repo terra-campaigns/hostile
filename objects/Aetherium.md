@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aetherium
-nav_exclude: true
+parent: Miscellanea
 
 main: Aetherium is a speculative, advanced material central to the construction and functioning of the space station Nibiru. Its unique properties and capabilities make it an essential component in various high-tech applications.
 
