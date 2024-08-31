@@ -46,3 +46,20 @@ log disconnection OK
 - Oni leads the group to meet Katrina, his old good friend. They meet in the base called Payback. After being told the entire story of Oni's last year, Katrina shares that a famous researcher, [Nathan Argyre](../npcs/Argyre.md) has been trying to purchase [Novium](../objects/Aetherium.md#Novium), which is manufactured in Perdurabo. "What a coincidence".
 - They also speak with a trader about buying starships, including black market options, or on how to get small ships in long haul to the Rim.
 - Finally, Oni meets his old mentor, Orson Heyes, who works for the Frontier Starline, from [Matsuyama](../factions/haruna.md). They agree to meet.
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM ([[]]) SORT file.folder DESC -->
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM outgoing([[]]) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM outgoing([[]]) SORT file.folder DESC -->
+- [Aaros Foste](https://terra-campaigns.github.io/hostile/pcs/Aaros)
+- [Aetherium](https://terra-campaigns.github.io/hostile/objects/Aetherium)
+- [Ava McKenzie](https://terra-campaigns.github.io/hostile/npcs/AvamcKenzie)
+- [The Boxer](https://terra-campaigns.github.io/hostile/npcs/TheBoxer)
+- [Nathan Argyre](https://terra-campaigns.github.io/hostile/npcs/Argyre)
+- [Tharsis Mining American](https://terra-campaigns.github.io/hostile/factions/tharsisMining)
+- [Transdyne Cybersystems](https://terra-campaigns.github.io/hostile/factions/TDC)
+- [Haruna Biolabs Solomons](https://terra-campaigns.github.io/hostile/factions/haruna)
+<!-- SerializedQuery END -->
