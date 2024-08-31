@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oni Ro
-parent: Protagonists
+parent: Doomborgs
 grand_parent: People
 
 Personality traits: Skillful and helpful. Comfortable making technical decisions, but does not like being responsible for others. That's why he would never aspire to be a team leader or captain. He'd rather be part of a team and do his tasks, maybe socialize a bit, too; but the rest of the time, you'll see him relaxing in his room or common area playing games. Sometimes even when he drives - don't worry, it's mainly when on auto-pilot. :)..  
@@ -10,7 +10,7 @@ Personality traits: Skillful and helpful. Comfortable making technical decisions
   
 After some years of working in a variety of technical projects he had gotten comfortable. But something was missing, ........ he decided to try out bounty hunting and took some missions in between projects. He had gotten good with piloting his ship so in the beginning he was doing good. In his 4th mission, when chasing a renowed criminal in the area, he almost died trying to catch him. That made him reflect on what he's doing with his time in this life, and after talking to his good friend Era he decided to contribute in different ways to humanity. (Era sort of told him off. he was telling: the big corporations don't care about X, Y, and they only care for profit, but she explained there are also no workers that would do this, like you; you prefer the more rewarding job than the helpful one, if you really cared you would go;)
 ---
-### Oni Ro {#oni}
+# Oni Ro
 
 ```
 name: Oni Ro
@@ -63,6 +63,8 @@ o Weary (-1d Resolve)               |
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM ([[]]) SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM ([[]]) SORT file.folder DESC -->
+- [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002)
+- [Defiance and back](https://terra-campaigns.github.io/hostile/chapters/chap003)
 - [MadSpark perishes](https://terra-campaigns.github.io/hostile/chapters/chap004)
 - [The Boxer's box](https://terra-campaigns.github.io/hostile/chapters/chap005)
 - [Start of Dutta's fall](https://terra-campaigns.github.io/hostile/chapters/chap006)

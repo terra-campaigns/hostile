@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Cold Tomb
-
-nav_exclude: true
-search_exclude: true
-
+parent: Perdurabo
+grand_parent: Locations
 
 meta:
   category: location
@@ -27,7 +25,7 @@ tags:
 
 ## 4
 
-Bodies of ancestors of the [ngar-tho](../../arrival/statblocks/ngar-tho.md)
+Bodies of ancestors of the [Ngar'tho](https://terra-campaigns.github.io/arrival/arrivals-darkness-deepens.html#interlude-a-dream-of-makab)
 
 ![|400](https://i.imgur.com/9bNAri9.png)
 
@@ -51,3 +49,15 @@ creatures:
   - [l3b1w2w0, Chittik Drone]
   - [l4b1w3w0, Chittik Drone Large]
 ```
+
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+- [Perdurabo](https://terra-campaigns.github.io/hostile/locations/Perdurabo), from locations
+- [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002), from chapters
+- [Defiance and back](https://terra-campaigns.github.io/hostile/chapters/chap003), from chapters
+- [Start of Dutta's fall](https://terra-campaigns.github.io/hostile/chapters/chap006), from chapters
+<!-- SerializedQuery END -->

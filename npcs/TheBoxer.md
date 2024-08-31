@@ -63,7 +63,7 @@ roleplay:
 
 npc_link: '[TheBoxer](TheBoxer.md)'
 ---
-### The Boxer {#boxer}
+# The Boxer
 
 ![](https://i.imgur.com/G8qPDTT.png)
 
@@ -72,3 +72,14 @@ Born in the cramped and unforgiving quarters of a mining asteroid under Tharsis 
 His earnest idiocy in matters of the heart made him **a fool in love and lust**, often compromising his professional relationships and missions. Despite his rugged exterior and formidable presence, his interactions with women revealed **a man struggling to navigate the complexities of intimacy and affection**, repeatedly ensnared by his desires and prejudices.
 
 Yet, beneath this tumultuous surface, lay a singular, burning desire: to **escape the life of a mercenary and the endless cycle of violence and remorse**. The Boxer **dreams of a simpler existence**, one far removed from the cold metal corridors of mining asteroids and the vacuous expanse of space. He imagines a life as a **farmer**, tilling soil and nurturing life, a stark contrast to the destruction and chaos that have so far defined his existence.
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+- [Defiance and back](https://terra-campaigns.github.io/hostile/chapters/chap003), from chapters
+- [MadSpark perishes](https://terra-campaigns.github.io/hostile/chapters/chap004), from chapters
+- [The Boxer's box](https://terra-campaigns.github.io/hostile/chapters/chap005), from chapters
+- [Clues](https://terra-campaigns.github.io/hostile/chapters/chap009), from chapters
+<!-- SerializedQuery END -->

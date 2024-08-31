@@ -58,8 +58,23 @@ roleplay:
 
 npc_link: "[YashDutta](YashDutta.md)"
 ---
-### Yash Dutta {#yash}
+# Yash Dutta
 
-> Director of Brightside Station
+> Director of [Brightside Station](../locations/BrightsideStation.md)
 
 ![](https://i.imgur.com/PJUQUQn.png)
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+- [Livingston Roy](https://terra-campaigns.github.io/hostile/npcs/LivingstonRoy), from npcs
+- [Roland Lomax](https://terra-campaigns.github.io/hostile/npcs/RolandLomax), from npcs
+- [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
+- [The Frostbreaker](https://terra-campaigns.github.io/hostile/chapters/chap001), from chapters
+- [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002), from chapters
+- [MadSpark perishes](https://terra-campaigns.github.io/hostile/chapters/chap004), from chapters
+- [Start of Dutta's fall](https://terra-campaigns.github.io/hostile/chapters/chap006), from chapters
+- [Chaos in Brigthside](https://terra-campaigns.github.io/hostile/chapters/chap007), from chapters
+<!-- SerializedQuery END -->

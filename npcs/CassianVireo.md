@@ -53,9 +53,22 @@ roleplay:
 
 npc_link: "[CassianVireo](CassianVireo.md)"
 ---
-### Cassian Vireo
+# Cassian Vireo
 
 > Terrorist from the [Lebkuchen](../factions/lebkuchen.md)
 
 ![](https://i.imgur.com/GfAeVZ7.png)
 
+- Detonated a bomb in [Brightside Station](../locations/BrightsideStation.md)
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+- [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
+- [Lebkuchen Defiance](https://terra-campaigns.github.io/hostile/factions/lebkuchen), from factions
+- [The Boxer's box](https://terra-campaigns.github.io/hostile/chapters/chap005), from chapters
+- [Start of Dutta's fall](https://terra-campaigns.github.io/hostile/chapters/chap006), from chapters
+- [Chaos in Brigthside](https://terra-campaigns.github.io/hostile/chapters/chap007), from chapters
+<!-- SerializedQuery END -->

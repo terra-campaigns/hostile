@@ -67,6 +67,16 @@ npc_link: "[LivingstonRoy](LivingstonRoy.md)"
 
 ![](https://i.imgur.com/xMXC8Lz.png)
 
-## Links
+- The man is polite and cheerful, but otherwise distant to everyone else but his good friend [Yash Dutta](YashDutta.md).
+- He pines for [Jaffa Okoye](JaffaOkoye.md), but the tech chief only has eyes for Randall Bellows.
 
-- [Jaffa Okoye](JaffaOkoye.md)
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+- [Yash Dutta](https://terra-campaigns.github.io/hostile/npcs/YashDutta), from npcs
+- [Jaffa Okoye](https://terra-campaigns.github.io/hostile/npcs/JaffaOkoye), from npcs
+- [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
+<!-- SerializedQuery END -->

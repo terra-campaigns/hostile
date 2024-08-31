@@ -54,8 +54,22 @@ roleplay:
 
 npc_link: "[MariusRochambeau](MariusRochambeau.md)"
 ---
-### Marius Rochambeau {#marius}
+# Marius Rochambeau
 
-> Scientific representative for [Makita](#makita)
+> Scientific representative for [Makita](../factions/makita.md). Visits [Brightside Station](../locations/BrightsideStation.md) often.
 
 ![](https://i.imgur.com/BWuv3Qe.png)
+
+- In love with [Sabaka](../pcs/Sabaka.md)
+
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+- [Sabaka](https://terra-campaigns.github.io/hostile/pcs/Sabaka), from pcs
+- [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
+- [Makita Genetics Solomons](https://terra-campaigns.github.io/hostile/factions/makita), from factions
+- [The Frostbreaker](https://terra-campaigns.github.io/hostile/chapters/chap001), from chapters
+<!-- SerializedQuery END -->

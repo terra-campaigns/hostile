@@ -58,8 +58,21 @@ roleplay:
 
 npc_link: "[JaffaOkoye](JaffaOkoye.md)"
 ---
-### Jaffa Okoye
+# Jaffa Okoye
 
-> Technical Chief of Brightside Station
+> ***DECEASED*** Technical Chief of [Brightside Station](../locations/BrightsideStation.md).
 
 ![](https://i.imgur.com/pWh5JDL.png)
+
+- She wants to get off the station, but she’s too smitten to leave without [Randall Bellows](RandallBellows.md).
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+- [Livingston Roy](https://terra-campaigns.github.io/hostile/npcs/LivingstonRoy), from npcs
+- [Randall Bellows](https://terra-campaigns.github.io/hostile/npcs/RandallBellows), from npcs
+- [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
+- [MadSpark perishes](https://terra-campaigns.github.io/hostile/chapters/chap004), from chapters
+<!-- SerializedQuery END -->

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Danny Dire
-parent: Protagonists
+parent: Doomborgs
 grand_parent: People
 
 ---

@@ -38,7 +38,7 @@ nav_order: 4
 
 - The Boxer parks the Leadbelly in a hidden coordinate in the asteroid field.
 - The crew takes the Frostbreaker to [BrightsideStation](../locations/BrightsideStation.md). An afraid [YashDutta](../npcs/YashDutta.md) greets them, and allow them to refuel, but not to enter the station.
-- [Oni](../pcs/Oni.md) skilfully uninstall the lead panels from the[Frostbreaker](../objects/Frostbreaker.md), so they can land the ship in [Defiance](../locations/Defiance.md) to drop the Boxer.
+- [Oni](../pcs/Oni.md) skilfully uninstall the lead panels from the [Frostbreaker](../objects/Frostbreaker.md), so they can land the ship in [Defiance](../locations/Defiance.md) to drop the Boxer.
 
 ---
 #### Connected to
