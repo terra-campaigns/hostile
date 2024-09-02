@@ -4,8 +4,13 @@ title: Chaos in Brigthside
 parent: mRNA Resources
 nav_order: 7
 
+timestamp: 2225-12-30
+sector: NEZ
+
 ---
 ## Chaos in Brightside
+
+> {{ page.timestamp }}, {{ page.sector}}
 
 **Arrival of Sabaka**
 
