@@ -1,0 +1,58 @@
+---
+layout: default
+title: Poems
+parent: Anthology
+nav_order: 50
+
+timestamp: 2223-09-12
+sector: FSZ
+
+---
+# Poems
+
+You were hired by the [Book of the Sky](../factions/bookSky.md) to recover a microfilm canister from a derelict industrial space station in [Fomalhaut](../locations/Fomalhaut.md).
+You will receive tickets to get to the system, and then a shuttle to get close to the space station.
+The shuttle will be an illegal one, given the station is currently under a blockade stablished by the [ICO](../factions/ico.md).
+
+The site is a large failed industrial site in the system, meant to build androids - who were later made forbidden.
+It was formally run by [Transdyne Cybersystems](../factions/TDC.md).
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+- [Fomalhaut](https://terra-campaigns.github.io/hostile/locations/Fomalhaut), from locations
+- [Book of the Sky Solomons](https://terra-campaigns.github.io/hostile/factions/bookSky), from factions
+- [ICO American Sector](https://terra-campaigns.github.io/hostile/factions/ico), from factions
+- [Transdyne Cybersystems](https://terra-campaigns.github.io/hostile/factions/TDC), from factions
+<!-- SerializedQuery END -->
+
+---
+### Game Card
+
+You were hired by the [Book of the Sky](../factions/bookSky.md) to recover a microfilm canister from a derelict industrial space station in [Fomalhaut](../locations/Fomalhaut.md).
+You will receive tickets to get to the system, and then a shuttle to get close to the space station.
+The shuttle will be an illegal one, given the station is currently under a blockade stablished by the [ICO](../factions/ico.md).
+
+The site is a large failed industrial site in the system, meant to build androids - who were later made forbidden.
+It was formally run by [Transdyne Cybersystems](../factions/TDC.md).
+
+**Date and time:** Monday, 9th September 2045 CET (2.5h)
+**Frequency:** One shot
+**TTRPG System:** [Meteor RPG](https://www.meteorrpg.com/) (see below for house rules)
+**Module:** [Gradient Descent](https://www.tuesdayknightgames.com/products/gradient-descent?srsltid=AfmBOop0VAcLpJ92ergFpqRkOcNYhkvvyJM8Lb4HfGoAcmgSPcWJ9s7l) (Mothership)
+**VTT:** Theatre of the mind, Owlbear Rodeo if needed.
+**Expected campaign length:** One shot
+**Number of players:** 2-6
+**Language:** English
+**Gewenste speelervaring:** Horror, adult themes
+**Speelstijl voorkeur:** OSR
+**Communication:** Discord voice. Image optional.
+**Further information:** [Poems](https://terra-campaigns.github.io/hostile/chapters/anthology_050)
+
+**House rules**:
+
+- If you fail a Stress Save, stress is reduced from **HP** first, and then from **Resolve**.
+- Panic occurs if a failed Stress Save takes you to exactly **0 HP**.
+- You will be subjected to **The Bends**, a specific rule for the module. It will be explained before the session.
