@@ -4,22 +4,13 @@ title: Hitchhiker
 parent: mRNA Resources
 nav_order: 8
 
+timestamp: 2226-01-10
+sector: NEZ
+
 ---
 ## Hitchhiker
 
-```
-log transmission [====================] OK
-
-date: 2226.01.01 - 2226.01.10
-sector: NEZ Near Earth Zone
-system: Perdurabo
-system: Teegarden's Star
-  world: Defiance
-    location: Tharsis Maintenance Docks
-vehicle: ECS Starbounder Frostbreaker GSV-112578
-
-log disconnection OK
-```
+> {{ page.timestamp }}, {{ page.sector}}
 
 - The Doomborgs start investigating what could be inside the [Frostbreaker](../objects/Frostbreaker.md). It seems like an invisible alien.
 - [Oni](../pcs/Oni.md) quickly checks all possible sensors and decide to go with a thermal sensor to detect friction. It seems that an alien creature is touching all aspects of the starship.
@@ -45,7 +36,7 @@ log disconnection OK
 - As this happens, the metal egg simply vanishes in thin air, and nothing bad happens to Olaf or Oni. Olaf seems to have made the correct choice.
 - With the reactor repaired, Olaf decides to speak with [John McLeod](../npcs/JohnMcLeod.md). The manager does not seem interested in helping the crew, and sees an opportunity for them dying and [Tharsis Mining](../factions/tharsisMining.md) not having to pay for the complete mission.
 - He does commend the crew on their tactics of bringing a terrorist to Perdurabo.
-- After landing in Defiance, Olaf reports the alien to the ICO, and [Eliana Murovec](../npcs/ElianaMurovec.md) pays the crew for her transport.
+- After landing in [Defiance](../locations/Defiance.md), Olaf reports the alien to the ICO, and [Eliana Murovec](../npcs/ElianaMurovec.md) pays the crew for her transport.
 - The crew is now driven to take down John McLeod. But first, a visit to the low life bar close to the repair docks.
 
 ---
@@ -61,5 +52,6 @@ log disconnection OK
 - [Frostbreaker](https://terra-campaigns.github.io/hostile/objects/Frostbreaker)
 - [John McLeod](https://terra-campaigns.github.io/hostile/npcs/JohnMcLeod)
 - [Eliana Murovec](https://terra-campaigns.github.io/hostile/npcs/ElianaMurovec)
+- [Defiance](https://terra-campaigns.github.io/hostile/locations/Defiance)
 - [Tharsis Mining American](https://terra-campaigns.github.io/hostile/factions/tharsisMining)
 <!-- SerializedQuery END -->

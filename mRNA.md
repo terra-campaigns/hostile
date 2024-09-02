@@ -14,9 +14,9 @@ footer_content: Perdurado is adapted from the <a href="https://www.drivethrurpg.
 
 ## Prelude
 
-Advanced alien ruins were found in 2225 in the [Perdurabo](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/PWrHAjd6P64k61Ga1PfQ) system. An ice sample was bought by Tharsis' Parkfield Biolabs, which contained RNA that can be used to cure early dementia caused by frequent faster than light travel. The RNA named Neuroplasticity Augmentor Sequence (NAS-RNA), however, the RNA cannot be easily replicated in laboratory. For this reason, the discovery was not made public yet, and Tharsis has been moving fast to evaluate the feasibility to establish an ice mine in the system.
+Advanced alien ruins were found in 2225 in the [Perdurabo](locations/Perdurabo.md) system. An ice sample was bought by Tharsis' Parkfield Biolabs, which contained RNA that can be used to cure early dementia caused by frequent faster than light travel. The RNA named Neuroplasticity Augmentor Sequence (NAS-RNA), however, the RNA cannot be easily replicated in laboratory. For this reason, the discovery was not made public yet, and Tharsis has been moving fast to evaluate the feasibility to establish an ice mine in the system.
 
-If proven feasible, the existence of the [Brightside Mining Station](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/spaceStation/8LCcs3wrwRYwyUx5P0OL) in the system is an advantage. The station is a poorly managed facility that would be easy to purchase if the exploration proves commerciality of the play (see Hostile-Setting 82, for detail on the licensing process).
+If proven feasible, the existence of the [BrightsideStation](locations/BrightsideStation.md) in the system is an advantage. The station is a poorly managed facility that would be easy to purchase if the exploration proves commercially of the play (see Hostile-Setting 82, for detail on the licensing process).
 
 Perdurabo is a system blazing with the murderous light of a red giant star. The hard-bitten miners of the Brightside Mining Station maintain the only outpost of civilisation in a system filled with lethal light and stellar outlaws. Ancient asteroid sky tombs lie in the vicinity while a seething rebellion boils beneath Brightside Station's steel skin.
 
@@ -75,7 +75,7 @@ Mission kick off meeting in Earth's largest starport in French Guiana.
 
 ### Perdurian Frostbreaker
 
-Link to [Frostbreaker](_site/objects/Frostbreaker.md)
+Link to [Frostbreaker](objects/Frostbreaker.md)
 
 ```
 Certificate of Flight
@@ -110,10 +110,6 @@ Small letters:
 - Payment 30 days after returning the Frostbreaker in similar conditions, and the AI Briefcase. Failure to do so, will incur fine of 600 kC for the Frostbreaker and 150 kC for the AI Briefcase.
 
 ```
-
-### Perdurabo
-
-![](https://i.imgur.com/RLOfasI.png)
 
 On the evening before the mission kick-off meeting with [Tharsis Mining](factions/tharsisMining.md) Manager for Ice Exploration [John McLeod](npcs/JohnMcLeod.md), the crew find a scientist from [Haruna](../factions/haruna.md) tied to a bomb in the toilets of a bar in French Guiana. They learn of the animosity of the [Lebkuchen](factions/lebkuchen.md) activists against Haruna's cloning endeavours. After all that is sorted, they decide to bet on Olaf in a boxing ring, which proves to be successful.
 

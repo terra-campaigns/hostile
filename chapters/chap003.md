@@ -4,8 +4,13 @@ title: Defiance and back
 parent: mRNA Resources
 nav_order: 3
 
+timestamp: 2225-11-04
+sector: NEZ
+
 ---
 ## Defiance and back
+
+> {{ page.timestamp }}, {{ page.sector}}
 
 - The [Doomborgs](../Doomborgs.md) crew travel to the neighbour system: the Teegarden's Star. During the spike drill, [Bennet](../pcs/Oliver.md) used the time to execute a biopsy on one of the crab creatures that infested the starship previously. The doctor was very unlucky when a splash of acid hits his eyes, blinding him.
 - Upon arriving on Teegarden's Star, the captain makes contact with the system control and gets redirected to the [Tharsis Mining](../factions/tharsisMining.md) office on the [Defiance](../locations/Defiance.md). A shuttle picks the crew from orbit and a truck and a car takes them and the corpse to the corporation estate.

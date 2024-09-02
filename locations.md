@@ -11,14 +11,14 @@ nav_order: 70
 
 ![](https://i.imgur.com/YU7qKTd.png)
 
-### Near Earth Zone (NEZ) {#nez}
+### Near Earth Zone (NEZ)
 
 ![](https://i.imgur.com/bolB4uX.png)
 
-> Link to navigable web app: [Near Earth Zone in Sectors Without Number](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe).
+> Link to navigable web app: [NEZ](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe).
 
-### Fomalhaut Settlement Zone (FSZ) {#fsz}
+### Fomalhaut Settlement Zone
 
 ![](https://i.imgur.com/mGm1rFD.png)
 
-
+> Link to navigable web app: [FSZ](https://sectorswithoutnumber.com/sector/NLQzbUMehZwe6d9pSuj8).

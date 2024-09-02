@@ -4,8 +4,13 @@ title: The Frostbreaker
 parent: mRNA Resources
 nav_order: 1
 
+timestamp: 2225-10-27
+sector: NEZ
+
 ---
 # The Frostbreaker
+
+> {{ page.timestamp }}, {{ page.sector}}
 
 The Doomborgs crew's arrival at [Brightside](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/spaceStation/8LCcs3wrwRYwyUx5P0OL) was marked by a tangible tension that clung to the metallic corridors and dimly lit alcoves of the mining station. Brightside, a dilapidated outpost owned by [Haruna](../factions/haruna.md), part of the Matsuyama group, stood as a testament to both human ingenuity and the relentless decay wrought by the hostile environment of space.
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: The Solomons
+title: Fomalhaut
 parent: Locations
-redirect_to: https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/asteroidBelt/JUkP8shMcIxoqivuOFBp
 
 ---
 
-# [The Solomons](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/asteroidBelt/JUkP8shMcIxoqivuOFBp)
+# [Fomalhaut](https://sectorswithoutnumber.com/sector/NLQzbUMehZwe6d9pSuj8/system/iVUtn5m8fePOTNBy1hx2)
+
 
 
 ---
@@ -14,6 +14,6 @@ redirect_to: https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/astero
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name SORT file.folder DESC -->
-- [Start of Dutta's fall](https://terra-campaigns.github.io/hostile/chapters/chap006), from chapters
-- [Chaos in Brigthside](https://terra-campaigns.github.io/hostile/chapters/chap007), from chapters
+- [Poems](https://terra-campaigns.github.io/hostile/chapters/anthology_050), from chapters
+- [Clues](https://terra-campaigns.github.io/hostile/chapters/chap009), from chapters
 <!-- SerializedQuery END -->

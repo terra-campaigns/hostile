@@ -4,8 +4,13 @@ title: The Boxer's box
 parent: mRNA Resources
 nav_order: 5
 
+timestamp: 2225-12-07
+sector: NEZ
+
 ---
 ## The Boxer's box
+
+> {{ page.timestamp }}, {{ page.sector}}
 
 - The Doomborgs took their time and evaluated all the options to unload [TheBoxer](../npcs/TheBoxer.md) into Defiance.
 - They decide that putting The Boxer in a large box is the best alternative.

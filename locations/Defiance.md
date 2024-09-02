@@ -33,4 +33,6 @@ Medium Law: not allowed light assault weapons and submachine guns
 - [The Boxer's box](https://terra-campaigns.github.io/hostile/chapters/chap005), from chapters
 - [Start of Dutta's fall](https://terra-campaigns.github.io/hostile/chapters/chap006), from chapters
 - [Chaos in Brigthside](https://terra-campaigns.github.io/hostile/chapters/chap007), from chapters
+- [Hitchhiker](https://terra-campaigns.github.io/hostile/chapters/chap008), from chapters
+- [Clues](https://terra-campaigns.github.io/hostile/chapters/chap009), from chapters
 <!-- SerializedQuery END -->

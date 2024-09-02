@@ -4,8 +4,13 @@ title: Start of Dutta's fall
 parent: mRNA Resources
 nav_order: 6
 
+timestamp: 2225-12-10
+sector: NEZ
+
 ---
 ## Start of Dutta's fall
+
+> {{ page.timestamp }}, {{ page.sector}}
 
 - The Doomborgs receive a **new contract** that voids the exploration framework of the previous contract, but maintain taking down the directorship of [BrightsideStation](../locations/BrightsideStation.md)
 	- The crew will be paid C5k for each Hull cargo space full of unrefined mRNA-rich ice. This value is doubled if the ice is refined.

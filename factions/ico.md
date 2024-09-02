@@ -32,7 +32,9 @@ One of the most powerful agencies across human-explored space is the Interstella
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+- [Poems](https://terra-campaigns.github.io/hostile/chapters/anthology_050), from chapters
 - [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002), from chapters
 - [MadSpark perishes](https://terra-campaigns.github.io/hostile/chapters/chap004), from chapters
 - [Chaos in Brigthside](https://terra-campaigns.github.io/hostile/chapters/chap007), from chapters
+- [Clues](https://terra-campaigns.github.io/hostile/chapters/chap009), from chapters
 <!-- SerializedQuery END -->

@@ -4,9 +4,13 @@ title: MadSpark perishes
 parent: mRNA Resources
 nav_order: 4
 
+timestamp: 2225-11-23
+sector: NEZ
+
 ---
 ## MadSpark perishes
 
+> {{ page.timestamp }}, {{ page.sector}}
 
 - [TheBoxer](../npcs/TheBoxer.md) is **pissed off but also afraid**: *Were them send by the [ico](../factions/ico.md)? Are they here to kill us?! Who sent you? Who fucking sent you??!!*
 - [TheBoxer](../npcs/TheBoxer.md) mentions he will kill [MadSpark](../pcs/MadSpark.md), but [Olaf](../pcs/Olaf.md) asks him not to take any actions

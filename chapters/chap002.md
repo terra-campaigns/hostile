@@ -4,8 +4,13 @@ title: The Cold tomb
 parent: mRNA Resources
 nav_order: 2
 
+timestamp: 2225-10-29
+sector: NEZ
+
 ---
-## The Cold tomb
+## The Cold Tomb
+
+> {{ page.timestamp }}, {{ page.sector}}
 
 - The [Doomborgs](../Doomborgs.md) crew arrive in the [Cold Tomb](../locations/ColdTomb.md). The structure was built in an ice chunk in one of the asteroids in the [Perdurabo](../locations/Perdurabo.md) system.
 - The ship is docked in the entrance of the tomb, and [Olaf](../pcs/Olaf.md) and [Oliver](../pcs/Oliver.md) suit up and are ready in the air lock. Through a scan they know that beyond the tomb entrance door the environment is filled with icy water.
