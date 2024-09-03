@@ -21,15 +21,11 @@ tags:
 
 ![](https://i.imgur.com/gNWJA0e.png)
 
-# Rooms
 
-## 4
 
-Bodies of ancestors of the [Ngar'tho](https://terra-campaigns.github.io/arrival/arrivals-darkness-deepens.html#interlude-a-dream-of-makab)
 
 ![|400](https://i.imgur.com/9bNAri9.png)
 
-## 7
 
 ```encounter
 creatures: 
@@ -41,15 +37,6 @@ creatures:
 Guardian drones are autonomous guard robots that the Chittik employed in places that required no sophisticated monitoring. The guardians are well-equipped for the execution of any non- Chittik that violate the area. Guardian drones do not have true AI, but they can carry out direct, simple instructions from any living Chittik.
 
 The drones appear to be man-sized constructs of glossy black plating and sharp edges, beetle-like and resembling a Chittik in shape. They have three pairs of legs- one for locomotion, one for manipulation, and one equipped with brutal claws.
-
-## 12
-
-```encounter
-creatures: 
-  - [l3b1w2w0, Chittik Drone]
-  - [l4b1w3w0, Chittik Drone Large]
-```
-
 
 ---
 #### Connected to

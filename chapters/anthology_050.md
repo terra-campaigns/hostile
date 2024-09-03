@@ -38,18 +38,18 @@ The shuttle will be an illegal one, given the station is currently under a block
 The site is a large failed industrial site in the system, meant to build androids - who were later made forbidden.
 It was formally run by [Transdyne Cybersystems](../factions/TDC.md).
 
-**Date and time:** Monday, 9th September 2045 CET (2.5h)
-**Frequency:** One shot
-**TTRPG System:** [Meteor RPG](https://www.meteorrpg.com/) (see below for house rules)
-**Module:** [Gradient Descent](https://www.tuesdayknightgames.com/products/gradient-descent?srsltid=AfmBOop0VAcLpJ92ergFpqRkOcNYhkvvyJM8Lb4HfGoAcmgSPcWJ9s7l) (Mothership)
-**VTT:** Theatre of the mind, Owlbear Rodeo if needed.
-**Expected campaign length:** One shot
-**Number of players:** 2-6
-**Language:** English
-**Gewenste speelervaring:** Horror, adult themes
-**Speelstijl voorkeur:** OSR
-**Communication:** Discord voice. Image optional.
-**Further information:** [Poems](https://terra-campaigns.github.io/hostile/chapters/anthology_050)
+- **Date and time:** Monday, 9th September 2045 CET (2.5h)
+- **Frequency:** One shot
+- **TTRPG System:** [Meteor RPG](https://www.meteorrpg.com/) (see below for house rules)
+- **Module:** [Gradient Descent](https://www.tuesdayknightgames.com/products/gradient-descent?srsltid=AfmBOop0VAcLpJ92ergFpqRkOcNYhkvvyJM8Lb4HfGoAcmgSPcWJ9s7l) (Mothership)
+- **VTT:** Theatre of the mind, Owlbear Rodeo if needed.
+- **Expected campaign length:** One shot
+- **Number of players:** 2-6
+- **Language:** English
+- **Desired theme:** Horror, adult themes
+- **Desired style:** OSR
+- **Communication:** Discord voice. Image optional.
+- **Further information:** [Poems](https://terra-campaigns.github.io/hostile/chapters/anthology_050)
 
 **House rules**:
 

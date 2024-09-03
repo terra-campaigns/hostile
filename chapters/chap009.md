@@ -32,7 +32,7 @@ sector: NEZ
 - After an uneventful spike drive, the Doomborgs arrive in [The Solomons](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/asteroidBelt/JUkP8shMcIxoqivuOFBp).
 - Somewhere they see the news that [Haruna](../factions/haruna.md) is publicly apologising for the accident in [Brightside](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/spaceStation/8LCcs3wrwRYwyUx5P0OL) - not recognising it was a terrorist attack.
 - Olaf has been exchanging messages with The Boxer, and they agree to eventually meet in the base known as Suliman.
-- Oni leads the group to meet Katrina, his old good friend. They meet in the base called Payback. After being told the entire story of Oni's last year, Katrina shares that a famous researcher, [Nathan Argyre](../npcs/Argyre.md) has been trying to purchase [Novium](../objects/Aetherium.md#Novium), which is manufactured in Perdurabo. "What a coincidence".
+- Oni leads the group to meet Katrina, his old good friend. They meet in the base called Payback. After being told the entire story of Oni's last year, Katrina shares that a famous researcher, [Nicolaas Argyre](../npcs/Argyre.md) has been trying to purchase [Novium](../objects/Aetherium.md#Novium), which is manufactured in Perdurabo. "What a coincidence".
 - They also speak with a trader about buying starships, including black market options, or on how to get small ships in long haul to the Rim.
 - Finally, Oni meets his old mentor, Orson Heyes, who works for the Frontier Starline, from [Matsuyama](../factions/haruna.md). They agree to meet.
 
@@ -45,7 +45,7 @@ sector: NEZ
 - [Aetherium](https://terra-campaigns.github.io/hostile/objects/Aetherium), from objects
 - [Ava McKenzie](https://terra-campaigns.github.io/hostile/npcs/AvamcKenzie), from npcs
 - [The Boxer](https://terra-campaigns.github.io/hostile/npcs/TheBoxer), from npcs
-- [Nathan Argyre](https://terra-campaigns.github.io/hostile/npcs/Argyre), from npcs
+- [Nicolaas Argyre](https://terra-campaigns.github.io/hostile/npcs/Argyre), from npcs
 - [Defiance](https://terra-campaigns.github.io/hostile/locations/Defiance), from locations
 - [Fomalhaut](https://terra-campaigns.github.io/hostile/locations/Fomalhaut), from locations
 - [Tharsis Mining American](https://terra-campaigns.github.io/hostile/factions/tharsisMining), from factions
