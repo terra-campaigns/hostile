@@ -4,6 +4,8 @@ title: Perdurabo
 parent: Locations
 has_children: true
 
+footer_content: Perdurado is adapted from the <a href="https://www.drivethrurpg.com/en/product/86468/Hard-Light">Hard Light</a> adventure by Kevin Crawfort, for private use only.
+
 ---
 
 # Perdurabo
@@ -29,5 +31,5 @@ Some asteroids are known to house alien tombs, such as the [Cold Tomb](ColdTomb.
 - [Cold Tomb](https://terra-campaigns.github.io/hostile/locations/ColdTomb), from locations
 - [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002), from chapters
 - [Defiance and back](https://terra-campaigns.github.io/hostile/chapters/chap003), from chapters
-- [mRNA Resources](https://terra-campaigns.github.io/hostile/mRNA), from hostile
+- [mRNA Probe](https://terra-campaigns.github.io/hostile/mRNA), from hostile
 <!-- SerializedQuery END -->

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Cold tomb
-parent: mRNA Resources
+parent: mRNA Probe
 nav_order: 2
 
 timestamp: 2225-10-29

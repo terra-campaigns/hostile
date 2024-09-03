@@ -3,6 +3,8 @@ layout: default
 title: Lebkuchen Defiance
 parent: Factions
 
+footer_content: The Lebkuchen is adapted from the <a href="https://www.paulelliottbooks.com/hostile.html">Hostile</a> setting books by Paul Elliott from Zozer Games, for private use only.
+
 status:
 
 meta:
@@ -37,5 +39,5 @@ Today there are believed to be almost 320 clones roaming free, some in the servi
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
 - [Cassian Vireo](https://terra-campaigns.github.io/hostile/npcs/CassianVireo), from npcs
-- [mRNA Resources](https://terra-campaigns.github.io/hostile/mRNA), from hostile
+- [mRNA Probe](https://terra-campaigns.github.io/hostile/mRNA), from hostile
 <!-- SerializedQuery END -->

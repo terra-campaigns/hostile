@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mRNA Resources
+title: mRNA Probe
 has_children: true
 nav_order: 10
 
@@ -8,7 +8,7 @@ footer_content: Perdurado is adapted from the <a href="https://www.drivethrurpg.
 
 ---
 
-# mRNA resources
+# mRNA Probe
 
 > Core Worlds, 2225 AD
 
@@ -111,10 +111,25 @@ Small letters:
 
 ```
 
-On the evening before the mission kick-off meeting with [Tharsis Mining](factions/tharsisMining.md) Manager for Ice Exploration [John McLeod](npcs/JohnMcLeod.md), the crew find a scientist from [Haruna](../factions/haruna.md) tied to a bomb in the toilets of a bar in French Guiana. They learn of the animosity of the [Lebkuchen](factions/lebkuchen.md) activists against Haruna's cloning endeavours. After all that is sorted, they decide to bet on Olaf in a boxing ring, which proves to be successful.
+On the evening before the mission kick-off meeting with [Tharsis Mining](factions/tharsisMining.md) Manager for Ice Exploration [John McLeod](npcs/JohnMcLeod.md), the [Doomborgs](Doomborgs.md) crew find a scientist from [Haruna](../factions/haruna.md) tied to a bomb in the toilets of a bar in French Guiana. They learn of the animosity of the [Lebkuchen](factions/lebkuchen.md) activists against Haruna's cloning endeavours. After all that is sorted, they decide to bet on Olaf in a boxing ring, which proves to be successful.
 
 On the next day they finally meet with John McLeod, and preparations for the travel to Perdurabo start.
 
 ![](https://i.imgur.com/ir2ixFW.png)
 
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
+- [Frostbreaker](https://terra-campaigns.github.io/hostile/objects/Frostbreaker), from objects
+- [John McLeod](https://terra-campaigns.github.io/hostile/npcs/JohnMcLeod), from npcs
+- [Perdurabo](https://terra-campaigns.github.io/hostile/locations/Perdurabo), from locations
+- [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
+- [Tharsis Mining American](https://terra-campaigns.github.io/hostile/factions/tharsisMining), from factions
+- [Haruna Biolabs Solomons](https://terra-campaigns.github.io/hostile/factions/haruna), from factions
+- [Lebkuchen Defiance](https://terra-campaigns.github.io/hostile/factions/lebkuchen), from factions
+- [Doomborgs](https://terra-campaigns.github.io/hostile/Doomborgs), from hostile
+<!-- SerializedQuery END -->
 

@@ -3,6 +3,8 @@ layout: default
 title: Tharsis Mining American
 parent: Factions
 
+footer_content: Tharsis is adapted from the <a href="https://www.paulelliottbooks.com/hostile.html">Hostile</a> setting books by Paul Elliott from Zozer Games, for private use only.
+
 status:
 
 meta:
@@ -42,5 +44,5 @@ scheme:
 - [Hitchhiker](https://terra-campaigns.github.io/hostile/chapters/chap008), from chapters
 - [Clues](https://terra-campaigns.github.io/hostile/chapters/chap009), from chapters
 - [\-](https://terra-campaigns.github.io/hostile/_notions), from hostile
-- [mRNA Resources](https://terra-campaigns.github.io/hostile/mRNA), from hostile
+- [mRNA Probe](https://terra-campaigns.github.io/hostile/mRNA), from hostile
 <!-- SerializedQuery END -->

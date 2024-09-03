@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Frostbreaker
-parent: mRNA Resources
+parent: mRNA Probe
 nav_order: 1
 
 timestamp: 2225-10-27

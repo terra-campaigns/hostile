@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Start of Dutta's fall
-parent: mRNA Resources
+parent: mRNA Probe
 nav_order: 6
 
 timestamp: 2225-12-10

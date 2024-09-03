@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Boxer's box
-parent: mRNA Resources
+parent: mRNA Probe
 nav_order: 5
 
 timestamp: 2225-12-07

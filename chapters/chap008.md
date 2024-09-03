@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hitchhiker
-parent: mRNA Resources
+parent: mRNA Probe
 nav_order: 8
 
 timestamp: 2226-01-10

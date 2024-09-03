@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Defiance and back
-parent: mRNA Resources
+parent: mRNA Probe
 nav_order: 3
 
 timestamp: 2225-11-04

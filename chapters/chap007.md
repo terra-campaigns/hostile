@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chaos in Brigthside
-parent: mRNA Resources
+parent: mRNA Probe
 nav_order: 7
 
 timestamp: 2225-12-30

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MadSpark perishes
-parent: mRNA Resources
+parent: mRNA Probe
 nav_order: 4
 
 timestamp: 2225-11-23
