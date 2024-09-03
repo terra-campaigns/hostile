@@ -3,6 +3,8 @@ layout: default
 title: ICO American Sector
 parent: Factions
 
+footer_content: The ICO is adapted from the <a href="https://www.paulelliottbooks.com/hostile.html">Hostile</a> setting books by Paul Elliott from Zozer Games, for private use only.
+
 status:
 
 meta:

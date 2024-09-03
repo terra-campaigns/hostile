@@ -4,8 +4,7 @@ layout: home
 nav_order: 1
 permalink: /
 
-
-footer_content: 
+footer_content: Hostile is adapted from the <a href="https://www.paulelliottbooks.com/hostile.html">Hostile</a> setting books by Paul Elliott from Zozer Games, for private use only.
 
 ---
 
