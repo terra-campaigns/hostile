@@ -42,5 +42,5 @@ meta:
 - [MadSpark perishes](https://terra-campaigns.github.io/hostile/chapters/chap004), from chapters
 - [The Boxer's box](https://terra-campaigns.github.io/hostile/chapters/chap005), from chapters
 - [Start of Dutta's fall](https://terra-campaigns.github.io/hostile/chapters/chap006), from chapters
-- [mRNA Resources](https://terra-campaigns.github.io/hostile/mRNA), from hostile
+- [mRNA Probe](https://terra-campaigns.github.io/hostile/mRNA), from hostile
 <!-- SerializedQuery END -->

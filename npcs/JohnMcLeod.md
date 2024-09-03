@@ -78,6 +78,6 @@ npc_link: "[JohnMcLeod](JohnMcLeod.md)"
 - [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002), from chapters
 - [The Boxer's box](https://terra-campaigns.github.io/hostile/chapters/chap005), from chapters
 - [Hitchhiker](https://terra-campaigns.github.io/hostile/chapters/chap008), from chapters
-- [mRNA Resources](https://terra-campaigns.github.io/hostile/mRNA), from hostile
+- [mRNA Probe](https://terra-campaigns.github.io/hostile/mRNA), from hostile
 - [\-](https://terra-campaigns.github.io/arrival/npcs/Loquiroth), from arrival/npcs
 <!-- SerializedQuery END -->

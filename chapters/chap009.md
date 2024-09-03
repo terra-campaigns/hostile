@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Clues
-parent: mRNA Resources
+parent: mRNA Probe
 nav_order: 9
 
 timestamp: 2226-02-18
