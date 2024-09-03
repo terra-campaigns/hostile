@@ -65,7 +65,7 @@ npc_link: "[JohnMcLeod](JohnMcLeod.md)"
 ---
 # John McLeod
 
-> Supervisor of Ice Exploration [Tharsis Mining](#tharsis). Also appears in [Arrival](https://terra-campaigns.github.io/arrival/arrivals-wars.html#chapter-27-finale), as Loquiroth.
+> Supervisor of Ice Exploration [Tharsis Mining](#tharsis).
 
 ![](https://i.imgur.com/csVt4tj.png)
 

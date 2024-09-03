@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Nathan Argyre
+title: Nicolaas Argyre
 parent: People
 
 ---
-# Nathan Argyre
+# Nicolaas Argyre
 
-> Genius researcher in the field of Memetics.
+> Researcher.
+> Works for [Pacific Metals](../factions/PM.md).
