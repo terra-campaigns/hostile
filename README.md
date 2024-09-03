@@ -34,14 +34,23 @@ A list of books published is available on [Zozer Games Website](https://www.paul
 
 The aesthetic of **Hostile** is defined by its gritty, realistic approach to science fiction. Technology is not clean and advanced but rather functional, often run-down, and always with a practical purpose. Cybernetics are unreliable, and life in space is hazardous, with threats such as lack of oxygen, radiation, and alien infections being commonplace. The setting is designed to feel lived-in, with every location showing signs of wear and decay, reflecting the hard life of those who dwell in space.
 
-## Relevant history
+## Timeline
 
-Based on our current history until present time. From now, until 2225 refer to the Hostile Setting book, pages 12-22
+<!-- QueryToSerialize: LIST without ID timestamp + ", " + sector + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "hostile/chapters" SORT timestamp, nav_order asc -->
+<!-- SerializedQuery: LIST without ID timestamp + ", " + sector + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "hostile/chapters" SORT timestamp, nav_order asc -->
+- September 12, 2223, FSZ: [Poems](https://terra-campaigns.github.io/hostile/chapters/anthology_050) (Anthology)
+- October 27, 2225, NEZ: [The Frostbreaker](https://terra-campaigns.github.io/hostile/chapters/chap001) (mRNA Probe)
+- October 29, 2225, NEZ: [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002) (mRNA Probe)
+- November 04, 2225, NEZ: [Defiance and back](https://terra-campaigns.github.io/hostile/chapters/chap003) (mRNA Probe)
+- November 23, 2225, NEZ: [MadSpark perishes](https://terra-campaigns.github.io/hostile/chapters/chap004) (mRNA Probe)
+- December 07, 2225, NEZ: [The Boxer's box](https://terra-campaigns.github.io/hostile/chapters/chap005) (mRNA Probe)
+- December 10, 2225, NEZ: [Start of Dutta's fall](https://terra-campaigns.github.io/hostile/chapters/chap006) (mRNA Probe)
+- December 30, 2225, NEZ: [Chaos in Brigthside](https://terra-campaigns.github.io/hostile/chapters/chap007) (mRNA Probe)
+- January 10, 2226, NEZ: [Hitchhiker](https://terra-campaigns.github.io/hostile/chapters/chap008) (mRNA Probe)
+- February 18, 2226, NEZ: [Clues](https://terra-campaigns.github.io/hostile/chapters/chap009) (mRNA Probe)
+<!-- SerializedQuery END -->
 
-## Relevant locations
-
-**HTL** setting book contains details on most of the systems and worlds, corporations, factions, etc.
-
+---
 # GM content
 
 Beyond any official Hostile books, a few others are used for procedural content generation.
@@ -50,6 +59,7 @@ Beyond any official Hostile books, a few others are used for procedural content 
 - **Stars Without Number**, to assist on random procedural generation for locations, NPCs, encounters - sci-fi aesthetics
 - **Cities Without Number**, to assist on random procedural generation for locations, NPCs, encounters - cyberpunk aesthetics
 
+---
 # This Repository
 
 This repository contains all necessary game documents.
