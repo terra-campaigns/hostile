@@ -43,6 +43,5 @@ scheme:
 - [Start of Dutta's fall](https://terra-campaigns.github.io/hostile/chapters/chap006), from chapters
 - [Hitchhiker](https://terra-campaigns.github.io/hostile/chapters/chap008), from chapters
 - [Clues](https://terra-campaigns.github.io/hostile/chapters/chap009), from chapters
-- [\-](https://terra-campaigns.github.io/hostile/_notions), from hostile
 - [mRNA Probe](https://terra-campaigns.github.io/hostile/mRNA), from hostile
 <!-- SerializedQuery END -->

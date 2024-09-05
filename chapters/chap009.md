@@ -34,7 +34,7 @@ sector: NEZ
 - Olaf has been exchanging messages with The Boxer, and they agree to eventually meet in the base known as Suliman.
 - Oni leads the group to meet Katrina, his old good friend. They meet in the base called Payback. After being told the entire story of Oni's last year, Katrina shares that a famous researcher, [Nicolaas Argyre](../npcs/Argyre.md) has been trying to purchase [Novium](../objects/Aetherium.md#Novium), which is manufactured in Perdurabo. "What a coincidence".
 - They also speak with a trader about buying starships, including black market options, or on how to get small ships in long haul to the Rim.
-- Finally, Oni meets his old mentor, Orson Heyes, who works for the Frontier Starline, from [Matsuyama](../factions/haruna.md). They agree to meet.
+- Finally, Oni meets his old mentor, Ethan Wong, who works is the colony's medical officer for Central, from [Matsuyama](../factions/haruna.md). They agree to meet.
 
 ---
 #### Connected to
