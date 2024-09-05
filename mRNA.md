@@ -116,20 +116,3 @@ On the evening before the mission kick-off meeting with [Tharsis Mining](faction
 On the next day they finally meet with John McLeod, and preparations for the travel to Perdurabo start.
 
 ![](https://i.imgur.com/ir2ixFW.png)
-
-
----
-#### Connected to
-
-<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
-<!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
-- [Frostbreaker](https://terra-campaigns.github.io/hostile/objects/Frostbreaker), from objects
-- [John McLeod](https://terra-campaigns.github.io/hostile/npcs/JohnMcLeod), from npcs
-- [Perdurabo](https://terra-campaigns.github.io/hostile/locations/Perdurabo), from locations
-- [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
-- [Tharsis Mining American](https://terra-campaigns.github.io/hostile/factions/tharsisMining), from factions
-- [Haruna Biolabs Solomons](https://terra-campaigns.github.io/hostile/factions/haruna), from factions
-- [Lebkuchen Defiance](https://terra-campaigns.github.io/hostile/factions/lebkuchen), from factions
-- [Doomborgs](https://terra-campaigns.github.io/hostile/Doomborgs), from hostile
-<!-- SerializedQuery END -->
-
