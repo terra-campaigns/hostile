@@ -65,7 +65,7 @@ npc_link: "[JohnMcLeod](JohnMcLeod.md)"
 ---
 # John McLeod
 
-> Supervisor of Ice Exploration [Tharsis Mining](#tharsis).
+> Supervisor of Ice Exploration [Tharsis Mining](../factions/tharsisMining.md).
 
 ![](https://i.imgur.com/csVt4tj.png)
 
@@ -75,9 +75,9 @@ npc_link: "[JohnMcLeod](JohnMcLeod.md)"
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
 - [Lucas Maluf](https://terra-campaigns.github.io/hostile/npcs/LucasMaluf), from npcs
+- [Tharsis Mining American](https://terra-campaigns.github.io/hostile/factions/tharsisMining), from factions
 - [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002), from chapters
 - [The Boxer's box](https://terra-campaigns.github.io/hostile/chapters/chap005), from chapters
 - [Hitchhiker](https://terra-campaigns.github.io/hostile/chapters/chap008), from chapters
 - [mRNA Probe](https://terra-campaigns.github.io/hostile/mRNA), from hostile
-- [\-](https://terra-campaigns.github.io/arrival/npcs/Loquiroth), from arrival/npcs
 <!-- SerializedQuery END -->

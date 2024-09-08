@@ -63,6 +63,7 @@ o Weary (-1d Resolve)               |
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM ([[]]) SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" FROM ([[]]) SORT file.folder DESC -->
+- [The Frostbreaker](https://terra-campaigns.github.io/hostile/chapters/chap001)
 - [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002)
 - [Defiance and back](https://terra-campaigns.github.io/hostile/chapters/chap003)
 - [MadSpark perishes](https://terra-campaigns.github.io/hostile/chapters/chap004)

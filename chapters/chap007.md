@@ -58,10 +58,10 @@ sector: NEZ
 - Olaf speaks with [RolandLomax](../npcs/RolandLomax.md) and take the documentations that would expose Dutta from Roland's hands. Roland is ok with it, feeling it is the best route of action.
 - Oni quickly parse these documents and finds:
 	- Embezzlement of [YashDutta](../npcs/YashDutta.md), who stole money during the construction of Brightside, alonside the son of one of the private minor investors.
-	- Purchase orders from **Recombination Group** ([logo](https://i.imgur.com/1ouPtfu.png)) for shipment of Novium - which might explain the fact the the station was not meeting Haruna's production quotas.
+	- Purchase orders from [Pacific Metals](../factions/PM.md) for shipment of Novium - which might explain the fact the the station was not meeting Haruna's production quotas.
 	- MoU with [makita](../factions/makita.md)'s subsidiary for ice mining rights - although the two companies are competitors and such an extraction agreement would not be allowed in the new space law from the [ico](../factions/ico.md).
 
-![](https://i.imgur.com/xE2V8yO.png)
+![](https://i.imgur.com/BaUSW6H.png)
 
 **Repairs on the fusion reactor**
 
@@ -126,6 +126,7 @@ sector: NEZ
 - [Marion Hardlee](https://terra-campaigns.github.io/hostile/npcs/MarionHardlee)
 - [The Solomons](https://terra-campaigns.github.io/hostile/locations/Solomons)
 - [Defiance](https://terra-campaigns.github.io/hostile/locations/Defiance)
+- [Pacific Metals](https://terra-campaigns.github.io/hostile/factions/PM)
 - [Makita Genetics Solomons](https://terra-campaigns.github.io/hostile/factions/makita)
 - [ICO American Sector](https://terra-campaigns.github.io/hostile/factions/ico)
 <!-- SerializedQuery END -->
