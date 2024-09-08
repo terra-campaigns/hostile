@@ -35,8 +35,10 @@ scheme:
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.name != this.file.name AND file.name != "directory" AND file.name != "campaigns" SORT file.folder DESC -->
 - [Ava McKenzie](https://terra-campaigns.github.io/hostile/npcs/AvamcKenzie), from npcs
+- [John McLeod](https://terra-campaigns.github.io/hostile/npcs/JohnMcLeod), from npcs
 - [Lucas Maluf](https://terra-campaigns.github.io/hostile/npcs/LucasMaluf), from npcs
 - [Brightside Station](https://terra-campaigns.github.io/hostile/locations/BrightsideStation), from locations
+- [The Frostbreaker](https://terra-campaigns.github.io/hostile/chapters/chap001), from chapters
 - [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002), from chapters
 - [Defiance and back](https://terra-campaigns.github.io/hostile/chapters/chap003), from chapters
 - [The Boxer's box](https://terra-campaigns.github.io/hostile/chapters/chap005), from chapters

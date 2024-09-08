@@ -7,8 +7,7 @@ grand_parent: Locations
 footer_content: Brightside is adapted from the <a href="https://www.drivethrurpg.com/en/product/86468/Hard-Light">Hard Light</a> adventure by Kevin Crawfort, for private use only.
 
 ---
-
-# Brightside Mining Station
+# [Brightside Mining Station](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/spaceStation/8LCcs3wrwRYwyUx5P0OL)
 
 - Built by [haruna](../factions/haruna.md)
 - Located in [Perdurabo](Perdurabo.md)
@@ -33,6 +32,7 @@ footer_content: Brightside is adapted from the <a href="https://www.drivethrurpg
 - [Perdurabo](https://terra-campaigns.github.io/hostile/locations/Perdurabo), from locations
 - [Haruna Biolabs Solomons](https://terra-campaigns.github.io/hostile/factions/haruna), from factions
 - [Tharsis Mining American](https://terra-campaigns.github.io/hostile/factions/tharsisMining), from factions
+- [The Frostbreaker](https://terra-campaigns.github.io/hostile/chapters/chap001), from chapters
 - [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002), from chapters
 - [MadSpark perishes](https://terra-campaigns.github.io/hostile/chapters/chap004), from chapters
 - [The Boxer's box](https://terra-campaigns.github.io/hostile/chapters/chap005), from chapters
