@@ -37,7 +37,7 @@ The aesthetic of **Hostile** is defined by its gritty, realistic approach to sci
 
 <!-- QueryToSerialize: LIST without ID timestamp + ", " + sector + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "hostile/chapters" SORT timestamp, nav_order asc -->
 <!-- SerializedQuery: LIST without ID timestamp + ", " + sector + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "hostile/chapters" SORT timestamp, nav_order asc -->
-- September 12, 2223, FSZ: [Poems](https://terra-campaigns.github.io/hostile/chapters/anthology_050) (Anthology)
+- September 12, 2223, FSZ: [Poems](https://terra-campaigns.github.io/hostile/chapters/950.20) (Anthology)
 - October 27, 2225, NEZ: [The Frostbreaker](https://terra-campaigns.github.io/hostile/chapters/chap001) (mRNA Probe)
 - October 29, 2225, NEZ: [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002) (mRNA Probe)
 - November 04, 2225, NEZ: [Defiance and back](https://terra-campaigns.github.io/hostile/chapters/chap003) (mRNA Probe)

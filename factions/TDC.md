@@ -24,6 +24,6 @@ Transdyne Cybersystems (TDC) – A dedicated robotic manufacturing corporation, 
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "hostile/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
-- [Poems](https://terra-campaigns.github.io/hostile/chapters/anthology_050), from chapters
+- [Poems](https://terra-campaigns.github.io/hostile/chapters/950.20), from chapters
 - [Clues](https://terra-campaigns.github.io/hostile/chapters/chap009), from chapters
 <!-- SerializedQuery END -->
