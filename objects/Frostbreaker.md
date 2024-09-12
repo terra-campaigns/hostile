@@ -24,5 +24,6 @@ parent: Miscellanea
 - [Start of Dutta's fall](https://terra-campaigns.github.io/hostile/chapters/chap006), from chapters
 - [Chaos in Brigthside](https://terra-campaigns.github.io/hostile/chapters/chap007), from chapters
 - [Hitchhiker](https://terra-campaigns.github.io/hostile/chapters/chap008), from chapters
+- [Clues](https://terra-campaigns.github.io/hostile/chapters/chap009), from chapters
 - [mRNA Probe](https://terra-campaigns.github.io/hostile/mRNA), from hostile
 <!-- SerializedQuery END -->
