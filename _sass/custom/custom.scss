@@ -1,18 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Noto+Sans:ital,wdth,wght@0,91,100..900;1,91,100..900&family=Metamorphous&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Bytesized&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body{
-  font-family: 'Averia Serif Libre', serif;
+  font-family: 'Ubuntu Mono';
+  font-weight: 400;  
 }
 
 h1, h2, h3, h4 {
-  font-family: "Metamorphous";
-  font-weight: 700;
+  font-family: "Bytesized";
+  font-weight: 400;
   font-style: normal;
 }
 
 tr:nth-child(even) td{
-  background-color: #f2f2f2;
+  background-color: #000000;
 }
 
 th, td {
@@ -34,12 +34,6 @@ thead{
 
 tbody tr:last-of-type td{
   padding-bottom: .35rem;
-}
-
-h4, .text-delta{
-font-size: 12px !important;
-font-weight: 600;
-text-transform: uppercase;
 }
 
 .nav-list .nav-list-item .nav-list-link {
