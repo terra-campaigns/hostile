@@ -1,73 +1,73 @@
----
-title: Home
-layout: home
-nav_order: 1
-permalink: /
+# Terra Campaign Website
 
-footer_content: Hostile is adapted from the <a href="https://www.paulelliottbooks.com/hostile.html">Hostile</a> setting books by Paul Elliott from Zozer Games, for private use only.
+This is a *bare-minimum* template to create a [Jekyll] site that:
 
----
+- uses the [Just the Docs] theme;
+- can be built and published on [GitHub Pages];
+- can be built and previewed locally, and published on other platforms.
 
-# Hostile
+More specifically, the created site:
 
-![](imgs/hostile.png)
+- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
+- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
 
-**Hostile** is a tabletop RPG set in a universe that combines elements of gritty science fiction, horror, and political intrigue. It is heavily inspired by the aesthetics and themes of classic 1970s and 1980s sci-fi movies such as "Alien," "Blade Runner," and "Outland." The game is designed to evoke a sense of being on the edge of known space, where human life is cheap, corporate interests dominate, and the unknown looms at every corner.
+After completing the creation of your new site on GitHub, update it as needed:
 
-Space is a hostile environment, not just because of its physical dangers but also due to the socio-political landscape. The game emphasises themes of corporate greed, the expendability of human life in the pursuit of profit, and the struggle of the working class against oppressive systems. Political intrigue plays a significant role, with factions within and between corporations, as well as other groups with their agendas, vying for power and influence.
+## Replace the content of the template pages
 
-A list of books published is available on [Zozer Games Website](https://www.paulelliottbooks.com/hostile.html).
+Update the following files to your own content
 
-## Themes
+## Changing the version of the theme and/or Jekyll
 
-- **Gritty sci-fi**: Characters are blue collar spacers, working dangerous jobs in the hostility of space. Every hazard is trying to kill characters all the time. Everything in the world that isn’t an active corporate interest is run down, decaying, and stained. Earth is a traditional cyberpunk setting, but in space there is much less "street violence", and cybernetics are generally not reliable. *List of hazards: lack of oxygen, vacuum, radiation, excessive cold, excessive heat, aliens, alien infections, poisonous atmosphere, high pressure atmosphere, high decompression rate and high gravity acceleration in large bodies.*
-- **Horror & fear**: A cynical world, filled with everyday people going about their jobs is a common starting point for good horror stories. Humans are not alone in the universe. Alien predators have been found in multiple worlds, and sometimes even in asteroids. Advanced alien societies had their remnants found by earth explorers, but intelligent life is still to be observed. Some theorists say they have been found, and are among us. And none knows when and where aliens will be found.
-- **Political intrigue & treachery**: Several factions with their own motives and goals. Everyone is out for their own interests, and they’re trustworthy only so long as their interests align with yours. Everyone assumes that deals will be kept only so long as they’re mutually profitable and relationships will only continue as long as they offer benefits to all parties. Factions are classified in 3 groups:
-	- **Technology & resourceful factions**: the strongest group, mostly formed by Mega Corporations and their subsidiaries.
-	- **Belief factions**: their Influence is subtle and ideological, mostly formed by religions and conspiracy theorists
-	- **Rising authoritative supra-government**: early years of an attempt of Earth governments to regain control from the Mega Corporations hands - the Terran Mandate.
+Simply edit the relevant line(s) in the `Gemfile`.
 
-*More detail on the Hostile Setting, pages 9-10.*
+## Adding a plugin
 
-## Aesthetic
+The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
 
-The aesthetic of **Hostile** is defined by its gritty, realistic approach to science fiction. Technology is not clean and advanced but rather functional, often run-down, and always with a practical purpose. Cybernetics are unreliable, and life in space is hazardous, with threats such as lack of oxygen, radiation, and alien infections being commonplace. The setting is designed to feel lived-in, with every location showing signs of wear and decay, reflecting the hard life of those who dwell in space.
+To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. For example, to add [`jekyll-default-layout`]:
 
-## Timeline
+- Add the following to your site's `Gemfile`:
 
-<!-- QueryToSerialize: LIST without ID timestamp + ", " + sector + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "hostile/chapters" SORT timestamp, nav_order asc -->
-<!-- SerializedQuery: LIST without ID timestamp + ", " + sector + ": " + "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ") (" + parent + ")" FROM "hostile/chapters" SORT timestamp, nav_order asc -->
-- September 12, 2223, FSZ: [Poems](https://terra-campaigns.github.io/hostile/chapters/950.20) (Anthology)
-- October 27, 2225, NEZ: [The Frostbreaker](https://terra-campaigns.github.io/hostile/chapters/chap001) (mRNA Probe)
-- October 29, 2225, NEZ: [The Cold tomb](https://terra-campaigns.github.io/hostile/chapters/chap002) (mRNA Probe)
-- November 04, 2225, NEZ: [Defiance and back](https://terra-campaigns.github.io/hostile/chapters/chap003) (mRNA Probe)
-- November 23, 2225, NEZ: [MadSpark perishes](https://terra-campaigns.github.io/hostile/chapters/chap004) (mRNA Probe)
-- December 07, 2225, NEZ: [The Boxer's box](https://terra-campaigns.github.io/hostile/chapters/chap005) (mRNA Probe)
-- December 10, 2225, NEZ: [Start of Dutta's fall](https://terra-campaigns.github.io/hostile/chapters/chap006) (mRNA Probe)
-- December 30, 2225, NEZ: [Chaos in Brigthside](https://terra-campaigns.github.io/hostile/chapters/chap007) (mRNA Probe)
-- January 10, 2226, NEZ: [Hitchhiker](https://terra-campaigns.github.io/hostile/chapters/chap008) (mRNA Probe)
-- February 18, 2226, NEZ: [Clues](https://terra-campaigns.github.io/hostile/chapters/chap009) (mRNA Probe)
-<!-- SerializedQuery END -->
+  ```ruby
+  gem "jekyll-default-layout"
+  ```
 
----
-# GM content
+- And add the following to your site's `_config.yml`:
 
-Beyond any official Hostile books, a few others are used for procedural content generation.
+  ```yaml
+  plugins:
+    - jekyll-default-layout
+  ```
 
+Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
 
-- **Stars Without Number**, to assist on random procedural generation for locations, NPCs, encounters - sci-fi aesthetics
-- **Cities Without Number**, to assist on random procedural generation for locations, NPCs, encounters - cyberpunk aesthetics
+## Publishing your site on GitHub Pages
 
----
-# This Repository
+1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
 
-This repository contains all necessary game documents.
-It is also from this Repository that this website is published.
+    ```yaml
+    title: YOUR TITLE
+    description: YOUR DESCRIPTION
+    theme: just-the-docs
 
-## Contribute
+    url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
 
-Feel free to suggest edits on any files on this repo through Pull Requests.
-Merged Pull Requests automatically builds the website.
+    aux_links: # remove if you don't want this link to appear on your pages
+      Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
+    ```
+
+2.  Push your updated `_config.yml` to your site on GitHub.
+
+3.  In your newly created repo on GitHub:
+    - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
+    - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
+
+## Building and previewing your site locally
+
+See [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+
+### Deprecated
 
 If you want to localhost the website for testing purposes, you need to install jekyll ([instructions for macOS](https://jekyllrb.com/docs/installation/macos/)). After doing so, navigate to the repository folder and execute the following commands;
 
@@ -77,13 +77,57 @@ gem install bundler jekyll
 bundle install
 ```
 
-You are now able to localhost the website.
-You can do so by:
+Assuming [Jekyll] and [Bundler] are installed on your computer:
 
-```
-bundle exec jekyll serve
-```
+1.  Change your working directory to the root directory of your site.
+
+2.  Run `bundle install`.
+
+3.  Run `bundle exec jekyll serve` to build your site and preview it at `localhost:4000`.
+
+    The built site is stored in the directory `_site`.
 
 and then browse to http://localhost:4000.
 
-You can make real time changes in the files, and see result live on your browser.
+## Connected to links (manual)
+
+Using the `Connected_to` feature requires running a script to map pages interlinks, and generate the `_data/markdown_links.json`file.
+To do so as a command line to run the script while building locally, making sure you update the links often.
+
+```
+python3 extract_links.py .
+bundle exec jekyll serve
+```
+
+## Customization
+
+You're free to customize sites that you create with this template, however you like!
+
+[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+
+## Contribute
+
+Feel free to suggest edits on any files on this repo through Pull Requests.
+Merged Pull Requests automatically builds the website.
+
+## Licensing and Attribution
+
+This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template"). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
+
+The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
+
+----
+
+[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+
+[Jekyll]: https://jekyllrb.com
+[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
+[GitHub Pages]: https://docs.github.com/en/pages
+[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
+[Bundler]: https://bundler.io
+[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
+[`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
+[MIT License]: https://en.wikipedia.org/wiki/MIT_License
+[starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
+[actions/starter-workflows]: https://github.com/actions/starter-workflows/blob/main/LICENSE
