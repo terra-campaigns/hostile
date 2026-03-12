@@ -20,9 +20,9 @@ Every hazard is trying to kill them: lack of oxygen, vacuum, radiation, excessiv
 
 ## Index
 
-|                                                                                         |
-| --------------------------------------------------------------------------------------- |
-| **[The Game](systems/index.md):** Rules and Character Creation                          |
+|                                                                |
+| -------------------------------------------------------------- |
+| **[The Game](systems/index.md):** Rules and Character Creation |
 
 {% comment %}
 
