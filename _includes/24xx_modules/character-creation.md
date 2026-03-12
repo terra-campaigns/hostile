@@ -6,7 +6,7 @@ All personnel for hire are required to have their personal files available for c
   <summary id="index">
     <code>OPEN PERSONNEL ID</code>
   </summary>
-  <div style="height:65vh; width:100%;">
+  <div style="height:70vh; width:100%;">
   <iframe
     src="https://null.perchance.org/hostile24xx"
     style="width:100%; height:100%;"
@@ -55,7 +55,7 @@ SCIENCES
   Surgery
   Planetology
   Theology
-FIELD-OPS
+FIELD
   Military Operations
   Wilderness Survival
   Tracking
