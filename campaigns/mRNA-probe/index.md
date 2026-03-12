@@ -111,7 +111,7 @@ Small letters:
 
 ```
 
-On the evening before the mission kick-off meeting with [Tharsis Mining](factions/tharsisMining.md) Manager for Ice Exploration [John McLeod](npcs/JohnMcLeod.md), the [Doomborgs](Doomborgs.md) crew find a scientist from [Haruna](../factions/haruna.md) tied to a bomb in the toilets of a bar in French Guiana. They learn of the animosity of the [Lebkuchen](factions/lebkuchen.md) activists against Haruna's cloning endeavours. After all that is sorted, they decide to bet on Olaf in a boxing ring, which proves to be successful.
+On the evening before the mission kick-off meeting with [Tharsis Mining](factions/tharsisMining.md) Manager for Ice Exploration [John McLeod](npcs/JohnMcLeod.md), the [Doomborgs](Doomborgs.md) crew find a scientist from [Haruna](../../factions/haruna.md) tied to a bomb in the toilets of a bar in French Guiana. They learn of the animosity of the [Lebkuchen](factions/lebkuchen.md) activists against Haruna's cloning endeavours. After all that is sorted, they decide to bet on Olaf in a boxing ring, which proves to be successful.
 
 On the next day they finally meet with John McLeod, and preparations for the travel to Perdurabo start.
 
