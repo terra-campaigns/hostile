@@ -21,23 +21,23 @@ All personnel for hire are required to have their personal files available for c
   </summary>
 ```
 KNOWN SKILLSETS FOR HIRE
-defence
+DEFENSE
   Toughness
   Reflexes
   Willpower
-offence
+OFFENCE
   Gunnery
   Marksmanship
   Firearms
   Brawl
   Melee
-body
+BODY
   Athletics
   Force
   Stamina
   Sleight of hand
   Stealth
-sciences
+SCIENCES
   Linguistics
   Zoology
   Botany
@@ -55,7 +55,7 @@ sciences
   Surgery
   Planetology
   Theology
-fieldOps
+FIELD-OPS
   Military Operations
   Wilderness Survival
   Tracking
@@ -63,7 +63,7 @@ fieldOps
   Taming
   Orienteering
   Perception
-command
+COMMAND
   Persuasion
   Deception
   Intimidation
@@ -72,7 +72,7 @@ command
   Faith
   Forgery
   Reaction
-charisma
+CHARISMA
   Presence
   Arts
   Leadership
@@ -81,13 +81,13 @@ charisma
   Negotiation
   Seduction
   Empathy
-mobility
+MOBILITY
   Hyperspace
   Piloting
   Astronavigation
   Navigation
   Driving
-engineering
+ENGINEERING
   Industrial Operations
   Crafting
   Hacking
