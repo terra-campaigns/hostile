@@ -9,13 +9,7 @@ footer_content: 24XX <a href="https://jasontocci.itch.io/24xx">rules</a> are CC 
 
 ---
 
-{% comment %}
-
-{% include 24xx_modules/the-game.md %}
-
 {% include 24xx_modules/rules.md %}
 
 {% include 24xx_modules/character-creation.md %}
-
-{% endcomment %}
 
