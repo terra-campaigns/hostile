@@ -6,3 +6,13 @@ $link-color: $green-htl;
 
 $body-background-color: #000000;
 $sidebar-color: #000000;
+
+$code-background-color: #000000;
+
+pre,
+.highlight,
+.highlighter-rouge,
+.highlight code,
+.highlight pre {
+  color: $green-htl;
+}
