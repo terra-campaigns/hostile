@@ -153,92 +153,6 @@
                 "direction": "inbound"
             }
         ],
-        "_includes/24xx_modules/character-creation.md": [
-            {
-                "text": "POLLEN",
-                "url": "https://degenesis.com/world/cultures/pollen",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "PURGARE",
-                "url": "https://degenesis.com/world/cultures/purgare",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "HYBRISPANIA",
-                "url": "https://degenesis.com/world/cultures/hybrispania",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "BORCA",
-                "url": "https://degenesis.com/world/cultures/borca",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "**SPITALIANS**",
-                "url": "https://degenesis.com/world/cults/spitalians",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "**ANABAPTISTS**",
-                "url": "https://degenesis.com/world/cults/anabaptists",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "**APOCALYPTICS**",
-                "url": "https://degenesis.com/world/cults/apocalyptics",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "**HELLVETICS**",
-                "url": "https://degenesis.com/world/cults/hellvetics",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "**SCRAPPERS**",
-                "url": "https://degenesis.com/world/cults/scrappers",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "**CLANNERS**",
-                "url": "https://degenesis.com/world/cults/clanners",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "**CHRONICLERS**",
-                "url": "https://degenesis.com/world/cults/choniclers",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            },
-            {
-                "text": "**JUDGES**",
-                "url": "https://degenesis.com/world/cults/judges",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://degenesis.com/favicon.ico"
-            }
-        ],
         "pcs/Sabaka.md": [
             {
                 "text": "Marius Rochambeau",
@@ -2410,13 +2324,7 @@
             },
             {
                 "text": "Book of the Sky",
-                "url": "campaigns/gd/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Book of the Sky",
-                "url": "campaigns/gd/index.md",
+                "url": "campaigns/gradient-descent/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3097,13 +3005,7 @@
             },
             {
                 "text": "Fomalhaut",
-                "url": "campaigns/gd/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Fomalhaut",
-                "url": "campaigns/gd/index.md",
+                "url": "campaigns/gradient-descent/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3278,13 +3180,7 @@
             },
             {
                 "text": "ICO",
-                "url": "campaigns/gd/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "ICO",
-                "url": "campaigns/gd/index.md",
+                "url": "campaigns/gradient-descent/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3319,13 +3215,7 @@
             },
             {
                 "text": "Transdyne Cybersystems",
-                "url": "campaigns/gd/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Transdyne Cybersystems",
-                "url": "campaigns/gd/index.md",
+                "url": "campaigns/gradient-descent/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -5386,7 +5276,7 @@
                 "direction": "inbound"
             }
         ],
-        "campaigns/gd/index.md": [
+        "campaigns/gradient-descent/index.md": [
             {
                 "text": "Book of the Sky",
                 "url": "factions/bookSky.md",
@@ -5416,81 +5306,25 @@
                 "favicon": null
             },
             {
-                "text": "Fomalhaut",
-                "url": "https://terra-campaigns.github.io/hostile/locations/Fomalhaut",
+                "text": "The DEEP encounters",
+                "url": "https://perchance.org/mdzeybgkvn",
                 "is_internal": false,
                 "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+                "favicon": "https://perchance.org/favicon.ico"
             },
             {
-                "text": "Book of the Sky Solomons",
-                "url": "https://terra-campaigns.github.io/hostile/factions/bookSky",
+                "text": "Mosh Chargen",
+                "url": "https://perchance.org/yjrlip571b",
                 "is_internal": false,
                 "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+                "favicon": "https://perchance.org/favicon.ico"
             },
             {
-                "text": "ICO American Sector",
-                "url": "https://terra-campaigns.github.io/hostile/factions/ico",
+                "text": "Planetgen",
+                "url": "https://www.rangen.co.uk/world/planetgen.php#google_vignette",
                 "is_internal": false,
                 "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Transdyne Cybersystems",
-                "url": "https://terra-campaigns.github.io/hostile/factions/TDC",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Book of the Sky",
-                "url": "factions/bookSky.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Fomalhaut",
-                "url": "locations/Fomalhaut.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "ICO",
-                "url": "factions/ico.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Transdyne Cybersystems",
-                "url": "factions/TDC.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Meteor RPG",
-                "url": "https://www.meteorrpg.com/",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://www.meteorrpg.com/favicon.ico"
-            },
-            {
-                "text": "Gradient Descent",
-                "url": "https://www.tuesdayknightgames.com/products/gradient-descent?srsltid=AfmBOop0VAcLpJ92ergFpqRkOcNYhkvvyJM8Lb4HfGoAcmgSPcWJ9s7l",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://www.tuesdayknightgames.com/favicon.ico"
-            },
-            {
-                "text": "Poems",
-                "url": "https://terra-campaigns.github.io/hostile/chapters/anthology_050",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://terra-campaigns.github.io/favicon.ico"
+                "favicon": "https://www.rangen.co.uk/favicon.ico"
             }
         ]
     }
