@@ -139,13 +139,13 @@ If aided by an ally, both roll their ***skill*** dice and share the risk.
 In a contest, both sides roll their ***skill*** dice and face risks.
 Take the highest die.
 
-|         |                                                                                                     |
-| ------- | --------------------------------------------------------------------------------------------------- |
-| **1-3** | **Disaster**. Suffer the risk. <br>GM decides if you succeed at all.<br>If you risk death, you die. |
-| **4+**  | **Success**. Avoid the risk.<br>The higher the roll, the better.                                    |
+|         |                                                                                                            |
+| ------- | ---------------------------------------------------------------------------------------------------------- |
+| **1-3** | **Disaster**. Suffer the risk. <br>GM decides if you succeed at all.<br>If you risk death, you die.        |
+| **4+**  | **Success**. Avoid the risk.<br>The higher the roll, the better.<br>If your rival rolled higher, bad luck. |
 
-When you roll your skill die maximum, you can choose to turn the Success into a Disaster.
-If you do so, your skill die improves (d6 → d8 → d10 → d12).
+When you roll your **skill** die maximum, you can choose to turn the **Success** into a **Disaster**.
+If you do so, your **skill** die improves (d6 → d8 → d10 → d12).
 
 ### Defence & harm
 
