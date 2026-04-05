@@ -136,13 +136,16 @@ Only roll to avoid risk.
 
 Roll a ***skill*** die — d6 by default, higher with a relevant ***skill***.
 If aided by an ally, both roll their ***skill*** dice and share the risk.
-In a contest, both sides roll their ***skill*** dice and are exposed to risks.
+In a contest, both sides roll their ***skill*** dice and face risks.
 Take the highest die.
 
 |         |                                                                                                     |
 | ------- | --------------------------------------------------------------------------------------------------- |
 | **1-3** | **Disaster**. Suffer the risk. <br>GM decides if you succeed at all.<br>If you risk death, you die. |
 | **4+**  | **Success**. Avoid the risk.<br>The higher the roll, the better.                                    |
+
+When you roll your skill die maximum, you can choose to turn the Success into a Disaster.
+If you do so, your skill die improves (d6 → d8 → d10 → d12).
 
 ### Defence & harm
 
@@ -163,10 +166,7 @@ Three or more is impossible in most circumstances.
 Throughout the game, you will change.
 You may improve or acquire new skills.
 You may become long-term injured or get a disease.
-Most changes are treated narratively first.
 
-At the end of each session, players describe how they may have improved a skill and then roll their ***skill*** die.
-If they roll the max, the ***skill*** increases.
 
 ## Uncertainty
 
