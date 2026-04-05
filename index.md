@@ -15,8 +15,8 @@ footer_content: Theme by <a href="https://just-the-docs.com">Just the Docs</a>, 
 It is heavily inspired by the aesthetics and themes of classic 1970s and 1980s sci-fi movies such as "Alien," "Blade Runner," and "Outland."
 The [**setting**](https://www.zozergames.com/hostile-setting.html) is designed to evoke a sense of being on the edge of known space, where human life is cheap, corporate interests dominate, and the unknown looms at every corner.
 
-Characters are blue collar people, working dangerous jobs in the hostility of space.
-Every hazard is trying to kill them: lack of oxygen, vacuum, radiation, excessive cold, excessive heat, aliens, alien infections, poisonous atmosphere, high pressure atmosphere, high decompression rate, high gravity acceleration in large bodies, amongst others.
+Characters are blue-collar people, working dangerous jobs in the hostility of space.
+Every hazard is trying to kill them: lack of oxygen, vacuum, radiation, excessive cold, excessive heat, aliens, alien infections, poisonous atmosphere, high-pressure atmosphere, high decompression rate, high gravity acceleration in large bodies, amongst others.
 
 ## Index
 

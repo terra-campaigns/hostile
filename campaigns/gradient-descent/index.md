@@ -12,7 +12,7 @@ sector: FSZ
 
 You were hired by the [Book of the Sky](../../factions/bookSky.md) to recover a microfilm canister from a derelict industrial space station in [Fomalhaut](../../locations/Fomalhaut.md).
 You will receive tickets to get to the system, and then a shuttle to get close to the space station.
-The shuttle will be an illegal one, given the station is currently under a blockade established by the [ICO](../../factions/ico.md).
+The shuttle will be an illegal one, given that the station is currently under a blockade established by the [ICO](../../factions/ico.md).
 
 The site is a large, failed industrial site in the system, built to produce androids, which were later made forbidden.
 It was formally run by [Transdyne Cybersystems](../../factions/TDC.md).
@@ -135,9 +135,9 @@ Only roll to avoid risk.
 ## Rolling
 
 Roll a ***skill*** die — d6 by default, higher with a relevant ***skill***.
-If aided by an ally, they roll their ***skill*** die and share the risk.
+If aided by an ally, both roll their ***skill*** dice and share the risk.
+In a contest, both sides roll their ***skill*** dice and are exposed to risks.
 Take the highest die.
-If against an antagonist, they roll their **skill** die, and both are exposed to risks.
 
 |         |                                                                                                     |
 | ------- | --------------------------------------------------------------------------------------------------- |
