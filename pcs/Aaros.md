@@ -2,7 +2,6 @@
 layout: default
 title: Aaros Foste
 parent: Doomborgs
-grand_parent: People
 
 ---
 

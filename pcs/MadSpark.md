@@ -2,7 +2,6 @@
 layout: default
 title: MadSpark
 parent: Doomborgs
-grand_parent: People
 
 ---
 

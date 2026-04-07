@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Doomborgs
-parent: People
+parent: Directory
 has_children: true
 nav_order: 1
 

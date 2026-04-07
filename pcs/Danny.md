@@ -2,7 +2,6 @@
 layout: default
 title: Danny Dire
 parent: Doomborgs
-grand_parent: People
 
 ---
 

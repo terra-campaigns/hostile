@@ -2,7 +2,6 @@
 layout: default
 title: Olaf Gustafson
 parent: Doomborgs
-grand_parent: People
 
 ---
 

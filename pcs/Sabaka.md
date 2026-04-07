@@ -2,7 +2,6 @@
 layout: default
 title: Sabaka
 parent: Doomborgs
-grand_parent: People
 
 ---
 

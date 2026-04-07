@@ -2,7 +2,6 @@
 layout: default
 title: Oliver Bennet
 parent: Doomborgs
-grand_parent: People
 
 ---
 
