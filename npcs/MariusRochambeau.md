@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marius Rochambeau
-parent: People
+parent: Brightside Station
 
 statblock: yes
 layout_deprecated: Terra Campaigns Leiaute v04
@@ -56,7 +56,7 @@ npc_link: "[MariusRochambeau](MariusRochambeau.md)"
 ---
 # Marius Rochambeau
 
-> Scientific representative for [Makita](../factions/makita.md). Visits [Brightside Station](../locations/BrightsideStation.md) often.
+> Scientific representative for [Makita](../factions/makita.md). Visits [Brightside Station](../directory/Perdurabo/BrightsideStation.md) often.
 
 ![](https://i.imgur.com/BWuv3Qe.png)
 

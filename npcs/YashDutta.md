@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Yash Dutta
-parent: People
+parent: Brightside Station
 
 statblock: yes
 layout_deprecated: Terra Campaigns Leiaute v04
@@ -60,7 +60,7 @@ npc_link: "[YashDutta](YashDutta.md)"
 ---
 # Yash Dutta
 
-> Director of [Brightside Station](../locations/BrightsideStation.md)
+> Director of [Brightside Station](../directory/Perdurabo/BrightsideStation.md)
 
 ![](https://i.imgur.com/PJUQUQn.png)
 

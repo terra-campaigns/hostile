@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marion Hardlee
-parent: People
+parent: Brightside Station
 
 statblock: yes
 layout_deprecated: Terra Campaigns Leiaute v04
@@ -58,7 +58,7 @@ npc_link: "[MarionHardlee](MarionHardlee.md)"
 ---
 # Marion Hardlee
 
-> Owner of the Midnight Sun, on the [Brightside Station](../locations/BrightsideStation.md)
+> Owner of the Midnight Sun, on the [Brightside Station](../directory/Perdurabo/BrightsideStation.md)
 
 ![](https://i.imgur.com/knPwkwz.png)
 

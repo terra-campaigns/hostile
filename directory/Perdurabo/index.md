@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Perdurabo
-parent: Locations
+parent: Directory
 has_children: true
 
 footer_content: Perdurado is adapted from the <a href="https://www.drivethrurpg.com/en/product/86468/Hard-Light">Hard Light</a> adventure by Kevin Crawfort, for private use only.

@@ -32,7 +32,7 @@ sector: NEZ
 - The crew speaks with [JohnMcLeod](../../npcs/JohnMcLeod.md) who confirms what Lucas has shared. John mentions that there is an inevitable gold rush about to start for Perdurabo. The crew is to be back there ASAP, and start mining as much as possible. A new contract will be sent to them.
 - After the long day, Oliver goes take a nap, while the others decide to continue drinking into the small hours.
 - In the same low life bar the crew meet a (very drunk) [CassianVireo](../../npcs/CassianVireo.md)
-- Cassian mentions she is an investigator, and she wants to get information on what is happening in [BrightsideStation](../../locations/BrightsideStation.md) and the Perdurabo system. Cassian offers her skills in computing and communications in return to be brought to Brightside. The crew is undecided and were to speak with her again next day, before departing Defiance.
+- Cassian mentions she is an investigator, and she wants to get information on what is happening in [BrightsideStation](../../directory/Perdurabo/BrightsideStation.md) and the Perdurabo system. Cassian offers her skills in computing and communications in return to be brought to Brightside. The crew is undecided and were to speak with her again next day, before departing Defiance.
 
 ![](https://i.imgur.com/GfAeVZ7.png)
 

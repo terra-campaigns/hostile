@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nicolaas Argyre
-parent: People
+parent: Pacific Metals
 
 ---
 # Nicolaas Argyre

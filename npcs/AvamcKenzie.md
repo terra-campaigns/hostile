@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ava McKenzie
-parent: People
+parent: Defiance
 
 ---
 # Ava McKenzie

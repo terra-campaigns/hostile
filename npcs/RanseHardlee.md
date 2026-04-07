@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ranse Hardlee
-parent: People
+parent: Brightside Station
 
 statblock: yes
 layout_deprecated: Terra Campaigns Leiaute v04
@@ -59,7 +59,7 @@ npc_link: "[RanseHardlee](RanseHardlee.md)"
 ---
 # Ranse Hardlee
 
-> ***DECEASED*** Pilot of the Leadbelly, from [Brightside Station](../locations/BrightsideStation.md)
+> ***DECEASED*** Pilot of the Leadbelly, from [Brightside Station](../directory/Perdurabo/BrightsideStation.md)
 
 ![](https://i.imgur.com/9GTszYL.png)
 

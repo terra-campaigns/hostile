@@ -2,7 +2,7 @@
 layout: default
 title: Jaffa Okoye
 location: Brightside Station
-parent: People
+parent: Brightside Station
 
 statblock: yes
 layout_deprecated: Terra Campaigns Leiaute v04
@@ -60,7 +60,7 @@ npc_link: "[JaffaOkoye](JaffaOkoye.md)"
 ---
 # Jaffa Okoye
 
-> ***DECEASED*** Technical Chief of [Brightside Station](../locations/BrightsideStation.md).
+> ***DECEASED*** Technical Chief of [Brightside Station](../directory/Perdurabo/BrightsideStation.md).
 
 ![](https://i.imgur.com/pWh5JDL.png)
 

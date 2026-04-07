@@ -871,7 +871,7 @@
             },
             {
                 "text": "tharsisMining",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1032,7 +1032,7 @@
             },
             {
                 "text": "Brightside Station",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1120,7 +1120,7 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             }
         ],
-        "locations/BrightsideStation.md": [
+        "directory/Perdurabo/BrightsideStation.md": [
             {
                 "text": "Brightside Station",
                 "url": "npcs/CassianVireo.md",
@@ -1202,8 +1202,8 @@
                 "favicon": null
             },
             {
-                "text": "Perdurabo",
-                "url": "locations/Perdurabo.md",
+                "text": "index",
+                "url": "directory/Perdurabo/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1357,7 +1357,7 @@
             },
             {
                 "text": "Brightside",
-                "url": "locations/Perdurabo.md",
+                "url": "directory/Perdurabo/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1388,6 +1388,12 @@
             {
                 "text": "BrightsideStation",
                 "url": "campaigns/mRNA-probe/chap006.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "BrightsideStation",
+                "url": "campaigns/mRNA-probe/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -1456,7 +1462,7 @@
             },
             {
                 "text": "haruna",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -1569,7 +1575,7 @@
             },
             {
                 "text": "Brightside Station",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1644,7 +1650,7 @@
             },
             {
                 "text": "Brightside Station",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1693,7 +1699,7 @@
             },
             {
                 "text": "Brightside Station",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1762,7 +1768,7 @@
             },
             {
                 "text": "Brightside Station",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1870,7 +1876,7 @@
             },
             {
                 "text": "Brightside Station",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -1945,7 +1951,7 @@
             },
             {
                 "text": "Brightside Station",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -2401,7 +2407,7 @@
             },
             {
                 "text": "Brightside Station",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -2483,7 +2489,7 @@
             },
             {
                 "text": "Brightside Station",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -2539,7 +2545,7 @@
             },
             {
                 "text": "Brightside Station",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -2594,7 +2600,7 @@
             },
             {
                 "text": "Brightside Station",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -2815,33 +2821,10 @@
                 "direction": "inbound"
             }
         ],
-        "_site/README.md": [
+        "directory/Perdurabo/index.md": [
             {
-                "text": "Testing your GitHub Pages site locally with Jekyll",
-                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://docs.github.com/favicon.ico"
-            },
-            {
-                "text": "instructions for macOS",
-                "url": "https://jekyllrb.com/docs/installation/macos/",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://jekyllrb.com/favicon.ico"
-            },
-            {
-                "text": "^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub",
-                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://docs.github.com/favicon.ico"
-            }
-        ],
-        "locations/Perdurabo.md": [
-            {
-                "text": "Perdurabo",
-                "url": "locations/BrightsideStation.md",
+                "text": "index",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -2854,14 +2837,14 @@
             },
             {
                 "text": "Brightside",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "Cold Tomb",
-                "url": "locations/ColdTomb.md",
+                "url": "directory/Perdurabo/ColdTomb.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -2902,16 +2885,53 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
-                "text": "Perdurabo",
+                "text": "index",
                 "url": "campaigns/mRNA-probe/chap002.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
                 "text": "Perdurabo",
+                "url": "campaigns/mRNA-probe/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "campaigns/mRNA-probe/chap003.md",
                 "is_internal": true,
                 "direction": "inbound"
+            }
+        ],
+        "directory/Perdurabo/ColdTomb.md": [
+            {
+                "text": "Cold Tomb",
+                "url": "directory/Perdurabo/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "_site/README.md": [
+            {
+                "text": "Testing your GitHub Pages site locally with Jekyll",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.github.com/favicon.ico"
+            },
+            {
+                "text": "instructions for macOS",
+                "url": "https://jekyllrb.com/docs/installation/macos/",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://jekyllrb.com/favicon.ico"
+            },
+            {
+                "text": "^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub",
+                "url": "https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://docs.github.com/favicon.ico"
             }
         ],
         "locations/ColdTomb.md": [
@@ -2949,12 +2969,6 @@
                 "is_internal": false,
                 "direction": "outbound",
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
-            },
-            {
-                "text": "Cold Tomb",
-                "url": "locations/Perdurabo.md",
-                "is_internal": true,
-                "direction": "inbound"
             },
             {
                 "text": "Cold Tomb",
@@ -3398,7 +3412,7 @@
             },
             {
                 "text": "BrightsideStation",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -3540,7 +3554,7 @@
             },
             {
                 "text": "Brightside Station",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -3858,7 +3872,7 @@
             },
             {
                 "text": "BrightsideStation",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -3977,8 +3991,8 @@
                 "favicon": null
             },
             {
-                "text": "Perdurabo",
-                "url": "locations/Perdurabo.md",
+                "text": "index",
+                "url": "directory/Perdurabo/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4027,7 +4041,7 @@
             },
             {
                 "text": "Brightside",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4176,7 +4190,7 @@
         "campaigns/mRNA-probe/chap006.md": [
             {
                 "text": "BrightsideStation",
-                "url": "locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4374,14 +4388,14 @@
         "campaigns/mRNA-probe/index.md": [
             {
                 "text": "Perdurabo",
-                "url": "campaigns/mRNA-probe/locations/Perdurabo.md",
+                "url": "directory/Perdurabo/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
             },
             {
                 "text": "BrightsideStation",
-                "url": "campaigns/mRNA-probe/locations/BrightsideStation.md",
+                "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -4448,22 +4462,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "campaigns/mRNA-probe/locations/Perdurabo.md": [
-            {
-                "text": "Perdurabo",
-                "url": "campaigns/mRNA-probe/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "campaigns/mRNA-probe/locations/BrightsideStation.md": [
-            {
-                "text": "BrightsideStation",
-                "url": "campaigns/mRNA-probe/index.md",
-                "is_internal": true,
-                "direction": "inbound"
             }
         ],
         "campaigns/mRNA-probe/factions/tharsisMining.md": [
@@ -4823,8 +4821,8 @@
                 "favicon": null
             },
             {
-                "text": "Perdurabo",
-                "url": "locations/Perdurabo.md",
+                "text": "index",
+                "url": "directory/Perdurabo/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null

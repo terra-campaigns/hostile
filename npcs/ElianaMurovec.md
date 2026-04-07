@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Eliana Murovec
-parent: People
+parent: Haruna Biolabs Solomons
 
 statblock: yes
 layout_deprecated: Terra Campaigns Leiaute v04b

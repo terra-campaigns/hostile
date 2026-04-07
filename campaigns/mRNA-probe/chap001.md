@@ -12,7 +12,7 @@ sector: NEZ
 
 > {{ page.timestamp }}, {{ page.sector}}
 
-The [Doomborgs](../../Doomborgs.md) crew's arrival at [Brightside Station](../../locations/BrightsideStation.md) was marked by a tangible tension that clung to the metallic corridors and dimly lit alcoves of the mining station. Brightside, a dilapidated outpost owned by [Haruna](../../factions/haruna.md), part of the Matsuyama group, stood as a testament to both human ingenuity and the relentless decay wrought by the hostile environment of space.
+The [Doomborgs](../../Doomborgs.md) crew's arrival at [Brightside Station](../../directory/Perdurabo/BrightsideStation.md) was marked by a tangible tension that clung to the metallic corridors and dimly lit alcoves of the mining station. Brightside, a dilapidated outpost owned by [Haruna](../../factions/haruna.md), part of the Matsuyama group, stood as a testament to both human ingenuity and the relentless decay wrought by the hostile environment of space.
 
 As the crew disembarked, they were greeted by a few of the station's weary inhabitants—faces etched with the grime of long hours and the stress of constant vigilance. A space raft ferried them to their own ship, the [Frostbreaker](../../objects/Frostbreaker.md), which floated serenely nearby, its exterior promising the safety and stability they craved. The Frostbreaker’s inspection was swift and thorough; everything seemed in order, a rare and welcome relief.
 

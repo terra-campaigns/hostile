@@ -1,7 +1,7 @@
 ---
 layout: default
 title: John McLeod
-parent: People
+parent: Tharsis Mining American
 
 statblock: yes
 layout_deprecated: Terra Campaigns Leiaute v04

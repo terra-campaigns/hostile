@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Roland Lomax
-parent: People
+parent: Brightside Station
 
 statblock: yes
 layout_deprecated: Terra Campaigns Leiaute v04
@@ -60,7 +60,7 @@ npc_link: "[RolandLomax](RolandLomax.md)"
 ---
 # Roland Lomax
 
-> Cargo Chief of [Brightside Station](../locations/BrightsideStation.md)
+> Cargo Chief of [Brightside Station](../directory/Perdurabo/BrightsideStation.md)
 
 ![](https://i.imgur.com/0PTNdEm.png)
 

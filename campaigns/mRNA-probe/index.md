@@ -14,9 +14,9 @@ footer_content: Perdurado is adapted from the <a href="https://www.drivethrurpg.
 
 ## Prelude
 
-Advanced alien ruins were found in 2225 in the [Perdurabo](locations/Perdurabo.md) system. An ice sample was bought by Tharsis' Parkfield Biolabs, which contained RNA that can be used to cure early dementia caused by frequent faster than light travel. The RNA named Neuroplasticity Augmentor Sequence (NAS-RNA), however, the RNA cannot be easily replicated in laboratory. For this reason, the discovery was not made public yet, and Tharsis has been moving fast to evaluate the feasibility to establish an ice mine in the system.
+Advanced alien ruins were found in 2225 in the [Perdurabo](../../directory/Perdurabo/index.md) system. An ice sample was bought by Tharsis' Parkfield Biolabs, which contained RNA that can be used to cure early dementia caused by frequent faster than light travel. The RNA named Neuroplasticity Augmentor Sequence (NAS-RNA), however, the RNA cannot be easily replicated in laboratory. For this reason, the discovery was not made public yet, and Tharsis has been moving fast to evaluate the feasibility to establish an ice mine in the system.
 
-If proven feasible, the existence of the [BrightsideStation](locations/BrightsideStation.md) in the system is an advantage. The station is a poorly managed facility that would be easy to purchase if the exploration proves commercially of the play (see Hostile-Setting 82, for detail on the licensing process).
+If proven feasible, the existence of the [Brightside Station](../../directory/Perdurabo/BrightsideStation.md) in the system is an advantage. The station is a poorly managed facility that would be easy to purchase if the exploration proves commercially of the play (see Hostile-Setting 82, for detail on the licensing process).
 
 Perdurabo is a system blazing with the murderous light of a red giant star. The hard-bitten miners of the Brightside Mining Station maintain the only outpost of civilisation in a system filled with lethal light and stellar outlaws. Ancient asteroid sky tombs lie in the vicinity while a seething rebellion boils beneath Brightside Station's steel skin.
 

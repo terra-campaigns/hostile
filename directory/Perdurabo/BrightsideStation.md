@@ -2,16 +2,15 @@
 layout: default
 title: Brightside Station
 parent: Perdurabo
-grand_parent: Locations
 
 footer_content: Brightside is adapted from the <a href="https://www.drivethrurpg.com/en/product/86468/Hard-Light">Hard Light</a> adventure by Kevin Crawfort, for private use only.
 
 ---
 # [Brightside Mining Station](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/spaceStation/8LCcs3wrwRYwyUx5P0OL)
 
-- Built by [haruna](../factions/haruna.md)
-- Located in [Perdurabo](Perdurabo.md)
-- Of interest for a hostile acquisition from [tharsisMining](../factions/tharsisMining.md).
+- Built by [haruna](../../factions/haruna.md)
+- Located in [index](index.md)
+- Of interest for a hostile acquisition from [tharsisMining](../../factions/tharsisMining.md).
 
 ---
 #### Connected to

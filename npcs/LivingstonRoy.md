@@ -2,7 +2,7 @@
 layout: default
 title: Livingston Roy
 location: Brightside Station
-parent: People
+parent: Brightside Station
 
 statblock: yes
 layout_deprecated: Terra Campaigns Leiaute v04
@@ -63,7 +63,7 @@ npc_link: "[LivingstonRoy](LivingstonRoy.md)"
 ---
 # Livingston Roy
 
-> Security Chief of [Brightside Station](../locations/BrightsideStation.md)
+> Security Chief of [Brightside Station](../directory/Perdurabo/BrightsideStation.md)
 
 ![](https://i.imgur.com/xMXC8Lz.png)
 

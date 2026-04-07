@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cassian Vireo
-parent: People
+parent: Lebkuchen Defiance
 
 statblock: yes
 layout_deprecated: Terra Campaigns Leiaute v04b
@@ -59,7 +59,7 @@ npc_link: "[CassianVireo](CassianVireo.md)"
 
 ![](https://i.imgur.com/GfAeVZ7.png)
 
-- Detonated a bomb in [Brightside Station](../locations/BrightsideStation.md)
+- Detonated a bomb in [Brightside Station](../directory/Perdurabo/BrightsideStation.md)
 
 ---
 #### Connected to

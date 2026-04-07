@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Suyin Indrani
-parent: People
+parent: Brightside Station
 
 statblock: yes
 layout_deprecated: Terra Campaigns Leiaute v04
@@ -62,7 +62,7 @@ npc_link: "[SuyinIndrani](SuyinIndrani.md)"
 ---
 # Suyin Indrani
 
-> Medical Chief of [Brightside Station](../locations/BrightsideStation.md) and owner of the Clouds and Rain brothel
+> Medical Chief of [Brightside Station](../directory/Perdurabo/BrightsideStation.md) and owner of the Clouds and Rain brothel
 
 ![](https://i.imgur.com/B138ywi.png)
 

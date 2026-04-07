@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mary Tomlinson
-parent: People
+parent: Brightside Station
 
 statblock: yes
 layout_deprecated: Terra Campaigns Leiaute v04
@@ -58,7 +58,7 @@ npc_link: "[MaryTomlinson](MaryTomlinson.md)"
 ---
 # Mary Tomlinson
 
-> Mining Chief of [Brightside Station](../locations/BrightsideStation.md) and third-in-command
+> Mining Chief of [Brightside Station](../directory/Perdurabo/BrightsideStation.md) and third-in-command
 
 ![](https://i.imgur.com/aOLG8fs.png)
 

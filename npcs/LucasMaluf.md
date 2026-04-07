@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lucas Maluf
-parent: People
+parent: Tharsis Mining American
 
 ---
 

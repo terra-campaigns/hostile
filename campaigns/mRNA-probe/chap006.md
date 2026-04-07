@@ -12,7 +12,7 @@ sector: NEZ
 
 > {{ page.timestamp }}, {{ page.sector}}
 
-- The Doomborgs receive a **new contract** that voids the exploration framework of the previous contract, but maintain taking down the directorship of [BrightsideStation](../../locations/BrightsideStation.md)
+- The Doomborgs receive a **new contract** that voids the exploration framework of the previous contract, but maintain taking down the directorship of [BrightsideStation](../../directory/Perdurabo/BrightsideStation.md)
 	- The crew will be paid C5k for each Hull cargo space full of unrefined mRNA-rich ice. This value is doubled if the ice is refined.
 - The Doomborgs try to find a mobile extractor micro refinery to install on their ship, but that was too difficult in a planet like [Defiance](../../locations/Defiance.md). [Oni](../../pcs/Oni.md) sends a message to her friend in [The Solomons](../../locations/Solomons.md) and asks her to buy one and bring it to Brightside. The message ends with '*Don't rip me off*'.
 - While trying to find an extractor, [Danny](../../pcs/Danny.md) inadvertently tells Harry Tungla that there was someone inside the box his trucker carried to the farm.

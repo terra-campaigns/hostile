@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Enoch Marshfield
-parent: People
+parent: Defiance
 
 statblock: yes
 layout_deprecated: Terra Campaigns Leiaute v04b

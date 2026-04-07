@@ -10,7 +10,6 @@ has_toc: false
 
 {% include header_directories.md %}
 
-{% comment %}
+## American Sector
 
-
-{% endcomment %}
+![](https://www.zozergames.com/uploads/3/4/3/3/3433372/hostilelargemaptaller_-lighter-modified2.png)

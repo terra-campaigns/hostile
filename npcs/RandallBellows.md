@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Randall Bellows
-parent: People
+parent: Brightside Station
 
 statblock: yes
 layout_deprecated: Terra Campaigns Leiaute v04
@@ -59,7 +59,7 @@ npc_link: "[RandallBellows](RandallBellows.md)"
 ---
 # Randall Bellows
 
-> ***DECEASED*** Prostitute working at the Clouds and Rain, [Brightside Station](../locations/BrightsideStation.md)
+> ***DECEASED*** Prostitute working at the Clouds and Rain, [Brightside Station](../directory/Perdurabo/BrightsideStation.md)
 
 ![](https://i.imgur.com/Tsa2Km7.png)
 
