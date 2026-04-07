@@ -1,24 +1,14 @@
-{% if page.title == 'Directory' %}
-
-{% assign all_references =  site.pages | where_exp:"item", "item.path contains 'directory/'" | where_exp:"item", "item.nav_exclude != true" %}
-
-{% elsif page.title == 'Gazetteer' %}
-
-{% assign all_references =  site.pages | where_exp:"item", "item.path contains 'gazetteer/'" | where_exp:"item", "item.nav_exclude != true" %}
-
-{% else %}
-
 {% assign children_pages = site.pages | where: 'parent', page.title %}
 
 {% assign links_pages = "" | split: "," %}
 {% for entry in site.data.markdown_links.file[page.path] %}
-	{% assign captured_page = site.pages | where: 'path', entry.url %}
-	{% assign links_pages = links_pages | push: captured_page[0] | uniq %}
+  {% if entry.is_internal == true %}
+    {% assign captured_page = site.pages | where: 'path', entry.url %}
+    {% assign links_pages = links_pages | push: captured_page[0] | uniq %}
+  {% endif %}
 {% endfor %}
 
 {% assign all_references = children_pages | push: links_pages | uniq | sort: 'nav_order' | where_exp:"item", "item.nav_exclude != true" %}
-
-{% endif %}
 
 {% comment %}
 Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
@@ -30,6 +20,34 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
   .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
   .image-gallery a img {width: 100%; display: block;}
 </style>
+
+<style>
+  .image-gallery2 {overflow: auto; margin-left: -1%!important;}
+  .image-gallery2 a {float: left; display: block; margin: 0 0 1% 1%; width: 38%; text-align: center; text-decoration: none!important;}
+  .image-gallery2 a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+  .image-gallery2 a img {width: 100%; display: block;}
+</style>
+
+{% assign count = page.images | size %}
+{% if count > 0 %}
+
+<p>
+  <br>
+</p>
+{: .text-delta }
+
+<div class="image-gallery2">
+  {% for image in page.images %}
+    <a href="{{ site.url }}{{ image | relative_url }}" title="{{ page.title }}">
+      <img src="//wsrv.nl/?url={{ site.url }}{{ image | relative_url }}&w=600&h=600&output=jpg&q=50&t=square&bg=white" alt="{{ page.title }}"/>
+    </a>
+  {% endfor %}
+</div>
+{: .text-delta }
+{% endif %}
+
+{{ page.flavour }} 
+{: .fs-3 }
 
 {% assign count = all_references | where: 'type', 'people' | size %}
 {% if count > 0 %}
@@ -61,7 +79,7 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
 {% assign count = all_references | where: 'type', 'faction' | size %}
 {% if count > 0 %}
 <p>
-<b>Factions</b>
+<b>Corporations & Groups</b>
 </p>
 {: .text-delta }
 

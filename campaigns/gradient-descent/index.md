@@ -8,7 +8,8 @@ timestamp: 2223-09-12
 sector: FSZ
 
 ---
-# {{page.title}}
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0AmuaB2QSAeCbkoJ2U5eYH?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 You were hired by the [Book of the Sky](../../factions/bookSky.md) to recover a microfilm canister from a derelict industrial space station in [Fomalhaut](../../locations/Fomalhaut.md).
 You will receive tickets to get to the system, and then a shuttle to get close to the space station.
@@ -17,8 +18,9 @@ The shuttle will be an illegal one, given that the station is currently under a 
 The site is a large, failed industrial site in the system, built to produce androids, which were later made forbidden.
 It was formally run by [Transdyne Cybersystems](../../factions/TDC.md).
 
+# The Game
 
-# Character Creation
+## Character Creation
 
 All personnel for hire are required to have their personal files available for corporate access.
 
@@ -122,9 +124,6 @@ ENGINEERING
 ```
 </details>
 
-
-# System
-
 ## Play
 
 Players describe what they do.
@@ -147,11 +146,6 @@ Take the highest die.
 When you roll your **skill** die maximum, you can choose to turn the **Success** into a **Disaster**.
 If you do so, your **skill** die improves (d6 → d8 → d10 → d12).
 
-### Defence & harm
-
-Say how your armour or weapon breaks to turn a hit into a *hindrance*.
-A broken gear is useless until it is repaired.
-Injuries take time and/or medical attention to heal.
 
 ## Gear
 
@@ -161,17 +155,13 @@ You can only comfortably carry one *Bulky* item.
 A second item *hinders* you.
 Three or more is impossible in most circumstances.
 
-## Change
+Say how your armour or weapon breaks to turn a hit into a *hindrance*.
+A broken gear is useless until it is repaired.
+Injuries take time and/or medical attention to heal.
 
-Throughout the game, you will change.
-You may improve or acquire new skills.
-You may become long-term injured or get a disease.
+---
 
-
-## Uncertainty
-
-If something is uncertain and the rules do not support its resolution, **consider the odds and roll a die**.
-
+{% include connected_to.html %}
 
 {% comment %}
 

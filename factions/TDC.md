@@ -2,6 +2,7 @@
 layout: default
 title: Transdyne Cybersystems
 parent: Directory
+type: faction
 
 footer_content: TDC is adapted from the <a href="https://www.paulelliottbooks.com/hostile.html">Hostile</a> setting books by Paul Elliott from Zozer Games, for private use only.
 

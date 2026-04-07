@@ -2,6 +2,7 @@
 layout: default
 title: Book of the Sky Solomons
 parent: Directory
+type: faction
 
 status:
 
