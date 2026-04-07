@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Makita Genetics Solomons
-parent: Factions
+parent: Directory
 
 footer_content: Makita is adapted from the <a href="https://www.paulelliottbooks.com/hostile.html">Hostile</a> setting books by Paul Elliott from Zozer Games, for private use only.
 

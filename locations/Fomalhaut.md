@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fomalhaut
-parent: Locations
+parent: Directory
 
 ---
 

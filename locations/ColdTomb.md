@@ -2,7 +2,6 @@
 layout: default
 title: Cold Tomb
 parent: Perdurabo
-grand_parent: Locations
 
 meta:
   category: location

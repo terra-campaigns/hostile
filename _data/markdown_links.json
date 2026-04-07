@@ -1392,7 +1392,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "BrightsideStation",
+                "text": "Brightside Station",
                 "url": "campaigns/mRNA-probe/index.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2885,7 +2885,7 @@
                 "favicon": "https://terra-campaigns.github.io/favicon.ico"
             },
             {
-                "text": "index",
+                "text": "Perdurabo",
                 "url": "campaigns/mRNA-probe/chap002.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -2897,7 +2897,7 @@
                 "direction": "inbound"
             },
             {
-                "text": "index",
+                "text": "Perdurabo",
                 "url": "campaigns/mRNA-probe/chap003.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -3991,7 +3991,7 @@
                 "favicon": null
             },
             {
-                "text": "index",
+                "text": "Perdurabo",
                 "url": "directory/Perdurabo/index.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -4394,7 +4394,7 @@
                 "favicon": null
             },
             {
-                "text": "BrightsideStation",
+                "text": "Brightside Station",
                 "url": "directory/Perdurabo/BrightsideStation.md",
                 "is_internal": true,
                 "direction": "outbound",
@@ -4821,7 +4821,7 @@
                 "favicon": null
             },
             {
-                "text": "index",
+                "text": "Perdurabo",
                 "url": "directory/Perdurabo/index.md",
                 "is_internal": true,
                 "direction": "outbound",
