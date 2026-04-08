@@ -20,6 +20,10 @@ It was formally run by [Transdyne Cybersystems](../../factions/TDC.md).
 
 # The Game
 
+Players describe what they do.
+The GM advises when their action is impossible, demands a cost or extra steps, or presents a risk.
+Players can revise their plans before committing to a change in goals or stakes.
+
 ## Character Creation
 
 All personnel for hire are required to have their personal files available for corporate access.
@@ -124,15 +128,9 @@ ENGINEERING
 ```
 </details>
 
-## Play
-
-Players describe what they do.
-The GM advises when their action is impossible, demands a cost or extra steps, or presents a risk.
-Players can revise their plans before committing to a change in goals or stakes.
-Only roll to avoid risk.
-
 ## Rolling
 
+Only roll to avoid risk.
 Roll a ***skill*** die — d6 by default, higher with a relevant ***skill***.
 If aided by an ally, both roll their ***skill*** dice and share the risk.
 In a contest, both sides roll their ***skill*** dice and face risks.
