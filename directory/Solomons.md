@@ -4,9 +4,8 @@ title: The Solomons
 parent: Directory
 type: location
 
-redirect: https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/asteroidBelt/JUkP8shMcIxoqivuOFBp
-
-footer_content: The Solomons is adapted from the <a href="https://www.paulelliottbooks.com/hostile.html">Hostile</a> setting books by Paul Elliott from Zozer Games, for private use only.
+images:
+- ../imgs/gallery/Pasted%20image%2020260409195958.png
 
 ---
 

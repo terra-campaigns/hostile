@@ -32,8 +32,15 @@
                 "favicon": "https://www.zozergames.com/favicon.ico"
             },
             {
-                "text": "The Game",
-                "url": "systems/index.md",
+                "text": "mRNA Probe",
+                "url": "campaigns/mRNA-probe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Gradient Descent",
+                "url": "campaigns/gradient-descent/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -81,24 +88,13 @@
                 "favicon": "https://drive.google.com/favicon.ico"
             }
         ],
-        "systems/index.md": [
+        "campaigns/mRNA-probe/index.md": [
             {
-                "text": "The Game",
+                "text": "mRNA Probe",
                 "url": "index.md",
                 "is_internal": true,
                 "direction": "inbound"
-            }
-        ],
-        "directory/Metalianos.md": [
-            {
-                "text": "index",
-                "url": "campaigns/mRNA-probe/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            }
-        ],
-        "campaigns/mRNA-probe/index.md": [
+            },
             {
                 "text": "index",
                 "url": "directory/Metalianos.md",
@@ -422,6 +418,72 @@
                 "favicon": null
             }
         ],
+        "campaigns/gradient-descent/index.md": [
+            {
+                "text": "Gradient Descent",
+                "url": "index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Book of the Sky",
+                "url": "directory/bookSky.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fomalhaut",
+                "url": "directory/Fomalhaut.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "ICO",
+                "url": "directory/ico.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Transdyne Cybersystems",
+                "url": "directory/TDC.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "The DEEP encounters",
+                "url": "https://perchance.org/mdzeybgkvn",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://perchance.org/favicon.ico"
+            },
+            {
+                "text": "Mosh Chargen",
+                "url": "https://perchance.org/yjrlip571b",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://perchance.org/favicon.ico"
+            },
+            {
+                "text": "Planetgen",
+                "url": "https://www.rangen.co.uk/world/planetgen.php#google_vignette",
+                "is_internal": false,
+                "direction": "outbound",
+                "favicon": "https://www.rangen.co.uk/favicon.ico"
+            }
+        ],
+        "directory/Metalianos.md": [
+            {
+                "text": "index",
+                "url": "campaigns/mRNA-probe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
         "directory/ico.md": [
             {
                 "text": "NEZ American Sector",
@@ -589,13 +651,6 @@
                 "url": "directory/haruna/ElianaMurovec.md",
                 "is_internal": true,
                 "direction": "inbound"
-            },
-            {
-                "text": "NEZ American Sector",
-                "url": "https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://sectorswithoutnumber.com/favicon.ico"
             },
             {
                 "text": "index",
@@ -1907,13 +1962,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            },
-            {
-                "text": "Sector Map",
-                "url": "https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/PWrHAjd6P64k61Ga1PfQ",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://sectorswithoutnumber.com/favicon.ico"
             },
             {
                 "text": "Brightside",
@@ -3566,57 +3614,6 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            }
-        ],
-        "campaigns/gradient-descent/index.md": [
-            {
-                "text": "Book of the Sky",
-                "url": "directory/bookSky.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Fomalhaut",
-                "url": "directory/Fomalhaut.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "ICO",
-                "url": "directory/ico.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Transdyne Cybersystems",
-                "url": "directory/TDC.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "The DEEP encounters",
-                "url": "https://perchance.org/mdzeybgkvn",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://perchance.org/favicon.ico"
-            },
-            {
-                "text": "Mosh Chargen",
-                "url": "https://perchance.org/yjrlip571b",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://perchance.org/favicon.ico"
-            },
-            {
-                "text": "Planetgen",
-                "url": "https://www.rangen.co.uk/world/planetgen.php#google_vignette",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://www.rangen.co.uk/favicon.ico"
             }
         ]
     }

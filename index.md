@@ -20,9 +20,10 @@ Every hazard is trying to kill them: lack of oxygen, vacuum, radiation, excessiv
 
 ## Index
 
-|                                                                |
-| -------------------------------------------------------------- |
-| **[The Game](systems/index.md):** Rules and Character Creation |
+|                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------- |
+| **[mRNA Probe](campaigns/mRNA-probe/index.md):** Contract to stimulate a hostile acquisition of an asset in Perdurabo.    |
+| **[Gradient Descent](campaigns/gradient-descent/index.md):** Contract to enter an embargoed facility and recover an item. |
 
 {% comment %}
 
