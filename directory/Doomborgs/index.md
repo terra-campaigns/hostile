@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Brightside Station
-parent: Perdurabo
-type: location
-
-footer_content: Brightside is adapted from the <a href="https://www.drivethrurpg.com/en/product/86468/Hard-Light">Hard Light</a> adventure by Kevin Crawfort, for private use only.
+title: Doomborgs
+parent: Directory
+has_children: true
+nav_order: 1
+has_toc: false
+type: faction
 
 ---
-
 
 {% include header_directories.md %}
 {% comment %}
@@ -21,7 +21,10 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 {% endcomment %}
 
+# The Doomborgs
 
-- Built by [index](../haruna/index.md)
-- Located in [index](index.md)
-- Of interest for a hostile acquisition from [index](../TharsisMining/index.md).
+Players are welcome to edit their own characters.
+Use the link on the bottom of your character page.
+
+![](https://i.imgur.com/k8eNLl0.png)
+

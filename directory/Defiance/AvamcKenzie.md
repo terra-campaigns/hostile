@@ -1,13 +1,10 @@
 ---
 layout: default
-title: Brightside Station
-parent: Perdurabo
-type: location
-
-footer_content: Brightside is adapted from the <a href="https://www.drivethrurpg.com/en/product/86468/Hard-Light">Hard Light</a> adventure by Kevin Crawfort, for private use only.
+title: Ava McKenzie
+type: people
+parent: Defiance
 
 ---
-
 
 {% include header_directories.md %}
 {% comment %}
@@ -22,6 +19,13 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 {% endcomment %}
 
 
-- Built by [index](../haruna/index.md)
-- Located in [index](index.md)
-- Of interest for a hostile acquisition from [index](../TharsisMining/index.md).
+# Ava McKenzie
+
+> Hacker in [index](index.md)
+
+![](https://i.imgur.com/zDqHsoO.png)
+
+- Ava's daughter was saved, in an accident, by [Aaros](../Doomborgs/Aaros.md).
+- She follows the [Book of Sky](../bookSky.md)
+- Her husband works for [LucasMaluf](../TharsisMining/LucasMaluf.md) from [Tharsis Mining](../TharsisMining/index.md).
+

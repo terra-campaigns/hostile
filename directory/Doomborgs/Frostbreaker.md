@@ -1,13 +1,9 @@
 ---
 layout: default
-title: Brightside Station
-parent: Perdurabo
-type: location
-
-footer_content: Brightside is adapted from the <a href="https://www.drivethrurpg.com/en/product/86468/Hard-Light">Hard Light</a> adventure by Kevin Crawfort, for private use only.
+title: Frostbreaker
+parent: Miscellanea
 
 ---
-
 
 {% include header_directories.md %}
 {% comment %}
@@ -21,7 +17,9 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 {% endcomment %}
 
+### Frostbreaker
 
-- Built by [index](../haruna/index.md)
-- Located in [index](index.md)
-- Of interest for a hostile acquisition from [index](../TharsisMining/index.md).
+![](https://i.imgur.com/MRdCXz0.jpg)
+
+> Link to [Frostbreaker in Ship Designer](https://www.swnfreebooter.net/starshipDesigner/DOefjLYWNp812UH0Tqic)
+

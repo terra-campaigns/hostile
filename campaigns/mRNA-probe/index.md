@@ -2,6 +2,7 @@
 layout: default
 title: mRNA Probe
 has_children: true
+has_toc: false
 nav_order: 10
 
 footer_content: Perdurado is adapted from the <a href="https://www.drivethrurpg.com/en/product/86468/Hard-Light">Hard Light</a> adventure by Kevin Crawfort, for private use only.
@@ -22,9 +23,9 @@ Perdurabo is a system blazing with the murderous light of a red giant star. The 
 
 ### Contract
 
-**Contract signed with [Tharsis Mining](factions/tharsisMining.md) Supervisor for Ice Exploration [John McLeod](npcs/JohnMcLeod.md).**
+**Contract signed with [Tharsis Mining](../../directory/TharsisMining/index.md) Supervisor for Ice Exploration [John McLeod](../../directory/TharsisMining/JohnMcLeod.md).**
 
-You are the crew going to Perdurabo. You main goal is to execute the Exploration Framework that enables the commercial evaluation of the Ice Mine play. Non-disclosed milestones, that will be paid off books, is infiltrating and deteriorating the leadership of [Brightside Mining Station](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/spaceStation/8LCcs3wrwRYwyUx5P0OL), so its later acquisition is even cheaper. 
+You are the crew going to Perdurabo. You main goal is to execute the Exploration Framework that enables the commercial evaluation of the Ice Mine play. Non-disclosed milestones, that will be paid off books, is infiltrating and deteriorating the leadership of [Brightside Mining Station](../../directory/Perdurabo/BrightsideStation.md), so its later acquisition is even cheaper. 
 
 Contracted roles and milestones are detailed below. Monthly salary is Salary + Multiplier x Profession Rank. Each milestone pays a bonus of a number of times the crew monthly salary. The crew will have a LTDA company where they are the shareholders.
 
@@ -75,7 +76,7 @@ Mission kick off meeting in Earth's largest starport in French Guiana.
 
 ### Perdurian Frostbreaker
 
-Link to [Frostbreaker](objects/Frostbreaker.md)
+Link to [Frostbreaker](../../directory/Doomborgs/Frostbreaker.md)
 
 ```
 Certificate of Flight
@@ -111,8 +112,10 @@ Small letters:
 
 ```
 
-On the evening before the mission kick-off meeting with [Tharsis Mining](factions/tharsisMining.md) Manager for Ice Exploration [John McLeod](npcs/JohnMcLeod.md), the [Doomborgs](Doomborgs.md) crew find a scientist from [Haruna](../../factions/haruna.md) tied to a bomb in the toilets of a bar in French Guiana. They learn of the animosity of the [Lebkuchen](factions/lebkuchen.md) activists against Haruna's cloning endeavours. After all that is sorted, they decide to bet on Olaf in a boxing ring, which proves to be successful.
+On the evening before the mission kick-off meeting with [Tharsis Mining](../../directory/TharsisMining/index.md) Manager for Ice Exploration John McLeod, the [index](../../directory/Doomborgs/index.md) crew find a scientist from [Haruna](../../directory/haruna/index.md) tied to a bomb in the toilets of a bar in French Guiana. They learn of the animosity of the [Lebkuchen](../../directory/lebkuchen/index.md) activists against Haruna's cloning endeavours. After all that is sorted, they decide to bet on Olaf in a boxing ring, which proves to be successful.
 
 On the next day they finally meet with John McLeod, and preparations for the travel to Perdurabo start.
 
 ![](https://i.imgur.com/ir2ixFW.png)
+
+{% include connected_to.html %}

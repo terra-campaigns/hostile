@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Brightside Station
-parent: Perdurabo
-type: location
-
-footer_content: Brightside is adapted from the <a href="https://www.drivethrurpg.com/en/product/86468/Hard-Light">Hard Light</a> adventure by Kevin Crawfort, for private use only.
+title: Lucas Maluf
+type: people
+parent: Tharsis Mining American
 
 ---
 
@@ -22,6 +20,6 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 {% endcomment %}
 
 
-- Built by [index](../haruna/index.md)
-- Located in [index](index.md)
-- Of interest for a hostile acquisition from [index](../TharsisMining/index.md).
+> Exploration manager in Defiance, for [Tharsis Mining](index.md).
+
+- Interested in [John McLeod](JohnMcLeod.md), is he an AI or an actual person.

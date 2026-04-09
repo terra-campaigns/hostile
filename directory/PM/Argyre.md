@@ -1,13 +1,10 @@
 ---
 layout: default
-title: Brightside Station
-parent: Perdurabo
-type: location
-
-footer_content: Brightside is adapted from the <a href="https://www.drivethrurpg.com/en/product/86468/Hard-Light">Hard Light</a> adventure by Kevin Crawfort, for private use only.
+title: Nicolaas Argyre
+type: people
+parent: Pacific Metals
 
 ---
-
 
 {% include header_directories.md %}
 {% comment %}
@@ -21,7 +18,5 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 {% endcomment %}
 
-
-- Built by [index](../haruna/index.md)
-- Located in [index](index.md)
-- Of interest for a hostile acquisition from [index](../TharsisMining/index.md).
+> Researcher.
+> Works for [Pacific Metals](index.md).
