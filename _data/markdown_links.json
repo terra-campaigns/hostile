@@ -438,6 +438,12 @@
                 "favicon": null
             },
             {
+                "text": "ICO",
+                "url": "directory/Fomalhaut.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
                 "text": "ico",
                 "url": "campaigns/mRNA-probe/chap004.md",
                 "is_internal": true,
@@ -472,6 +478,13 @@
             {
                 "text": "index",
                 "url": "campaigns/mRNA-probe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "ICO",
+                "url": "directory/ico.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
