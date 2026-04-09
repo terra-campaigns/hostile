@@ -20,8 +20,6 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 {% endcomment %}
 
-https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/planet/UBzrpfVGWXxJZq6C9ndC
-
 B868744 Locked-Warm/Garden, Agri, Rich
 
 Starport B

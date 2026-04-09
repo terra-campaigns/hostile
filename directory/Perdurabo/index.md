@@ -5,8 +5,8 @@ parent: Directory
 has_children: true
 type: location
 
-footer_content: Perdurado is adapted from the <a href="https://www.drivethrurpg.com/en/product/86468/Hard-Light">Hard Light</a> adventure by Kevin Crawfort, for private use only.
-
+images:
+- ../../imgs/gallery/Pasted%20image%2020260409195453.png
 ---
 
 {% include header_directories.md %}
@@ -21,8 +21,6 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 {% endcomment %}
 
-
-> [Sector Map](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/PWrHAjd6P64k61Ga1PfQ)
 
 ![](https://i.imgur.com/Bt6ywq5.png)
 

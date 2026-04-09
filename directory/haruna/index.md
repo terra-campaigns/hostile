@@ -4,26 +4,8 @@ title: Haruna Biolabs Solomons
 parent: Directory
 type: faction
 
-footer_content: Haruna is adapted from the <a href="https://www.paulelliottbooks.com/hostile.html">Hostile</a> setting books by Paul Elliott from Zozer Games, for private use only.
-
-status:
-
-meta:
-  category: faction
-  campaign: Hostile
-  sector: "[NEZ American Sector](https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction) "
-  parent: Wu-Ketai
-
-h: 1
-e: 5
-r: 4
-
-s: 3
-
-scheme:
-  goal: Break free from Matsuyama
-  progress: 1/10
-  milestone: Stop a the Lebkuhen before they destroy more value
+images:
+- ../../imgs/gallery/Pasted%20image%2020260409195240.png
 ---
 
 {% include header_directories.md %}

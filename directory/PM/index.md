@@ -4,9 +4,8 @@ title: Pacific Metals
 parent: Directory
 type: faction
 
-footer_content: Pacific Metals is adapted from the <a href="https://www.paulelliottbooks.com/hostile.html">Hostile</a> setting books by Paul Elliott from Zozer Games, for private use only.
-
-scheme:
+images:
+- ../../imgs/gallery/Pasted%20image%2020260409195050.png
 
 ---
 
@@ -21,6 +20,3 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 [index](../../campaigns/mRNA-probe/index.md)
 
 {% endcomment %}
-
-
-![](https://i.imgur.com/BaUSW6H.png)
