@@ -478,6 +478,12 @@
             },
             {
                 "text": "Fomalhaut",
+                "url": "directory/TDC.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Fomalhaut",
                 "url": "campaigns/mRNA-probe/chap009.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -499,10 +505,10 @@
             },
             {
                 "text": "Fomalhaut",
-                "url": "https://sectorswithoutnumber.com/sector/NLQzbUMehZwe6d9pSuj8/system/iVUtn5m8fePOTNBy1hx2",
-                "is_internal": false,
+                "url": "directory/Fomalhaut.md",
+                "is_internal": true,
                 "direction": "outbound",
-                "favicon": "https://sectorswithoutnumber.com/favicon.ico"
+                "favicon": null
             },
             {
                 "text": "Transdyne Cybersystems",
@@ -651,25 +657,11 @@
         ],
         "directory/bookSky.md": [
             {
-                "text": "NEZ American Sector",
-                "url": "https://sectorswithoutnumber.com/elements/E9FKrPjS8tsRmoryYMpe/faction",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://sectorswithoutnumber.com/favicon.ico"
-            },
-            {
                 "text": "index",
                 "url": "campaigns/mRNA-probe/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
-            },
-            {
-                "text": "Alpha Centauri",
-                "url": "https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/system/l5Sqg4yoyeVQJIsh6V1A",
-                "is_internal": false,
-                "direction": "outbound",
-                "favicon": "https://sectorswithoutnumber.com/favicon.ico"
             },
             {
                 "text": "Book of Sky",

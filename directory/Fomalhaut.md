@@ -22,3 +22,13 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 {% endcomment %}
 
+The Fomalhaut system contains
+multiple discs of ash, dust and asteroids
+and has three gas giants, named Typhon,
+Sauron and Smaug. Fomalhaut was
+established as a ‘free zone’ by the [ICO](ico.md)
+and the system has become a lawless
+frontier where corporations compete
+with allied groups of private prospectors.
+There are fortunes to be made here –
+and lives to be lost.

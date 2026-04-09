@@ -4,7 +4,8 @@ title: ICO American Sector
 parent: Directory
 type: faction
 
-footer_content: The ICO is adapted from the <a href="https://www.paulelliottbooks.com/hostile.html">Hostile</a> setting books by Paul Elliott from Zozer Games, for private use only.
+images:
+- ../imgs/gallery/Pasted%20image%2020260409193609.png
 
 status:
 
@@ -38,8 +39,7 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 
 {% endcomment %}
 
+## Interstellar Commerce Organisation (ICO) American Sector
 
-### Interstellar Commerce Organisation (ICO) American Sector {#ico}
-
-One of the most powerful agencies across human-explored space is the Interstellar Commerce Organization (ICO), a body created by the United Corporate Combine to regulate space commerce, space travel and interstellar trade. It is headquartered in Singapore, on Earth, and has been responsible over the past fifty years for establishing fuel prices, standards of measurement, communication protocols, starport layouts and much more. It serves the interstellar corporate community and its inspectors are constantly on the prowl, investigating accidents and checking licenses. The ICO publishes many of the standard handbooks for spaceflight that all starships are, by law, obliged to carry onboard. There is an ICO office at every A, B and C class starport.
+One of the most powerful agencies across human-explored space is the Interstellar Commerce Organisation (ICO), a body created by the United Corporate Combine to regulate space commerce, space travel and interstellar trade. It is headquartered in Singapore and has, over the past fifty years, been responsible for establishing fuel prices, measurement standards, communication protocols, starport layouts, and much more. It serves the interstellar corporate community, and its inspectors are constantly on the prowl, investigating accidents and checking licenses. The ICO publishes many of the standard handbooks for spaceflight that all starships are required by law to carry on board. There is an ICO office at every A-, B-, and C-class starport.
 
