@@ -4,6 +4,10 @@ title: Fomalhaut
 parent: Directory
 type: location
 
+images:
+- ../imgs/gallery/Pasted%20image%2020260409192818.png
+
+
 ---
 
 {% include header_directories.md %}
