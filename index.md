@@ -18,6 +18,12 @@ The [**setting**](https://www.zozergames.com/hostile-setting.html) is designed t
 Characters are blue-collar people, working dangerous jobs in the hostility of space.
 Every hazard is trying to kill them: lack of oxygen, vacuum, radiation, excessive cold, excessive heat, aliens, alien infections, poisonous atmosphere, high-pressure atmosphere, high decompression rate, high gravity acceleration in large bodies, amongst others.
 
+
+|                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ***Content warnings:***<br>Violence, industrial accidents, sudden death, body horror, contagion, psychological distress, isolation, corporate abuse, coercion, substance abuse, and existential dread. |
+
+
 ## Index
 
 |                                                                                                                           |

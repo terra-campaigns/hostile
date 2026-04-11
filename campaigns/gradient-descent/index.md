@@ -9,7 +9,7 @@ sector: FSZ
 
 ---
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0AmuaB2QSAeCbkoJ2U5eYH?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/qQtnK2s-378?si=hDG7iesPGLAD2YNO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 You were hired by the [Book of the Sky](../../directory/bookSky.md) to recover a microfilm canister from a derelict industrial space station in [Fomalhaut](../../directory/Fomalhaut.md).
 You will receive tickets to get to the system, and then a shuttle to get close to the space station.
@@ -17,6 +17,9 @@ The shuttle will be an illegal one, given that the station is currently under a 
 
 The site is a large, failed industrial site in the system, built to produce androids, which were later made forbidden.
 It was formally run by [Transdyne Cybersystems](../../directory/TDC.md).
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0AmuaB2QSAeCbkoJ2U5eYH?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 # The Game
 
