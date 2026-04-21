@@ -16,6 +16,12 @@ aux_links:
 
 color_scheme: site
 
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - color-functions
+    - import
+
 favicon_ico: "/imgs/favicon.ico"
 
 # Back to top link
@@ -29,5 +35,3 @@ gh_edit_repository: "https://github.com/terra-campaigns/hostile" # the github UR
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
-
-
