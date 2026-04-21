@@ -31,6 +31,14 @@ Every hazard is trying to kill them: lack of oxygen, vacuum, radiation, excessiv
 | **[mRNA Probe](campaigns/mRNA-probe/index.md):** Contract to stimulate a hostile acquisition of an asset in Perdurabo.    |
 | **[Gradient Descent](campaigns/gradient-descent/index.md):** Contract to enter an embargoed facility and recover an item. |
 
+## Moodboard
+
+{% include image_gallery.html %}
+
+
+
+
+
 {% comment %}
 
 **HOSTILE** | 24XX [Set Table]
@@ -55,7 +63,5 @@ Every hazard is trying to kill them: lack of oxygen, vacuum, radiation, excessiv
 **Players**: TJ, Katie, Kernow, Luc, Nick, Patrick
 **Waiting**: Harish
 **Maybes**: Palmer, Jan, Gabe, Navin, Dusko, Shail
-
-{% include prefooter_campaign.html %}
 
 {% endcomment %}
