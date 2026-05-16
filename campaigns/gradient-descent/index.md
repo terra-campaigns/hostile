@@ -136,17 +136,16 @@ ENGINEERING
 Only roll to avoid risk.
 Roll a ***skill*** die — d6 by default, higher with a relevant ***skill***.
 If aided by an ally, both roll their ***skill*** dice and share the risk.
-In a contest, both sides roll their ***skill*** dice and face risks.
 Take the highest die.
 
-|         |                                                                                                            |
-| ------- | ---------------------------------------------------------------------------------------------------------- |
-| **1-3** | **Disaster**. Suffer the risk. <br>GM decides if you succeed at all.<br>If you risk death, you die.        |
-| **4+**  | **Success**. Avoid the risk.<br>The higher the roll, the better.<br>If your rival rolled higher, bad luck. |
+|         |                                                                                                          |
+| ------- | -------------------------------------------------------------------------------------------------------- |
+| **1-2** | **Disaster**. Suffer the full risk. <br>GM decides if you succeed at all.<br>If you risk death, you die. |
+| **3-4** | **Setback**. A lesser consequence or partial success.<br>If you risk death, you’re injured.              |
+| **5+**  | **Success**. The higher the roll, the better.                                                            |
 
 When you roll your **skill** die maximum, you can choose to turn the **Success** into a **Disaster**.
 If you do so, your **skill** die improves (d6 → d8 → d10 → d12).
-
 
 ## Gear
 
