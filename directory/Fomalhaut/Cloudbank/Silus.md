@@ -1,6 +1,6 @@
 ---
 layout: default
-type: creature
+type: people
 nav_exclude: false
 has_children: true
 has_toc: false
