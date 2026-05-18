@@ -1,7 +1,7 @@
 # {{ page.title }}
 {: .text-right}
 
-#### {{ page.sector}} - {{ page.nav_order | date: "%B %-d" }} 
+#### {{ page.location}} - {{ page.nav_order | date: "%B %-d" }} 
 {: .text-right}
 
 {% if page.narration %}

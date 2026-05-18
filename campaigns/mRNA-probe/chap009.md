@@ -6,7 +6,7 @@ nav_order: 2226-02-18
 type: session
 
 timestamp: 2226-02-18
-sector: NEZ
+location: Teegarden's Star & Solomons, NEZ
 
 ---
 
@@ -28,7 +28,7 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 - The Doomborgs frequent the Broken Thruster bar in the meantime, and meet [Aaros](../../directory/Doomborgs/Aaros.md), a doctor who has been stuck in Defiance for years due to bad people management practices from Tharsis. They enter an agreement and Aaros joins the crew.
 - As they wanted to hack the AI briefcase, Aaros can already help, and connects with [Ava McKenzie](../../directory/Defiance/AvamcKenzie.md).
 - As Ava does her job on the briefcase (disconnecting microphones, cameras, RF transmitters, etc) she also mentions her husband's work in [Tharsis Mining](../../directory/TharsisMining/index.md) has been stressful recently.
-- Ava retrieves and print a copy of the 512-bit training hash from the AI in the briefcase. She also hacks Tharsis system to detect the routing destination of data transferred from the briefcase. The location is [Fomalhaut](../../directory/Fomalhaut.md), in the Outer Rim.
+- Ava retrieves and print a copy of the 512-bit training hash from the AI in the briefcase. She also hacks Tharsis system to detect the routing destination of data transferred from the briefcase. The location is [index](../../directory/Fomalhaut/index.md), in the Outer Rim.
 
 ![](https://i.imgur.com/5hKWxYc.png)
 

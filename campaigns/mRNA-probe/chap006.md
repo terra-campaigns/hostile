@@ -6,7 +6,7 @@ nav_order: 2225-12-10
 type: session
 
 timestamp: 2225-12-10
-sector: NEZ
+location: Perdurabo, NEZ
 
 ---
 

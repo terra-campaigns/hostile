@@ -6,7 +6,7 @@ nav_order: 2225-10-27
 type: session
 
 timestamp: 2225-10-27
-sector: NEZ
+location: Brightside Station, Perdurabo, NEZ
 
 ---
 

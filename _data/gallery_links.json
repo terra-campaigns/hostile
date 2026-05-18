@@ -1,8 +1,5 @@
 {
     "file": {
-        "imgs/gallery/Pasted image 20260409192818.png": [
-            "directory/Fomalhaut.md"
-        ],
         "imgs/gallery/Pasted image 20260409193531.png": [
             "directory/TDC.md"
         ],
@@ -23,6 +20,7 @@
         ],
         "imgs/gallery/Pasted image 20260409195958.png": [
             "directory/Solomons.md"
-        ]
+        ],
+        "imgs/gallery/Pasted image 20260409192818.png": []
     }
 }

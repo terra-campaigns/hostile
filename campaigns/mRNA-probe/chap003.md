@@ -6,7 +6,7 @@ nav_order: 2225-11-04
 type: session
 
 timestamp: 2225-11-04
-sector: NEZ
+location: Teegarden's Star, Perdurabo, NEZ
 
 ---
 

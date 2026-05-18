@@ -109,12 +109,6 @@
             },
             {
                 "text": "index",
-                "url": "directory/Fomalhaut.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "index",
                 "url": "directory/TDC.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -260,6 +254,12 @@
             {
                 "text": "index",
                 "url": "directory/TharsisMining/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
+                "url": "directory/Fomalhaut/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -433,8 +433,8 @@
                 "favicon": null
             },
             {
-                "text": "Fomalhaut",
-                "url": "directory/Fomalhaut.md",
+                "text": "index",
+                "url": "directory/Fomalhaut/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -501,7 +501,7 @@
             },
             {
                 "text": "ICO",
-                "url": "directory/Fomalhaut.md",
+                "url": "directory/Fomalhaut/index.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
@@ -536,7 +536,47 @@
                 "direction": "inbound"
             }
         ],
-        "directory/Fomalhaut.md": [
+        "directory/TDC.md": [
+            {
+                "text": "index",
+                "url": "campaigns/mRNA-probe/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Fomalhaut/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "TDC",
+                "url": "directory/Fomalhaut/Cloudbank/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Transdyne Cybersystems",
+                "url": "campaigns/mRNA-probe/chap009.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Transdyne Cybersystems",
+                "url": "campaigns/gradient-descent/index.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Fomalhaut/index.md": [
+            {
+                "text": "index",
+                "url": "directory/TDC.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
             {
                 "text": "index",
                 "url": "campaigns/mRNA-probe/index.md",
@@ -552,47 +592,31 @@
                 "favicon": null
             },
             {
-                "text": "Fomalhaut",
-                "url": "directory/TDC.md",
-                "is_internal": true,
-                "direction": "inbound"
-            },
-            {
-                "text": "Fomalhaut",
+                "text": "index",
                 "url": "campaigns/mRNA-probe/chap009.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
-            {
-                "text": "Fomalhaut",
-                "url": "campaigns/gradient-descent/index.md",
-                "is_internal": true,
-                "direction": "inbound"
-            }
-        ],
-        "directory/TDC.md": [
             {
                 "text": "index",
-                "url": "campaigns/mRNA-probe/index.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Fomalhaut",
-                "url": "directory/Fomalhaut.md",
-                "is_internal": true,
-                "direction": "outbound",
-                "favicon": null
-            },
-            {
-                "text": "Transdyne Cybersystems",
-                "url": "campaigns/mRNA-probe/chap009.md",
+                "url": "campaigns/gradient-descent/001.md",
                 "is_internal": true,
                 "direction": "inbound"
             },
             {
-                "text": "Transdyne Cybersystems",
+                "text": "Fomalhaut",
+                "url": "campaigns/gradient-descent/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Fomalhaut",
+                "url": "campaigns/gradient-descent/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "index",
                 "url": "campaigns/gradient-descent/index.md",
                 "is_internal": true,
                 "direction": "inbound"
@@ -1930,6 +1954,33 @@
             {
                 "text": "John McLeod",
                 "url": "campaigns/mRNA-probe/chap008.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Fomalhaut/Cloudbank/index.md": [
+            {
+                "text": "TDC",
+                "url": "directory/TDC.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "campaigns/gradient-descent/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "local de destino",
+                "url": "campaigns/gradient-descent/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "destination site",
+                "url": "campaigns/gradient-descent/001.md",
                 "is_internal": true,
                 "direction": "inbound"
             }
@@ -3546,8 +3597,8 @@
                 "favicon": null
             },
             {
-                "text": "Fomalhaut",
-                "url": "directory/Fomalhaut.md",
+                "text": "index",
+                "url": "directory/Fomalhaut/index.md",
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
@@ -3614,6 +3665,205 @@
                 "is_internal": true,
                 "direction": "outbound",
                 "favicon": null
+            }
+        ],
+        "campaigns/gradient-descent/001.md": [
+            {
+                "text": "index",
+                "url": "directory/Fomalhaut/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Fomalhaut/Cloudbank/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "index",
+                "url": "directory/Fomalhaut/Mergulhadores/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "local de destino",
+                "url": "directory/Fomalhaut/Cloudbank/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fomalhaut",
+                "url": "directory/Fomalhaut/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Olmo",
+                "url": "directory/Fomalhaut/Mergulhadores/Olmo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ezekiel",
+                "url": "directory/Fomalhaut/Mergulhadores/Ezekiel.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Drift",
+                "url": "directory/Fomalhaut/Mergulhadores/Drift.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "The Bell",
+                "url": "directory/Fomalhaut/TheBell/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Silus",
+                "url": "directory/Fomalhaut/Cloudbank/Silus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "destination site",
+                "url": "directory/Fomalhaut/Cloudbank/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Fomalhaut",
+                "url": "directory/Fomalhaut/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Olmo",
+                "url": "directory/Fomalhaut/Mergulhadores/Olmo.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Ezekiel",
+                "url": "directory/Fomalhaut/Mergulhadores/Ezekiel.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Drift",
+                "url": "directory/Fomalhaut/Mergulhadores/Drift.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "The Bell",
+                "url": "directory/Fomalhaut/TheBell/index.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            },
+            {
+                "text": "Silus",
+                "url": "directory/Fomalhaut/Cloudbank/Silus.md",
+                "is_internal": true,
+                "direction": "outbound",
+                "favicon": null
+            }
+        ],
+        "directory/Fomalhaut/Mergulhadores/index.md": [
+            {
+                "text": "index",
+                "url": "campaigns/gradient-descent/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Fomalhaut/Mergulhadores/Olmo.md": [
+            {
+                "text": "Olmo",
+                "url": "campaigns/gradient-descent/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Olmo",
+                "url": "campaigns/gradient-descent/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Fomalhaut/Mergulhadores/Ezekiel.md": [
+            {
+                "text": "Ezekiel",
+                "url": "campaigns/gradient-descent/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Ezekiel",
+                "url": "campaigns/gradient-descent/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Fomalhaut/Mergulhadores/Drift.md": [
+            {
+                "text": "Drift",
+                "url": "campaigns/gradient-descent/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Drift",
+                "url": "campaigns/gradient-descent/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Fomalhaut/TheBell/index.md": [
+            {
+                "text": "The Bell",
+                "url": "campaigns/gradient-descent/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "The Bell",
+                "url": "campaigns/gradient-descent/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            }
+        ],
+        "directory/Fomalhaut/Cloudbank/Silus.md": [
+            {
+                "text": "Silus",
+                "url": "campaigns/gradient-descent/001.md",
+                "is_internal": true,
+                "direction": "inbound"
+            },
+            {
+                "text": "Silus",
+                "url": "campaigns/gradient-descent/001.md",
+                "is_internal": true,
+                "direction": "inbound"
             }
         ]
     }
