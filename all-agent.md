@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /all-agent.txt
+permalink: /all-agent.html
 sitemap: false
 ---
 # {{ site.title }} - Agent Context

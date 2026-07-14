@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /all-content.txt
+permalink: /all-content.html
 sitemap: false
 ---
 # {{ site.title }}
