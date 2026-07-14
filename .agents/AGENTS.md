@@ -113,3 +113,9 @@ There are no generated data files saved to `_data/`. The data for links, galleri
 - Prefer small, focused edits.
 - Preserve the dual use of the repo: it must remain pleasant in Obsidian and buildable as a website.
 - If a request touches prose and mechanics, maintain both flavour and table usability.
+
+## Generating LLM Context Dumps in Static Sites (Jekyll)
+When creating raw context dumps (e.g., `all-content`, `all-agent`) for LLM ingestion in a static site:
+- **Use `.html` extensions**: Set the permalink to `.html` (e.g., `permalink: /all-content.html`) with `layout: null`. 
+- **Do not use `.txt`**: `.txt` files expose raw HTML tags (like `<details>` or `<iframe>`) in the browser, making them unreadable for humans.
+- **Do not strip HTML**: Never strip HTML tags just to make a `.txt` file human-readable. LLMs rely on those tags for structure. The `.html` extension solves both problems by rendering the tags nicely in the browser while preserving them in the source code for the LLM.
