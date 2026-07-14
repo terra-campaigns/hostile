@@ -56,6 +56,24 @@ module Jekyll
       
       output.join("\n")
     end
+
+    def dump_specific_skill(input, skill_name)
+      skill_file = File.join(Dir.pwd, ".agents", "skills", skill_name, "SKILL.md")
+      if File.exist?(skill_file)
+        File.read(skill_file, encoding: 'utf-8').strip
+      else
+        ""
+      end
+    end
+
+    def dump_main_agent_rules(input)
+      agents_md = File.join(Dir.pwd, ".agents", "AGENTS.md")
+      if File.exist?(agents_md)
+        File.read(agents_md, encoding: 'utf-8').strip
+      else
+        ""
+      end
+    end
   end
 end
 
