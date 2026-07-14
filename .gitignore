@@ -21,3 +21,6 @@ vendor/
 # OS files
 .DS_Store
 .obsidian/
+
+# Generated data (injected in-memory by _plugins/data_extractor.rb)
+_data/*.json
