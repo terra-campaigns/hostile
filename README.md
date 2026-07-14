@@ -89,15 +89,9 @@ Assuming [Jekyll] and [Bundler] are installed on your computer:
 
 and then browse to http://localhost:4000.
 
-## Connected to links (manual)
+## Data extraction
 
-Using the `Connected_to` feature requires running a script to map pages interlinks, and generate the `_data/markdown_links.json`file.
-To do so as a command line to run the script while building locally, making sure you update the links often.
-
-```
-python3 extract_links.py .
-bundle exec jekyll serve
-```
+Links, gallery mappings, and last-modified dates are extracted automatically by a native Jekyll Generator plugin (`_plugins/data_extractor.rb`) during build. No manual scripts need to be run.
 
 ## Customization
 
