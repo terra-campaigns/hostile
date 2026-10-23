@@ -7,7 +7,7 @@ The site is published with Jekyll, the Just the Docs theme, and GitHub Pages.
 
 - Search existing notes before inventing new lore, NPCs, factions, places, mechanics, or names.
 - Prefer local campaign files over memory.
-- Treat `campaigns/`, `directory/`, `systems/`, and similar content folders as campaign source material.
+- Treat `campaigns/`, `directory/`, `systems/`, `statblocks/`, and similar content folders as campaign source material.
 - Treat `_site/` and `.jekyll-cache/` as generated output. Do not edit them directly.
 - Preserve Obsidian-friendly markdown and Jekyll/Liquid syntax.
 
@@ -18,6 +18,7 @@ Common folders:
 - `campaigns/`: session logs, campaign arcs, chapter pages, play reports.
 - `directory/`: gazetteer entries for places, NPCs, factions, organisations, and setting material.
 - `systems/`: rules, procedures, character templates, subsystems, and generators.
+- `statblocks/`: monster, synthetic, and creature statistics.
 - `imgs/`: images used by markdown pages and galleries.
 - `_includes/`: reusable Jekyll snippets.
 - `_sass/`: Just the Docs theme customisation.
@@ -53,11 +54,47 @@ Common folders:
 
 ### Canon hierarchy
 
-- Tier 1 canon is the campaign website available at https://terra-campaigns.github.io/hostile/all-content/. These notes are strong canon.
-- Tier 2 canon is Project Memory and visible conversation.
-- Tier 3 canon is material uploaded to the project — should be used as influence, not as automatic Hostile canon.
+- **Tier 1 canon** is the published campaign notes (listed in `.agents/context/tier1_sources.yml` and indexed in `.agents/context/catalog.json`). These notes are strong canon.
+- **Tier 2 canon** is Project Memory, visible conversation, and confirmed GM rulings recorded in `.agents/context/decisions.md`.
+- **Tier 3 canon** is reference material in the Google Drive campaign folder (`scenarios/`, `supplements/`, `support/`) and structured digests in Google Drive `_digests/` (indexed in `.agents/context/references.json`). It should be used as influence and possibility, not as automatic Hostile canon.
 
-### Gradient Descent campaign
+### Context & Token Optimisation Policy
+
+- Never read all markdown notes or large reference PDFs in bulk.
+- Use the `lookup-context` skill or consult `.agents/context/catalog.json` first to locate relevant entities, locations, and factions before reading files.
+- The catalogue is a navigation index, not a replacement for reading the note. Once located, open only the target file (using line-range reads where practical).
+- For Tier 3 setting lore or procedures, consult `_digests/*.md` via `.agents/context/references.json` before opening raw PDFs.
+- Front-matter `hooks` field is deprecated and ignored across all agents and tooling. Do not add `hooks:` to new front matter.
+- Regenerate the Tier 1 catalogue manually with `ruby --disable-gems _plugins/data_extractor.rb` or automatically upon git commit.
+- For heavy batch text processing, extraction, or local summarisation, offload to local Ollama (`llama3.2:latest` or `llama3.1:latest`) over `localhost:11434`, always enforcing British English in prompt instructions.
+
+## Campaign Specification
+
+### Style & Tone
+- Genre: Blue-collar industrial used-future, corporate horror, slow dread, survival against bad odds.
+- Cadence: Short, readable sentences. One sentence per line when practical.
+- Vocabulary: Workplace realism, bulkheads, hydraulic hiss, CRT terminals, coolant leaks, company script, zaibatsu bureaucracy.
+
+### Reference Material (for Deep Reviews & Lore)
+- Root Path: `/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/`
+- Priority Sources:
+  1. `Hostile-Rules.pdf` — core rules, vacuum hazards, combat lethality, careers.
+  2. `Hostile-Setting.pdf` — off-world colonies, megacorporations, star sectors.
+  3. `Gradient-Descent-v1.1.pdf` — AI identity horror, derelict megastructure layout, Monarch sanctum.
+  4. `Hostile-Synthetics.pdf` — synthetic chassis, behavioural limiters, infiltration models.
+
+### Calibration Examples
+- Too flat: "The space station is dark. The android is standing there looking at you. It wants to kill you."
+- Too purple: "The stygian void of the colossal orbital platform wept tears of oxidised blood as the synthetic abomination prepared to unleash its cosmic wrath upon your fragile mortal forms."
+- In voice: "The sector 4 airlock cycles with a grinding thud. Backup lighting flickers across the bulkheads, catching the reflective sheen on the infiltrator unit's faceplate. It raises a rivet gun, wordless."
+
+### Structural & Procedural Defaults
+- Default Campaign Subfolder: `campaigns/gradient-descent/`
+- Campaign Hub Page: `[index](../../directory/crew/index.md)`
+- Character Archetypes / Vocations: Marine, Roughneck, Commercial Spacer, Android, Marshal, Technician, Corporate Surveyor. Affiliations: ICC, Tanaka Heavy Industries, Makita Orbital, Hyperion Mining, Haruna Biotech.
+- Session Prep Mode: Station Crawl / Derelict Megastructure / Corporate Extraction
+
+## Gradient Descent campaign
 
 - **Abandoned industrial megastructure:** a vast android factory, dark, broken, zero-G, and too large for humans.
 - **AI identity horror:** Monarch, brainscans, infiltrator androids, fake memories, and doubt over whether anyone is still human.
@@ -115,6 +152,7 @@ There are no generated data files saved to `_data/`. The data for links, galleri
 - If a request touches prose and mechanics, maintain both flavour and table usability.
 
 ## Generating LLM Context Dumps in Static Sites (Jekyll)
+
 When creating raw context dumps (e.g., `all-content`, `all-agent`) for LLM ingestion in a static site:
 - **Use `.html` extensions**: Set the permalink to `.html` (e.g., `permalink: /all-content.html`) with `layout: null`. 
 - **Do not use `.txt`**: `.txt` files expose raw HTML tags (like `<details>` or `<iframe>`) in the browser, making them unreadable for humans.

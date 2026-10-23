@@ -14,7 +14,7 @@ Generated: {{ site.time | date: "%Y-%m-%d" }}
   - Strips out utility pages (404, this page, assets, search indexes)
   - Groups content by type: Campaigns (sessions), Directory (world entries), then other pages
   - Surfaces front matter metadata (type, role, region, hooks, status, parent)
-  - Uses raw_markdown custom filter to output raw markdown, stripping out includes/CSS noise
+  - Uses page.content | strip_html to remove all HTML/CSS/JS noise
   - Outputs as .txt so there's no theme wrapper
 {% endcomment %}
 
