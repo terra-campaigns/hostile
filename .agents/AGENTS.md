@@ -90,6 +90,8 @@ Common folders:
 - Too flat: "The space station is dark. The android is standing there looking at you. It wants to kill you."
 - Too purple: "The stygian void of the colossal orbital platform wept tears of oxidised blood as the synthetic abomination prepared to unleash its cosmic wrath upon your fragile mortal forms."
 - In voice: "The sector 4 airlock cycles with a grinding thud. Backup lighting flickers across the bulkheads, catching the reflective sheen on the infiltrator unit's faceplate. It raises a rivet gun, wordless."
+- Too flat: "You find a datapad. It says the corporation knew about the alien virus but didn't tell the workers because it would cost too much money to fix."
+- In voice: "A cracked datapad logs the quarterly risk assessment. The biological contaminant was noted six months ago. Operations deemed the mortality rate an acceptable loss compared to the cost of a quarantine shutdown."
 
 ### Structural & Procedural Defaults
 
@@ -160,7 +162,7 @@ There are no generated data files saved to `_data/`. The data for links, galleri
 
 ## Generating LLM Context Dumps in Static Sites (Jekyll)
 
-When creating raw context dumps (e.g., `all-content`, `all-agent`) for LLM ingestion in a static site:
+When creating raw context dumps (e.g., `all-content`) for LLM ingestion in a static site:
 - **Use `.html` extensions**: Set the permalink to `.html` (e.g., `permalink: /all-content.html`) with `layout: null`. 
 - **Do not use `.txt`**: `.txt` files expose raw HTML tags (like `<details>` or `<iframe>`) in the browser, making them unreadable for humans.
 - **Do not strip HTML**: Never strip HTML tags just to make a `.txt` file human-readable. LLMs rely on those tags for structure. The `.html` extension solves both problems by rendering the tags nicely in the browser while preserving them in the source code for the LLM.

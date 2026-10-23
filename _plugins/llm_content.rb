@@ -26,75 +26,6 @@ module Jekyll
       end
     end
 
-    def dump_agents(input)
-      output = []
-      base_dir = Dir.pwd
-      
-      # Main AGENTS.md
-      agents_md = File.join(base_dir, ".agents", "AGENTS.md")
-      if File.exist?(agents_md)
-        output << "<hr>"
-        output << "## AGENT INSTRUCTIONS (AGENTS.md)"
-        output << File.read(agents_md, encoding: 'utf-8').strip
-        output << ""
-      end
-      
-      seen_skills = {}
-
-      # 1. Local skills
-      skills_dir = File.join(base_dir, ".agents", "skills")
-      if Dir.exist?(skills_dir)
-        Dir.glob(File.join(skills_dir, "**", "SKILL.md")).sort.each do |skill_file|
-          skill_name = File.basename(File.dirname(skill_file))
-          seen_skills[skill_name] = skill_file
-        end
-      end
-
-      # 2. Shared skills via .agents/skills.json
-      skills_json = File.join(base_dir, ".agents", "skills.json")
-      if File.exist?(skills_json)
-        begin
-          cfg = JSON.parse(File.read(skills_json))
-          entries = cfg['entries'] || []
-          entries.each do |entry|
-            raw_path = entry['path']
-            next unless raw_path
-            
-            # Resolve relative to base_dir
-            target_dir = if raw_path.start_with?('~/')
-                           File.expand_path(raw_path)
-                         elsif raw_path.start_with?('/')
-                           raw_path
-                         else
-                           File.expand_path(File.join(base_dir, raw_path))
-                         end
-
-            if Dir.exist?(target_dir)
-              Dir.glob(File.join(target_dir, "**", "SKILL.md")).sort.each do |skill_file|
-                skill_name = File.basename(File.dirname(skill_file))
-                seen_skills[skill_name] ||= skill_file
-              end
-            end
-          end
-        rescue => e
-          warn "Could not read skills.json: #{e.message}"
-        end
-      end
-
-      if seen_skills.any?
-        output << "<hr>"
-        output << "## AGENT SKILLS"
-        seen_skills.keys.sort.each do |name|
-          file_path = seen_skills[name]
-          output << "### SKILL: #{name}"
-          output << File.read(file_path, encoding: 'utf-8').strip
-          output << ""
-        end
-      end
-      
-      output.join("\n")
-    end
-
     def dump_specific_skill(input, skill_name)
       base_dir = Dir.pwd
       
@@ -156,6 +87,7 @@ module Jekyll
           
           output << "<hr>"
           output << "## FILE: #{File.basename(file)}"
+          output << ""
           output << content.strip
           output << ""
         end
