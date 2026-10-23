@@ -6,7 +6,7 @@
 {: .text-right}
 
 {% if page.role %}
-#### {{ page.role }}
+#### **{{ page.role }}** {% if page.status %} ({{ page.status }}) {% endif %}
 {: .text-right}
 {% endif %}
 

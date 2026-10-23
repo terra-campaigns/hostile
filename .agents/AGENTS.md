@@ -71,12 +71,14 @@ Common folders:
 ## Campaign Specification
 
 ### Style & Tone
+
 - Genre: Blue-collar industrial used-future, corporate horror, slow dread, survival against bad odds.
 - Cadence: Short, readable sentences. One sentence per line when practical.
 - Vocabulary: Workplace realism, bulkheads, hydraulic hiss, CRT terminals, coolant leaks, company script, zaibatsu bureaucracy.
 
 ### Reference Material (for Deep Reviews & Lore)
-- Root Path: `/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/`
+
+- Root Path: `.agents/context/tier1_sources.yml` (`drive_dir`)
 - Priority Sources:
   1. `Hostile-Rules.pdf` — core rules, vacuum hazards, combat lethality, careers.
   2. `Hostile-Setting.pdf` — off-world colonies, megacorporations, star sectors.
@@ -84,13 +86,18 @@ Common folders:
   4. `Hostile-Synthetics.pdf` — synthetic chassis, behavioural limiters, infiltration models.
 
 ### Calibration Examples
+
 - Too flat: "The space station is dark. The android is standing there looking at you. It wants to kill you."
 - Too purple: "The stygian void of the colossal orbital platform wept tears of oxidised blood as the synthetic abomination prepared to unleash its cosmic wrath upon your fragile mortal forms."
 - In voice: "The sector 4 airlock cycles with a grinding thud. Backup lighting flickers across the bulkheads, catching the reflective sheen on the infiltrator unit's faceplate. It raises a rivet gun, wordless."
 
 ### Structural & Procedural Defaults
+
 - Default Campaign Subfolder: `campaigns/gradient-descent/`
-- Campaign Hub Page: `[index](../../directory/crew/index.md)`
+- Campaign Hub Pages: `[index](../../directory/Fomalhaut/index.md)`, `[index](../../directory/Fomalhaut/Cloudbank/index.md)`, `[index](../../directory/Fomalhaut/Mergulhadores/index.md)`
+- Chapter Naming Convention: `001.md`, `002.md` (or `chap001.md` for mRNA-probe)
+- Chapter Timestamp Format: `nav_order: YYYY-MM-DD HH:MM` (or `YYYY-MM-DD`)
+- Location Front Matter Key: `location: <Location Name>`
 - Character Archetypes / Vocations: Marine, Roughneck, Commercial Spacer, Android, Marshal, Technician, Corporate Surveyor. Affiliations: ICC, Tanaka Heavy Industries, Makita Orbital, Hyperion Mining, Haruna Biotech.
 - Session Prep Mode: Station Crawl / Derelict Megastructure / Corporate Extraction
 

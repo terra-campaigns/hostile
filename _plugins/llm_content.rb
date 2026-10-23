@@ -1,3 +1,5 @@
+require 'json'
+
 module Jekyll
   module LlmContentFilter
     def raw_markdown(page)
@@ -37,15 +39,124 @@ module Jekyll
         output << ""
       end
       
-      # Local skills
+      seen_skills = {}
+
+      # 1. Local skills
       skills_dir = File.join(base_dir, ".agents", "skills")
       if Dir.exist?(skills_dir)
-        output << "<hr>"
-        output << "## LOCAL AGENT SKILLS"
         Dir.glob(File.join(skills_dir, "**", "SKILL.md")).sort.each do |skill_file|
           skill_name = File.basename(File.dirname(skill_file))
-          output << "### SKILL: #{skill_name}"
-          output << File.read(skill_file, encoding: 'utf-8').strip
+          seen_skills[skill_name] = skill_file
+        end
+      end
+
+      # 2. Shared skills via .agents/skills.json
+      skills_json = File.join(base_dir, ".agents", "skills.json")
+      if File.exist?(skills_json)
+        begin
+          cfg = JSON.parse(File.read(skills_json))
+          entries = cfg['entries'] || []
+          entries.each do |entry|
+            raw_path = entry['path']
+            next unless raw_path
+            
+            # Resolve relative to base_dir
+            target_dir = if raw_path.start_with?('~/')
+                           File.expand_path(raw_path)
+                         elsif raw_path.start_with?('/')
+                           raw_path
+                         else
+                           File.expand_path(File.join(base_dir, raw_path))
+                         end
+
+            if Dir.exist?(target_dir)
+              Dir.glob(File.join(target_dir, "**", "SKILL.md")).sort.each do |skill_file|
+                skill_name = File.basename(File.dirname(skill_file))
+                seen_skills[skill_name] ||= skill_file
+              end
+            end
+          end
+        rescue => e
+          warn "Could not read skills.json: #{e.message}"
+        end
+      end
+
+      if seen_skills.any?
+        output << "<hr>"
+        output << "## AGENT SKILLS"
+        seen_skills.keys.sort.each do |name|
+          file_path = seen_skills[name]
+          output << "### SKILL: #{name}"
+          output << File.read(file_path, encoding: 'utf-8').strip
+          output << ""
+        end
+      end
+      
+      output.join("\n")
+    end
+
+    def dump_specific_skill(input, skill_name)
+      base_dir = Dir.pwd
+      
+      # 1. Local skill
+      skill_file = File.join(base_dir, ".agents", "skills", skill_name, "SKILL.md")
+      return File.read(skill_file, encoding: 'utf-8').strip if File.exist?(skill_file)
+
+      # 2. Check skills.json
+      skills_json = File.join(base_dir, ".agents", "skills.json")
+      if File.exist?(skills_json)
+        begin
+          cfg = JSON.parse(File.read(skills_json))
+          (cfg['entries'] || []).each do |entry|
+            raw_path = entry['path']
+            next unless raw_path
+            target_dir = if raw_path.start_with?('~/')
+                           File.expand_path(raw_path)
+                         elsif raw_path.start_with?('/')
+                           raw_path
+                         else
+                           File.expand_path(File.join(base_dir, raw_path))
+                         end
+            candidate = File.join(target_dir, skill_name, "SKILL.md")
+            return File.read(candidate, encoding: 'utf-8').strip if File.exist?(candidate)
+          end
+        rescue => e
+          warn "Could not resolve skill #{skill_name} from skills.json: #{e.message}"
+        end
+      end
+
+      ""
+    end
+
+    def dump_main_agent_rules(input)
+      agents_md = File.join(Dir.pwd, ".agents", "AGENTS.md")
+      if File.exist?(agents_md)
+        File.read(agents_md, encoding: 'utf-8').strip
+      else
+        ""
+      end
+    end
+
+    def dump_vbt_context(input)
+      output = []
+      vbt_dir = File.join(Dir.pwd, "campaigns", "vbt-problemen")
+      
+      if Dir.exist?(vbt_dir)
+        Dir.glob(File.join(vbt_dir, "*.md")).sort.each do |file|
+          next if File.basename(file) == "index.md"
+          next if File.basename(file) == "gem-instructions.md"
+          next if File.basename(file) == "gem-context.md"
+          
+          content = File.read(file, encoding: 'utf-8')
+          
+          # Strip YAML front matter for cleaner output
+          if content =~ /\A---\s*\n.*?\n---\s*\n/m
+            content = content.sub(/\A---\s*\n.*?\n---\s*\n/m, '')
+          end
+          
+          output << "<hr>"
+          output << "## FILE: #{File.basename(file)}"
+          output << content.strip
           output << ""
         end
       end

@@ -13,7 +13,7 @@
     <b>{{ entry }}'s accounts</b><br> 
   </summary>
 {: .text-delta}
-{% include {{ to_include }} %}
+{% include_relative {{ to_include }} %}
 </details>
 {% endfor %}
 {% endif %}
