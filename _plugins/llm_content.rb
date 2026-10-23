@@ -37,7 +37,7 @@ module Jekyll
       skills_json = File.join(base_dir, ".agents", "skills.json")
       if File.exist?(skills_json)
         begin
-          cfg = JSON.parse(File.read(skills_json))
+          cfg = JSON.parse(File.read(skills_json, encoding: 'utf-8'))
           (cfg['entries'] || []).each do |entry|
             raw_path = entry['path']
             next unless raw_path
@@ -66,34 +66,6 @@ module Jekyll
       else
         ""
       end
-    end
-
-    def dump_vbt_context(input)
-      output = []
-      vbt_dir = File.join(Dir.pwd, "campaigns", "vbt-problemen")
-      
-      if Dir.exist?(vbt_dir)
-        Dir.glob(File.join(vbt_dir, "*.md")).sort.each do |file|
-          next if File.basename(file) == "index.md"
-          next if File.basename(file) == "gem-instructions.md"
-          next if File.basename(file) == "gem-context.md"
-          
-          content = File.read(file, encoding: 'utf-8')
-          
-          # Strip YAML front matter for cleaner output
-          if content =~ /\A---\s*\n.*?\n---\s*\n/m
-            content = content.sub(/\A---\s*\n.*?\n---\s*\n/m, '')
-          end
-          
-          output << "<hr>"
-          output << "## FILE: #{File.basename(file)}"
-          output << ""
-          output << content.strip
-          output << ""
-        end
-      end
-      
-      output.join("\n")
     end
   end
 end

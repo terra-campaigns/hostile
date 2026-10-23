@@ -1,13 +1,20 @@
 {% comment %}
 terra-jekyll tools
-image_gallery.html v0.7.3
+image_gallery.html v0.7.4
 {% endcomment %}
 
 <style>
   .image-gallery {overflow: auto; margin-left: -1%!important;}
   .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
-  .image-gallery a img {width: 100%; display: block;}
+  .image-gallery a img {width: 100%; display: block; aspect-ratio: 1 / 1; object-fit: cover;}
 </style>
+
+{% assign use_wsrv = false %}
+{% if jekyll.environment == "production" %}
+  {% unless site.url contains "localhost" or site.url contains "127.0.0.1" %}
+    {% assign use_wsrv = true %}
+  {% endunless %}
+{% endif %}
 
 {% assign count = site.data.gallery_links.file | size %}
 {% if count > 0 %}
@@ -30,7 +37,11 @@ image_gallery.html v0.7.3
     {% assign link = parts[2] %}
     {% assign captured_page = site.pages | where: 'path', link | first %}
     <a href="{{ site.url }}{{ captured_page.url }}" title="{{ captured_page.title }}">
-      <img src="//wsrv.nl/?url={{ site.url }}/{{ image_path }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ captured_page.title }}"/>
+      {% if use_wsrv %}
+        <img src="//wsrv.nl/?url={{ site.url }}/{{ image_path }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ captured_page.title }}"/>
+      {% else %}
+        <img src="{{ image_path | relative_url }}" alt="{{ captured_page.title }}"/>
+      {% endif %}
     </a>
   {% endfor %}
 </div>

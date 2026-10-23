@@ -1,6 +1,6 @@
 {% comment %}
 terra-jekyll tools
-connected_to.html v0.7.2
+connected_to.html v0.7.3
 {% endcomment %}
 
 {% assign children_pages = site.pages | where: 'parent', page.title %}
@@ -23,15 +23,22 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
   .image-gallery {overflow: auto; margin-left: -1%!important;}
   .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
   .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-  .image-gallery a img {width: 100%; display: block;}
+  .image-gallery a img {width: 100%; display: block; aspect-ratio: 1 / 1; object-fit: cover;}
 </style>
 
 <style>
   .image-gallery2 {overflow: auto; margin-left: -1%!important;}
   .image-gallery2 a {float: left; display: block; margin: 0 0 1% 1%; width: 38%; text-align: center; text-decoration: none!important;}
   .image-gallery2 a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-  .image-gallery2 a img {width: 100%; display: block;}
+  .image-gallery2 a img {width: 100%; display: block; aspect-ratio: 1 / 1; object-fit: cover;}
 </style>
+
+{% assign use_wsrv = false %}
+{% if jekyll.environment == "production" %}
+  {% unless site.url contains "localhost" or site.url contains "127.0.0.1" %}
+    {% assign use_wsrv = true %}
+  {% endunless %}
+{% endif %}
 
 {% assign count = page.images | size %}
 {% if count > 0 %}
@@ -44,7 +51,11 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
 <div class="image-gallery2">
   {% for image in page.images %}
     <a href="{{ site.url }}{{ image | relative_url }}" title="{{ page.title }}">
-      <img src="//wsrv.nl/?url={{ site.url }}{{ image | relative_url }}&w=600&h=600&output=jpg&q=50&t=square&bg=white" alt="{{ page.title }}"/>
+      {% if use_wsrv %}
+        <img src="//wsrv.nl/?url={{ site.url }}{{ image | relative_url }}&w=600&h=600&output=jpg&q=50&t=square&bg=white" alt="{{ page.title }}"/>
+      {% else %}
+        <img src="{{ image | relative_url }}" alt="{{ page.title }}"/>
+      {% endif %}
     </a>
   {% endfor %}
 </div>
@@ -67,12 +78,20 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
       {% if my_page.images %}
         <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.role }}">
           <span>{{ my_page.status }} {{ my_page.title }}</span>
-          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% if use_wsrv %}
+            <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% else %}
+            <img src="{{ my_page.images[0] | relative_url }}" alt="{{ my_page.title }}"/>
+          {% endif %}
         </a>
       {% else %}
         <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.role }}">
           <span>{{ my_page.status }} {{ my_page.title }}</span>
-          <img src="//wsrv.nl/?url={{ site.url }}/imgs/badges/people.png&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% if use_wsrv %}
+            <img src="//wsrv.nl/?url={{ site.url }}/imgs/badges/people.png&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% else %}
+            <img src="{{ '/imgs/badges/people.png' | relative_url }}" alt="{{ my_page.title }}"/>
+          {% endif %}
         </a> 
       {% endif %}
     {% endif %}
@@ -94,12 +113,20 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
       {% if my_page.images %}
         <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.role }}">
           <span>{{ my_page.title }}</span>
-          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% if use_wsrv %}
+            <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% else %}
+            <img src="{{ my_page.images[0] | relative_url }}" alt="{{ my_page.title }}"/>
+          {% endif %}
         </a>
       {% else %}
         <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.role }}">
           <span>{{ my_page.title }}</span>
-          <img src="//wsrv.nl/?url={{ site.url }}/imgs/badges/faction.png&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% if use_wsrv %}
+            <img src="//wsrv.nl/?url={{ site.url }}/imgs/badges/faction.png&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% else %}
+            <img src="{{ '/imgs/badges/faction.png' | relative_url }}" alt="{{ my_page.title }}"/>
+          {% endif %}
         </a> 
       {% endif %}
     {% endif %}
@@ -121,12 +148,20 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
       {% if my_page.images %}
         <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.role }}">
           <span>{{ my_page.title }}</span>
-          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% if use_wsrv %}
+            <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% else %}
+            <img src="{{ my_page.images[0] | relative_url }}" alt="{{ my_page.title }}"/>
+          {% endif %}
         </a>
       {% else %}
         <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.role }}">
           <span>{{ my_page.title }}</span>
-          <img src="//wsrv.nl/?url={{ site.url }}/imgs/badges/location.png&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% if use_wsrv %}
+            <img src="//wsrv.nl/?url={{ site.url }}/imgs/badges/location.png&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% else %}
+            <img src="{{ '/imgs/badges/location.png' | relative_url }}" alt="{{ my_page.title }}"/>
+          {% endif %}
         </a> 
       {% endif %}
     {% endif %}
@@ -148,12 +183,20 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
       {% if my_page.images %}
         <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.role }}">
           <span>{{ my_page.title }}</span>
-          <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% if use_wsrv %}
+            <img src="//wsrv.nl/?url={{ site.url }}{{ my_page.images[0] | relative_url }}&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% else %}
+            <img src="{{ my_page.images[0] | relative_url }}" alt="{{ my_page.title }}"/>
+          {% endif %}
         </a>
       {% else %}
         <a href="{{ site.url }}{{ my_page.url }}" title="{{ my_page.role }}">
           <span>{{ my_page.title }}</span>
-          <img src="//wsrv.nl/?url={{ site.url }}/imgs/badges/creature.png&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% if use_wsrv %}
+            <img src="//wsrv.nl/?url={{ site.url }}/imgs/badges/creature.png&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
+          {% else %}
+            <img src="{{ '/imgs/badges/creature.png' | relative_url }}" alt="{{ my_page.title }}"/>
+          {% endif %}
         </a> 
       {% endif %}
     {% endif %}

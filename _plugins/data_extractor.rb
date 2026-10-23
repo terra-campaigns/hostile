@@ -7,6 +7,10 @@ require 'digest'
 require 'time'
 require 'fileutils'
 
+# Ensure UTF-8 is default external/internal encoding even in bare GUI or subshell environments
+Encoding.default_external = Encoding::UTF_8 if defined?(Encoding)
+Encoding.default_internal = Encoding::UTF_8 if defined?(Encoding)
+
 module OudeMechanismen
   class DataExtractor
     def self.extract(base_dir = Dir.pwd, write_catalog: true)
@@ -168,7 +172,7 @@ module OudeMechanismen
         exclude_paths = ["_inklings.md", "_TODO.md", "_notions.md"]
         if File.exist?(catalog_config_path)
           begin
-            cfg = YAML.safe_load(File.read(catalog_config_path), permitted_classes: [Date, Time]) || {}
+            cfg = YAML.safe_load(File.read(catalog_config_path, encoding: 'utf-8'), permitted_classes: [Date, Time]) || {}
             include_paths = (cfg['include_paths'] || include_paths).map { |p| p.chomp('/') }
             exclude_paths = (cfg['exclude_paths'] || exclude_paths).map { |p| p.chomp('/') }
           rescue => e
@@ -238,7 +242,7 @@ module OudeMechanismen
         generated_time = Time.now.iso8601
         if File.exist?(catalog_file)
           begin
-            existing = JSON.parse(File.read(catalog_file))
+            existing = JSON.parse(File.read(catalog_file, encoding: 'utf-8'))
             if existing["entries"] == sorted_entries
               should_write = false
               generated_time = existing["generated"] || generated_time
@@ -259,7 +263,8 @@ module OudeMechanismen
           FileUtils.mkdir_p(out_dir) unless Dir.exist?(out_dir)
           File.write(
             catalog_file,
-            JSON.pretty_generate(catalog_data)
+            JSON.pretty_generate(catalog_data),
+            encoding: 'utf-8'
           )
         end
 

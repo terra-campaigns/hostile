@@ -1,17 +1,53 @@
 #!/usr/bin/env sh
-# Automatically refresh and stage the Tier 1 semantic catalogue upon commit.
-export PATH="/opt/homebrew/bin:/usr/bin:/bin:$PATH"
+# Refresh Tier 1 semantic catalogue upon commit when Markdown content changes.
 
-# 1. Sync live trade goods if sync_trade.py script is present in repository
-if [ -f .agents/scripts/sync_trade.py ]; then
-  python3 .agents/scripts/sync_trade.py
-  if [ -d trading ]; then
-    git add trading/ .agents/context/trade_sheet_cache.csv 2>/dev/null
+# 1. Expand standard PATH and UTF-8 locale for macOS GUI Git clients (Obsidian Git, VS Code, Fork, Tower)
+export PATH="/opt/homebrew/bin:/usr/local/bin:$HOME/.rbenv/shims:$HOME/.asdf/shims:$HOME/.local/share/mise/shims:$PATH"
+export LC_ALL="${LC_ALL:-en_GB.UTF-8}"
+export LANG="${LANG:-en_GB.UTF-8}"
+
+# 2. Re-index Tier 1 catalogue only when Markdown content files are staged
+if git diff --cached --name-only 2>/dev/null | grep -q '\.md$'; then
+  if [ -f _plugins/data_extractor.rb ]; then
+    find_ruby() {
+      for r in "$HOME"/.rubies/*/bin/ruby; do
+        if [ -x "$r" ]; then
+          echo "$r"
+          return 0
+        fi
+      done
+      if [ -x /opt/homebrew/bin/ruby ]; then
+        echo "/opt/homebrew/bin/ruby"
+        return 0
+      fi
+      if [ -x /usr/local/bin/ruby ]; then
+        echo "/usr/local/bin/ruby"
+        return 0
+      fi
+      if command -v ruby >/dev/null 2>&1; then
+        command -v ruby
+        return 0
+      fi
+      if [ -x /usr/bin/ruby ]; then
+        echo "/usr/bin/ruby"
+        return 0
+      fi
+      return 1
+    }
+
+    RUBY_BIN=$(find_ruby 2>/dev/null)
+    if [ -n "$RUBY_BIN" ]; then
+      "$RUBY_BIN" --disable-gems _plugins/data_extractor.rb
+      if [ -f .agents/context/catalog.json ]; then
+        git add .agents/context/catalog.json 2>/dev/null
+      fi
+    else
+      echo "[WARN] No Ruby executable found to update catalog.json; commit proceeding." >&2
+    fi
   fi
 fi
 
-# 2. Refresh Tier 1 catalogue
-ruby --disable-gems _plugins/data_extractor.rb
-if [ -f .agents/context/catalog.json ]; then
-  git add .agents/context/catalog.json 2>/dev/null
+# 3. Execute optional local campaign pre-commit hook if present
+if [ -x .githooks/pre-commit.local ]; then
+  .githooks/pre-commit.local
 fi
