@@ -1,0 +1,126 @@
+#!/usr/bin/env bash
+#
+# setup — Idempotent environment setup for campaign repository.
+#
+set -e
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+
+# Expand standard paths and UTF-8 locale for Homebrew, asdf, rbenv, mise, etc.
+export PATH="/opt/homebrew/bin:/usr/local/bin:$HOME/.rbenv/shims:$HOME/.asdf/shims:$HOME/.local/share/mise/shims:$PATH"
+export LC_ALL="${LC_ALL:-en_GB.UTF-8}"
+export LANG="${LANG:-en_GB.UTF-8}"
+
+echo "==> Setting up campaign environment in $REPO_ROOT..."
+
+# 1. Check for shared engine (oude-mechanismen)
+ENGINE_DIR=""
+if [ -n "$OUDE_MECHANISMEN_DIR" ] && [ -d "$OUDE_MECHANISMEN_DIR" ]; then
+  ENGINE_DIR="$OUDE_MECHANISMEN_DIR"
+elif [ -d "$REPO_ROOT/../oude-mechanismen" ]; then
+  ENGINE_DIR="$(cd "$REPO_ROOT/../oude-mechanismen" && pwd)"
+elif [ -d "$HOME/Repos/oude-mechanismen" ]; then
+  ENGINE_DIR="$(cd "$HOME/Repos/oude-mechanismen" && pwd)"
+elif [ -d "$REPO_ROOT/.engine" ]; then
+  ENGINE_DIR="$(cd "$REPO_ROOT/.engine" && pwd)"
+fi
+
+if [ -n "$ENGINE_DIR" ]; then
+  echo "  ✓ Discovered engine at $ENGINE_DIR"
+else
+  echo "  ⚠ Warning: oude-mechanismen engine not found in standard paths."
+  echo "    Recommended: git clone <oude-mechanismen-url> \"$REPO_ROOT/../oude-mechanismen\""
+  echo "    Or set: export OUDE_MECHANISMEN_DIR=/path/to/oude-mechanismen"
+fi
+
+# 2. Configure Git hooks
+if git -C "$REPO_ROOT" rev-parse --is-inside-work-tree >/dev/null 2>&1; then
+  git -C "$REPO_ROOT" config core.hooksPath .githooks 2>/dev/null || true
+  if [ -f "$REPO_ROOT/.githooks/pre-commit" ]; then
+    chmod +x "$REPO_ROOT/.githooks/pre-commit"
+  fi
+  echo "  ✓ Configured Git hooks (.githooks/pre-commit)"
+fi
+
+# 3. Initialize Python virtual environment (.agents/venv)
+VENV_DIR="$REPO_ROOT/.agents/venv"
+if ! command -v python3 >/dev/null 2>&1; then
+  echo "  ⚠ Warning: python3 executable not found in PATH."
+  echo "    Skipping Python virtual environment setup."
+elif [ ! -x "$VENV_DIR/bin/python" ]; then
+  rm -rf "$VENV_DIR"
+  echo "  -> Creating Python virtual environment in $VENV_DIR..."
+  VENV_OUTPUT=""
+  if ! VENV_OUTPUT=$(python3 -m venv "$VENV_DIR" 2>&1); then
+    echo "  ⚠ Warning: Failed to create Python virtual environment in $VENV_DIR."
+    if [ -f /etc/debian_version ] || ( [ -f /etc/os-release ] && grep -qi debian /etc/os-release ); then
+      echo "    On Debian/Ubuntu systems, install the python3-venv package:"
+      echo "      sudo apt-get update && sudo apt-get install -y python3-venv python3-pip"
+    elif [ -n "$VENV_OUTPUT" ]; then
+      echo "    Details: $VENV_OUTPUT"
+    fi
+    echo "    CLI scripts will fall back to available system Python."
+    rm -rf "$VENV_DIR"
+  fi
+fi
+
+if [ -x "$VENV_DIR/bin/pip" ] && [ -f "$REPO_ROOT/.agents/requirements.txt" ]; then
+  echo "  -> Installing Python requirements..."
+  if ! "$VENV_DIR/bin/pip" install --quiet -r "$REPO_ROOT/.agents/requirements.txt"; then
+    echo "  ⚠ Warning: Failed to install Python requirements into virtual environment."
+  else
+    echo "  ✓ Python virtual environment ready (pyyaml, pypdf)"
+  fi
+fi
+
+# 4. Ensure script runners are executable
+if [ -d "$REPO_ROOT/.agents/scripts" ]; then
+  for SCRIPT in "$REPO_ROOT/.agents/scripts"/*.py; do
+    if [ -f "$SCRIPT" ]; then
+      chmod +x "$SCRIPT"
+    fi
+  done
+fi
+
+# 5. Verify Tier 1 catalogue compilation
+find_ruby() {
+  for r in "$HOME"/.rubies/*/bin/ruby; do
+    if [ -x "$r" ]; then
+      echo "$r"
+      return 0
+    fi
+  done
+  if [ -x /opt/homebrew/bin/ruby ]; then
+    echo "/opt/homebrew/bin/ruby"
+    return 0
+  fi
+  if [ -x /usr/local/bin/ruby ]; then
+    echo "/usr/local/bin/ruby"
+    return 0
+  fi
+  if command -v ruby >/dev/null 2>&1; then
+    command -v ruby
+    return 0
+  fi
+  if [ -x /usr/bin/ruby ]; then
+    echo "/usr/bin/ruby"
+    return 0
+  fi
+  return 1
+}
+
+if [ -f "$REPO_ROOT/_plugins/data_extractor.rb" ]; then
+  echo "  -> Validating Tier 1 catalogue compilation..."
+  RUBY_BIN=$(find_ruby 2>/dev/null || true)
+  if [ -n "$RUBY_BIN" ]; then
+    (cd "$REPO_ROOT" && "$RUBY_BIN" --disable-gems _plugins/data_extractor.rb >/dev/null 2>&1 || true)
+    if [ -f "$REPO_ROOT/.agents/context/catalog.json" ]; then
+      echo "  ✓ Tier 1 catalogue compiled successfully (.agents/context/catalog.json)"
+    fi
+  else
+    echo "  ⚠ Warning: Ruby executable not found; skipping catalogue pre-compilation."
+  fi
+fi
+
+echo "==> Setup complete! Your campaign environment is ready."
