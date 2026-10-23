@@ -1,14 +1,35 @@
 {
-  "generated": "2026-10-23T10:25:50+02:00",
+  "generated": "2026-10-23T11:01:25+02:00",
   "tier": 3,
   "campaign": "hostile",
   "note": "Tier 3 reference routing index — influence only, never automatic Hostile canon.",
   "total_sources": 4,
   "sources": [
     {
+      "slug": "gradient_descent",
+      "title": "Gradient Descent",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/books/osr/mothership/Gradient-Descent-v1.1.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/_digests/gradient_descent.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Structural Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Tone & GM Guidance",
+          "line": 19
+        }
+      ]
+    },
+    {
       "slug": "hostile_rules",
-      "title": "Hostile Rules (2D6 Gritty Sci-Fi Roleplaying)",
-      "category": "core_rules",
+      "title": "Hostile Rules",
+      "category": "core_setting",
       "tier": 3,
       "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/Hostile-Rules.pdf",
       "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/_digests/hostile_rules.md",
@@ -28,7 +49,7 @@
     },
     {
       "slug": "hostile_setting",
-      "title": "Hostile Setting (The Off-World Colonies 2225)",
+      "title": "Hostile Setting",
       "category": "core_setting",
       "tier": 3,
       "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/Hostile-Setting.pdf",
@@ -48,29 +69,8 @@
       ]
     },
     {
-      "slug": "gradient_descent",
-      "title": "Gradient Descent (The Derelict Android Factory)",
-      "category": "megastructure_campaign",
-      "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/books/osr/mothership/Gradient-Descent-v1.1.pdf",
-      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/_digests/gradient_descent.md",
-      "digest_exists": true,
-      "sections": [
-        {
-          "level": 2,
-          "heading": "Contents & Structural Map",
-          "line": 6
-        },
-        {
-          "level": 2,
-          "heading": "Tone & GM Guidance",
-          "line": 19
-        }
-      ]
-    },
-    {
       "slug": "hostile_synthetics",
-      "title": "Hostile Synthetics (Artificial Persons & Infiltrators)",
+      "title": "Hostile Synthetics",
       "category": "supplement",
       "tier": 3,
       "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/supplements/Hostile-Synthetics.pdf",
