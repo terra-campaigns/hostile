@@ -90,7 +90,7 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
           {% if use_wsrv %}
             <img src="//wsrv.nl/?url={{ site.url }}/imgs/badges/people.png&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
           {% else %}
-            <img src="{{ '/imgs/badges/people.png' | relative_url }}" alt="{{ my_page.title }}"/>
+            <img src="{{ '/imgs/badges/people.png' | relative_url }}?v={{ site.title | slugify }}" alt="{{ my_page.title }}"/>
           {% endif %}
         </a> 
       {% endif %}
@@ -125,7 +125,7 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
           {% if use_wsrv %}
             <img src="//wsrv.nl/?url={{ site.url }}/imgs/badges/faction.png&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
           {% else %}
-            <img src="{{ '/imgs/badges/faction.png' | relative_url }}" alt="{{ my_page.title }}"/>
+            <img src="{{ '/imgs/badges/faction.png' | relative_url }}?v={{ site.title | slugify }}" alt="{{ my_page.title }}"/>
           {% endif %}
         </a> 
       {% endif %}
@@ -160,7 +160,7 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
           {% if use_wsrv %}
             <img src="//wsrv.nl/?url={{ site.url }}/imgs/badges/location.png&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
           {% else %}
-            <img src="{{ '/imgs/badges/location.png' | relative_url }}" alt="{{ my_page.title }}"/>
+            <img src="{{ '/imgs/badges/location.png' | relative_url }}?v={{ site.title | slugify }}" alt="{{ my_page.title }}"/>
           {% endif %}
         </a> 
       {% endif %}
@@ -195,7 +195,7 @@ Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
           {% if use_wsrv %}
             <img src="//wsrv.nl/?url={{ site.url }}/imgs/badges/creature.png&w=300&h=300&output=jpg&q=50&t=square&bg=white" alt="{{ my_page.title }}"/>
           {% else %}
-            <img src="{{ '/imgs/badges/creature.png' | relative_url }}" alt="{{ my_page.title }}"/>
+            <img src="{{ '/imgs/badges/creature.png' | relative_url }}?v={{ site.title | slugify }}" alt="{{ my_page.title }}"/>
           {% endif %}
         </a> 
       {% endif %}

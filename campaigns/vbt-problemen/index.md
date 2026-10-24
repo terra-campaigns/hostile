@@ -4,6 +4,9 @@ title: VBT Problemen
 has_children: true
 nav_order: 30
 type: campaign
+nav_exclude: true
+search_exclude: true
+
 ---
 
 # VBT Problemen
