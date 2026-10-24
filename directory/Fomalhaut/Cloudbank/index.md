@@ -9,9 +9,10 @@ parent: Fomalhaut
 title: Cloudbank
 role: 
 status: 
-footer_content: 
+footer_content: Image adapted from <a href="https://commons.wikimedia.org/wiki/File:Thermal_Vacuum_Test_Chamber_A_with_Door_Open.jpg" target="_blank">Thermal Vacuum Test Chamber A with Door Open (2013)</a>, NASA Johnson Space Center (Public Domain).
 
 images: 
+- ../../../imgs/gallery/cloudbank.jpg
 
 ---
 

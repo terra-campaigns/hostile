@@ -12,6 +12,7 @@ status:
 footer_content: 
 
 images: 
+- ../../../imgs/gallery/Pasted%20image%2020261024173737.png
 
 ---
 
