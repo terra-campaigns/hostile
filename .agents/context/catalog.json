@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T18:19:00+02:00",
+  "generated": "2026-10-24T19:51:05+02:00",
   "tier": 1,
   "total_entries": 71,
   "entries": [
@@ -173,7 +173,7 @@
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md"
       ],
-      "lastmod": "2026-W20",
+      "lastmod": "2026-W42",
       "sha": "04b69cc6",
       "tier": 1
     },
@@ -598,6 +598,9 @@
         "directory/Fomalhaut/Cloudbank/Monarch.md",
         "directory/Fomalhaut/Cloudbank/Silus.md",
         "directory/Fomalhaut/Cloudbank/index.md",
+        "directory/Fomalhaut/Mergulhadores/Drift.md",
+        "directory/Fomalhaut/Mergulhadores/Ezekiel.md",
+        "directory/Fomalhaut/Mergulhadores/Olmo.md",
         "index.md"
       ],
       "lastmod": "2026-W20",
@@ -855,13 +858,15 @@
       "region": null,
       "nav_order": null,
       "summary": "MEAT BAG",
-      "links_out": [],
+      "links_out": [
+        "campaigns/gradient-descent/index.md"
+      ],
       "links_in": [
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "cd7a3e91",
+      "sha": "3eb4d0c8",
       "tier": 1
     },
     {
@@ -898,13 +903,15 @@
       "region": null,
       "nav_order": null,
       "summary": "STITCHER | SPACER | BLACK WIDOW SPIDER | DRUG ADDICT | FLABBY WITH OILY SKIN | QUIET",
-      "links_out": [],
+      "links_out": [
+        "campaigns/gradient-descent/index.md"
+      ],
       "links_in": [
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "c79c3745",
+      "sha": "d5b4dedc",
       "tier": 1
     },
     {
@@ -1207,13 +1214,15 @@
       "region": null,
       "nav_order": null,
       "summary": "SCRAPPER | ANDROID | (SABERTOOTH SKULL) | DECEITFUL | TOWERING WITH TATTOOED SKIN | FORMAL",
-      "links_out": [],
+      "links_out": [
+        "campaigns/gradient-descent/index.md"
+      ],
       "links_in": [
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "05587580",
+      "sha": "d99166c6",
       "tier": 1
     },
     {
