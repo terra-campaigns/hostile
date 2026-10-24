@@ -1,0 +1,98 @@
+# Campaign Aesthetics Configuration for Hostile (Gradient Descent)
+# Used by the illustrate-entry skill to style archival imagery into campaign artwork.
+
+name: "Hostile"
+genre: "Gritty blue-collar industrial sci-fi & corporate horror"
+influences:
+  - "Alien (1979) / Ron Cobb"
+  - "Outland (1981)"
+  - "Blade Runner (1982) / Syd Mead"
+  - "Gradient Descent (Monarch / TDC)"
+  - "Zozer Games Hostile Universe"
+
+default_output_dir: "imgs/gallery"
+
+presets:
+  amber_crt:
+    label: "Amber Phosphor CRT"
+    description: "Industrial green-amber monochrome terminal display with heavy scanline grain and cathode phosphor glow."
+    ramp:
+      - [0.00, "#080602"]
+      - [0.25, "#2b1704"]
+      - [0.55, "#7d4808"]
+      - [0.80, "#d98b18"]
+      - [0.95, "#f7c752"]
+      - [1.00, "#fffbe8"]
+    bg_ramp:
+      - [0.00, "#040301"]
+      - [0.40, "#1f1003"]
+      - [0.80, "#4a2b06"]
+      - [1.00, "#8a5814"]
+    inking:
+      sigma1: 0.9
+      sigma2: 2.5
+      threshold: 2.0
+      span: 4.5
+    grain_sigma: 7.0
+    flares:
+      enabled: true
+      size: 110
+      color: [255, 215, 120]
+      spikes: 4
+
+  nostromo_grime:
+    label: "Nostromo Industrial Grime"
+    description: "Worn utilitarian freighter aesthetic: oxidised steel bulkheads, carbon residue, caution hazard amber, and grease patina."
+    ramp:
+      - [0.00, "#0a0a0c"]
+      - [0.20, "#261d19"]
+      - [0.45, "#475259"]
+      - [0.70, "#a6732e"]
+      - [0.88, "#d1b373"]
+      - [1.00, "#f0ede6"]
+    bg_ramp:
+      - [0.00, "#090d12"]
+      - [0.35, "#18232c"]
+      - [0.70, "#334752"]
+      - [0.90, "#5a7280"]
+      - [1.00, "#d8e1e6"]
+    inking:
+      sigma1: 1.0
+      sigma2: 2.8
+      threshold: 2.2
+      span: 5.0
+    grain_sigma: 5.0
+    chromatic_aberration: 4
+    flares:
+      enabled: true
+      size: 90
+      color: [255, 230, 180]
+      spikes: 6
+
+  cloudbank_biosynth:
+    label: "Cloudbank Bio-Synth"
+    description: "Derelict zero-G android factory: sterile void black, clinical surgical cyan, and fluorescent pseudo-milk highlights."
+    ramp:
+      - [0.00, "#040608"]
+      - [0.20, "#09242b"]
+      - [0.45, "#135d6e"]
+      - [0.72, "#2ec4b6"]
+      - [0.90, "#a8f5e5"]
+      - [1.00, "#ffffff"]
+    bg_ramp:
+      - [0.00, "#06090f"]
+      - [0.35, "#0d1f2d"]
+      - [0.70, "#1d404f"]
+      - [0.90, "#3c7a8f"]
+      - [1.00, "#c4e7ed"]
+    inking:
+      sigma1: 0.8
+      sigma2: 2.2
+      threshold: 2.0
+      span: 4.0
+    chromatic_aberration: 6
+    flares:
+      enabled: true
+      size: 130
+      color: [210, 255, 250]
+      spikes: 8

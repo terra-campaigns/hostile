@@ -24,3 +24,11 @@ vendor/
 
 # Generated data (injected in-memory by _plugins/data_extractor.rb)
 _data/*.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local agent venv
+.agents/venv/
+

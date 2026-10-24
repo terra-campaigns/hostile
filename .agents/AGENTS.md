@@ -97,14 +97,18 @@ Common folders:
 
 - Default Campaign Subfolder: `campaigns/gradient-descent/`
 - Campaign Hub Pages: `[index](../../directory/Fomalhaut/index.md)`, `[index](../../directory/Fomalhaut/Cloudbank/index.md)`, `[index](../../directory/Fomalhaut/Mergulhadores/index.md)`
-- Chapter Naming Convention: `001.md`, `002.md` (or `chap001.md` for mRNA-probe)
-- Chapter Timestamp Format: `nav_order: YYYY-MM-DD HH:MM` (or `YYYY-MM-DD`)
-- Location Front Matter Key: `location: <Location Name>`
+- Chapter Naming Convention: `001.md`, `002.md`
+- Chapter Timestamp Format: `YYYY-MM-DD HH:MM` (or `YYYY-MM-DD`)
+- Location Front Matter Key: `location`
+- Session Audio Language: `pt`
+- Chapter Output Format: `Bilingual (Portuguese / British English)`
 - Character Archetypes / Vocations: Marine, Roughneck, Commercial Spacer, Android, Marshal, Technician, Corporate Surveyor. Affiliations: ICC, Tanaka Heavy Industries, Makita Orbital, Hyperion Mining, Haruna Biotech.
 - Session Prep Mode: Station Crawl / Derelict Megastructure / Corporate Extraction
+- Active Party Roster: Olmo, Ezekiel, Drift (`directory/Fomalhaut/Mergulhadores/`)
 
 ## Gradient Descent campaign
 
+- **Active Campaign Focus:** Gradient Descent is the primary active campaign. Sessions are played and recorded in Portuguese. Chapters are drafted bilingually: Portuguese prose first, followed by a `---` horizontal rule and an equivalent British English translation.
 - **Abandoned industrial megastructure:** a vast android factory, dark, broken, zero-G, and too large for humans.
 - **AI identity horror:** Monarch, brainscans, infiltrator androids, fake memories, and doubt over whether anyone is still human.
 - **Corporate extraction nightmare:** artefact hunters, blockades, kill-teams, scavengers, and everyone trying to profit from a haunted machine.

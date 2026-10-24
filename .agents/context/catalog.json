@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T11:49:54+02:00",
+  "generated": "2026-10-23T22:48:10+02:00",
   "tier": 1,
-  "total_entries": 72,
+  "total_entries": 70,
   "entries": [
     {
       "path": "campaigns/vbt-problemen/index.md",
@@ -72,7 +72,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "![](https://i.imgur.com/YPhNpQn.png)",
+      "summary": "This corporation deals in medical services, drugs and genetic treatments. Haruna previously did some bio-weapons designs for the Japanese Self Defence Force but this was stopped when the viral agent Delta-2 contaminated food supplies, water and some areas back in the early 23rd century. Many deaths ensued, but no-one was ever certain who was actually responsible. The government blamed a radical terrorist group called the Imperial Restoration League. **Haruna, for its part, suspects Makita Genetics of trying (in vain) to discredit Haruna and win the military contract for itself. In mutual fear, both corporations are at virtual full-scale war.** The people of Tokyo and the Asia Pacific Partnership are bracing themselves for further violence. Haruna’s network of clinics and hospitals are run by a subsidiary called Life Corp.",
       "links_out": [
         "campaigns/mRNA-probe/index.md"
       ],
@@ -341,7 +341,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "![|400](https://i.imgur.com/dyogS6G.png)",
+      "summary": "Guardian drones are autonomous guard robots that the Chittik employed in places that required no sophisticated monitoring. The guardians are well-equipped for the execution of any non- Chittik that violate the area. Guardian drones do not have true AI, but they can carry out direct, simple instructions from any living Chittik.",
       "links_out": [
         "campaigns/mRNA-probe/index.md"
       ],
@@ -417,7 +417,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "![](https://i.imgur.com/Bt6ywq5.png)",
+      "summary": "Red giant star.",
       "links_out": [
         "campaigns/mRNA-probe/index.md",
         "directory/Perdurabo/BrightsideStation.md",
@@ -502,7 +502,7 @@
       "status": null,
       "region": null,
       "nav_order": "51",
-      "summary": "![](https://www.zozergames.com/uploads/3/4/3/3/3433372/hostilelargemaptaller_-lighter-modified2.png)",
+      "summary": null,
       "links_out": [],
       "links_in": [],
       "lastmod": "2026-W14",
@@ -518,7 +518,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "![](https://i.imgur.com/MRdCXz0.jpg)",
+      "summary": "> Link to [Frostbreaker in Ship Designer](https://www.swnfreebooter.net/starshipDesigner/DOefjLYWNp812UH0Tqic)",
       "links_out": [
         "campaigns/mRNA-probe/index.md"
       ],
@@ -602,7 +602,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "![](https://i.imgur.com/IrmgvpS.png)",
+      "summary": "- **Appearance**: Metalianos are bipedal with a skeletal structure made of a naturally occurring bio-metallic compound, giving them a shimmering, steel-like appearance. They have no facial features in the human sense but communicate through a series of lights and vibrations emanating from their chest cavities. - **Physiology**: Their bodies are highly resistant to extreme temperatures and pressures, making them adept at surviving in the harsh environments of space and hostile planets. They do not breathe, eat, or sleep in the traditional sense but recharge their energy from solar sources and electromagnetic fields. - **Abilities**: Metalianos possess an innate ability to manipulate metal and electromagnetic fields, using these skills for defense, communication, and controlling technology. Their physical strength is superior to humans, and their metallic bodies can withstand significant damage before degrading.",
       "links_out": [
         "statblocks/MetalianoXX121.md",
         "statblocks/TraktorianoHumanoid.md"
@@ -623,7 +623,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "![](https://i.imgur.com/U3rM5gA.png)",
+      "summary": "![](https://i.imgur.com/PsbDiMq.png) ![](https://i.imgur.com/TIrY4Y1.png)",
       "links_out": [
         "statblocks/PopperSwarm.md"
       ],
@@ -669,38 +669,6 @@
       ],
       "lastmod": "2024-W34",
       "sha": "d69761d6",
-      "tier": 1
-    },
-    {
-      "path": "campaigns/vbt-problemen/gem-context.md",
-      "title": "gem-context",
-      "type": "misc",
-      "parent": null,
-      "role": null,
-      "status": null,
-      "region": null,
-      "nav_order": null,
-      "summary": "**Generated:**",
-      "links_out": [],
-      "links_in": [],
-      "lastmod": "2026-W28",
-      "sha": "28cc7c3d",
-      "tier": 1
-    },
-    {
-      "path": "campaigns/vbt-problemen/gem-instructions.md",
-      "title": "gem-instructions",
-      "type": "misc",
-      "parent": null,
-      "role": null,
-      "status": null,
-      "region": null,
-      "nav_order": null,
-      "summary": "**Generated:**",
-      "links_out": [],
-      "links_in": [],
-      "lastmod": "2026-W28",
-      "sha": "9d647e22",
       "tier": 1
     },
     {
@@ -781,7 +749,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "INSIGHT /Reflexes PROWESS /Fortitude RESOLVE /Willpower oooo Intuition oooo Finesse oooo Attunement oooo Reason oooo Exertion oooo Influence",
+      "summary": null,
       "links_out": [
         "campaigns/mRNA-probe/index.md"
       ],
@@ -853,7 +821,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "INSIGHT /Reflexes PROWESS /Fortitude RESOLVE /Willpower oooo Intuition oooo Finesse oooo Attunement oooo Reason oooo Exertion oooo Influence",
+      "summary": null,
       "links_out": [
         "campaigns/mRNA-probe/index.md"
       ],
@@ -875,7 +843,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": ">> SUBJECT HEADER DATA <<",
+      "summary": "ORIGIN..............: | PHYSICAL NOTES......: | ----------------------------------------------------",
       "links_out": [],
       "links_in": [
         "campaigns/gradient-descent/001.md",
@@ -918,7 +886,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": ">> SUBJECT HEADER DATA <<",
+      "summary": "STITCHER | SPACER | DRUG ADDICT | FLABBY WITH OILY SKIN | QUIET",
       "links_out": [],
       "links_in": [
         "campaigns/gradient-descent/001.md",
@@ -1037,7 +1005,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "![](https://i.imgur.com/ghsOnYr.png)",
+      "summary": "- MadSpark is a roughneck explosive expert that studied in LA who can also fly spacecraft / drones (co-pilot in this crew?). - He was a hardworking & intelligent student at Uni & then went to work on several mining missions. During one of these missions, he was involved in an accident where the explosives went off too early (he liked the adrenaline rush of running away & feeling the heat of the explosion on his back but this time he misjudged it…) & got hit on the head by a flying rock. After much surgery & time in hospital, he survived but since then he has had a screw loose. - He’s obviously in mining industry work for the money but also just because he loves to “blow shit up” & gets a hard on making things explode! - He is a practical engineer who is constantly making new gadgets. If you ask him to make something & he has the right materials / tools, he can make anything. If he’s not asked to make something useful, he will spend his time making pointless gadgets that amuse him. He has invented his own type of shotgun that can be used in space (it mixes oxygen & nitrogen in the right quantities to provide quite a kick!). - He finds it difficult to communicate with people & is definitely “on the spectrum”! - Appearance: tall, lean but strong & redneck in appearance. Around 30 years old but looks older. He has no eyebrows (they keep getting burnt off in explosions!).",
       "links_out": [
         "campaigns/mRNA-probe/index.md"
       ],
@@ -1152,7 +1120,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "INSIGHT /Reflexes PROWESS /Fortitude RESOLVE /Willpower oooo Intuition oooo Finesse oooo Attunement oooo Reason oooo Exertion oooo Influence",
+      "summary": "Olaf Gustafson, born in Iceland in the year 2146 (79 yo). He is an old (but athletic) failed geologist who became a geography teacher for teenagers. He spends most of his time looking for proofs that intelligent aliens exist and they are good to us. He is sure they are the ones responsible for establishing the mega corporations and we have only to thank them for improving our world. As a kid he was (or thinks he was) abducted by Greys. And that they implanted something on him that healed him from asthma. He believes the aliens spared him for a reason. And that reason is to help the mega corporations thrive. For decades he religiously went to the gym and trained boxing. He used to be wiser, though. But now he has developed stage one Alzheimer and sometimes forgets important things, or act a bit silly or childish. During his geology studies he interned in the mega corp X where he helped them mine asteroid Y. He learned the hard work of the miners and also a bit of the managing part. After finishing his studies he continued working for corp X for 10 years as a miner. Besides the conspiracy of intelligent aliens existing, he also thinks that there exists a Galactic Confederation where aliens and humans decide the fate of the different planets.",
       "links_out": [
         "campaigns/mRNA-probe/index.md"
       ],
@@ -1205,7 +1173,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": ">> SUBJECT HEADER DATA <<",
+      "summary": "SCRAPPER | ANDROID | DECEITFUL | TOWERING WITH TATTOOED SKIN | FORMAL",
       "links_out": [],
       "links_in": [
         "campaigns/gradient-descent/001.md",
@@ -1224,7 +1192,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "INSIGHT /Reflexes PROWESS /Fortitude RESOLVE /Willpower oooo Intuition oooo Finesse oooo Attunement oooo Reason oooo Exertion oooo Influence",
+      "summary": null,
       "links_out": [
         "campaigns/mRNA-probe/index.md"
       ],
@@ -1326,7 +1294,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "INSIGHT /Reflexes PROWESS /Fortitude RESOLVE /Willpower oooo Intuition oooo Finesse oooo Attunement oooo Reason oooo Exertion oooo Influence",
+      "summary": null,
       "links_out": [
         "campaigns/mRNA-probe/index.md"
       ],
@@ -1394,7 +1362,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "![](https://i.imgur.com/G8qPDTT.png)",
+      "summary": "Born in the cramped and unforgiving quarters of a mining asteroid under Tharsis Mining's dominion, The Boxer was christened with a name he would soon outgrow. The corridors and mining shafts of his youth did little to contain his spirit or his physique, which burgeoned beyond the confines of his origins into that of a formidable force.",
       "links_out": [
         "campaigns/mRNA-probe/index.md",
         "directory/Defiance/TheBoxer.md"
@@ -1724,7 +1692,7 @@
       "status": null,
       "region": "Cloudbank Facilities, Fomalhaut",
       "nav_order": "2226-05-11 01:20",
-      "summary": "English version below",
+      "summary": "**RELATÓRIO DE MISSÃO - CLOUDBANK FACILITIES** **STATUS:** DADOS PARCIALMENTE CORROMPIDOS / REDIGIDOS POR SEGURANÇA",
       "links_out": [
         "directory/Fomalhaut/Cloudbank/Silus.md",
         "directory/Fomalhaut/Cloudbank/index.md",
@@ -1748,7 +1716,7 @@
       "status": null,
       "region": "Cloudbank Facilities, Fomalhaut",
       "nav_order": "2226-05-11 00:00",
-      "summary": "English version below",
+      "summary": "Cerca de vinte freelancers são contratados para recuperar um microfilme. Por causa do embargo no [local de destino](../../directory/Fomalhaut/Cloudbank/index.md), o transporte até [Fomalhaut](../../directory/Fomalhaut/index.md) precisa ser ilegal.",
       "links_out": [
         "directory/Fomalhaut/Cloudbank/Silus.md",
         "directory/Fomalhaut/Cloudbank/index.md",
