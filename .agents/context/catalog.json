@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T08:39:43+02:00",
+  "generated": "2026-10-24T09:47:39+02:00",
   "tier": 1,
   "total_entries": 70,
   "entries": [
@@ -225,7 +225,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "> **Parent MegaCorp** > ![](https://i.imgur.com/L5HnfMF.png)",
+      "summary": "> **Parent MegaCorp** >",
       "links_out": [
         "campaigns/mRNA-probe/index.md"
       ],
@@ -623,7 +623,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "![](https://i.imgur.com/PsbDiMq.png) ![](https://i.imgur.com/TIrY4Y1.png)",
+      "summary": null,
       "links_out": [
         "statblocks/PopperSwarm.md"
       ],
@@ -843,7 +843,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "ORIGIN..............: | PHYSICAL NOTES......: | ----------------------------------------------------",
+      "summary": "MEAT BAG",
       "links_out": [],
       "links_in": [
         "campaigns/gradient-descent/001.md",
@@ -886,7 +886,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "STITCHER | SPACER | DRUG ADDICT | FLABBY WITH OILY SKIN | QUIET",
+      "summary": "STITCHER | SPACER | BLACK WIDOW SPIDER | DRUG ADDICT | FLABBY WITH OILY SKIN | QUIET",
       "links_out": [],
       "links_in": [
         "campaigns/gradient-descent/001.md",
@@ -1173,7 +1173,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "SCRAPPER | ANDROID | DECEITFUL | TOWERING WITH TATTOOED SKIN | FORMAL",
+      "summary": "SCRAPPER | ANDROID | (SABERTOOTH SKULL) | DECEITFUL | TOWERING WITH TATTOOED SKIN | FORMAL",
       "links_out": [],
       "links_in": [
         "campaigns/gradient-descent/001.md",
