@@ -70,7 +70,7 @@ if [ -x "$VENV_DIR/bin/pip" ] && [ -f "$REPO_ROOT/.agents/requirements.txt" ]; t
   if ! "$VENV_DIR/bin/pip" install --quiet -r "$REPO_ROOT/.agents/requirements.txt"; then
     echo "  ⚠ Warning: Failed to install Python requirements into virtual environment."
   else
-    echo "  ✓ Python virtual environment ready (pyyaml, pypdf)"
+    echo "  ✓ Python virtual environment ready (pyyaml, pypdf, numpy, Pillow)"
   fi
 fi
 

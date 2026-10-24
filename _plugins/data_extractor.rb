@@ -211,11 +211,11 @@ module OudeMechanismen
           clean_body = clean_body.gsub(/\{:\s*\..*?\s*\}/, '')
 
           prose_body = clean_body.gsub(/```.*?```/m, '')
+          prose_body = prose_body.gsub(/!\[.*?\]\(.*?\)/, '')
           prose_body = prose_body.lines.reject { |l| l =~ /^\s*#/ }.join
           paragraphs = prose_body.split(/\n\s*\n/).map(&:strip).reject(&:empty?)
           first_p = paragraphs.find do |p|
             next false if p.start_with?("---")
-            next false if p.match?(/\A!\[.*?\]\(.*?\)\z/)
             next false if p.downcase.include?("english version below")
             true
           end
@@ -225,9 +225,10 @@ module OudeMechanismen
                     else
                       # Fallback for dot-matrix / ASCII dossiers with text enclosed in code blocks
                       dossier_fields = []
-                      body.scan(/(?:SPECIALITY|ORIGIN|PHYSICAL NOTES|VICE|VOCAL PATTERN)\.{2,}:\s*([^\r\n]+)/i) do |val|
+                      body.scan(/(?:SPECIALITY|ORIGIN|PATCH|PHYSICAL NOTES|VICE|VOCAL PATTERN)\.{2,}:[ \t]*([^\r\n]+)/i) do |val|
                         cleaned_val = val[0].strip
-                        dossier_fields << cleaned_val unless cleaned_val.empty?
+                        next if cleaned_val.empty? || cleaned_val.include?('..') || cleaned_val.start_with?('---')
+                        dossier_fields << cleaned_val
                       end
                       dossier_fields.any? ? dossier_fields.join(' | ') : nil
                     end
