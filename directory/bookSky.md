@@ -4,9 +4,10 @@ title: Book of the Sky
 parent: The Solomons
 type: faction
 has_children: true
+footer_content: Image adapted from <a href="https://commons.wikimedia.org/wiki/File:Amazing_Stories_October_1957.jpg" target="_blank">Amazing Stories cover (October 1957)</a> by Ed Valigursky (Public Domain) &mdash; &ldquo;The Aliens Are Among Us!&rdquo;.
 
 images:
-- ../imgs/gallery/Pasted%20image%2020260409193748.png
+- ../imgs/gallery/Pasted%20image%2020261024201530.png
 
 ---
 
