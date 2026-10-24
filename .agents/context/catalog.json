@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T16:25:38+02:00",
+  "generated": "2026-10-24T16:42:06+02:00",
   "tier": 1,
   "total_entries": 71,
   "entries": [
@@ -321,17 +321,21 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "Formerly run by [TDC](../../TDC.md).",
+      "summary": "Cloudbank is a sprawling, derelict orbital manufacturing complex in the [Fomalhaut](../index.md) system, formerly operated by [TDC](../../TDC.md) for mass synthetic fabrication. Quarantined under an armed corporate embargo following a catastrophic neural breach, the dark megastructure is now known among spacers simply as The Deep. Desperate divers and freelance salvagers continually risk vacuum, security constructs, and identity disintegration to scavenge black-market oldtech from its depths.",
       "links_out": [
+        "campaigns/gradient-descent/index.md",
+        "directory/Fomalhaut/Cloudbank/Silus.md",
+        "directory/Fomalhaut/index.md",
         "directory/TDC.md"
       ],
       "links_in": [
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md",
-        "directory/Fomalhaut/Cloudbank/Monarch.md"
+        "directory/Fomalhaut/Cloudbank/Monarch.md",
+        "directory/Fomalhaut/Cloudbank/Silus.md"
       ],
       "lastmod": "2026-W20",
-      "sha": "62f51b0f",
+      "sha": "24d8a056",
       "tier": 1
     },
     {
@@ -405,6 +409,7 @@
         "campaigns/gradient-descent/index.md",
         "campaigns/mRNA-probe/chap009.md",
         "directory/Fomalhaut/Cloudbank/Monarch.md",
+        "directory/Fomalhaut/Cloudbank/index.md",
         "directory/TDC.md"
       ],
       "lastmod": "2026-W20",
@@ -591,6 +596,8 @@
       ],
       "links_in": [
         "directory/Fomalhaut/Cloudbank/Monarch.md",
+        "directory/Fomalhaut/Cloudbank/Silus.md",
+        "directory/Fomalhaut/Cloudbank/index.md",
         "index.md"
       ],
       "lastmod": "2026-W20",
@@ -853,7 +860,7 @@
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md"
       ],
-      "lastmod": "2026-W20",
+      "lastmod": "2026-W42",
       "sha": "cd7a3e91",
       "tier": 1
     },
@@ -896,7 +903,7 @@
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md"
       ],
-      "lastmod": "2026-W20",
+      "lastmod": "2026-W42",
       "sha": "c79c3745",
       "tier": 1
     },
@@ -1103,7 +1110,7 @@
       "status": null,
       "region": null,
       "nav_order": null,
-      "summary": "Monarch is the sentient machine intelligence governing the derelict [Cloudbank](index.md) manufacturing complex in the [Fomalhaut](../index.md) system.",
+      "summary": null,
       "links_out": [
         "campaigns/gradient-descent/index.md",
         "directory/Fomalhaut/Cloudbank/Silus.md",
@@ -1113,7 +1120,7 @@
       ],
       "links_in": [],
       "lastmod": "2026-W42",
-      "sha": "abb48609",
+      "sha": "ae0495cc",
       "tier": 1
     },
     {
@@ -1205,7 +1212,7 @@
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md"
       ],
-      "lastmod": "2026-W20",
+      "lastmod": "2026-W42",
       "sha": "05587580",
       "tier": 1
     },
@@ -1346,14 +1353,20 @@
       "region": null,
       "nav_order": null,
       "summary": null,
-      "links_out": [],
+      "links_out": [
+        "campaigns/gradient-descent/001.md",
+        "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/index.md",
+        "directory/Fomalhaut/Cloudbank/index.md"
+      ],
       "links_in": [
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md",
-        "directory/Fomalhaut/Cloudbank/Monarch.md"
+        "directory/Fomalhaut/Cloudbank/Monarch.md",
+        "directory/Fomalhaut/Cloudbank/index.md"
       ],
       "lastmod": "2026-W20",
-      "sha": "006c3754",
+      "sha": "a489082c",
       "tier": 1
     },
     {
@@ -1729,7 +1742,9 @@
         "directory/Fomalhaut/Mergulhadores/index.md",
         "directory/Fomalhaut/index.md"
       ],
-      "links_in": [],
+      "links_in": [
+        "directory/Fomalhaut/Cloudbank/Silus.md"
+      ],
       "lastmod": "2026-W38",
       "sha": "c3ece651",
       "tier": 1
@@ -1754,7 +1769,9 @@
         "directory/Fomalhaut/TheBell/index.md",
         "directory/Fomalhaut/index.md"
       ],
-      "links_in": [],
+      "links_in": [
+        "directory/Fomalhaut/Cloudbank/Silus.md"
+      ],
       "lastmod": "2026-W38",
       "sha": "98931b21",
       "tier": 1

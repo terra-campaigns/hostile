@@ -8,6 +8,7 @@ Rulings, corporate protocols, and conversational decisions established with the 
   - Workplace realism, corporate dryness, slow dread, sensory grime, and ordinary workers surviving dangerous systems.
   - British English spelling with zaibatsu corporate bureaucracy.
   - Short, readable sentences (one sentence per line when practical).
+- **2026-10-24 — Step 3 Session Prep Substitution (The Bends):** For Gradient Descent, Step 3 of session preparation (Regional Hazards & Misfortune Table) is replaced by the **BND (The Bends)** mechanic (*Gradient Descent*, p. 9). The GM rolls a Bends Check (d100 vs PC's Bends score) for each PC at the start of prep or appropriate transitions, logging any identity disintegration or psychological consequences directly into the briefing rather than generating an environmental hazard table.
 
 ## Archived or Formalised Rulings
 
