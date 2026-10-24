@@ -9,6 +9,8 @@ parent: Mergulhadores
 title: Drift
 role: 
 status: 
+bends: 7
+stress: "d6"
 footer_content: 
 
 images: 

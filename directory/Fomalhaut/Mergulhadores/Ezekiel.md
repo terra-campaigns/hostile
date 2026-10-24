@@ -9,6 +9,8 @@ parent: Mergulhadores
 title: Ezekiel
 role: Stitcher, Spacer
 status: 
+bends: 5
+stress: "d6"
 footer_content: 
 
 images: 

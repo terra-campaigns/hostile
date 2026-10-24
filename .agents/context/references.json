@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T11:06:23+02:00",
+  "generated": "2026-10-24T16:30:05+02:00",
   "tier": 3,
   "campaign": "hostile",
   "note": "Tier 3 reference routing index — influence only, never automatic Hostile canon.",
@@ -10,7 +10,7 @@
       "title": "Gradient Descent",
       "category": "module",
       "tier": 3,
-      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/books/osr/mothership/Gradient-Descent-v1.1.pdf",
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/scenarios/Gradient-Descent-v1.1.pdf",
       "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/_digests/gradient_descent.md",
       "digest_exists": true,
       "sections": [

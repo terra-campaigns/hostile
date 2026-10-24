@@ -9,6 +9,8 @@ parent: Mergulhadores
 title: Olmo
 role: Scrapper, Android
 status: 
+bends: 14
+stress: "d6"
 footer_content: 
 
 images: 
