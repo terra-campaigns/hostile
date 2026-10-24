@@ -96,3 +96,115 @@ presets:
       size: 130
       color: [210, 255, 250]
       spikes: 8
+
+  # --- THE BUTTERFLY DREAM PRESETS ---
+  butterfly_diver_cyan:
+    label: "Butterfly Dream: Abyssal Diver Cyan"
+    description: "Deep pressure void navy and searing electric cyan negative solarisation with stipple film grain."
+    solarisation:
+      enabled: true
+      power: 1.4
+    ramp:
+      - [0.00, "#00041e"]
+      - [0.30, "#001f31"]
+      - [0.65, "#1a6899"]
+      - [0.85, "#38a1da"]
+      - [1.00, "#f7f9fd"]
+    bg_ramp:
+      - [0.00, "#00020a"]
+      - [0.50, "#00101b"]
+      - [1.00, "#0c3b57"]
+    inking:
+      sigma1: 0.8
+      sigma2: 2.2
+      threshold: 1.8
+      span: 3.5
+    grain_sigma: 8.5
+    chromatic_aberration: 5
+    flares:
+      enabled: true
+      size: 140
+      color: [120, 220, 255]
+      spikes: 6
+
+  butterfly_infiltrator_mauve:
+    label: "Butterfly Dream: Infiltrator Mauve"
+    description: "Clinical tomographic cutaway: desaturated subcutaneous mauve, lavender dermal tones, and abyssal teal void."
+    ramp:
+      - [0.00, "#013d57"]
+      - [0.35, "#465c76"]
+      - [0.70, "#7d6b81"]
+      - [0.88, "#867085"]
+      - [1.00, "#ffffff"]
+    bg_ramp:
+      - [0.00, "#011a26"]
+      - [0.50, "#033247"]
+      - [1.00, "#2d5266"]
+    inking:
+      sigma1: 0.9
+      sigma2: 2.4
+      threshold: 2.0
+      span: 4.0
+    grain_sigma: 6.0
+    chromatic_aberration: 4
+    flares:
+      enabled: false
+
+  butterfly_console_crimson:
+    label: "Butterfly Dream: Crimson Console"
+    description: "Industrial hardware breaker: dark plum and oxidised steel bulkheads with luminous alarm crimson edge glow."
+    ramp:
+      - [0.00, "#2e2331"]
+      - [0.30, "#534955"]
+      - [0.60, "#9a7582"]
+      - [0.85, "#cdbaba"]
+      - [1.00, "#ffffff"]
+    bg_ramp:
+      - [0.00, "#19121b"]
+      - [0.50, "#332637"]
+      - [1.00, "#664d6e"]
+    luminous_edge:
+      enabled: true
+      color: [255, 17, 51]
+      intensity: 1.2
+    inking:
+      sigma1: 0.7
+      sigma2: 2.0
+      threshold: 1.5
+      span: 3.0
+    grain_sigma: 5.5
+    chromatic_aberration: 3
+    flares:
+      enabled: true
+      size: 90
+      color: [255, 60, 80]
+      spikes: 4
+
+  butterfly_monarch_vortex:
+    label: "Butterfly Dream: Monarch Cobalt Singularity"
+    description: "Abyssal blackness with high-intensity electric cobalt phosphor flare and non-Euclidean scanning lines."
+    polar_vortex:
+      enabled: true
+      strength: 6.5
+    ramp:
+      - [0.00, "#000000"]
+      - [0.40, "#000008"]
+      - [0.75, "#5259ff"]
+      - [0.92, "#85a3ff"]
+      - [1.00, "#ffffff"]
+    bg_ramp:
+      - [0.00, "#000000"]
+      - [0.50, "#000004"]
+      - [1.00, "#1a1aff"]
+    inking:
+      sigma1: 1.1
+      sigma2: 3.0
+      threshold: 2.5
+      span: 5.0
+    grain_sigma: 9.0
+    chromatic_aberration: 8
+    flares:
+      enabled: true
+      size: 160
+      color: [140, 160, 255]
+      spikes: 8
