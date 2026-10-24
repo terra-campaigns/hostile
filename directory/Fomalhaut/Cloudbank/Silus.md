@@ -9,9 +9,10 @@ parent: Cloudbank
 title: Silus
 role: 
 status: 
-footer_content: 
+footer_content: Image adapted from <a href="https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_102-01483,_Berlin-Tempelhof,_Lautsprecher.jpg" target="_blank">Loudspeaker Tower at Berlin-Tempelhof (1925)</a>, German Federal Archives (CC BY-SA 3.0 de).
 
 images: 
+- ../../../imgs/gallery/silus.jpg
 
 ---
 
