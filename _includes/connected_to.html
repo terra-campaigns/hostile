@@ -4,6 +4,7 @@ connected_to.html v0.7.3
 {% endcomment %}
 
 {% assign children_pages = site.pages | where: 'parent', page.title %}
+{% assign parent_pages = site.pages | where: 'title', page.parent %}
 
 {% assign links_pages = "" | split: "," %}
 {% for entry in site.data.markdown_links.file[page.path] %}
@@ -13,7 +14,7 @@ connected_to.html v0.7.3
   {% endif %}
 {% endfor %}
 
-{% assign all_references = children_pages | push: links_pages | uniq | sort: 'nav_order' | where_exp:"item", "item.nav_exclude != true" %}
+{% assign all_references = children_pages | push: parent_pages | push: links_pages | uniq | sort: 'nav_order' | where_exp:"item", "item.nav_exclude != true" %}
 
 {% comment %}
 Image gallery based on https://jekyllcodex.org/without-plugin/image-gallery/#
