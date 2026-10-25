@@ -1,12 +1,11 @@
 # {{ page.title }}
 {: .text-right}
 
-#### {{ page.location}} - {{ page.nav_order | date: "%B %-d" }} 
+#### {{ page.location | default: page.region }} - {{ page.nav_order | date: "%B %-d" }} 
 {: .text-right}
 
 {% if page.narration %}
-
-{% assign filename = page.path | split: '/' | last | replace: '.md', ''%}
+{% assign filename = page.path | split: "/" | last | split: "." | first %}
 {% for entry in page.narration %}
 {% assign to_include = filename | append: "_" | append: entry | append: ".md" %}
 <details close markdown="block">

@@ -9,6 +9,8 @@ parent: Mergulhadores
 title: Drift
 role: 
 status: 
+bends: 7
+stress: "d6"
 footer_content: 
 
 images: 
@@ -22,6 +24,7 @@ images:
 LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC
 ```
 ---
+[Gradient Descent](../../../campaigns/gradient-descent/index.md)
 
 {% endcomment %}
 

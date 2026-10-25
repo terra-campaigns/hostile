@@ -4,6 +4,7 @@ permalink: /all-content.html
 sitemap: false
 ---
 # {{ site.title }}
+
 {{ site.description }}
 Source: {{ site.url }}
 
@@ -13,9 +14,9 @@ Generated: {{ site.time | date: "%Y-%m-%d" }}
   Build a clean, structured text dump of all site content for LLM consumption.
   - Strips out utility pages (404, this page, assets, search indexes)
   - Groups content by type: Campaigns (sessions), Directory (world entries), then other pages
-  - Surfaces front matter metadata (type, role, region, hooks, status, parent)
-  - Uses raw_markdown custom filter to output raw markdown, stripping out includes/CSS noise
-  - Outputs as .txt so there's no theme wrapper
+  - Surfaces front matter metadata (type, role, region, status, parent)
+  - Uses raw_markdown filter to clean Kramdown tags and structural Liquid noise
+  - Outputs as /all-content.html with layout: null
 {% endcomment %}
 
 {% assign all = site.pages | sort: "nav_order" %}
@@ -28,7 +29,7 @@ Generated: {{ site.time | date: "%Y-%m-%d" }}
 CAMPAIGNS — SESSION LOGS
 ================================================================================
 {% for page in sessions %}
-{% unless page.url == "/all-content.txt" %}
+{% unless page.url == "/all-content.html" %}
 {% if page.title %}
 --------------------------------------------------------------------------------
 SESSION: {{ page.title }}
@@ -37,7 +38,6 @@ Path: {{ page.url }}
 {% if page.region %}Region: {{ page.region }}{% endif %}
 {% if page.nav_order %}Date (in-world): {{ page.nav_order | date: "%-d %B %Y" }}{% endif %}
 {% if page.location %}Location: {{ page.location }}{% endif %}
-{% if page.hooks %}Hooks: {% for hook in page.hooks %}- {{ hook }} {% endfor %}{% endif %}
 --------------------------------------------------------------------------------
 
 {{ page | raw_markdown }}
@@ -62,7 +62,6 @@ Path: {{ page.url }}
 {% if page.parent %}Parent: {{ page.parent }}{% endif %}
 {% if page.role %}Role: {{ page.role }}{% endif %}
 {% if page.status %}Status: {{ page.status }}{% endif %}
-{% if page.hooks %}Hooks: {% for hook in page.hooks %}- {{ hook }} {% endfor %}{% endif %}
 --------------------------------------------------------------------------------
 
 {{ page | raw_markdown }}
@@ -86,7 +85,6 @@ Path: {{ page.url }}
 {% if page.parent %}Parent: {{ page.parent }}{% endif %}
 {% if page.role %}Role: {{ page.role }}{% endif %}
 {% if page.status %}Status: {{ page.status }}{% endif %}
-{% if page.hooks %}Hooks: {% for hook in page.hooks %}- {{ hook }} {% endfor %}{% endif %}
 --------------------------------------------------------------------------------
 
 {{ page | raw_markdown }}
@@ -110,7 +108,6 @@ Path: {{ page.url }}
 {% if page.parent %}Group: {{ page.parent }}{% endif %}
 {% if page.role %}Role: {{ page.role }}{% endif %}
 {% if page.status %}Status: {{ page.status }}{% endif %}
-{% if page.hooks %}Hooks: {% for hook in page.hooks %}- {{ hook }} {% endfor %}{% endif %}
 --------------------------------------------------------------------------------
 
 {{ page | raw_markdown }}
@@ -134,7 +131,6 @@ Path: {{ page.url }}
 {% if page.parent %}Location: {{ page.parent }}{% endif %}
 {% if page.role %}Role: {{ page.role }}{% endif %}
 {% if page.status %}Status: {{ page.status }}{% endif %}
-{% if page.hooks %}Hooks: {% for hook in page.hooks %}- {{ hook }} {% endfor %}{% endif %}
 --------------------------------------------------------------------------------
 
 {{ page | raw_markdown }}
@@ -156,7 +152,7 @@ OTHER PAGES (RULES, INDEXES, MISC)
 ================================================================================
 {% for page in all %}
 {% unless typed_urls contains page.url %}
-{% unless page.url == "/all-content.txt" or page.url == "/404" or page.url == "/404.html" %}
+{% unless page.url == "/all-content.html" or page.url == "/404" or page.url == "/404.html" %}
 {% unless page.title == nil or page.title == "" %}
 {% unless page.search_exclude == true %}
 {% assign ext = page.url | split: "." | last %}

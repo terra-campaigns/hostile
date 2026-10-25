@@ -1,0 +1,1789 @@
+{
+  "generated": "2026-10-25T08:40:42+01:00",
+  "tier": 1,
+  "total_entries": 71,
+  "entries": [
+    {
+      "path": "campaigns/vbt-problemen/index.md",
+      "title": "VBT Problemen",
+      "type": "campaign",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "30",
+      "summary": "> **Veiligheidsclassificatie:** Geel (Alleen geautoriseerd personeel) > **Dossier:** Infiltratie en Logistieke Verstoringen in de Amerikaanse Sector > **Betreft:** De operaties van de Verenigde Benelux Transporten (VBT)",
+      "links_out": [],
+      "links_in": [],
+      "lastmod": "2026-W42",
+      "sha": "86864e60",
+      "tier": 1
+    },
+    {
+      "path": "directory/bookSky.md",
+      "title": "Book of the Sky",
+      "type": "faction",
+      "parent": "The Solomons",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> They are amongst us. Our gods from Alpha Centauri",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/gradient-descent/index.md",
+        "directory/Defiance/AvamcKenzie.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "3672390e",
+      "tier": 1
+    },
+    {
+      "path": "directory/Doomborgs/index.md",
+      "title": "Doomborgs",
+      "type": "faction",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "1",
+      "summary": "Players are welcome to edit their own characters. Use the link on the bottom of your character page.",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "campaigns/mRNA-probe/chap002.md",
+        "campaigns/mRNA-probe/chap003.md",
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "806c5fa6",
+      "tier": 1
+    },
+    {
+      "path": "directory/haruna/index.md",
+      "title": "Haruna Biolabs Solomons",
+      "type": "faction",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "This corporation deals in medical services, drugs and genetic treatments. Haruna previously did some bio-weapons designs for the Japanese Self Defence Force but this was stopped when the viral agent Delta-2 contaminated food supplies, water and some areas back in the early 23rd century. Many deaths ensued, but no-one was ever certain who was actually responsible. The government blamed a radical terrorist group called the Imperial Restoration League. **Haruna, for its part, suspects Makita Genetics of trying (in vain) to discredit Haruna and win the military contract for itself. In mutual fear, both corporations are at virtual full-scale war.** The people of Tokyo and the Asia Pacific Partnership are bracing themselves for further violence. Haruna’s network of clinics and hospitals are run by a subsidiary called Life Corp.",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "campaigns/mRNA-probe/chap006.md",
+        "campaigns/mRNA-probe/chap009.md",
+        "campaigns/mRNA-probe/index.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/haruna/ElianaMurovec.md",
+        "directory/makita.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "ac0cbcd2",
+      "tier": 1
+    },
+    {
+      "path": "directory/ico.md",
+      "title": "ICO American Sector",
+      "type": "faction",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "One of the most powerful agencies across human-explored space is the Interstellar Commerce Organisation (ICO), a body created by the United Corporate Combine to regulate space commerce, space travel and interstellar trade. It is headquartered in Singapore and has, over the past fifty years, been responsible for establishing fuel prices, measurement standards, communication protocols, starport layouts, and much more. It serves the interstellar corporate community, and its inspectors are constantly on the prowl, investigating accidents and checking licenses. The ICO publishes many of the standard handbooks for spaceflight that all starships are required by law to carry on board. There is an ICO office at every A-, B-, and C-class starport.",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/gradient-descent/index.md",
+        "campaigns/mRNA-probe/chap002.md",
+        "campaigns/mRNA-probe/chap004.md",
+        "campaigns/mRNA-probe/chap007.md",
+        "campaigns/mRNA-probe/chap009.md",
+        "directory/Fomalhaut/index.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "59133f60",
+      "tier": 1
+    },
+    {
+      "path": "directory/lebkuchen/index.md",
+      "title": "Lebkuchen Defiance",
+      "type": "faction",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Members of the German Lebkuchen are genetic activists, fighters for the rights of cloned human beings. Speed-grown clones (‘proles’) were used as colonists until they went on a murdering spree on Paydirt in 2151. After some investigation it was revealed that the force- grown clones were all sociopaths - emotionally illiterate, troubled, and without any sense of morality or conscience. For a new batch of proles implanted training and memory programs were utilized, but colonists no longer trusted these corporate slaves. They are, today, a second-class person, tolerated in places, reviled in others. Proles have a built-in four-year lifespan. Lebkuchen fight to give them human rights.",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/lebkuchen/CassianVireo.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "06639153",
+      "tier": 1
+    },
+    {
+      "path": "directory/makita.md",
+      "title": "Makita Genetics Solomons",
+      "type": "faction",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "A market leader in genetics and the creator of Retrogenics, the science of retroactively splicing and force-growing animal or engineered DNA into a host. Retrogenics technology is experimental and not licensed for use on humans. The chairman of Makita is the mysterious Taneo Tomita, a virtual recluse in the Tokyo Sky Tower that serves as the corporation’s global headquarters. The corporation spends a great deal on its public image and the corp is seen as the first of a new kind of company that could change the world and the destiny of the human race purely through genetics. The company has incorporated several medical companies including Alcor, the 1970s cryogenics firm. Makita made the cryonics breakthrough that now allows full-body freezing (or ‘stasis’) using the now ubiquitous hypersleep chamber. Makita’s rival is [Haruna Biolabs](haruna/index.md).",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/haruna/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "campaigns/mRNA-probe/chap007.md",
+        "directory/Perdurabo/MariusRochambeau.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "066fd91e",
+      "tier": 1
+    },
+    {
+      "path": "directory/Fomalhaut/Mergulhadores/index.md",
+      "title": "Mergulhadores",
+      "type": "faction",
+      "parent": "Fomalhaut",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [],
+      "links_in": [
+        "campaigns/gradient-descent/001.md",
+        "campaigns/gradient-descent/002.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "04b69cc6",
+      "tier": 1
+    },
+    {
+      "path": "directory/Metalianos.md",
+      "title": "Metalianos",
+      "type": "faction",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W14",
+      "sha": "65b0dfb9",
+      "tier": 1
+    },
+    {
+      "path": "directory/PM/index.md",
+      "title": "Pacific Metals",
+      "type": "faction",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap007.md",
+        "directory/PM/Argyre.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "00ba4c9c",
+      "tier": 1
+    },
+    {
+      "path": "directory/TharsisMining/index.md",
+      "title": "Tharsis Mining American",
+      "type": "faction",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> **Parent MegaCorp** >",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "campaigns/mRNA-probe/chap002.md",
+        "campaigns/mRNA-probe/chap003.md",
+        "campaigns/mRNA-probe/chap005.md",
+        "campaigns/mRNA-probe/chap006.md",
+        "campaigns/mRNA-probe/chap008.md",
+        "campaigns/mRNA-probe/chap009.md",
+        "campaigns/mRNA-probe/index.md",
+        "directory/Defiance/AvamcKenzie.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/TharsisMining/JohnMcLeod.md",
+        "directory/TharsisMining/LucasMaluf.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "9ae376a4",
+      "tier": 1
+    },
+    {
+      "path": "directory/TDC.md",
+      "title": "Transdyne Cybersystems",
+      "type": "faction",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Transdyne Cybersystems (TDC) – A dedicated robotic manufacturing corporation, TDC builds all kinds of cybersystems, for every possible task. The software division is exemplary and also jealous. It has been known for TDC to release icebreaker software on shareware bulletins in the hope that some desperate cowboy hacker will use it; these programs are often booby-trapped and allow the target corp to trace the perpetrator straight away. TDC has also made radical developments in Artificial Intelligence and uses AI technology in many robotic and software applications. Fully aware androids are now on the production line and very popular with high-end security firms, space agencies, SWAT teams, seabed exploration companies and rescue services. The life-like qualities of this fourth generation of human robots are staggering, and many people can be easily fooled by the Transdyne products. Just as with the earlier generations of human robots, modern androids are extremely complex, sophisticated and expensive. The tasks they are given are typically extraordinarily difficult, dangerous or exacting. Biggest cyborg sellers are the multi-tasking technician model the Transdyne Cybersystems 70 (selling for around $800,000, equivalent to the cost of a military armoured vehicle) and the combat model Transdyne Cybersystems 110 (selling for around $2 million, roughly equivalent to the cost of an armoured tank).",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Fomalhaut/index.md"
+      ],
+      "links_in": [
+        "campaigns/gradient-descent/index.md",
+        "campaigns/mRNA-probe/chap009.md",
+        "directory/Fomalhaut/Cloudbank/Monarch.md",
+        "directory/Fomalhaut/Cloudbank/index.md"
+      ],
+      "lastmod": "2026-W20",
+      "sha": "346c2eb6",
+      "tier": 1
+    },
+    {
+      "path": "directory/Perdurabo/BrightsideStation.md",
+      "title": "Brightside Station",
+      "type": "location",
+      "parent": "Perdurabo",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "- Built by [index](../haruna/index.md) - Located in [index](index.md) - Of interest for a hostile acquisition from [index](../TharsisMining/index.md).",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Perdurabo/index.md",
+        "directory/TharsisMining/index.md",
+        "directory/haruna/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "campaigns/mRNA-probe/chap002.md",
+        "campaigns/mRNA-probe/chap004.md",
+        "campaigns/mRNA-probe/chap005.md",
+        "campaigns/mRNA-probe/chap006.md",
+        "campaigns/mRNA-probe/chap009.md",
+        "campaigns/mRNA-probe/index.md",
+        "directory/Perdurabo/JaffaOkoye.md",
+        "directory/Perdurabo/LivingstonRoy.md",
+        "directory/Perdurabo/MarionHardlee.md",
+        "directory/Perdurabo/MariusRochambeau.md",
+        "directory/Perdurabo/MaryTomlinson.md",
+        "directory/Perdurabo/RandallBellows.md",
+        "directory/Perdurabo/RanseHardlee.md",
+        "directory/Perdurabo/RolandLomax.md",
+        "directory/Perdurabo/SuyinIndrani.md",
+        "directory/Perdurabo/YashDutta.md",
+        "directory/Perdurabo/index.md",
+        "directory/lebkuchen/CassianVireo.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "c1ad6bdc",
+      "tier": 1
+    },
+    {
+      "path": "directory/Fomalhaut/Cloudbank/index.md",
+      "title": "Cloudbank",
+      "type": "location",
+      "parent": "Fomalhaut",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Cloudbank is a sprawling, derelict orbital manufacturing complex in the [Fomalhaut](../index.md) system, formerly operated by [TDC](../../TDC.md) for mass synthetic fabrication. Quarantined under an armed corporate embargo following a catastrophic neural breach, the dark megastructure is now known among spacers simply as The Deep. Desperate divers and freelance salvagers continually risk vacuum, security constructs, and identity disintegration to scavenge black-market oldtech from its depths.",
+      "links_out": [
+        "campaigns/gradient-descent/index.md",
+        "directory/Fomalhaut/Cloudbank/Silus.md",
+        "directory/Fomalhaut/index.md",
+        "directory/TDC.md"
+      ],
+      "links_in": [
+        "campaigns/gradient-descent/001.md",
+        "campaigns/gradient-descent/002.md",
+        "directory/Fomalhaut/Cloudbank/Monarch.md",
+        "directory/Fomalhaut/Cloudbank/Silus.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "6fbbec52",
+      "tier": 1
+    },
+    {
+      "path": "directory/Perdurabo/ColdTomb.md",
+      "title": "Cold Tomb",
+      "type": "location",
+      "parent": "Perdurabo",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Guardian drones are autonomous guard robots that the Chittik employed in places that required no sophisticated monitoring. The guardians are well-equipped for the execution of any non- Chittik that violate the area. Guardian drones do not have true AI, but they can carry out direct, simple instructions from any living Chittik.",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap002.md",
+        "campaigns/mRNA-probe/chap003.md",
+        "campaigns/mRNA-probe/chap006.md",
+        "directory/Perdurabo/index.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "ec9a64fe",
+      "tier": 1
+    },
+    {
+      "path": "directory/Defiance/index.md",
+      "title": "Defiance",
+      "type": "location",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "B868744 Locked-Warm/Garden, Agri, Rich",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap002.md",
+        "campaigns/mRNA-probe/chap003.md",
+        "campaigns/mRNA-probe/chap004.md",
+        "campaigns/mRNA-probe/chap005.md",
+        "campaigns/mRNA-probe/chap006.md",
+        "campaigns/mRNA-probe/chap007.md",
+        "campaigns/mRNA-probe/chap008.md",
+        "campaigns/mRNA-probe/chap009.md",
+        "directory/Defiance/AvamcKenzie.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "ce08c8bf",
+      "tier": 1
+    },
+    {
+      "path": "directory/Fomalhaut/index.md",
+      "title": "Fomalhaut",
+      "type": "location",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "The Fomalhaut system contains multiple discs of ash, dust and asteroids and has three gas giants, named Typhon, Sauron and Smaug. Fomalhaut was established as a ‘free zone’ by the [ICO](../ico.md) and the system has become a lawless frontier where corporations compete with allied groups of private prospectors. There are fortunes to be made here – and lives to be lost.",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/ico.md"
+      ],
+      "links_in": [
+        "campaigns/gradient-descent/001.md",
+        "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/index.md",
+        "campaigns/mRNA-probe/chap009.md",
+        "directory/Fomalhaut/Cloudbank/Monarch.md",
+        "directory/Fomalhaut/Cloudbank/index.md",
+        "directory/TDC.md"
+      ],
+      "lastmod": "2026-W20",
+      "sha": "a0e5d012",
+      "tier": 1
+    },
+    {
+      "path": "directory/Perdurabo/index.md",
+      "title": "Perdurabo",
+      "type": "location",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Red giant star.",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/ColdTomb.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap002.md",
+        "campaigns/mRNA-probe/chap003.md",
+        "campaigns/mRNA-probe/index.md",
+        "directory/Perdurabo/BrightsideStation.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "0317a0dc",
+      "tier": 1
+    },
+    {
+      "path": "directory/Fomalhaut/TheBell/index.md",
+      "title": "The Bell",
+      "type": "location",
+      "parent": "Fomalhaut",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [],
+      "links_in": [
+        "campaigns/gradient-descent/001.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "7ab6d35a",
+      "tier": 1
+    },
+    {
+      "path": "directory/Solomons.md",
+      "title": "The Solomons",
+      "type": "location",
+      "parent": "Directory",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap006.md",
+        "campaigns/mRNA-probe/chap007.md",
+        "campaigns/mRNA-probe/chap009.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "7f3b7268",
+      "tier": 1
+    },
+    {
+      "path": "directory/Perdurabo/Aetherium.md",
+      "title": "Aetherium",
+      "type": "misc",
+      "parent": "Miscellanea",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> Radiative energy carrier",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap009.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "23947669",
+      "tier": 1
+    },
+    {
+      "path": "directory/index.md",
+      "title": "Directory",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "51",
+      "summary": null,
+      "links_out": [],
+      "links_in": [],
+      "lastmod": "2026-W14",
+      "sha": "4b55901e",
+      "tier": 1
+    },
+    {
+      "path": "directory/Doomborgs/Frostbreaker.md",
+      "title": "Frostbreaker",
+      "type": "misc",
+      "parent": "Miscellanea",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> Link to [Frostbreaker in Ship Designer](https://www.swnfreebooter.net/starshipDesigner/DOefjLYWNp812UH0Tqic)",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "campaigns/mRNA-probe/chap002.md",
+        "campaigns/mRNA-probe/chap003.md",
+        "campaigns/mRNA-probe/chap004.md",
+        "campaigns/mRNA-probe/chap005.md",
+        "campaigns/mRNA-probe/chap006.md",
+        "campaigns/mRNA-probe/chap007.md",
+        "campaigns/mRNA-probe/chap008.md",
+        "campaigns/mRNA-probe/chap009.md",
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "93c9ec0f",
+      "tier": 1
+    },
+    {
+      "path": "statblocks/GangLt.md",
+      "title": "GangLt",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [],
+      "links_in": [],
+      "lastmod": "2024-W34",
+      "sha": "aa66d363",
+      "tier": 1
+    },
+    {
+      "path": "statblocks/GangMember.md",
+      "title": "GangMember",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [],
+      "links_in": [],
+      "lastmod": "2024-W34",
+      "sha": "d8ced224",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/gradient-descent/index.md",
+      "title": "Gradient Descent",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "20",
+      "summary": "<iframe width=\"100%\" height=\"500\" src=\"https://www.youtube.com/embed/qQtnK2s-378?si=hDG7iesPGLAD2YNO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "links_out": [
+        "directory/Fomalhaut/index.md",
+        "directory/TDC.md",
+        "directory/bookSky.md",
+        "directory/ico.md"
+      ],
+      "links_in": [
+        "directory/Fomalhaut/Cloudbank/Monarch.md",
+        "directory/Fomalhaut/Cloudbank/Silus.md",
+        "directory/Fomalhaut/Cloudbank/index.md",
+        "directory/Fomalhaut/Mergulhadores/Drift.md",
+        "directory/Fomalhaut/Mergulhadores/Ezekiel.md",
+        "directory/Fomalhaut/Mergulhadores/Olmo.md",
+        "index.md"
+      ],
+      "lastmod": "2026-W20",
+      "sha": "010887a0",
+      "tier": 1
+    },
+    {
+      "path": "statblocks/MetalianoXX121.md",
+      "title": "Metaliano",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "- **Appearance**: Metalianos are bipedal with a skeletal structure made of a naturally occurring bio-metallic compound, giving them a shimmering, steel-like appearance. They have no facial features in the human sense but communicate through a series of lights and vibrations emanating from their chest cavities. - **Physiology**: Their bodies are highly resistant to extreme temperatures and pressures, making them adept at surviving in the harsh environments of space and hostile planets. They do not breathe, eat, or sleep in the traditional sense but recharge their energy from solar sources and electromagnetic fields. - **Abilities**: Metalianos possess an innate ability to manipulate metal and electromagnetic fields, using these skills for defense, communication, and controlling technology. Their physical strength is superior to humans, and their metallic bodies can withstand significant damage before degrading.",
+      "links_out": [
+        "statblocks/MetalianoXX121.md",
+        "statblocks/TraktorianoHumanoid.md"
+      ],
+      "links_in": [
+        "statblocks/MetalianoXX121.md"
+      ],
+      "lastmod": "2024-W35",
+      "sha": "7ef8f445",
+      "tier": 1
+    },
+    {
+      "path": "statblocks/PopperSwarm.md",
+      "title": "PopperSwarm",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [
+        "statblocks/PopperSwarm.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap007.md",
+        "statblocks/PopperSwarm.md"
+      ],
+      "lastmod": "2024-W34",
+      "sha": "734b0c9e",
+      "tier": 1
+    },
+    {
+      "path": "systems/index.md",
+      "title": "The Game",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "2",
+      "summary": null,
+      "links_out": [],
+      "links_in": [],
+      "lastmod": "2026-W12",
+      "sha": "28ab155e",
+      "tier": 1
+    },
+    {
+      "path": "statblocks/TraktorianoHumanoid.md",
+      "title": "TraktorianoHumanoid",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "- [ ] https://theoreticalgm.blogspot.com/2016/04/90s-era-sci-fi-horror-monster-stats.html?m=1 - [x] Livro invasao - [ ] Livro Alien - [ ] Definir relação com os 'tho",
+      "links_out": [
+        "statblocks/ngar-tho.md"
+      ],
+      "links_in": [
+        "statblocks/MetalianoXX121.md"
+      ],
+      "lastmod": "2024-W34",
+      "sha": "d69761d6",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/mRNA-probe/index.md",
+      "title": "mRNA Probe",
+      "type": "misc",
+      "parent": null,
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": "10",
+      "summary": "> Core Worlds, 2225 AD",
+      "links_out": [
+        "directory/Doomborgs/Frostbreaker.md",
+        "directory/Doomborgs/index.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/index.md",
+        "directory/TharsisMining/JohnMcLeod.md",
+        "directory/TharsisMining/index.md",
+        "directory/haruna/index.md",
+        "directory/lebkuchen/index.md"
+      ],
+      "links_in": [
+        "directory/Defiance/AvamcKenzie.md",
+        "directory/Defiance/TheBoxer.md",
+        "directory/Defiance/index.md",
+        "directory/Doomborgs/Aaros.md",
+        "directory/Doomborgs/Danny.md",
+        "directory/Doomborgs/Frostbreaker.md",
+        "directory/Doomborgs/MadSpark.md",
+        "directory/Doomborgs/Olaf.md",
+        "directory/Doomborgs/Oliver.md",
+        "directory/Doomborgs/Oni.md",
+        "directory/Doomborgs/Sabaka.md",
+        "directory/Doomborgs/index.md",
+        "directory/Fomalhaut/index.md",
+        "directory/Metalianos.md",
+        "directory/PM/Argyre.md",
+        "directory/PM/index.md",
+        "directory/Perdurabo/Aetherium.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/ColdTomb.md",
+        "directory/Perdurabo/JaffaOkoye.md",
+        "directory/Perdurabo/LivingstonRoy.md",
+        "directory/Perdurabo/MarionHardlee.md",
+        "directory/Perdurabo/MariusRochambeau.md",
+        "directory/Perdurabo/MaryTomlinson.md",
+        "directory/Perdurabo/RandallBellows.md",
+        "directory/Perdurabo/RanseHardlee.md",
+        "directory/Perdurabo/RolandLomax.md",
+        "directory/Perdurabo/SuyinIndrani.md",
+        "directory/Perdurabo/YashDutta.md",
+        "directory/Perdurabo/index.md",
+        "directory/Solomons.md",
+        "directory/TDC.md",
+        "directory/TharsisMining/JohnMcLeod.md",
+        "directory/TharsisMining/LucasMaluf.md",
+        "directory/TharsisMining/index.md",
+        "directory/bookSky.md",
+        "directory/haruna/ElianaMurovec.md",
+        "directory/haruna/index.md",
+        "directory/ico.md",
+        "directory/lebkuchen/CassianVireo.md",
+        "directory/lebkuchen/index.md",
+        "directory/makita.md",
+        "index.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "5437d97b",
+      "tier": 1
+    },
+    {
+      "path": "directory/Doomborgs/Aaros.md",
+      "title": "Aaros Foste",
+      "type": "people",
+      "parent": "Doomborgs",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap009.md",
+        "directory/Defiance/AvamcKenzie.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "7cc0a41e",
+      "tier": 1
+    },
+    {
+      "path": "directory/Defiance/AvamcKenzie.md",
+      "title": "Ava McKenzie",
+      "type": "people",
+      "parent": "Defiance",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> Hacker in [index](index.md)",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Defiance/index.md",
+        "directory/Doomborgs/Aaros.md",
+        "directory/TharsisMining/LucasMaluf.md",
+        "directory/TharsisMining/index.md",
+        "directory/bookSky.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap009.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "3d44c3d0",
+      "tier": 1
+    },
+    {
+      "path": "directory/lebkuchen/CassianVireo.md",
+      "title": "Cassian Vireo",
+      "type": "people",
+      "parent": "Lebkuchen Defiance",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> Terrorist from the [Lebkuchen](index.md)",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/lebkuchen/CassianVireo.md",
+        "directory/lebkuchen/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap005.md",
+        "campaigns/mRNA-probe/chap006.md",
+        "campaigns/mRNA-probe/chap007.md",
+        "directory/lebkuchen/CassianVireo.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "071ed56c",
+      "tier": 1
+    },
+    {
+      "path": "directory/Doomborgs/Danny.md",
+      "title": "Danny Dire",
+      "type": "people",
+      "parent": "Doomborgs",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap005.md",
+        "campaigns/mRNA-probe/chap006.md",
+        "campaigns/mRNA-probe/chap007.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "a5be15e7",
+      "tier": 1
+    },
+    {
+      "path": "directory/Fomalhaut/Mergulhadores/Drift.md",
+      "title": "Drift",
+      "type": "people",
+      "parent": "Mergulhadores",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "MEAT BAG",
+      "links_out": [
+        "campaigns/gradient-descent/index.md"
+      ],
+      "links_in": [
+        "campaigns/gradient-descent/001.md",
+        "campaigns/gradient-descent/002.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "3eb4d0c8",
+      "tier": 1
+    },
+    {
+      "path": "directory/haruna/ElianaMurovec.md",
+      "title": "Eliana Murovec",
+      "type": "people",
+      "parent": "Haruna Biolabs Solomons",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> [Haruna](index.md) Bank Auditor",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/haruna/ElianaMurovec.md",
+        "directory/haruna/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap007.md",
+        "campaigns/mRNA-probe/chap008.md",
+        "directory/haruna/ElianaMurovec.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "41044349",
+      "tier": 1
+    },
+    {
+      "path": "directory/Fomalhaut/Mergulhadores/Ezekiel.md",
+      "title": "Ezekiel",
+      "type": "people",
+      "parent": "Mergulhadores",
+      "role": "Stitcher, Spacer",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "STITCHER | SPACER | BLACK WIDOW SPIDER | DRUG ADDICT | FLABBY WITH OILY SKIN | QUIET",
+      "links_out": [
+        "campaigns/gradient-descent/index.md"
+      ],
+      "links_in": [
+        "campaigns/gradient-descent/001.md",
+        "campaigns/gradient-descent/002.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "9abe4371",
+      "tier": 1
+    },
+    {
+      "path": "directory/Perdurabo/JaffaOkoye.md",
+      "title": "Jaffa Okoye",
+      "type": "people",
+      "parent": "Brightside Station",
+      "role": null,
+      "status": "Dead",
+      "region": "Brightside Station",
+      "nav_order": null,
+      "summary": "> ***DECEASED*** Technical Chief of [Brightside Station](BrightsideStation.md).",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/JaffaOkoye.md",
+        "directory/Perdurabo/RandallBellows.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap004.md",
+        "directory/Perdurabo/JaffaOkoye.md",
+        "directory/Perdurabo/LivingstonRoy.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "a0010fa0",
+      "tier": 1
+    },
+    {
+      "path": "directory/TharsisMining/JohnMcLeod.md",
+      "title": "John McLeod",
+      "type": "people",
+      "parent": "Tharsis Mining American",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> Supervisor of Ice Exploration [Tharsis Mining](index.md).",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/TharsisMining/JohnMcLeod.md",
+        "directory/TharsisMining/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "campaigns/mRNA-probe/chap002.md",
+        "campaigns/mRNA-probe/chap005.md",
+        "campaigns/mRNA-probe/chap008.md",
+        "campaigns/mRNA-probe/index.md",
+        "directory/TharsisMining/JohnMcLeod.md",
+        "directory/TharsisMining/LucasMaluf.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "d93f570b",
+      "tier": 1
+    },
+    {
+      "path": "directory/Perdurabo/LivingstonRoy.md",
+      "title": "Livingston Roy",
+      "type": "people",
+      "parent": "Brightside Station",
+      "role": null,
+      "status": null,
+      "region": "Brightside Station",
+      "nav_order": null,
+      "summary": "> Security Chief of [Brightside Station](BrightsideStation.md)",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/JaffaOkoye.md",
+        "directory/Perdurabo/LivingstonRoy.md",
+        "directory/Perdurabo/YashDutta.md"
+      ],
+      "links_in": [
+        "directory/Perdurabo/LivingstonRoy.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "d9a1edde",
+      "tier": 1
+    },
+    {
+      "path": "directory/TharsisMining/LucasMaluf.md",
+      "title": "Lucas Maluf",
+      "type": "people",
+      "parent": "Tharsis Mining American",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> Exploration manager in Defiance, for [Tharsis Mining](index.md).",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/TharsisMining/JohnMcLeod.md",
+        "directory/TharsisMining/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap003.md",
+        "directory/Defiance/AvamcKenzie.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "1b88cbcb",
+      "tier": 1
+    },
+    {
+      "path": "directory/Doomborgs/MadSpark.md",
+      "title": "MadSpark",
+      "type": "people",
+      "parent": "Doomborgs",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "- MadSpark is a roughneck explosive expert that studied in LA who can also fly spacecraft / drones (co-pilot in this crew?). - He was a hardworking & intelligent student at Uni & then went to work on several mining missions. During one of these missions, he was involved in an accident where the explosives went off too early (he liked the adrenaline rush of running away & feeling the heat of the explosion on his back but this time he misjudged it…) & got hit on the head by a flying rock. After much surgery & time in hospital, he survived but since then he has had a screw loose. - He’s obviously in mining industry work for the money but also just because he loves to “blow shit up” & gets a hard on making things explode! - He is a practical engineer who is constantly making new gadgets. If you ask him to make something & he has the right materials / tools, he can make anything. If he’s not asked to make something useful, he will spend his time making pointless gadgets that amuse him. He has invented his own type of shotgun that can be used in space (it mixes oxygen & nitrogen in the right quantities to provide quite a kick!). - He finds it difficult to communicate with people & is definitely “on the spectrum”! - Appearance: tall, lean but strong & redneck in appearance. Around 30 years old but looks older. He has no eyebrows (they keep getting burnt off in explosions!).",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "campaigns/mRNA-probe/chap002.md",
+        "campaigns/mRNA-probe/chap003.md",
+        "campaigns/mRNA-probe/chap004.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "f4f8f66f",
+      "tier": 1
+    },
+    {
+      "path": "directory/Perdurabo/MarionHardlee.md",
+      "title": "Marion Hardlee",
+      "type": "people",
+      "parent": "Brightside Station",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> Owner of the Midnight Sun, on the [Brightside Station](BrightsideStation.md)",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/MarionHardlee.md",
+        "directory/Perdurabo/RanseHardlee.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap007.md",
+        "directory/Perdurabo/MarionHardlee.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "58b897db",
+      "tier": 1
+    },
+    {
+      "path": "directory/Perdurabo/MariusRochambeau.md",
+      "title": "Marius Rochambeau",
+      "type": "people",
+      "parent": "Brightside Station",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> Scientific representative for [Makita](../makita.md). Visits [Brightside Station](BrightsideStation.md) often.",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Doomborgs/Sabaka.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/MariusRochambeau.md",
+        "directory/makita.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "directory/Perdurabo/MariusRochambeau.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "9b9eb4b6",
+      "tier": 1
+    },
+    {
+      "path": "directory/Perdurabo/MaryTomlinson.md",
+      "title": "Mary Tomlinson",
+      "type": "people",
+      "parent": "Brightside Station",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> Mining Chief of [Brightside Station](BrightsideStation.md) and third-in-command",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/MaryTomlinson.md"
+      ],
+      "links_in": [
+        "directory/Perdurabo/MaryTomlinson.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "f02e14ac",
+      "tier": 1
+    },
+    {
+      "path": "directory/Fomalhaut/Cloudbank/Monarch.md",
+      "title": "Monarch",
+      "type": "people",
+      "parent": "Cloudbank",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [
+        "campaigns/gradient-descent/index.md",
+        "directory/Fomalhaut/Cloudbank/Silus.md",
+        "directory/Fomalhaut/Cloudbank/index.md",
+        "directory/Fomalhaut/index.md",
+        "directory/TDC.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W42",
+      "sha": "ae0495cc",
+      "tier": 1
+    },
+    {
+      "path": "directory/PM/Argyre.md",
+      "title": "Nicolaas Argyre",
+      "type": "people",
+      "parent": "Pacific Metals",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> Researcher. > Works for [Pacific Metals](index.md).",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/PM/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap009.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "f15f136f",
+      "tier": 1
+    },
+    {
+      "path": "directory/Doomborgs/Olaf.md",
+      "title": "Olaf Gustafson",
+      "type": "people",
+      "parent": "Doomborgs",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Olaf Gustafson, born in Iceland in the year 2146 (79 yo). He is an old (but athletic) failed geologist who became a geography teacher for teenagers. He spends most of his time looking for proofs that intelligent aliens exist and they are good to us. He is sure they are the ones responsible for establishing the mega corporations and we have only to thank them for improving our world. As a kid he was (or thinks he was) abducted by Greys. And that they implanted something on him that healed him from asthma. He believes the aliens spared him for a reason. And that reason is to help the mega corporations thrive. For decades he religiously went to the gym and trained boxing. He used to be wiser, though. But now he has developed stage one Alzheimer and sometimes forgets important things, or act a bit silly or childish. During his geology studies he interned in the mega corp X where he helped them mine asteroid Y. He learned the hard work of the miners and also a bit of the managing part. After finishing his studies he continued working for corp X for 10 years as a miner. Besides the conspiracy of intelligent aliens existing, he also thinks that there exists a Galactic Confederation where aliens and humans decide the fate of the different planets.",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "campaigns/mRNA-probe/chap002.md",
+        "campaigns/mRNA-probe/chap003.md",
+        "campaigns/mRNA-probe/chap004.md",
+        "campaigns/mRNA-probe/chap005.md",
+        "campaigns/mRNA-probe/chap006.md",
+        "campaigns/mRNA-probe/chap007.md",
+        "campaigns/mRNA-probe/chap008.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "74b3f412",
+      "tier": 1
+    },
+    {
+      "path": "directory/Doomborgs/Oliver.md",
+      "title": "Oliver Bennet",
+      "type": "people",
+      "parent": "Doomborgs",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> `record `[`access`](https://github.com/efsalvarenga/hostile/blob/main/pcs/Oliver.md)",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "campaigns/mRNA-probe/chap002.md",
+        "campaigns/mRNA-probe/chap003.md",
+        "campaigns/mRNA-probe/chap004.md",
+        "campaigns/mRNA-probe/chap005.md",
+        "campaigns/mRNA-probe/chap007.md",
+        "campaigns/mRNA-probe/chap008.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "2b13cdba",
+      "tier": 1
+    },
+    {
+      "path": "directory/Fomalhaut/Mergulhadores/Olmo.md",
+      "title": "Olmo",
+      "type": "people",
+      "parent": "Mergulhadores",
+      "role": "Scrapper, Android",
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "SCRAPPER | ANDROID | (SABERTOOTH SKULL) | DECEITFUL | TOWERING WITH TATTOOED SKIN | FORMAL",
+      "links_out": [
+        "campaigns/gradient-descent/index.md"
+      ],
+      "links_in": [
+        "campaigns/gradient-descent/001.md",
+        "campaigns/gradient-descent/002.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "d99166c6",
+      "tier": 1
+    },
+    {
+      "path": "directory/Doomborgs/Oni.md",
+      "title": "Oni Ro",
+      "type": "people",
+      "parent": "Doomborgs",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "campaigns/mRNA-probe/chap002.md",
+        "campaigns/mRNA-probe/chap003.md",
+        "campaigns/mRNA-probe/chap004.md",
+        "campaigns/mRNA-probe/chap005.md",
+        "campaigns/mRNA-probe/chap006.md",
+        "campaigns/mRNA-probe/chap007.md",
+        "campaigns/mRNA-probe/chap008.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "79f157b2",
+      "tier": 1
+    },
+    {
+      "path": "directory/Perdurabo/RandallBellows.md",
+      "title": "Randall Bellows",
+      "type": "people",
+      "parent": "Brightside Station",
+      "role": null,
+      "status": "Dead",
+      "region": null,
+      "nav_order": null,
+      "summary": "> ***DECEASED*** Prostitute working at the Clouds and Rain, [Brightside Station](BrightsideStation.md)",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/RandallBellows.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap004.md",
+        "directory/Perdurabo/JaffaOkoye.md",
+        "directory/Perdurabo/RandallBellows.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "811354ae",
+      "tier": 1
+    },
+    {
+      "path": "directory/Perdurabo/RanseHardlee.md",
+      "title": "Ranse Hardlee",
+      "type": "people",
+      "parent": "Brightside Station",
+      "role": null,
+      "status": "Dead",
+      "region": null,
+      "nav_order": null,
+      "summary": "> ***DECEASED*** Pilot of the Leadbelly, from [Brightside Station](BrightsideStation.md)",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/RanseHardlee.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "campaigns/mRNA-probe/chap004.md",
+        "directory/Perdurabo/MarionHardlee.md",
+        "directory/Perdurabo/RanseHardlee.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "304d6d0f",
+      "tier": 1
+    },
+    {
+      "path": "directory/Perdurabo/RolandLomax.md",
+      "title": "Roland Lomax",
+      "type": "people",
+      "parent": "Brightside Station",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> Cargo Chief of [Brightside Station](BrightsideStation.md)",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/RolandLomax.md",
+        "directory/Perdurabo/YashDutta.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "campaigns/mRNA-probe/chap006.md",
+        "campaigns/mRNA-probe/chap007.md",
+        "directory/Perdurabo/RolandLomax.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "96734c37",
+      "tier": 1
+    },
+    {
+      "path": "directory/Doomborgs/Sabaka.md",
+      "title": "Sabaka",
+      "type": "people",
+      "parent": "Doomborgs",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [
+        "campaigns/mRNA-probe/index.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "campaigns/mRNA-probe/chap002.md",
+        "campaigns/mRNA-probe/chap003.md",
+        "campaigns/mRNA-probe/chap004.md",
+        "campaigns/mRNA-probe/chap007.md",
+        "directory/Perdurabo/MariusRochambeau.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "3772223c",
+      "tier": 1
+    },
+    {
+      "path": "directory/Fomalhaut/Cloudbank/Silus.md",
+      "title": "Silus",
+      "type": "people",
+      "parent": "Cloudbank",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": null,
+      "links_out": [
+        "campaigns/gradient-descent/001.md",
+        "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/index.md",
+        "directory/Fomalhaut/Cloudbank/index.md"
+      ],
+      "links_in": [
+        "campaigns/gradient-descent/001.md",
+        "campaigns/gradient-descent/002.md",
+        "directory/Fomalhaut/Cloudbank/Monarch.md",
+        "directory/Fomalhaut/Cloudbank/index.md"
+      ],
+      "lastmod": "2026-W42",
+      "sha": "911749e0",
+      "tier": 1
+    },
+    {
+      "path": "directory/Perdurabo/SuyinIndrani.md",
+      "title": "Suyin Indrani",
+      "type": "people",
+      "parent": "Brightside Station",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> Medical Chief of [Brightside Station](BrightsideStation.md) and owner of the Clouds and Rain brothel",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/SuyinIndrani.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap006.md",
+        "campaigns/mRNA-probe/chap007.md",
+        "directory/Perdurabo/SuyinIndrani.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "ccd46413",
+      "tier": 1
+    },
+    {
+      "path": "directory/Defiance/TheBoxer.md",
+      "title": "The Boxer",
+      "type": "people",
+      "parent": "Defiance",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "Born in the cramped and unforgiving quarters of a mining asteroid under Tharsis Mining's dominion, The Boxer was christened with a name he would soon outgrow. The corridors and mining shafts of his youth did little to contain his spirit or his physique, which burgeoned beyond the confines of his origins into that of a formidable force.",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Defiance/TheBoxer.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap003.md",
+        "campaigns/mRNA-probe/chap004.md",
+        "campaigns/mRNA-probe/chap005.md",
+        "campaigns/mRNA-probe/chap009.md",
+        "directory/Defiance/TheBoxer.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "e2c02bcb",
+      "tier": 1
+    },
+    {
+      "path": "directory/Perdurabo/YashDutta.md",
+      "title": "Yash Dutta",
+      "type": "people",
+      "parent": "Brightside Station",
+      "role": null,
+      "status": null,
+      "region": null,
+      "nav_order": null,
+      "summary": "> Director of [Brightside Station](BrightsideStation.md)",
+      "links_out": [
+        "campaigns/mRNA-probe/index.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/YashDutta.md"
+      ],
+      "links_in": [
+        "campaigns/mRNA-probe/chap001.md",
+        "campaigns/mRNA-probe/chap002.md",
+        "campaigns/mRNA-probe/chap004.md",
+        "campaigns/mRNA-probe/chap006.md",
+        "campaigns/mRNA-probe/chap007.md",
+        "directory/Perdurabo/LivingstonRoy.md",
+        "directory/Perdurabo/RolandLomax.md",
+        "directory/Perdurabo/YashDutta.md"
+      ],
+      "lastmod": "2026-W14",
+      "sha": "302214e9",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/mRNA-probe/chap007.md",
+      "title": "Chaos in Brigthside",
+      "type": "session",
+      "parent": "mRNA Probe",
+      "role": null,
+      "status": null,
+      "region": "Brightside Station, Perdurabo, NEZ",
+      "nav_order": "2225-12-30",
+      "summary": "**Arrival of Sabaka**",
+      "links_out": [
+        "directory/Defiance/index.md",
+        "directory/Doomborgs/Danny.md",
+        "directory/Doomborgs/Frostbreaker.md",
+        "directory/Doomborgs/Olaf.md",
+        "directory/Doomborgs/Oliver.md",
+        "directory/Doomborgs/Oni.md",
+        "directory/Doomborgs/Sabaka.md",
+        "directory/PM/index.md",
+        "directory/Perdurabo/MarionHardlee.md",
+        "directory/Perdurabo/RolandLomax.md",
+        "directory/Perdurabo/SuyinIndrani.md",
+        "directory/Perdurabo/YashDutta.md",
+        "directory/Solomons.md",
+        "directory/haruna/ElianaMurovec.md",
+        "directory/ico.md",
+        "directory/lebkuchen/CassianVireo.md",
+        "directory/makita.md",
+        "statblocks/PopperSwarm.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W20",
+      "sha": "879860f8",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/mRNA-probe/chap009.md",
+      "title": "Clues",
+      "type": "session",
+      "parent": "mRNA Probe",
+      "role": null,
+      "status": null,
+      "region": "Teegarden's Star & Solomons, NEZ",
+      "nav_order": "2226-02-18",
+      "summary": "- The [Frostbreaker](../../directory/Doomborgs/Frostbreaker.md) is repaired, but unfortunately the worst weather of decades, with dozens of hurricanes, makes flying off [index](../../directory/Defiance/index.md) too risky. - The Doomborgs frequent the Broken Thruster bar in the meantime, and meet [Aaros](../../directory/Doomborgs/Aaros.md), a doctor who has been stuck in Defiance for years due to bad people management practices from Tharsis. They enter an agreement and Aaros joins the crew. - As they wanted to hack the AI briefcase, Aaros can already help, and connects with [Ava McKenzie](../../directory/Defiance/AvamcKenzie.md). - As Ava does her job on the briefcase (disconnecting microphones, cameras, RF transmitters, etc) she also mentions her husband's work in [Tharsis Mining](../../directory/TharsisMining/index.md) has been stressful recently. - Ava retrieves and print a copy of the 512-bit training hash from the AI in the briefcase. She also hacks Tharsis system to detect the routing destination of data transferred from the briefcase. The location is [index](../../directory/Fomalhaut/index.md), in the Outer Rim.",
+      "links_out": [
+        "directory/Defiance/AvamcKenzie.md",
+        "directory/Defiance/TheBoxer.md",
+        "directory/Defiance/index.md",
+        "directory/Doomborgs/Aaros.md",
+        "directory/Doomborgs/Frostbreaker.md",
+        "directory/Fomalhaut/index.md",
+        "directory/PM/Argyre.md",
+        "directory/Perdurabo/Aetherium.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Solomons.md",
+        "directory/TDC.md",
+        "directory/TharsisMining/index.md",
+        "directory/haruna/index.md",
+        "directory/ico.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W20",
+      "sha": "8100e3b0",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/mRNA-probe/chap003.md",
+      "title": "Defiance and back",
+      "type": "session",
+      "parent": "mRNA Probe",
+      "role": null,
+      "status": null,
+      "region": "Teegarden's Star, Perdurabo, NEZ",
+      "nav_order": "2225-11-04",
+      "summary": "- The [index](../../directory/Doomborgs/index.md) crew travel to the neighbour system: the Teegarden's Star. During the spike drill, [Bennet](../../directory/Doomborgs/Oliver.md) used the time to execute a biopsy on one of the crab creatures that infested the starship previously. The doctor was very unlucky when a splash of acid hits his eyes, blinding him. - Upon arriving on Teegarden's Star, the captain makes contact with the system control and gets redirected to the [Tharsis Mining](../../directory/TharsisMining/index.md) office on the [index](../../directory/Defiance/index.md). A shuttle picks the crew from orbit and a truck and a car takes them and the corpse to the corporation estate. - The Doomborgs meet [Lucas Maluf](../../directory/TharsisMining/LucasMaluf.md), a rough operations coordinator in the system, who explains next steps: they are to complete the mining contract as fast as possible, avoiding any further information leak. [The Boxer](../../directory/Defiance/TheBoxer.md) crew, a group of mercenaries, will be responsible for collecting the remaining corpses and taking them to Earth. - While the meeting goes on, Bennet is in the hospital, and learns his eyes are doomed. He will need a cybernetic implant, and that can be arranged within a week. - The crew meets again, and decide that waiting a week would be too long. [Sabaka](../../directory/Doomborgs/Sabaka.md) connects on the dark web and finds a fixer that can help them get a second hand cybereyes set within a day. The Doomborgs agree with the fixer and go to the appointed location, a district nightclub. - In the nightclub they meet an energetic girl, who are to guide them getting the second hand cybereyes - from someone wearing it! They get into a VIP booth, where the target is having fun with what looks like a prostitute. The crew is swift and put the target on the floor, while the girl they just met \"pops off\" his eyes. - The group successfully drive to a shady cybernetic clinic where Bennet has his new eyes implanted. They are ready to continue their mining contract now, and travel back to [Perdurabo](../../directory/Perdurabo/index.md). - In the [Cold Tomb](../../directory/Perdurabo/ColdTomb.md), they find the Leadbelly docked to the tomb, while The Boxer's ship - the Brutomaker - is docked to the second airlock of the Leadbelly. [Oni](../../directory/Doomborgs/Oni.md) docks the [Frostbreaker](../../directory/Doomborgs/Frostbreaker.md) to the Brutomaker. - [MadSpark](../../directory/Doomborgs/MadSpark.md) starts the first drone, but an issue with setting the explosives on the ice chunk means that drone is lost in space. - [Olaf](../../directory/Doomborgs/Olaf.md) speaks with The Boxer over comms, and they agree to meet and trade a drone from the Brutomaker. - The Doomborg meets The Boxer and his crew, while they loot the Cold Tomb and move the valuables to the Brutomaker. The crew of the Leadbelly is tied up and gagged, and left in the Leadbelly for the Doomborgs to figure out. - Then, suddenly, while being playful with the new drone, MadSpark cause an accident and an oxygen leak in the Brutomaker. The two crews start running, but most of The Boxer's crew was further in the aft of the starship, and are lost to space with everything in that part of the ship when it explodes. - Bennet and MadSpark are safe in the Frostbreaker, while Oni, Olaf and Sabaka - together with TheBoxer and his engineer and the hostages - are safe in the Leadbelly.",
+      "links_out": [
+        "directory/Defiance/TheBoxer.md",
+        "directory/Defiance/index.md",
+        "directory/Doomborgs/Frostbreaker.md",
+        "directory/Doomborgs/MadSpark.md",
+        "directory/Doomborgs/Olaf.md",
+        "directory/Doomborgs/Oliver.md",
+        "directory/Doomborgs/Oni.md",
+        "directory/Doomborgs/Sabaka.md",
+        "directory/Doomborgs/index.md",
+        "directory/Perdurabo/ColdTomb.md",
+        "directory/Perdurabo/index.md",
+        "directory/TharsisMining/LucasMaluf.md",
+        "directory/TharsisMining/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W20",
+      "sha": "6a3300d0",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/mRNA-probe/chap008.md",
+      "title": "Hitchhiker",
+      "type": "session",
+      "parent": "mRNA Probe",
+      "role": null,
+      "status": null,
+      "region": "Teegarden's Star & Perdurabo, NEZ",
+      "nav_order": "2226-01-10",
+      "summary": "- The Doomborgs start investigating what could be inside the [Frostbreaker](../../directory/Doomborgs/Frostbreaker.md). It seems like an invisible alien. - [Oni](../../directory/Doomborgs/Oni.md) quickly checks all possible sensors and decide to go with a thermal sensor to detect friction. It seems that an alien creature is touching all aspects of the starship. - The group checks their options and decide to turn on the sprinklers, to get a better view of the topology of the alien.",
+      "links_out": [
+        "directory/Defiance/index.md",
+        "directory/Doomborgs/Frostbreaker.md",
+        "directory/Doomborgs/Olaf.md",
+        "directory/Doomborgs/Oliver.md",
+        "directory/Doomborgs/Oni.md",
+        "directory/TharsisMining/JohnMcLeod.md",
+        "directory/TharsisMining/index.md",
+        "directory/haruna/ElianaMurovec.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W20",
+      "sha": "942325ac",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/mRNA-probe/chap004.md",
+      "title": "MadSpark perishes",
+      "type": "session",
+      "parent": "mRNA Probe",
+      "role": null,
+      "status": null,
+      "region": "Teegarden's Star & Perdurabo, NEZ",
+      "nav_order": "2225-11-23",
+      "summary": "- [TheBoxer](../../directory/Defiance/TheBoxer.md) is **pissed off but also afraid**: *Were them send by the [ico](../../directory/ico.md)? Are they here to kill us?! Who sent you? Who fucking sent you??!!* - [TheBoxer](../../directory/Defiance/TheBoxer.md) mentions he will kill [MadSpark](../../directory/Doomborgs/MadSpark.md), but [Olaf](../../directory/Doomborgs/Olaf.md) asks him not to take any actions",
+      "links_out": [
+        "directory/Defiance/TheBoxer.md",
+        "directory/Defiance/index.md",
+        "directory/Doomborgs/Frostbreaker.md",
+        "directory/Doomborgs/MadSpark.md",
+        "directory/Doomborgs/Olaf.md",
+        "directory/Doomborgs/Oliver.md",
+        "directory/Doomborgs/Oni.md",
+        "directory/Doomborgs/Sabaka.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/JaffaOkoye.md",
+        "directory/Perdurabo/RandallBellows.md",
+        "directory/Perdurabo/RanseHardlee.md",
+        "directory/Perdurabo/YashDutta.md",
+        "directory/ico.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W20",
+      "sha": "8ad739ce",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/mRNA-probe/chap006.md",
+      "title": "Start of Dutta's fall",
+      "type": "session",
+      "parent": "mRNA Probe",
+      "role": null,
+      "status": null,
+      "region": "Perdurabo, NEZ",
+      "nav_order": "2225-12-10",
+      "summary": "- The Doomborgs receive a **new contract** that voids the exploration framework of the previous contract, but maintain taking down the directorship of [BrightsideStation](../../directory/Perdurabo/BrightsideStation.md) - The crew will be paid C5k for each Hull cargo space full of unrefined mRNA-rich ice. This value is doubled if the ice is refined. - The Doomborgs try to find a mobile extractor micro refinery to install on their ship, but that was too difficult in a planet like [index](../../directory/Defiance/index.md). [Oni](../../directory/Doomborgs/Oni.md) sends a message to her friend in [The Solomons](../../directory/Solomons.md) and asks her to buy one and bring it to Brightside. The message ends with '*Don't rip me off*'. - While trying to find an extractor, [Danny](../../directory/Doomborgs/Danny.md) inadvertently tells Harry Tungla that there was someone inside the box his trucker carried to the farm. - The crew then decides to take [Cassian Vireo](../../directory/lebkuchen/CassianVireo.md) with them to Brightside, for what she pays C2k. - Flying off defiance is delayed in 4 days, due to weather. But even when the weather improves the [Frostbreaker](../../directory/Doomborgs/Frostbreaker.md) barely does it, with its fusion reactor shutting down due to load as the ship gains orbit. - They dock the ship in a refuelling station in high orbit and get a new drone, and from there depart to Perdurabo",
+      "links_out": [
+        "directory/Defiance/index.md",
+        "directory/Doomborgs/Danny.md",
+        "directory/Doomborgs/Frostbreaker.md",
+        "directory/Doomborgs/Olaf.md",
+        "directory/Doomborgs/Oni.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/ColdTomb.md",
+        "directory/Perdurabo/RolandLomax.md",
+        "directory/Perdurabo/SuyinIndrani.md",
+        "directory/Perdurabo/YashDutta.md",
+        "directory/Solomons.md",
+        "directory/TharsisMining/index.md",
+        "directory/haruna/index.md",
+        "directory/lebkuchen/CassianVireo.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W20",
+      "sha": "b40193cb",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/mRNA-probe/chap005.md",
+      "title": "The Boxer's box",
+      "type": "session",
+      "parent": "mRNA Probe",
+      "role": null,
+      "status": null,
+      "region": "Teegarden's Star & Perdurabo, NEZ",
+      "nav_order": "2225-12-07",
+      "summary": "- The Doomborgs took their time and evaluated all the options to unload [TheBoxer](../../directory/Defiance/TheBoxer.md) into Defiance. - They decide that putting The Boxer in a large box is the best alternative. - They called flight control from [index](../../directory/Defiance/index.md) and requested to speak with [index](../../directory/TharsisMining/index.md). - Lucas called back and agreed to find a maintenance bay for the [Frostbreaker](../../directory/Doomborgs/Frostbreaker.md) in two days. - [Oni](../../directory/Doomborgs/Oni.md) skilfully (again) landed the [Frostbreaker](../../directory/Doomborgs/Frostbreaker.md) through a light storm for Defiance's standards.",
+      "links_out": [
+        "directory/Defiance/TheBoxer.md",
+        "directory/Defiance/index.md",
+        "directory/Doomborgs/Danny.md",
+        "directory/Doomborgs/Frostbreaker.md",
+        "directory/Doomborgs/Olaf.md",
+        "directory/Doomborgs/Oliver.md",
+        "directory/Doomborgs/Oni.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/TharsisMining/JohnMcLeod.md",
+        "directory/TharsisMining/index.md",
+        "directory/lebkuchen/CassianVireo.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W20",
+      "sha": "be015632",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/mRNA-probe/chap002.md",
+      "title": "The Cold tomb",
+      "type": "session",
+      "parent": "mRNA Probe",
+      "role": null,
+      "status": null,
+      "region": "Brightside Station, Perdurabo, NEZ",
+      "nav_order": "2225-10-29",
+      "summary": "- The [index](../../directory/Doomborgs/index.md) crew arrive in the [Cold Tomb](../../directory/Perdurabo/ColdTomb.md). The structure was built in an ice chunk in one of the asteroids in the [Perdurabo](../../directory/Perdurabo/index.md) system. - The ship is docked in the entrance of the tomb, and [Olaf](../../directory/Doomborgs/Olaf.md) and [Oliver](../../directory/Doomborgs/Oliver.md) suit up and are ready in the air lock. Through a scan they know that beyond the tomb entrance door the environment is filled with icy water. - The two crewmen venture inside, with a system of communication and power umbilicals and a 50 meter harness cable. [Sabaka](../../directory/Doomborgs/Sabaka.md) stays behind in the airlock ready to rewind the cable if necessary. - In the entrance room, shaped like a sphere, they record on their cameras alien language carved in the icy wall, and an image depicting a blurred humanoid alien in what seems like a position of power. - While this was happening, [MadSpark](../../directory/Doomborgs/MadSpark.md) feels the need of action, and leaves the ship in a second airlock. While investigating the surroundings of the construction, he detects faint biological matter readings on his suit. He communicates that to Olaf and Oliver, who now turn on their precise detectors too, receiving the same readings. - The crew hypothesise that the readings are coming from the water (melted from the asteroid ice), and take a sample from inside the tomb. MadSpark gets back on the ship and take the sample to the lab. He starts to feel dizzy. - In the tomb, Oliver and Olaf reach another room where they find dozens of alien bodies floating in the water. They quickly grab one and, in a haste movement, decide to retreat to the spaceship. - On their way back, a drone swims in their direction and shoots a shard of metal in their direction, but the crewmen were faster and lock themselves in the airlock before the drone can enter. [Oni](../../directory/Doomborgs/Oni.md) skillfully undock the [Frostbreaker](../../directory/Doomborgs/Frostbreaker.md) from the tomb and pilot the ship back to [Brightside](../../directory/Perdurabo/BrightsideStation.md). - After decontaminating the air, Olaf and Oliver join the crew in the ship again, but now everyone is feeling slightly sick, unfocused and dizzy. - On the way back, some movement readings withing the starship structure alert Oni. The crew quickly retreat to the citadel and command the ship from there. They soon see in the cameras a dozens crab-like alien creatures exploring she starship. - MadSpark flushes the starship atmosphere. At the same time Olaf starts to feel very sick and anxious. He thinks for a brief moment that MadSpark is flushing the citadel and panics. The other crew members calm him down, and they all see the crab creatures passing out. - Upon arrival in Brightside, [Yash Dutta](../../directory/Perdurabo/YashDutta.md) does not allow the immediate off boarding of the crew due to contamination risk, and Olaf decides to speak with [John McLeod](../../directory/TharsisMining/JohnMcLeod.md). John quickly decides that the finding is too high profile, and the Doomborgs are ordered to immediatelly travel back to Earth. - After a failed attempt to threat Yash, the Frostbreaker departs from Brightside. The destination is the Teegarden’s Star system, where in the main world ([index](../../directory/Defiance/index.md)) a remote office of [Tharsis](../../directory/TharsisMining/index.md) and the [ICO](../../directory/ico.md) (Interstellar Commerce Organisation) are available.",
+      "links_out": [
+        "directory/Defiance/index.md",
+        "directory/Doomborgs/Frostbreaker.md",
+        "directory/Doomborgs/MadSpark.md",
+        "directory/Doomborgs/Olaf.md",
+        "directory/Doomborgs/Oliver.md",
+        "directory/Doomborgs/Oni.md",
+        "directory/Doomborgs/Sabaka.md",
+        "directory/Doomborgs/index.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/ColdTomb.md",
+        "directory/Perdurabo/YashDutta.md",
+        "directory/Perdurabo/index.md",
+        "directory/TharsisMining/JohnMcLeod.md",
+        "directory/TharsisMining/index.md",
+        "directory/ico.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W20",
+      "sha": "fa5a5bf8",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/mRNA-probe/chap001.md",
+      "title": "The Frostbreaker",
+      "type": "session",
+      "parent": "mRNA Probe",
+      "role": null,
+      "status": null,
+      "region": "Brightside Station, Perdurabo, NEZ",
+      "nav_order": "2225-10-27",
+      "summary": "The [index](../../directory/Doomborgs/index.md) crew's arrival at [Brightside Station](../../directory/Perdurabo/BrightsideStation.md) was marked by a tangible tension that clung to the metallic corridors and dimly lit alcoves of the mining station. Brightside, a dilapidated outpost owned by [Haruna](../../directory/haruna/index.md), part of the Matsuyama group, stood as a testament to both human ingenuity and the relentless decay wrought by the hostile environment of space.",
+      "links_out": [
+        "directory/Doomborgs/Frostbreaker.md",
+        "directory/Doomborgs/MadSpark.md",
+        "directory/Doomborgs/Olaf.md",
+        "directory/Doomborgs/Oliver.md",
+        "directory/Doomborgs/Oni.md",
+        "directory/Doomborgs/Sabaka.md",
+        "directory/Doomborgs/index.md",
+        "directory/Perdurabo/BrightsideStation.md",
+        "directory/Perdurabo/MariusRochambeau.md",
+        "directory/Perdurabo/RanseHardlee.md",
+        "directory/Perdurabo/RolandLomax.md",
+        "directory/Perdurabo/YashDutta.md",
+        "directory/TharsisMining/JohnMcLeod.md",
+        "directory/TharsisMining/index.md",
+        "directory/haruna/index.md",
+        "directory/makita.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W20",
+      "sha": "00427304",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/gradient-descent/002.md",
+      "title": "Transposition Anomaly",
+      "type": "session",
+      "parent": "Gradient Descent",
+      "role": null,
+      "status": null,
+      "region": "Cloudbank Facilities, Fomalhaut",
+      "nav_order": "2226-05-11 01:20",
+      "summary": "**RELATÓRIO DE MISSÃO - CLOUDBANK FACILITIES** **STATUS:** DADOS PARCIALMENTE CORROMPIDOS / REDIGIDOS POR SEGURANÇA",
+      "links_out": [
+        "directory/Fomalhaut/Cloudbank/Silus.md",
+        "directory/Fomalhaut/Cloudbank/index.md",
+        "directory/Fomalhaut/Mergulhadores/Drift.md",
+        "directory/Fomalhaut/Mergulhadores/Ezekiel.md",
+        "directory/Fomalhaut/Mergulhadores/Olmo.md",
+        "directory/Fomalhaut/Mergulhadores/index.md",
+        "directory/Fomalhaut/index.md"
+      ],
+      "links_in": [
+        "directory/Fomalhaut/Cloudbank/Silus.md"
+      ],
+      "lastmod": "2026-W38",
+      "sha": "0dea7df3",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/gradient-descent/001.md",
+      "title": "Waking up",
+      "type": "session",
+      "parent": "Gradient Descent",
+      "role": null,
+      "status": null,
+      "region": "Cloudbank Facilities, Fomalhaut",
+      "nav_order": "2226-05-11 00:00",
+      "summary": "Cerca de vinte freelancers são contratados para recuperar um microfilme. Por causa do embargo no [local de destino](../../directory/Fomalhaut/Cloudbank/index.md), o transporte até [Fomalhaut](../../directory/Fomalhaut/index.md) precisa ser ilegal.",
+      "links_out": [
+        "directory/Fomalhaut/Cloudbank/Silus.md",
+        "directory/Fomalhaut/Cloudbank/index.md",
+        "directory/Fomalhaut/Mergulhadores/Drift.md",
+        "directory/Fomalhaut/Mergulhadores/Ezekiel.md",
+        "directory/Fomalhaut/Mergulhadores/Olmo.md",
+        "directory/Fomalhaut/Mergulhadores/index.md",
+        "directory/Fomalhaut/TheBell/index.md",
+        "directory/Fomalhaut/index.md"
+      ],
+      "links_in": [
+        "directory/Fomalhaut/Cloudbank/Silus.md"
+      ],
+      "lastmod": "2026-W38",
+      "sha": "98931b21",
+      "tier": 1
+    }
+  ]
+}

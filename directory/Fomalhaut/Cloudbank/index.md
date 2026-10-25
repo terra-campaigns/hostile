@@ -9,9 +9,10 @@ parent: Fomalhaut
 title: Cloudbank
 role: 
 status: 
-footer_content: 
+footer_content: Image adapted from <a href="https://commons.wikimedia.org/wiki/File:Thermal_Vacuum_Test_Chamber_A_with_Door_Open.jpg" target="_blank">Thermal Vacuum Test Chamber A with Door Open (2013)</a>, NASA Johnson Space Center (Public Domain).
 
 images: 
+- ../../../imgs/gallery/cloudbank.jpg
 
 ---
 
@@ -22,7 +23,14 @@ images:
 LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC
 ```
 ---
+[Gradient Descent](../../../campaigns/gradient-descent/index.md)
+[Fomalhaut](../index.md)
+[TDC](../../TDC.md)
+[Silus](Silus.md)
 
+Its unpressurised, zero-G decks and frozen assembly lines are governed by the rogue machine intelligence Monarch.
 {% endcomment %}
 
-Formerly run by [TDC](../../TDC.md).
+Cloudbank is a sprawling, derelict orbital manufacturing complex in the [Fomalhaut](../index.md) system, formerly operated by [TDC](../../TDC.md) for mass synthetic fabrication.
+Quarantined under an armed corporate embargo following a catastrophic neural breach, the dark megastructure is now known among spacers simply as The Deep.
+Desperate divers and freelance salvagers continually risk vacuum, security constructs, and identity disintegration to scavenge black-market oldtech from its depths.

@@ -9,9 +9,10 @@ parent: Fomalhaut
 title: Mergulhadores
 role: 
 status: 
-footer_content: 
+footer_content: Image adapted from <a href="https://commons.wikimedia.org/wiki/File:Tritonia_Lusitania_1935.jpg" target="_blank">Tritonia Atmospheric Diving Suit (1935)</a>, SS Lusitania Salvage Expedition (Public Domain).
 
 images: 
+- ../../../imgs/gallery/mergulhadores.jpg
 
 ---
 

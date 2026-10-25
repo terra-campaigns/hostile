@@ -1,0 +1,88 @@
+{
+  "generated": "2026-10-24T16:30:05+02:00",
+  "tier": 3,
+  "campaign": "hostile",
+  "note": "Tier 3 reference routing index — influence only, never automatic Hostile canon.",
+  "total_sources": 4,
+  "sources": [
+    {
+      "slug": "gradient_descent",
+      "title": "Gradient Descent",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/scenarios/Gradient-Descent-v1.1.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/_digests/gradient_descent.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Structural Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Tone & GM Guidance",
+          "line": 19
+        }
+      ]
+    },
+    {
+      "slug": "hostile_rules",
+      "title": "Hostile Rules",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/Hostile-Rules.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/_digests/hostile_rules.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Key Procedures & Setting Flavour",
+          "line": 14
+        }
+      ]
+    },
+    {
+      "slug": "hostile_setting",
+      "title": "Hostile Setting",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/Hostile-Setting.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/_digests/hostile_setting.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Page Map",
+          "line": 6
+        },
+        {
+          "level": 2,
+          "heading": "Corporations & Power Blocs",
+          "line": 13
+        }
+      ]
+    },
+    {
+      "slug": "hostile_synthetics",
+      "title": "Hostile Synthetics",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/supplements/Hostile-Synthetics.pdf",
+      "digest_path": "/Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile/_digests/hostile_synthetics.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Contents & Mechanics",
+          "line": 6
+        }
+      ]
+    }
+  ]
+}

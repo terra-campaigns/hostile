@@ -9,9 +9,12 @@ parent: Mergulhadores
 title: Olmo
 role: Scrapper, Android
 status: 
-footer_content: 
+bends: 14
+stress: "d6"
+footer_content: Patch insignia adapted from <a href="https://commons.wikimedia.org/wiki/File:Smilodon_populator_skull_02.jpg" target="_blank">Smilodon populator skull</a>, Museu de Zoologia da USP / Wilfredor (CC BY-SA 4.0).
 
 images: 
+- ../../../imgs/gallery/olmo_patch.jpg
 
 ---
 
@@ -22,6 +25,7 @@ images:
 LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC
 ```
 ---
+[Gradient Descent](../../../campaigns/gradient-descent/index.md)
 
 {% endcomment %}
 

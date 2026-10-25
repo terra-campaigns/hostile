@@ -1,0 +1,14 @@
+# Explicit configuration of directories and files included in Tier 1 Canon.
+# Only markdown notes matching include_paths and not matching exclude_paths
+# will be indexed into .agents/context/catalog.json.
+
+drive_dir: /Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile
+
+include_paths:
+  - campaigns
+  - directory
+  - systems
+  - statblocks
+
+exclude_paths:
+  - _notions.md

@@ -9,9 +9,12 @@ parent: Mergulhadores
 title: Ezekiel
 role: Stitcher, Spacer
 status: 
-footer_content: 
+bends: 5
+stress: "d6"
+footer_content: Patch insignia adapted from <a href="https://commons.wikimedia.org/wiki/File:Black_widow_spider_9854_lores.jpg" target="_blank">Latrodectus mactans</a>, CDC Public Health Image Library / James Gathany (Public Domain).
 
 images: 
+- ../../../imgs/gallery/ezekiel_patch.jpg
 
 ---
 
@@ -22,6 +25,7 @@ images:
 LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "^[^\/]*\/", "") FROM ([[]]) OR outgoing([[]]) WHERE file.path != this.file.path SORT file.folder DESC
 ```
 ---
+[Gradient Descent](../../../campaigns/gradient-descent/index.md)
 
 {% endcomment %}
 

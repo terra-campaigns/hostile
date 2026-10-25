@@ -1,101 +1,29 @@
+# frozen_string_literal: true
+
 module Jekyll
   module LlmContentFilter
     def raw_markdown(page)
       return "" unless page['path']
-      
+
       begin
         content = File.read(page['path'], encoding: 'utf-8')
-        
+
         # Strip YAML front matter
         if content =~ /\A---\s*\n.*?\n---\s*\n/m
           content = content.sub(/\A---\s*\n.*?\n---\s*\n/m, '')
         end
-        
+
         # Remove liquid includes, comments, and other structural jekyll tags that add noise
         content = content.gsub(/{%\s*include\s+.*?%}/, '')
         content = content.gsub(/{%\s*comment\s*%}.*?{%\s*endcomment\s*%}/m, '')
-        
+
         # Remove Kramdown IALs like {: .text-right }
         content = content.gsub(/\{:\s*\..*?\s*\}/, '')
-        
+
         content.strip
       rescue
         ""
       end
-    end
-
-    def dump_agents(input)
-      output = []
-      base_dir = Dir.pwd
-      
-      # Main AGENTS.md
-      agents_md = File.join(base_dir, ".agents", "AGENTS.md")
-      if File.exist?(agents_md)
-        output << "<hr>"
-        output << "## AGENT INSTRUCTIONS (AGENTS.md)"
-        output << File.read(agents_md, encoding: 'utf-8').strip
-        output << ""
-      end
-      
-      # Skills
-      skills_dir = File.join(base_dir, ".agents", "skills")
-      if Dir.exist?(skills_dir)
-        output << "<hr>"
-        output << "## AGENT SKILLS"
-        Dir.glob(File.join(skills_dir, "**", "SKILL.md")).sort.each do |skill_file|
-          skill_name = File.basename(File.dirname(skill_file))
-          output << "### SKILL: #{skill_name}"
-          output << File.read(skill_file, encoding: 'utf-8').strip
-          output << ""
-        end
-      end
-      
-      output.join("\n")
-    end
-
-    def dump_specific_skill(input, skill_name)
-      skill_file = File.join(Dir.pwd, ".agents", "skills", skill_name, "SKILL.md")
-      if File.exist?(skill_file)
-        File.read(skill_file, encoding: 'utf-8').strip
-      else
-        ""
-      end
-    end
-
-    def dump_main_agent_rules(input)
-      agents_md = File.join(Dir.pwd, ".agents", "AGENTS.md")
-      if File.exist?(agents_md)
-        File.read(agents_md, encoding: 'utf-8').strip
-      else
-        ""
-      end
-    end
-
-    def dump_vbt_context(input)
-      output = []
-      vbt_dir = File.join(Dir.pwd, "campaigns", "vbt-problemen")
-      
-      if Dir.exist?(vbt_dir)
-        Dir.glob(File.join(vbt_dir, "*.md")).sort.each do |file|
-          next if File.basename(file) == "index.md"
-          next if File.basename(file) == "gem-instructions.md"
-          next if File.basename(file) == "gem-context.md"
-          
-          content = File.read(file, encoding: 'utf-8')
-          
-          # Strip YAML front matter for cleaner output
-          if content =~ /\A---\s*\n.*?\n---\s*\n/m
-            content = content.sub(/\A---\s*\n.*?\n---\s*\n/m, '')
-          end
-          
-          output << "<hr>"
-          output << "## FILE: #{File.basename(file)}"
-          output << content.strip
-          output << ""
-        end
-      end
-      
-      output.join("\n")
     end
   end
 end
