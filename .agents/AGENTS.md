@@ -34,6 +34,8 @@ Common folders:
 - For practical references, procedures, or exports, favour clarity over style.
 - Do not over-explain in published notes.
 - When uncertainty exists, mark it rather than invent continuity.
+- No read-aloud blocks: never generate boxed narrative text (`> Table Read-Aloud`), scripted monologues, or descriptive paragraphs meant to be read to players.
+- Notebook-centric delivery: the GM writes prep notes into a physical notebook. Provide the minimum word count necessary: 1-line sensory cues, 1-line tactical facts, and sharp, bulleted player choices.
 
 ## Aesthetics
 

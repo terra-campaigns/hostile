@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T08:40:42+01:00",
+  "generated": "2026-10-25T12:33:50+01:00",
   "tier": 1,
   "total_entries": 71,
   "entries": [
@@ -1754,7 +1754,7 @@
       "links_in": [
         "directory/Fomalhaut/Cloudbank/Silus.md"
       ],
-      "lastmod": "2026-W38",
+      "lastmod": "2026-W43",
       "sha": "0dea7df3",
       "tier": 1
     },

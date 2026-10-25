@@ -114,7 +114,11 @@ if [ -f "$REPO_ROOT/_plugins/data_extractor.rb" ]; then
   echo "  -> Validating Tier 1 catalogue compilation..."
   RUBY_BIN=$(find_ruby 2>/dev/null || true)
   if [ -n "$RUBY_BIN" ]; then
-    (cd "$REPO_ROOT" && "$RUBY_BIN" --disable-gems _plugins/data_extractor.rb >/dev/null 2>&1 || true)
+    (
+      if cd "$REPO_ROOT"; then
+        "$RUBY_BIN" --disable-gems _plugins/data_extractor.rb >/dev/null 2>&1 || true
+      fi
+    )
     if [ -f "$REPO_ROOT/.agents/context/catalog.json" ]; then
       echo "  ✓ Tier 1 catalogue compiled successfully (.agents/context/catalog.json)"
     fi
