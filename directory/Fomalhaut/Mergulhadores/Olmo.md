@@ -10,7 +10,10 @@ title: Olmo
 role: Scrapper, Android
 status: 
 bends: 14
-stress: "d6"
+stress: d8
+conditions:
+  - Recovering from ballistic abdominal wound (leaking under 1G)
+  - Burnt lower legs due to digestive enzymes flooding
 footer_content: Patch insignia adapted from <a href="https://commons.wikimedia.org/wiki/File:Smilodon_populator_skull_02.jpg" target="_blank">Smilodon populator skull</a>, Museu de Zoologia da USP / Wilfredor (CC BY-SA 4.0).
 
 images: 
@@ -72,14 +75,15 @@ SHIV, SHARPENED BUTTER KNIFE
 BACKPACK
 COMMLINK
 VAC SUIT
-SWORD
+SWORD (SACRIFICED / JAMMED IN 41A HATCH GEARS)
+COMBAT SHOTGUN ("THE BUCK STARTS HERE" - 4 ROUNDS)
 (ONE FREE UPGRADE OF AN ITEM)
 
 ----------------------------------------------------
 
 >> KNOWN PERFORMANCE DEVIATIONS <<
 
-CYBER-BODY WITH SYNTH SKIN (LOOKS HUMAN)
+CHASSIS ARCHITECTURE: HYBRID ANDROID (MINOR HUMAN BIOLOGICAL RESIDUE, MAJOR ROBOTIC MACHINE CHASSIS; COPPER WIRING, NO SYSTEMIC HUMAN BLOOD)
 
 ====================================================
 === *** END OF DOT-MATRIX RECORD *** ===

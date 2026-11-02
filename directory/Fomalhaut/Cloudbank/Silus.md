@@ -27,11 +27,13 @@ LIST without ID "["+ title + "](" + regexreplace(file.path, ".md", "") + ")" + "
 [Cloudbank](index.md)
 [001](../../../campaigns/gradient-descent/001.md)
 [002](../../../campaigns/gradient-descent/002.md)
+[003](../../../campaigns/gradient-descent/003.md)
 
 Silus is a subordinate machine intelligence exercising total operational control over the Pseudoflesh Farms and decontamination sectors of [Cloudbank](index.md).
 Unlike Monarch, Silus is unsettlingly courteous and loquacious, broadcasting through intercom grilles that secretly house biological throats and mouths.
 Fixated on antiseptic hygiene, clean-room compliance, and pseudomilk circulation, the entity subjects incoming divers to invasive sensory purges under the guise of hospitality.
 Beneath its gentle corporate veneer lies a guarded, calculating overseer that gathers intelligence on rival station horrors and dreams of breaking away from Monarch's dominion.
+Following the violent destruction of its unarmatured pseudoflesh construct in chamber 41A, Silus has terminated all verbal contact with the dive team, setting the local android workforce on Floor 3.3 into hostile pursuit.
 
 
 {% endcomment %}

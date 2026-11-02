@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-25T08:40:42+01:00",
+  "generated": "2026-11-02T17:51:27+01:00",
   "tier": 1,
-  "total_entries": 71,
+  "total_entries": 72,
   "entries": [
     {
       "path": "campaigns/vbt-problemen/index.md",
@@ -171,7 +171,8 @@
       "links_out": [],
       "links_in": [
         "campaigns/gradient-descent/001.md",
-        "campaigns/gradient-descent/002.md"
+        "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/003.md"
       ],
       "lastmod": "2026-W42",
       "sha": "04b69cc6",
@@ -331,6 +332,7 @@
       "links_in": [
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/003.md",
         "directory/Fomalhaut/Cloudbank/Monarch.md",
         "directory/Fomalhaut/Cloudbank/Silus.md"
       ],
@@ -406,14 +408,15 @@
       "links_in": [
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/003.md",
         "campaigns/gradient-descent/index.md",
         "campaigns/mRNA-probe/chap009.md",
         "directory/Fomalhaut/Cloudbank/Monarch.md",
         "directory/Fomalhaut/Cloudbank/index.md",
         "directory/TDC.md"
       ],
-      "lastmod": "2026-W20",
-      "sha": "a0e5d012",
+      "lastmod": "2026-W44",
+      "sha": "2a4e4de7",
       "tier": 1
     },
     {
@@ -908,10 +911,11 @@
       ],
       "links_in": [
         "campaigns/gradient-descent/001.md",
-        "campaigns/gradient-descent/002.md"
+        "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/003.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "9abe4371",
+      "lastmod": "2026-W44",
+      "sha": "864fbf5c",
       "tier": 1
     },
     {
@@ -1219,10 +1223,11 @@
       ],
       "links_in": [
         "campaigns/gradient-descent/001.md",
-        "campaigns/gradient-descent/002.md"
+        "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/003.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "d99166c6",
+      "lastmod": "2026-W44",
+      "sha": "a8280c33",
       "tier": 1
     },
     {
@@ -1365,17 +1370,19 @@
       "links_out": [
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/003.md",
         "campaigns/gradient-descent/index.md",
         "directory/Fomalhaut/Cloudbank/index.md"
       ],
       "links_in": [
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/003.md",
         "directory/Fomalhaut/Cloudbank/Monarch.md",
         "directory/Fomalhaut/Cloudbank/index.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "911749e0",
+      "lastmod": "2026-W44",
+      "sha": "557cdd26",
       "tier": 1
     },
     {
@@ -1700,6 +1707,31 @@
       "tier": 1
     },
     {
+      "path": "campaigns/gradient-descent/003.md",
+      "title": "The Deep Dive",
+      "type": "session",
+      "parent": "Gradient Descent",
+      "role": null,
+      "status": null,
+      "region": "Cloudbank Facilities, Fomalhaut",
+      "nav_order": "2226-05-11 03:00",
+      "summary": "O túnel longo de gravidade zero avança sob lâmpadas fluorescentes brancas que piscam há décadas, mais apagadas do que acesas. O ar carrega um cheiro râncido e pesado de cobre e ferro oxidado. Nas paredes de metal rugoso, camadas de sangue seco antigo e velado mancham os macacões de descontaminação em roxo escuro a cada atrito do impulso.",
+      "links_out": [
+        "directory/Fomalhaut/Cloudbank/Silus.md",
+        "directory/Fomalhaut/Cloudbank/index.md",
+        "directory/Fomalhaut/Mergulhadores/Ezekiel.md",
+        "directory/Fomalhaut/Mergulhadores/Olmo.md",
+        "directory/Fomalhaut/Mergulhadores/index.md",
+        "directory/Fomalhaut/index.md"
+      ],
+      "links_in": [
+        "directory/Fomalhaut/Cloudbank/Silus.md"
+      ],
+      "lastmod": "2026-W44",
+      "sha": "dd271e11",
+      "tier": 1
+    },
+    {
       "path": "campaigns/mRNA-probe/chap001.md",
       "title": "The Frostbreaker",
       "type": "session",
@@ -1754,7 +1786,7 @@
       "links_in": [
         "directory/Fomalhaut/Cloudbank/Silus.md"
       ],
-      "lastmod": "2026-W38",
+      "lastmod": "2026-W43",
       "sha": "0dea7df3",
       "tier": 1
     },
