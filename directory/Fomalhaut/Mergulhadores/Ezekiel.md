@@ -10,10 +10,11 @@ title: Ezekiel
 role: Stitcher, Spacer
 status: 
 bends: 5
-stress: "d6"
+stress: d12
 conditions:
   - Movement hindered in high gravity
   - Narcotic withdrawal tremors
+  - Burnt lower legs due to digestive enzymes flooding
 footer_content: Patch insignia adapted from <a href="https://commons.wikimedia.org/wiki/File:Black_widow_spider_9854_lores.jpg" target="_blank">Latrodectus mactans</a>, CDC Public Health Image Library / James Gathany (Public Domain).
 
 images: 

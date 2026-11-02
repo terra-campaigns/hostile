@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T09:49:34+01:00",
+  "generated": "2026-11-02T12:30:59+01:00",
   "tier": 1,
   "total_entries": 72,
   "entries": [
@@ -915,7 +915,7 @@
         "campaigns/gradient-descent/003.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "35b77a05",
+      "sha": "864fbf5c",
       "tier": 1
     },
     {
@@ -1227,7 +1227,7 @@
         "campaigns/gradient-descent/003.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "70fb9d04",
+      "sha": "2a98be0d",
       "tier": 1
     },
     {
