@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T12:30:59+01:00",
+  "generated": "2026-11-02T12:54:15+01:00",
   "tier": 1,
   "total_entries": 72,
   "entries": [
@@ -1227,7 +1227,7 @@
         "campaigns/gradient-descent/003.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "2a98be0d",
+      "sha": "ce768d41",
       "tier": 1
     },
     {
@@ -1714,7 +1714,7 @@
       "status": null,
       "region": "Cloudbank Facilities, Fomalhaut",
       "nav_order": "2226-05-11 03:00",
-      "summary": "A equipe emerge do poço de gravidade zero e alcança a câmara 41A. As bobinas sob o piso entram em ignição e a gravidade artificial de 1G se restabelece de forma gradual. Para [Ezekiel](../../directory/Fomalhaut/Mergulhadores/Ezekiel.md), o peso do kit cirúrgico e a desaceleração física cobram seu preço imediato. Em [Olmo](../../directory/Fomalhaut/Mergulhadores/Olmo.md), a tração da gravidade força o ferimento de bala em seu abdômen, ameaçando os pontos improvisados.",
+      "summary": "A equipe emerge do poço de gravidade zero e alcança a câmara 41A com suas paredes brancas e alcochoadas. As bobinas sob o piso estão em ignição e a gravidade artificial de 1G se restabelece de forma gradual. Para [Ezekiel](../../directory/Fomalhaut/Mergulhadores/Ezekiel.md), o peso do kit cirúrgico e a desaceleração física cobram seu preço imediato. Em [Olmo](../../directory/Fomalhaut/Mergulhadores/Olmo.md), a tração da gravidade força o ferimento de bala em seu abdômen, ameaçando os pontos improvisados.",
       "links_out": [
         "directory/Fomalhaut/Cloudbank/Silus.md",
         "directory/Fomalhaut/Cloudbank/index.md",
@@ -1725,7 +1725,7 @@
       ],
       "links_in": [],
       "lastmod": "2026-W44",
-      "sha": "1829065e",
+      "sha": "8217cfcd",
       "tier": 1
     },
     {
