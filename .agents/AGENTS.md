@@ -165,6 +165,7 @@ There are no generated data files saved to `_data/`. The data for links, galleri
 - Prefer small, focused edits.
 - Preserve the dual use of the repo: it must remain pleasant in Obsidian and buildable as a website.
 - If a request touches prose and mechanics, maintain both flavour and table usability.
+- **Branch Lifecycle:** Feature branches must be deleted immediately after their corresponding Pull Request is merged or closed. Never retain merged remote or local feature branches.
 
 ## Generating LLM Context Dumps in Static Sites (Jekyll)
 
