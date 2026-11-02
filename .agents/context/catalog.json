@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-25T12:33:50+01:00",
+  "generated": "2026-11-02T08:40:38+01:00",
   "tier": 1,
-  "total_entries": 71,
+  "total_entries": 72,
   "entries": [
     {
       "path": "campaigns/vbt-problemen/index.md",
@@ -171,7 +171,8 @@
       "links_out": [],
       "links_in": [
         "campaigns/gradient-descent/001.md",
-        "campaigns/gradient-descent/002.md"
+        "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/003.md"
       ],
       "lastmod": "2026-W42",
       "sha": "04b69cc6",
@@ -331,6 +332,7 @@
       "links_in": [
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/003.md",
         "directory/Fomalhaut/Cloudbank/Monarch.md",
         "directory/Fomalhaut/Cloudbank/Silus.md"
       ],
@@ -406,6 +408,7 @@
       "links_in": [
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/003.md",
         "campaigns/gradient-descent/index.md",
         "campaigns/mRNA-probe/chap009.md",
         "directory/Fomalhaut/Cloudbank/Monarch.md",
@@ -908,10 +911,11 @@
       ],
       "links_in": [
         "campaigns/gradient-descent/001.md",
-        "campaigns/gradient-descent/002.md"
+        "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/003.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "9abe4371",
+      "sha": "35b77a05",
       "tier": 1
     },
     {
@@ -1219,10 +1223,11 @@
       ],
       "links_in": [
         "campaigns/gradient-descent/001.md",
-        "campaigns/gradient-descent/002.md"
+        "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/003.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "d99166c6",
+      "sha": "70fb9d04",
       "tier": 1
     },
     {
@@ -1371,6 +1376,7 @@
       "links_in": [
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/003.md",
         "directory/Fomalhaut/Cloudbank/Monarch.md",
         "directory/Fomalhaut/Cloudbank/index.md"
       ],
@@ -1697,6 +1703,29 @@
       "links_in": [],
       "lastmod": "2026-W20",
       "sha": "fa5a5bf8",
+      "tier": 1
+    },
+    {
+      "path": "campaigns/gradient-descent/003.md",
+      "title": "The Deep Dive",
+      "type": "session",
+      "parent": "Gradient Descent",
+      "role": null,
+      "status": null,
+      "region": "Cloudbank Facilities, Fomalhaut",
+      "nav_order": "2226-05-11 03:00",
+      "summary": "A equipe emerge do poço de gravidade zero e alcança a câmara 41A. As bobinas sob o piso entram em ignição e a gravidade artificial de 1G se restabelece de forma gradual. Para [Ezekiel](../../directory/Fomalhaut/Mergulhadores/Ezekiel.md), o peso do kit cirúrgico e a desaceleração física cobram seu preço imediato. Em [Olmo](../../directory/Fomalhaut/Mergulhadores/Olmo.md), a tração da gravidade força o ferimento de bala em seu abdômen, ameaçando os pontos improvisados.",
+      "links_out": [
+        "directory/Fomalhaut/Cloudbank/Silus.md",
+        "directory/Fomalhaut/Cloudbank/index.md",
+        "directory/Fomalhaut/Mergulhadores/Ezekiel.md",
+        "directory/Fomalhaut/Mergulhadores/Olmo.md",
+        "directory/Fomalhaut/Mergulhadores/index.md",
+        "directory/Fomalhaut/index.md"
+      ],
+      "links_in": [],
+      "lastmod": "2026-W44",
+      "sha": "1829065e",
       "tier": 1
     },
     {

@@ -11,6 +11,8 @@ role: Scrapper, Android
 status: 
 bends: 14
 stress: "d6"
+conditions:
+  - Ballistic abdominal wound (leaking under 1G)
 footer_content: Patch insignia adapted from <a href="https://commons.wikimedia.org/wiki/File:Smilodon_populator_skull_02.jpg" target="_blank">Smilodon populator skull</a>, Museu de Zoologia da USP / Wilfredor (CC BY-SA 4.0).
 
 images: 

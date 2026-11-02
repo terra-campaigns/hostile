@@ -57,7 +57,7 @@ Common folders:
 ### Canon hierarchy
 
 - **Tier 1 canon** is the published campaign notes (listed in `.agents/context/tier1_sources.yml` and indexed in `.agents/context/catalog.json`). These notes are strong canon.
-- **Tier 2 canon** is Project Memory, visible conversation, and confirmed GM rulings recorded in `.agents/context/decisions.md`.
+- **Tier 2 canon** is Project Memory, visible conversation, confirmed GM rulings in `.agents/context/decisions.md`, and session archive materials in Google Drive (`_sessions/<slug>_session_notes.md`, `<slug>_prep.md`).
 - **Tier 3 canon** is reference material in the Google Drive campaign folder (`scenarios/`, `supplements/`, `support/`) and structured digests in Google Drive `_digests/` (indexed in `.agents/context/references.json`). It should be used as influence and possibility, not as automatic Hostile canon.
 
 ### Context & Token Optimisation Policy
