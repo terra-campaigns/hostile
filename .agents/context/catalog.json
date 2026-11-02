@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T17:19:42+01:00",
+  "generated": "2026-11-02T17:29:39+01:00",
   "tier": 1,
   "total_entries": 72,
   "entries": [
@@ -1227,7 +1227,7 @@
         "campaigns/gradient-descent/003.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "ce768d41",
+      "sha": "a8280c33",
       "tier": 1
     },
     {
@@ -1370,6 +1370,7 @@
       "links_out": [
         "campaigns/gradient-descent/001.md",
         "campaigns/gradient-descent/002.md",
+        "campaigns/gradient-descent/003.md",
         "campaigns/gradient-descent/index.md",
         "directory/Fomalhaut/Cloudbank/index.md"
       ],
@@ -1381,7 +1382,7 @@
         "directory/Fomalhaut/Cloudbank/index.md"
       ],
       "lastmod": "2026-W42",
-      "sha": "911749e0",
+      "sha": "557cdd26",
       "tier": 1
     },
     {
@@ -1714,7 +1715,7 @@
       "status": null,
       "region": "Cloudbank Facilities, Fomalhaut",
       "nav_order": "2226-05-11 03:00",
-      "summary": "A equipe emerge do poço de gravidade zero e alcança a câmara 41A com suas paredes brancas e alcochoadas. As bobinas sob o piso estão em ignição e a gravidade artificial de 1G se restabelece de forma gradual. Para [Ezekiel](../../directory/Fomalhaut/Mergulhadores/Ezekiel.md), o peso do kit cirúrgico e a desaceleração física cobram seu preço imediato. Em [Olmo](../../directory/Fomalhaut/Mergulhadores/Olmo.md), a tração da gravidade força o ferimento de bala em seu abdômen, ameaçando os pontos improvisados.",
+      "summary": "O túnel longo de gravidade zero avança sob lâmpadas fluorescentes brancas que piscam há décadas, mais apagadas do que acesas. O ar carrega um cheiro râncido e pesado de cobre e ferro oxidado. Nas paredes de metal rugoso, camadas de sangue seco antigo e velado mancham os macacões de descontaminação em roxo escuro a cada atrito do impulso. Ao final do poço, a escotilha aberta dá acesso à câmara 41A com suas paredes brancas e acolchoadas. As bobinas sob o piso entram em ignição e a gravidade artificial de 1G se restabelece de forma gradual. Para [Ezekiel](../../directory/Fomalhaut/Mergulhadores/Ezekiel.md), o peso do kit cirúrgico e a desaceleração física cobram seu preço imediato. Em [Olmo](../../directory/Fomalhaut/Mergulhadores/Olmo.md), a tração da gravidade força o ferimento de bala em seu abdômen, ameaçando os pontos improvisados.",
       "links_out": [
         "directory/Fomalhaut/Cloudbank/Silus.md",
         "directory/Fomalhaut/Cloudbank/index.md",
@@ -1723,9 +1724,11 @@
         "directory/Fomalhaut/Mergulhadores/index.md",
         "directory/Fomalhaut/index.md"
       ],
-      "links_in": [],
+      "links_in": [
+        "directory/Fomalhaut/Cloudbank/Silus.md"
+      ],
       "lastmod": "2026-W44",
-      "sha": "9bf503dd",
+      "sha": "119f0fc7",
       "tier": 1
     },
     {
