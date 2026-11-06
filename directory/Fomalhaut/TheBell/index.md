@@ -9,7 +9,7 @@ parent: Fomalhaut
 title: The Bell
 role: 
 status: 
-footer_content: 
+footer_content: <b>Fan Content</b> adapted from the <a href="https://www.tuesdayknightgames.com/" target="_blank">Gradient Descent</a> adventure. Copyright &copy; by Luke Gearing from Tuesday Knight Games. For private use only.
 
 images: 
 - ../../../imgs/gallery/Pasted%20image%2020261024173737.png
