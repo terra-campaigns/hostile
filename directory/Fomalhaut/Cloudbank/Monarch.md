@@ -11,7 +11,7 @@ title: Monarch
 role: 
 status: 
 stress: 2
-footer_content: 
+footer_content: <b>Fan Content</b> adapted from the <a href="https://www.tuesdayknightgames.com/" target="_blank">Gradient Descent</a> adventure. Copyright &copy; by Luke Gearing from Tuesday Knight Games. For private use only.
 
 images: 
 

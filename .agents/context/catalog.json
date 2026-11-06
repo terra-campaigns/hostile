@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T18:34:12+01:00",
+  "generated": "2026-11-06T08:51:26+01:00",
   "tier": 1,
   "total_entries": 71,
   "entries": [
@@ -320,8 +320,8 @@
         "directory/Fomalhaut/Cloudbank/Monarch.md",
         "directory/Fomalhaut/Cloudbank/Silus.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "6fbbec52",
+      "lastmod": "2026-W44",
+      "sha": "4214f3cc",
       "tier": 1
     },
     {
@@ -442,8 +442,8 @@
       "links_in": [
         "campaigns/gradient-descent/001.md"
       ],
-      "lastmod": "2026-W42",
-      "sha": "7ab6d35a",
+      "lastmod": "2026-W44",
+      "sha": "6aca98f8",
       "tier": 1
     },
     {
@@ -590,8 +590,8 @@
         "directory/Fomalhaut/Mergulhadores/Olmo.md",
         "index.md"
       ],
-      "lastmod": "2026-W20",
-      "sha": "010887a0",
+      "lastmod": "2026-W44",
+      "sha": "b1cde514",
       "tier": 1
     },
     {
@@ -1114,8 +1114,8 @@
         "directory/TDC.md"
       ],
       "links_in": [],
-      "lastmod": "2026-W42",
-      "sha": "ae0495cc",
+      "lastmod": "2026-W44",
+      "sha": "0364ea7d",
       "tier": 1
     },
     {
@@ -1366,7 +1366,7 @@
         "directory/Fomalhaut/Cloudbank/index.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "557cdd26",
+      "sha": "dc9d0390",
       "tier": 1
     },
     {
@@ -1712,7 +1712,7 @@
         "directory/Fomalhaut/Cloudbank/Silus.md"
       ],
       "lastmod": "2026-W44",
-      "sha": "dd271e11",
+      "sha": "bb0a6ed1",
       "tier": 1
     },
     {
@@ -1770,8 +1770,8 @@
       "links_in": [
         "directory/Fomalhaut/Cloudbank/Silus.md"
       ],
-      "lastmod": "2026-W43",
-      "sha": "0dea7df3",
+      "lastmod": "2026-W44",
+      "sha": "307b9e4d",
       "tier": 1
     },
     {
@@ -1797,8 +1797,8 @@
       "links_in": [
         "directory/Fomalhaut/Cloudbank/Silus.md"
       ],
-      "lastmod": "2026-W38",
-      "sha": "98931b21",
+      "lastmod": "2026-W44",
+      "sha": "5fbaebc5",
       "tier": 1
     }
   ]
