@@ -8,6 +8,7 @@ url: https://terra-campaigns.github.io/hostile
 
 permalink: pretty
 plugins:
+  - oude-mechanismen
   - jekyll-relative-links
   - jekyll-redirect-from
 
