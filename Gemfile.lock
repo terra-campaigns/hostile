@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/terra-campaigns/oude-mechanismen.git
-  revision: 2476e2f9210645faae52800e55d1a8a7f6450456
-  tag: v0.5.2
+  revision: 822150ed0ff5f2908c6b079d68cb3f662c18ded2
+  tag: v0.5.3
   specs:
-    oude-mechanismen (0.5.2)
+    oude-mechanismen (0.5.3)
       jekyll (>= 4.0)
 
 GEM
@@ -90,9 +90,9 @@ GEM
     rexml (3.4.4)
     rouge (4.7.0)
     safe_yaml (1.0.5)
-    sass-embedded (1.108.1-arm64-darwin)
+    sass-embedded (1.108.2-arm64-darwin)
       google-protobuf (~> 4.31)
-    sass-embedded (1.108.1-x86_64-linux-gnu)
+    sass-embedded (1.108.2-x86_64-linux-gnu)
       google-protobuf (~> 4.31)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
