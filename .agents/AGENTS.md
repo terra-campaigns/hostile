@@ -67,7 +67,7 @@ Common folders:
 - The catalogue is a navigation index, not a replacement for reading the note. Once located, open only the target file (using line-range reads where practical).
 - For Tier 3 setting lore or procedures, consult `_digests/*.md` via `.agents/context/references.json` before opening raw PDFs.
 - Front-matter `hooks` field is deprecated and ignored across all agents and tooling. Do not add `hooks:` to new front matter.
-- Regenerate the Tier 1 catalogue manually with `ruby --disable-gems _plugins/data_extractor.rb` or automatically upon git commit.
+- Regenerate the Tier 1 catalogue manually with `bundle exec jekyll build` (or `oude doctor --fix`).
 - For heavy batch text processing, extraction, or local summarisation, offload to local Ollama (`llama3.2:latest` or `llama3.1:latest`) over `localhost:11434`, always enforcing British English in prompt instructions.
 
 ## Campaign Specification
@@ -141,7 +141,7 @@ Build the site:
 bundle exec jekyll build
 ```
 
-Serve locally (this automatically extracts data using the native Jekyll Generator plugin in `_plugins/data_extractor.rb`):
+Serve locally (this automatically extracts data using the native Jekyll Generator plugin loaded from `oude-mechanismen`):
 
 ```sh
 bundle exec jekyll serve --trace
@@ -149,7 +149,7 @@ bundle exec jekyll serve --trace
 
 ## Generated Data
 
-There are no generated data files saved to `_data/`. The data for links, galleries, and last-modified dates is extracted automatically into Jekyll's memory by the `_plugins/data_extractor.rb` plugin during build.
+There are no generated data files saved to `_data/`. The data for links, galleries, and last-modified dates is extracted automatically into Jekyll's memory by the `oude-mechanismen` data extractor plugin during build.
 
 ## Development Notes
 
