@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/terra-campaigns/oude-mechanismen.git
-  revision: 822150ed0ff5f2908c6b079d68cb3f662c18ded2
-  tag: v0.5.3
+  revision: ad284c0a98acda1981ec3cc5d1596edeafbcb03d
+  tag: v0.4.0
   specs:
-    oude-mechanismen (0.5.3)
+    oude-mechanismen (0.4.0)
       jekyll (>= 4.0)
 
 GEM
