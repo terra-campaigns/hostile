@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-19T11:58:14+01:00",
+  "generated": "2026-11-19T18:54:07+01:00",
   "tier": 3,
   "campaign": "hostile",
   "note": "Tier 3 reference routing index — influence only, never automatic Hostile canon.",
-  "total_sources": 39,
+  "total_sources": 54,
   "sources": [
     {
       "slug": "gradient_descent/_index",
@@ -1043,7 +1043,7 @@
     {
       "slug": "gradient_descent/locations/floor_5_ai_core",
       "title": "Floor 5: The AI Core",
-      "category": "core_setting",
+      "category": "module",
       "tier": 3,
       "source_pdf": "Gradient-Descent-v1.1.pdf",
       "digest_path": "_gm-materials/digests/gradient_descent/locations/floor_5_ai_core.md",
@@ -1787,20 +1787,820 @@
       ]
     },
     {
-      "slug": "hostile_synthetics",
-      "title": "Hostile Synthetics",
+      "slug": "hostile_synthetics/_index",
+      "title": "Hostile Synthetics — Androids and Clones",
       "category": "supplement",
       "tier": 3,
-      "source_pdf": "supplements/Hostile-Synthetics.pdf",
-      "digest_path": "_gm-materials/digests/hostile_synthetics.md",
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/_index.md",
       "digest_exists": true,
       "sections": [
         {
           "level": 2,
-          "heading": "Contents & Mechanics",
-          "line": 6
+          "heading": "Premise & Themes",
+          "line": 22
+        },
+        {
+          "level": 2,
+          "heading": "Master Chapter & Page Map",
+          "line": 29
+        },
+        {
+          "level": 2,
+          "heading": "Historical Timeline",
+          "line": 45
+        },
+        {
+          "level": 2,
+          "heading": "Wiki Directory",
+          "line": 62
+        },
+        {
+          "level": 3,
+          "heading": "Factions",
+          "line": 64
+        },
+        {
+          "level": 3,
+          "heading": "Locations",
+          "line": 70
+        },
+        {
+          "level": 3,
+          "heading": "Creatures & Synthetic Classifications",
+          "line": 74
+        },
+        {
+          "level": 3,
+          "heading": "Artefacts & Hardware",
+          "line": 82
+        },
+        {
+          "level": 3,
+          "heading": "Mechanics & Procedures",
+          "line": 87
+        },
+        {
+          "level": 3,
+          "heading": "Reference Tables",
+          "line": 93
         }
-      ]
+      ],
+      "entity_type": "index",
+      "pages": "1-47",
+      "tags": [
+        "index",
+        "synthetics",
+        "clones",
+        "androids",
+        "corporate-horror",
+        "cepheus-engine"
+      ],
+      "source": "hostile_synthetics"
+    },
+    {
+      "slug": "hostile_synthetics/artefacts/android_modifications",
+      "title": "Android Modifications Catalogue",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/artefacts/android_modifications.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 19
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 24
+        },
+        {
+          "level": 3,
+          "heading": "Combat, Chassis & Covert Modifications",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Environmental & Sensor Modifications",
+          "line": 42
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 60
+        }
+      ],
+      "entity_type": "artefact",
+      "pages": "25, 30-33",
+      "tags": [
+        "artefact",
+        "android",
+        "modifications",
+        "cybernetics",
+        "gear",
+        "combat"
+      ],
+      "source": "hostile_synthetics"
+    },
+    {
+      "slug": "hostile_synthetics/artefacts/cloning_biotech_and_smu",
+      "title": "Cloning Biotech, SMUs & Repair Stations",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/artefacts/cloning_biotech_and_smu.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 21
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Cloning & Memory-Transfer Hardware",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Tracking, Identification & Maintenance Gear",
+          "line": 37
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 44
+        }
+      ],
+      "entity_type": "artefact",
+      "pages": "5-7, 10, 12-16, 26, 28, 33, 36, 43",
+      "tags": [
+        "artefact",
+        "technology",
+        "smu",
+        "cloning",
+        "simstim",
+        "repair-station",
+        "scanner"
+      ],
+      "source": "hostile_synthetics"
+    },
+    {
+      "slug": "hostile_synthetics/creatures/androids_generations_and_models",
+      "title": "Androids (Generations & Models)",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/creatures/androids_generations_and_models.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 21
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Android Generations (`2170–2214`)",
+          "line": 29
+        },
+        {
+          "level": 3,
+          "heading": "Anatomy, Power & Operational Traits",
+          "line": 39
+        },
+        {
+          "level": 3,
+          "heading": "Utility Models vs Combat Models",
+          "line": 46
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 52
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "23-32, 34-36, 40-41",
+      "tags": [
+        "creature",
+        "android",
+        "wetware",
+        "cyborg",
+        "transdyne",
+        "utility",
+        "combat"
+      ],
+      "source": "hostile_synthetics"
+    },
+    {
+      "slug": "hostile_synthetics/creatures/avatars_immortality_clones",
+      "title": "Avatars (Immortality Ectypes)",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/creatures/avatars_immortality_clones.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Clone Insurance Policy & Transfer Procedure",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Legal Status & Shackleton Exemption",
+          "line": 40
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 47
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "10-12, 14-15, 44",
+      "tags": [
+        "creature",
+        "clone",
+        "avatar",
+        "ectype",
+        "immortality",
+        "haruna",
+        "ucc"
+      ],
+      "source": "hostile_synthetics"
+    },
+    {
+      "slug": "hostile_synthetics/creatures/proles_worker_clones",
+      "title": "Proles (Off-World Worker Clones)",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/creatures/proles_worker_clones.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Physiology, Obsolescence & Identification",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Memory Implantation & Screening",
+          "line": 37
+        },
+        {
+          "level": 3,
+          "heading": "Market Tiers & Permitted Skills",
+          "line": 43
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 55
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "4-8, 15-18, 20-21, 40-43",
+      "tags": [
+        "creature",
+        "clone",
+        "prole",
+        "in-vitro",
+        "labour",
+        "cap"
+      ],
+      "source": "hostile_synthetics"
+    },
+    {
+      "slug": "hostile_synthetics/creatures/replicants_killer_clones",
+      "title": "Replicants (Outlawed Killer Clones)",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/creatures/replicants_killer_clones.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Psychology & Threat Profile",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Physical Traits & Active Numbers",
+          "line": 35
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 43
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "9-10, 17-19, 22, 43",
+      "tags": [
+        "creature",
+        "clone",
+        "replicant",
+        "project-mugami",
+        "sociopath",
+        "munich"
+      ],
+      "source": "hostile_synthetics"
+    },
+    {
+      "slug": "hostile_synthetics/creatures/zeds_criminal_clones",
+      "title": "Zeds (DIY Criminal Clones)",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/creatures/zeds_criminal_clones.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Two Criminal Applications",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Creating a Zed (Procedure & Hazards)",
+          "line": 34
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 41
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "12-14, 22",
+      "tags": [
+        "creature",
+        "clone",
+        "zed",
+        "counterfeit",
+        "crime",
+        "mind-swap"
+      ],
+      "source": "hostile_synthetics"
+    },
+    {
+      "slug": "hostile_synthetics/factions/bio_corporations_and_tdc",
+      "title": "Bio-Corporations & Transdyne Cybersystems",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/factions/bio_corporations_and_tdc.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 21
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Transdyne Cybersystems (TDC)",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Makita Genetics",
+          "line": 36
+        },
+        {
+          "level": 3,
+          "heading": "Haruna Biolabs & Haruna Europe",
+          "line": 42
+        },
+        {
+          "level": 3,
+          "heading": "Reiner-Gama & Scientific Institutions",
+          "line": 48
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 54
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "3-5, 7, 9-12, 15-16, 19, 23-24, 30, 35, 37-39, 42",
+      "tags": [
+        "faction",
+        "corporations",
+        "zaibatsu",
+        "transdyne",
+        "haruna",
+        "makita",
+        "reiner-gama"
+      ],
+      "source": "hostile_synthetics"
+    },
+    {
+      "slug": "hostile_synthetics/factions/governments_unions_and_regulators",
+      "title": "Governments, Unions & Regulators",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/factions/governments_unions_and_regulators.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 25
+        },
+        {
+          "level": 3,
+          "heading": "Major Political & Corporate Blocs",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Regulators & Labour Unions",
+          "line": 34
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 41
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "4-5, 11-12, 15, 29, 40-43",
+      "tags": [
+        "faction",
+        "government",
+        "unions",
+        "ucc",
+        "icc",
+        "uasl",
+        "law"
+      ],
+      "source": "hostile_synthetics"
+    },
+    {
+      "slug": "hostile_synthetics/factions/lebkuchen_and_the_snakeheads",
+      "title": "Lebkuchen & The Snakeheads",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/factions/lebkuchen_and_the_snakeheads.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Lebkuchen (German Genetic Activists)",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "The Snakeheads & Organised Crime",
+          "line": 36
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 43
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "5, 9-10, 12-14, 19, 44",
+      "tags": [
+        "faction",
+        "activists",
+        "crime",
+        "replicants",
+        "zeds",
+        "smuggling"
+      ],
+      "source": "hostile_synthetics"
+    },
+    {
+      "slug": "hostile_synthetics/locations/key_sites_and_origins",
+      "title": "Key Sites & Synthetic Origins",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/locations/key_sites_and_origins.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 21
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 37
+        }
+      ],
+      "entity_type": "location",
+      "pages": "4-5, 9-10, 13, 19, 30, 37-40, 42",
+      "tags": [
+        "location",
+        "paydirt",
+        "luna",
+        "munich",
+        "stockholm",
+        "erebus",
+        "outer-rim"
+      ],
+      "source": "hostile_synthetics"
+    },
+    {
+      "slug": "hostile_synthetics/mechanics/android_construction_and_damage",
+      "title": "Android Construction & Damage Rules",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/mechanics/android_construction_and_damage.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 19
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 24
+        },
+        {
+          "level": 3,
+          "heading": "Custom Building an Epsilon-Series Android",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Software Memory Limits & Older-Generation Pricing",
+          "line": 45
+        },
+        {
+          "level": 3,
+          "heading": "Damage, Wounding & Operational Modifiers",
+          "line": 57
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 64
+        }
+      ],
+      "entity_type": "mechanic",
+      "pages": "25-26, 28-36",
+      "tags": [
+        "mechanic",
+        "android",
+        "construction",
+        "software",
+        "combat",
+        "damage",
+        "cepheus-engine"
+      ],
+      "source": "hostile_synthetics"
+    },
+    {
+      "slug": "hostile_synthetics/mechanics/clone_creation_and_augmentations",
+      "title": "Clone Creation & Augmentations",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/mechanics/clone_creation_and_augmentations.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 25
+        },
+        {
+          "level": 3,
+          "heading": "Clone Procedures Quick Reference",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Genetic Augmentations for Proles (19 Options)",
+          "line": 42
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 66
+        }
+      ],
+      "entity_type": "mechanic",
+      "pages": "6-7, 11-12, 14-18",
+      "tags": [
+        "mechanic",
+        "clones",
+        "augmentations",
+        "proles",
+        "avatars",
+        "zeds",
+        "cepheus-engine"
+      ],
+      "source": "hostile_synthetics"
+    },
+    {
+      "slug": "hostile_synthetics/mechanics/shackleton_accords_and_three_laws",
+      "title": "Shackleton Accords & Three Laws",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/mechanics/shackleton_accords_and_three_laws.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "The Three Laws of Robotics (UCC Standard, 2172)",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Engineered Design Protocols",
+          "line": 36
+        },
+        {
+          "level": 3,
+          "heading": "Shackleton Accords (`2165`) — Legal Code",
+          "line": 43
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 54
+        }
+      ],
+      "entity_type": "mechanic",
+      "pages": "11-12, 25, 28-29, 40-44",
+      "tags": [
+        "mechanic",
+        "law",
+        "shackleton-accords",
+        "three-laws",
+        "society",
+        "restrictions"
+      ],
+      "source": "hostile_synthetics"
+    },
+    {
+      "slug": "hostile_synthetics/tables/pregenerated_synthetics",
+      "title": "Pre-Generated Synthetics Roster",
+      "category": "supplement",
+      "tier": 3,
+      "source_pdf": "Hostile-Synthetics.pdf",
+      "digest_path": "_gm-materials/digests/hostile_synthetics/tables/pregenerated_synthetics.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 25
+        },
+        {
+          "level": 3,
+          "heading": "Proles (`9` Units)",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Replicants (`4` Units — Danger! Sociopaths)",
+          "line": 41
+        },
+        {
+          "level": 3,
+          "heading": "Zed \"Counterfeit Clones\" (`4` Units)",
+          "line": 50
+        },
+        {
+          "level": 3,
+          "heading": "Androids (`4` Units)",
+          "line": 59
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 68
+        }
+      ],
+      "entity_type": "table",
+      "pages": "21-22, 36",
+      "tags": [
+        "table",
+        "npcs",
+        "statblocks",
+        "proles",
+        "replicants",
+        "zeds",
+        "androids"
+      ],
+      "source": "hostile_synthetics"
     }
   ]
 }
