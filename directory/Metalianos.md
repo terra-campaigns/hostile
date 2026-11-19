@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Metalianos
+parent: Directory
 type: faction
 
 nav_exclude: true

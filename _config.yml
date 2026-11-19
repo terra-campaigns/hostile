@@ -39,6 +39,7 @@ gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into t
 
 # Exclude non-site and agent directories from Jekyll watching and processing
 exclude:
+  - "_gm-materials"
   - .agents
   - .githooks
   - bin

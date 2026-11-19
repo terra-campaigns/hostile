@@ -83,7 +83,7 @@ Regardless of the host, a Traktoriano carries an aura of otherworldly knowledge 
 ---
 ### Extras
 
-The peaceful existence of the [ngar-tho](ngar-tho.md) ended when they encountered the Metalianos. These ferocious beetle-wasp metal beings viewed the Ushans as nothing more than a magnificent source of hosts and slave labor.
+The peaceful existence of the ngar-tho ended when they encountered the Metalianos. These ferocious beetle-wasp metal beings viewed the Ushans as nothing more than a magnificent source of hosts and slave labor.
 
 Chittik are roughly human-sized, with a segmented body, four compound eyes, six limbs, chewing mandibles, and a flat, beetle-like torso that terminates in a forward-curling, scorpion-like ovipositor. They have two legs for walking and four for manipulating, each manipulator-leg ending in a three-fingered hand. They are omnivores, though they prefer meat.
 

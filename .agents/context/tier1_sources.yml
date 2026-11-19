@@ -2,7 +2,7 @@
 # Only markdown notes matching include_paths and not matching exclude_paths
 # will be indexed into .agents/context/catalog.json.
 
-drive_dir: /Users/efsa/Library/CloudStorage/GoogleDrive-estevao.alvarenga@gmail.com/My Drive/RPG/campaigns/hostile
+drive_dir: .
 
 include_paths:
   - campaigns

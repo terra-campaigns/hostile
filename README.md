@@ -91,7 +91,7 @@ and then browse to http://localhost:4000.
 
 ## Data extraction
 
-Links, gallery mappings, and last-modified dates are extracted automatically by a native Jekyll Generator plugin (`_plugins/data_extractor.rb`) during build. No manual scripts need to be run.
+Links, gallery mappings, and last-modified dates are extracted automatically by the `oude-mechanismen` RubyGem (`data_extractor.rb`) during build. No manual scripts need to be run.
 
 ## Customization
 
