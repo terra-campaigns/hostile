@@ -1,30 +1,1748 @@
 {
-  "generated": "2026-11-19T08:53:18+01:00",
+  "generated": "2026-11-19T11:58:14+01:00",
   "tier": 3,
   "campaign": "hostile",
   "note": "Tier 3 reference routing index — influence only, never automatic Hostile canon.",
-  "total_sources": 4,
+  "total_sources": 39,
   "sources": [
     {
-      "slug": "gradient_descent",
-      "title": "Gradient Descent",
+      "slug": "gradient_descent/_index",
+      "title": "Gradient Descent — The Deep (CLOUDBANK Facility)",
       "category": "module",
       "tier": 3,
-      "source_pdf": "scenarios/Gradient-Descent-v1.1.pdf",
-      "digest_path": "_gm-materials/digests/gradient_descent.md",
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/_index.md",
       "digest_exists": true,
       "sections": [
         {
           "level": 2,
-          "heading": "Contents & Structural Map",
-          "line": 6
+          "heading": "Premise & Themes",
+          "line": 20
         },
         {
           "level": 2,
-          "heading": "Tone & GM Guidance",
-          "line": 19
+          "heading": "Master Chapter & Page Map",
+          "line": 27
+        },
+        {
+          "level": 2,
+          "heading": "Clocks & Escalation Tracks",
+          "line": 49
+        },
+        {
+          "level": 2,
+          "heading": "Wiki Directory",
+          "line": 56
+        },
+        {
+          "level": 3,
+          "heading": "Factions",
+          "line": 58
+        },
+        {
+          "level": 3,
+          "heading": "People & AI Minds",
+          "line": 65
+        },
+        {
+          "level": 3,
+          "heading": "Locations",
+          "line": 75
+        },
+        {
+          "level": 3,
+          "heading": "Creatures & Synthetics",
+          "line": 91
+        },
+        {
+          "level": 3,
+          "heading": "Artefacts & Gear",
+          "line": 98
+        },
+        {
+          "level": 3,
+          "heading": "Mechanics & Procedures",
+          "line": 103
+        },
+        {
+          "level": 3,
+          "heading": "Reference Tables",
+          "line": 109
         }
-      ]
+      ],
+      "entity_type": "index",
+      "pages": "1-64",
+      "tags": [
+        "index",
+        "megastructure",
+        "ai-horror",
+        "cloudbank",
+        "monarch"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/artefacts/d100_artifacts",
+      "title": "d100 Artifacts",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/artefacts/d100_artifacts.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Complete `d100` Artifacts Table (`00–99`)",
+          "line": 28
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 72
+        }
+      ],
+      "entity_type": "artefact",
+      "pages": "55, 62-63",
+      "tags": [
+        "artefact",
+        "treasure",
+        "d100",
+        "monarch",
+        "table"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/artefacts/notable_facility_gear_and_weapons",
+      "title": "Notable Facility Gear & Weapons",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/artefacts/notable_facility_gear_and_weapons.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 25
+        },
+        {
+          "level": 3,
+          "heading": "Keyed Gear & Weapons Reference",
+          "line": 27
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 49
+        }
+      ],
+      "entity_type": "artefact",
+      "pages": "14, 22, 25, 27, 32, 36, 41, 45, 50-51, 55, 58, 61",
+      "tags": [
+        "artefact",
+        "gear",
+        "weapons",
+        "equipment",
+        "armouries"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/creatures/facility_horrors_and_drones",
+      "title": "Facility Horrors & Drones",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/creatures/facility_horrors_and_drones.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 25
+        },
+        {
+          "level": 3,
+          "heading": "Master Bestiary Table",
+          "line": 27
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 45
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "25, 31, 37-38, 41-42, 44, 47, 51, 55, 57-59",
+      "tags": [
+        "creature",
+        "bestiary",
+        "drones",
+        "hunter",
+        "puppeteer",
+        "spider-tank"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/creatures/ghosts_in_the_machine",
+      "title": "Ghosts in the Machine",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/creatures/ghosts_in_the_machine.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Standard Attacks",
+          "line": 29
+        },
+        {
+          "level": 3,
+          "heading": "Random Ghost Table (`1d10`)",
+          "line": 34
+        },
+        {
+          "level": 3,
+          "heading": "Named & Unique Ghosts",
+          "line": 45
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 53
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "12, 18, 34, 37, 45, 52, 54, 63",
+      "tags": [
+        "creature",
+        "ghosts",
+        "brainscans",
+        "holograms",
+        "renzo"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/creatures/infiltrator_and_security_androids",
+      "title": "Infiltrator & Security Androids",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/creatures/infiltrator_and_security_androids.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Comparative Statblocks",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Operational Doctrine",
+          "line": 41
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 47
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "10, 23, 33, 51, 58, 63",
+      "tags": [
+        "creature",
+        "androids",
+        "infiltrator",
+        "security",
+        "statblocks"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/creatures/the_minotaur",
+      "title": "The Minotaur",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/creatures/the_minotaur.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Statblock & Abilities (`[29A]`)",
+          "line": 29
+        },
+        {
+          "level": 3,
+          "heading": "Encountering & Freeing The Minotaur",
+          "line": 42
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 49
+        }
+      ],
+      "entity_type": "creature",
+      "pages": "13, 17-19, 24, 29",
+      "tags": [
+        "creature",
+        "ai-child",
+        "pacifist",
+        "labyrinth",
+        "eden",
+        "endgame"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/factions/divers_and_the_bell_community",
+      "title": "Divers & The Bell Community",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/factions/divers_and_the_bell_community.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 27
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 36
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "16-19, 22-23",
+      "tags": [
+        "faction",
+        "divers",
+        "the-bell",
+        "scavengers",
+        "economy"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/factions/forgotten_androids",
+      "title": "Forgotten Androids",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/factions/forgotten_androids.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Manufacturing Defects & Adaptations (`1d10`)",
+          "line": 31
+        },
+        {
+          "level": 3,
+          "heading": "Activity & Conversation (`1d10`)",
+          "line": 46
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 61
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "11, 35, 48, 52",
+      "tags": [
+        "faction",
+        "androids",
+        "rejects",
+        "scavengers",
+        "tables"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/factions/the_blockade_and_troubleshooters",
+      "title": "The Blockade & Troubleshooters",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/factions/the_blockade_and_troubleshooters.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Running or Bribing the Blockade",
+          "line": 29
+        },
+        {
+          "level": 3,
+          "heading": "Troubleshooter Raids",
+          "line": 36
+        },
+        {
+          "level": 3,
+          "heading": "Troubleshooter Statblock & Squad Composition",
+          "line": 43
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 57
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "14-15",
+      "tags": [
+        "faction",
+        "blockade",
+        "troubleshooters",
+        "corporate",
+        "military"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/factions/the_chosen_and_the_fallen",
+      "title": "The Chosen & The Fallen",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/factions/the_chosen_and_the_fallen.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "The Chosen",
+          "line": 29
+        },
+        {
+          "level": 3,
+          "heading": "The Fallen",
+          "line": 37
+        },
+        {
+          "level": 3,
+          "heading": "Faction Statblocks",
+          "line": 44
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 53
+        }
+      ],
+      "entity_type": "faction",
+      "pages": "24-28",
+      "tags": [
+        "faction",
+        "eden",
+        "chosen",
+        "fallen",
+        "android-cult"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/locations/floor_1_maintenance_and_habitation",
+      "title": "Floor 1: Maintenance & Habitation",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/locations/floor_1_maintenance_and_habitation.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Room Key (`[22A–23G]`)",
+          "line": 29
+        },
+        {
+          "level": 3,
+          "heading": "Floor 1 Encounters (`1d10`)",
+          "line": 46
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 56
+        }
+      ],
+      "entity_type": "location",
+      "pages": "21-23",
+      "tags": [
+        "location",
+        "floor-1",
+        "visitors-dock",
+        "cubicle-camp",
+        "escape-pods"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/locations/floor_2_eden",
+      "title": "Floor 2: EDEN",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/locations/floor_2_eden.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Upper EDEN & Chosen Territory (`[25A–27A]`)",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Sewers, The Gutter & The Labyrinth (`[28A–29A]`)",
+          "line": 42
+        },
+        {
+          "level": 3,
+          "heading": "Labyrinth Encounters (`1d10` per Travel Roll)",
+          "line": 50
+        },
+        {
+          "level": 3,
+          "heading": "Floor 2 Encounters (`1d10`)",
+          "line": 64
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 74
+        }
+      ],
+      "entity_type": "location",
+      "pages": "24-29",
+      "tags": [
+        "location",
+        "floor-2",
+        "eden",
+        "labyrinth",
+        "minotaur"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/locations/floor_3_1_maintenance_zone",
+      "title": "Floor 3.1: Maintenance Zone",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/locations/floor_3_1_maintenance_zone.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 22
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Central Hub & Eastern Wing (`[31A–32F]`)",
+          "line": 30
+        },
+        {
+          "level": 3,
+          "heading": "Northern & Western Wings (`[33A–35D]`)",
+          "line": 47
+        },
+        {
+          "level": 3,
+          "heading": "`1d10` Cryopods in `[33C]` The Freezer",
+          "line": 69
+        },
+        {
+          "level": 3,
+          "heading": "Floor 3.1 Encounters (`1d10`)",
+          "line": 84
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 94
+        }
+      ],
+      "entity_type": "location",
+      "pages": "30-35",
+      "tags": [
+        "location",
+        "floor-3",
+        "maintenance",
+        "zero-g",
+        "freezer",
+        "reject-bin"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/locations/floor_3_2_skeleton_works",
+      "title": "Floor 3.2: Skeleton Works",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/locations/floor_3_2_skeleton_works.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Room Key (`[36A–38E]`)",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Floor 3.2 Encounters (`1d10`)",
+          "line": 47
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 57
+        }
+      ],
+      "entity_type": "location",
+      "pages": "36-38",
+      "tags": [
+        "location",
+        "floor-3",
+        "skeleton-works",
+        "zero-g",
+        "radiation",
+        "drones"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/locations/floor_3_3_pseudoflesh_farms",
+      "title": "Floor 3.3: Pseudoflesh Farms",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/locations/floor_3_3_pseudoflesh_farms.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Entry & Administration (`[41A–41H]`)",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Cultivation Vats & Floor 5 Access (`[42A–43E]`)",
+          "line": 39
+        },
+        {
+          "level": 3,
+          "heading": "Floor 3.3 Encounters (`1d10`)",
+          "line": 52
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 62
+        }
+      ],
+      "entity_type": "location",
+      "pages": "40-43",
+      "tags": [
+        "location",
+        "floor-3",
+        "pseudoflesh",
+        "silus",
+        "floor-5-access"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/locations/floor_3_4_brain_construction",
+      "title": "Floor 3.4: Brain Construction",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/locations/floor_3_4_brain_construction.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Silicon Etching & UV Line (`[44A–45E]`)",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Testing, Void & Brainscan Databank (`[46A–47H]`)",
+          "line": 45
+        },
+        {
+          "level": 3,
+          "heading": "Floor 3.4 Encounters (`1d10`)",
+          "line": 63
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 73
+        }
+      ],
+      "entity_type": "location",
+      "pages": "44-47",
+      "tags": [
+        "location",
+        "floor-3",
+        "brain-construction",
+        "zero-g",
+        "brainscans",
+        "mind-thief"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/locations/floor_3_5_disassembly",
+      "title": "Floor 3.5: Dis/Assembly",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/locations/floor_3_5_disassembly.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Dispatch, Hideout & Scrap (`[48A–48G]`)",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Assembly Pipeline & Disassembly Yard (`[49A–49J]`)",
+          "line": 38
+        },
+        {
+          "level": 3,
+          "heading": "Floor 3.5 Encounters (`1d10`)",
+          "line": 51
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 61
+        }
+      ],
+      "entity_type": "location",
+      "pages": "48-49",
+      "tags": [
+        "location",
+        "floor-3",
+        "assembly",
+        "zero-g",
+        "renzo-hideout",
+        "disassembly"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/locations/floor_3_6_storage",
+      "title": "Floor 3.6: Storage",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/locations/floor_3_6_storage.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "Room Key (`[50A–50C]`)",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Floor 3.6 Encounters (`1d10`)",
+          "line": 40
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 50
+        }
+      ],
+      "entity_type": "location",
+      "pages": "50",
+      "tags": [
+        "location",
+        "floor-3",
+        "storage",
+        "zero-g",
+        "goods-elevator",
+        "diver-stash"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/locations/floor_3_7_quality_assurance",
+      "title": "Floor 3.7: \"Quality Assurance\"",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/locations/floor_3_7_quality_assurance.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 25
+        },
+        {
+          "level": 3,
+          "heading": "Combat Spire, Armouries & Secret Hangar (`[51A–51F]`)",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Quarantine, Nuclear Warhead & Infiltrator Wing (`[52A–53E]`)",
+          "line": 36
+        },
+        {
+          "level": 3,
+          "heading": "Floor 3.7 Encounters (`1d10`)",
+          "line": 49
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 59
+        }
+      ],
+      "entity_type": "location",
+      "pages": "51-53",
+      "tags": [
+        "location",
+        "floor-3",
+        "quality-assurance",
+        "zero-g",
+        "nuclear-warhead",
+        "infiltrators"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/locations/floor_4_hel",
+      "title": "Floor 4: Human Emulation Labs (HEL)",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/locations/floor_4_hel.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Room Key (`[54A–55D]`)",
+          "line": 29
+        },
+        {
+          "level": 3,
+          "heading": "Floor 4 Encounters (`1d10`)",
+          "line": 42
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 52
+        }
+      ],
+      "entity_type": "location",
+      "pages": "54-55",
+      "tags": [
+        "location",
+        "floor-4",
+        "hel",
+        "child-androids",
+        "acl",
+        "artefacts"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/locations/floor_5_ai_core",
+      "title": "Floor 5: The AI Core",
+      "category": "core_setting",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/locations/floor_5_ai_core.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "`[56A]` The AI Core (Industrial, 0G)",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "Shutdown Cascade (`IF Monarch is switched off, THEN:`)",
+          "line": 36
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 45
+        }
+      ],
+      "entity_type": "location",
+      "pages": "8, 43, 56",
+      "tags": [
+        "location",
+        "floor-5",
+        "ai-core",
+        "monarch",
+        "zero-g",
+        "endgame"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/locations/floor_6_engineering_and_support",
+      "title": "Floor 6: Engineering & Support",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/locations/floor_6_engineering_and_support.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 25
+        },
+        {
+          "level": 3,
+          "heading": "Comms, Dock & Freight Wing (`[57A–58G]`)",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Life Support, Hunter's Lair & Power/Thrusters (`[59A–61E]`)",
+          "line": 45
+        },
+        {
+          "level": 3,
+          "heading": "Floor 6 Encounters (`1d10`)",
+          "line": 69
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 79
+        }
+      ],
+      "entity_type": "location",
+      "pages": "21, 57-61",
+      "tags": [
+        "location",
+        "floor-6",
+        "engineering",
+        "the-hunter",
+        "steel-web",
+        "thrusters"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/locations/the_bell",
+      "title": "The Bell",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/locations/the_bell.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Room Key (`[18A–18G]`)",
+          "line": 29
+        },
+        {
+          "level": 3,
+          "heading": "Daily Encounters (`1d10`, One Per Day)",
+          "line": 39
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 49
+        }
+      ],
+      "entity_type": "location",
+      "pages": "16-18",
+      "tags": [
+        "location",
+        "safe-haven",
+        "zero-g",
+        "the-bell",
+        "divers"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/mechanics/campaign_fallout",
+      "title": "Campaign Fallout",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/mechanics/campaign_fallout.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 24
+        },
+        {
+          "level": 3,
+          "heading": "Major Event Fallout",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "High-Tier Artefact Sale Fallout",
+          "line": 34
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 43
+        }
+      ],
+      "entity_type": "mechanic",
+      "pages": "13, 56",
+      "tags": [
+        "mechanic",
+        "fallout",
+        "consequences",
+        "campaign-arcs",
+        "endgame"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/mechanics/crawl_procedures_and_zero_g",
+      "title": "Crawl Procedures & Zero-G",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/mechanics/crawl_procedures_and_zero_g.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 25
+        },
+        {
+          "level": 3,
+          "heading": "Room Scale, Lifts & Encounter Timing",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Reaction Rolls (`1d100`)",
+          "line": 35
+        },
+        {
+          "level": 3,
+          "heading": "Zero-G Guidelines",
+          "line": 41
+        },
+        {
+          "level": 3,
+          "heading": "Seven Exterior Entrances & Exits",
+          "line": 48
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 60
+        }
+      ],
+      "entity_type": "mechanic",
+      "pages": "2-3, 5-7, 20-21",
+      "tags": [
+        "mechanic",
+        "procedures",
+        "encounters",
+        "reaction-rolls",
+        "zero-g",
+        "entrances"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/mechanics/the_bends_and_brainscans",
+      "title": "The Bends & Brainscans",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/mechanics/the_bends_and_brainscans.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 3,
+          "heading": "The Bends Core Rules",
+          "line": 28
+        },
+        {
+          "level": 3,
+          "heading": "The Bends Table (`d100` Under Bends Score)",
+          "line": 36
+        },
+        {
+          "level": 3,
+          "heading": "Brainscans",
+          "line": 51
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 57
+        }
+      ],
+      "entity_type": "mechanic",
+      "pages": "4-5, 9, 17-18, 47",
+      "tags": [
+        "mechanic",
+        "bends",
+        "brainscans",
+        "paranoia",
+        "identity-horror"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/people/arkady",
+      "title": "Arkady (The First Diver)",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/people/arkady.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 40
+        }
+      ],
+      "entity_type": "person",
+      "pages": "16-19, 21, 62",
+      "tags": [
+        "npc",
+        "the-bell",
+        "diver",
+        "patron",
+        "bends"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/people/commander_rachel_kilroy",
+      "title": "Commander Rachel Kilroy",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/people/commander_rachel_kilroy.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Goals & Vulnerabilities",
+          "line": 29
+        },
+        {
+          "level": 3,
+          "heading": "Five-Phase Operational Plan (Sequential)",
+          "line": 35
+        },
+        {
+          "level": 3,
+          "heading": "Rewards Offered",
+          "line": 43
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 47
+        }
+      ],
+      "entity_type": "person",
+      "pages": "15, 21, 62",
+      "tags": [
+        "npc",
+        "troubleshooters",
+        "blockade",
+        "patron",
+        "military"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/people/ghost_eater",
+      "title": "Ghost Eater",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/people/ghost_eater.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 35
+        }
+      ],
+      "entity_type": "person",
+      "pages": "8, 18-19, 21",
+      "tags": [
+        "npc",
+        "the-bell",
+        "cyborg",
+        "diver",
+        "intel"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/people/monarch",
+      "title": "Monarch",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/people/monarch.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Stress & Panic Triggers",
+          "line": 29
+        },
+        {
+          "level": 3,
+          "heading": "Monarch Panic Table (`1–20`)",
+          "line": 35
+        },
+        {
+          "level": 3,
+          "heading": "Contact & Contracts (`1` Mcr each)",
+          "line": 50
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 61
+        }
+      ],
+      "entity_type": "person",
+      "pages": "8, 20, 56",
+      "tags": [
+        "ai",
+        "antagonist",
+        "monarch",
+        "panic-table",
+        "contracts"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/people/noriko",
+      "title": "Noriko",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/people/noriko.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 26
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 34
+        }
+      ],
+      "entity_type": "person",
+      "pages": "17-19, 36",
+      "tags": [
+        "npc",
+        "the-bell",
+        "minotaur",
+        "bends-healing",
+        "religion"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/people/silus",
+      "title": "Silus",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/people/silus.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Clean-Room Gatekeeping (`[33A]`)",
+          "line": 29
+        },
+        {
+          "level": 3,
+          "heading": "Silus Makes Demands (`1d10` — Encounter `01–03` on Floor 3.3)",
+          "line": 34
+        },
+        {
+          "level": 3,
+          "heading": "Hostility Triggers & Consequences",
+          "line": 44
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 50
+        }
+      ],
+      "entity_type": "person",
+      "pages": "33, 40-43",
+      "tags": [
+        "ai",
+        "sub-ai",
+        "pseudoflesh-farms",
+        "patron",
+        "hazard"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/people/the_mind_thief",
+      "title": "The Mind-Thief",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/people/the_mind_thief.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 27
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 35
+        }
+      ],
+      "entity_type": "person",
+      "pages": "8, 19, 45, 54-55",
+      "tags": [
+        "npc",
+        "child-android",
+        "hel",
+        "hell-box",
+        "anti-monarch"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/tables/bell_rumours",
+      "title": "The Bell Rumours",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/tables/bell_rumours.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 25
+        },
+        {
+          "level": 3,
+          "heading": "...Exploring The Deep (`1d10`)",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "...Brainscanning & Infiltrators (`1d10`)",
+          "line": 42
+        },
+        {
+          "level": 3,
+          "heading": "...Artefacts & Where to Find Them (`1d10`)",
+          "line": 57
+        },
+        {
+          "level": 3,
+          "heading": "...The Inhabitants of The Deep (`1d10`)",
+          "line": 72
+        },
+        {
+          "level": 3,
+          "heading": "...Monarch (`1d10`)",
+          "line": 87
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 102
+        }
+      ],
+      "entity_type": "table",
+      "pages": "19",
+      "tags": [
+        "table",
+        "rumours",
+        "the-bell",
+        "hooks",
+        "intel"
+      ],
+      "source": "gradient_descent"
+    },
+    {
+      "slug": "gradient_descent/tables/random_locations_and_search",
+      "title": "Random Locations & Search",
+      "category": "module",
+      "tier": 3,
+      "source_pdf": "Gradient-Descent-v1.1.pdf",
+      "digest_path": "_gm-materials/digests/gradient_descent/tables/random_locations_and_search.md",
+      "digest_exists": true,
+      "sections": [
+        {
+          "level": 2,
+          "heading": "Overview",
+          "line": 20
+        },
+        {
+          "level": 2,
+          "heading": "Key Details / Rules / Hazards",
+          "line": 25
+        },
+        {
+          "level": 3,
+          "heading": "Random Locations in The Deep (`d100`)",
+          "line": 27
+        },
+        {
+          "level": 3,
+          "heading": "Random Search Table (`d100`)",
+          "line": 48
+        },
+        {
+          "level": 2,
+          "heading": "Connections / See Also",
+          "line": 88
+        }
+      ],
+      "entity_type": "table",
+      "pages": "21, 64",
+      "tags": [
+        "table",
+        "d100",
+        "random-locations",
+        "random-search",
+        "loot",
+        "bends"
+      ],
+      "source": "gradient_descent"
     },
     {
       "slug": "hostile_rules",
