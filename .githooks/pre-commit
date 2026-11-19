@@ -1,15 +1,16 @@
 #!/usr/bin/env sh
 # Refresh Tier 1 semantic catalogue upon commit when Markdown content changes.
 
-# 1. Expand standard PATH without overriding active version managers (chruby, rbenv, asdf, mise)
-EXTRA_PATH="$HOME/.local/bin"
+# 1. Expand user/version-manager paths ahead of system /usr/bin (e.g. macOS GUI Git clients),
+# while appending Homebrew/local fallbacks after version managers so chruby/rbenv/asdf/mise are never shadowed.
+USER_BIN_PATH="$HOME/.local/bin"
 for ruby_bin in "$HOME"/.rubies/*/bin; do
-  [ -d "$ruby_bin" ] && EXTRA_PATH="$EXTRA_PATH:$ruby_bin"
+  [ -d "$ruby_bin" ] && USER_BIN_PATH="$USER_BIN_PATH:$ruby_bin"
 done
 for gem_bin in "$HOME"/.gem/ruby/*/bin "$HOME"/.local/share/gem/ruby/*/bin; do
-  [ -d "$gem_bin" ] && EXTRA_PATH="$EXTRA_PATH:$gem_bin"
+  [ -d "$gem_bin" ] && USER_BIN_PATH="$USER_BIN_PATH:$gem_bin"
 done
-export PATH="$PATH:$EXTRA_PATH:$HOME/.rbenv/shims:$HOME/.asdf/shims:$HOME/.local/share/mise/shims:/opt/homebrew/bin:/usr/local/bin"
+export PATH="$USER_BIN_PATH:$HOME/.rbenv/shims:$HOME/.asdf/shims:$HOME/.local/share/mise/shims:$PATH:/opt/homebrew/bin:/usr/local/bin"
 export LC_ALL="${LC_ALL:-en_GB.UTF-8}"
 export LANG="${LANG:-en_GB.UTF-8}"
 
