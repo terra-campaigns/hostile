@@ -24,6 +24,7 @@ vendor/
 
 # Generated data (injected in-memory by the oude-mechanismen RubyGem)
 _data/*.json
+.agents/context/catalog.json
 
 # Python cache
 __pycache__/
