@@ -57,18 +57,18 @@ Common folders:
 ### Canon hierarchy
 
 - **Tier 1 canon** is the published campaign notes (listed in `.agents/context/tier1_sources.yml` and indexed in `.agents/context/catalog.json`). These notes are strong canon.
-- **Tier 2 canon** is Project Memory, visible conversation, confirmed GM rulings in `.agents/context/decisions.md`, and session archive materials in Google Drive (`_sessions/<slug>_session_notes.md`, `<slug>_prep.md`).
-- **Tier 3 canon** is reference material in the Google Drive campaign folder (`scenarios/`, `supplements/`, `support/`) and structured digests in Google Drive `_digests/` (indexed in `.agents/context/references.json`). It should be used as influence and possibility, not as automatic Hostile canon.
+- **Tier 2 canon** is Project Memory, visible conversation, confirmed GM rulings in `.agents/context/decisions.md`, and archival session notes/prep in `_gm-materials/session-summaries/` and `_gm-materials/session-preps/`.
+- **Tier 3 canon** is reference material (Pillar 3 commercial PDFs kept outside Git and Obsidian Sync) and structured digests in `_gm-materials/digests/` (indexed in `.agents/context/references.json`). It should be used as influence and possibility, not as automatic Hostile canon.
 
 ### Context & Token Optimisation Policy
 
 - Never read all markdown notes or large reference PDFs in bulk.
 - Use the `lookup-context` skill or consult `.agents/context/catalog.json` first to locate relevant entities, locations, and factions before reading files.
 - The catalogue is a navigation index, not a replacement for reading the note. Once located, open only the target file (using line-range reads where practical).
-- For Tier 3 setting lore or procedures, consult `_digests/*.md` via `.agents/context/references.json` before opening raw PDFs.
+- For Tier 3 setting lore or procedures, consult `_gm-materials/digests/` via `.agents/context/references.json` before opening raw PDFs.
 - Front-matter `hooks` field is deprecated and ignored across all agents and tooling. Do not add `hooks:` to new front matter.
-- Regenerate the Tier 1 catalogue manually with `bundle exec jekyll build` (or `oude doctor --fix`).
-- For heavy batch text processing, extraction, or local summarisation, offload to local Ollama (`llama3.2:latest` or `llama3.1:latest`) over `localhost:11434`, always enforcing British English in prompt instructions.
+- Regenerate the Tier 1 catalogue manually with `bundle exec jekyll build` (or `oude doctor --fix`) or automatically upon git commit.
+- For heavy batch text processing, extraction, or local summarisation, offload to local Ollama (`qwen2.5:14b`) over `localhost:11434`, always enforcing British English in prompt instructions.
 
 ## Campaign Specification
 

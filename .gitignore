@@ -22,7 +22,7 @@ vendor/
 .DS_Store
 .obsidian/
 
-# Generated data (injected in-memory by _plugins/data_extractor.rb)
+# Generated data (injected in-memory by the oude-mechanismen RubyGem)
 _data/*.json
 
 # Python cache
@@ -32,3 +32,4 @@ __pycache__/
 # Local agent venv
 .agents/venv/
 
+_gm-materials/

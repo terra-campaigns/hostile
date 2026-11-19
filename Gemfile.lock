@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/terra-campaigns/oude-mechanismen.git
-  revision: 822150ed0ff5f2908c6b079d68cb3f662c18ded2
-  tag: v0.5.3
+  revision: 4fe005f581adb2dce609a3ba495dec1d21b75727
+  tag: v0.7.0
   specs:
-    oude-mechanismen (0.5.3)
+    oude-mechanismen (0.7.0)
       jekyll (>= 4.0)
 
 GEM
@@ -69,7 +69,7 @@ GEM
       jekyll-include-cache
       jekyll-seo-tag (>= 2.0)
       rake (>= 12.3.1)
-    kramdown (2.5.2)
+    kramdown (2.6.1)
       rexml (>= 3.4.4)
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -109,6 +109,7 @@ DEPENDENCIES
   jekyll-relative-links
   just-the-docs (= 0.12.0)
   oude-mechanismen!
+  webrick
 
 BUNDLED WITH
    2.6.2
