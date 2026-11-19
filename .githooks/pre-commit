@@ -24,11 +24,7 @@ if git diff --cached --name-only 2>/dev/null | grep -q '\.md$'; then
   fi
 
   if [ -n "$BUNDLE_BIN" ] && [ -f Gemfile ]; then
-    if "$BUNDLE_BIN" exec jekyll build >/dev/null 2>&1; then
-      if [ -f .agents/context/catalog.json ]; then
-        git add .agents/context/catalog.json 2>/dev/null || true
-      fi
-    else
+    if ! "$BUNDLE_BIN" exec jekyll build >/dev/null 2>&1; then
       echo "[WARN] 'bundle exec jekyll build' failed; catalog.json may be stale." >&2
     fi
   else
