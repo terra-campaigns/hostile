@@ -10,6 +10,6 @@ gem "jekyll-relative-links"
 
 gem "jekyll-redirect-from"
 
-gem "oude-mechanismen", git: "https://github.com/terra-campaigns/oude-mechanismen.git", tag: "v0.6.0"
+gem "oude-mechanismen", git: "https://github.com/terra-campaigns/oude-mechanismen.git", tag: "v0.7.1"
 
 gem "webrick"
