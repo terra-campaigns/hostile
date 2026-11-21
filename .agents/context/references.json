@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T18:54:07+01:00",
+  "generated": "2026-11-21T22:24:43+01:00",
   "tier": 3,
   "campaign": "hostile",
   "note": "Tier 3 reference routing index — influence only, never automatic Hostile canon.",
@@ -1746,8 +1746,8 @@
     },
     {
       "slug": "hostile_rules",
-      "title": "Hostile Rules",
-      "category": "core_setting",
+      "title": "Hostile Rules — Reference Digest",
+      "category": "rules",
       "tier": 3,
       "source_pdf": "Hostile-Rules.pdf",
       "digest_path": "_gm-materials/digests/hostile_rules.md",
@@ -1756,18 +1756,29 @@
         {
           "level": 2,
           "heading": "Contents & Page Map",
-          "line": 6
+          "line": 17
         },
         {
           "level": 2,
           "heading": "Key Procedures & Setting Flavour",
-          "line": 14
+          "line": 25
         }
-      ]
+      ],
+      "entity_type": "index",
+      "pages": "12-160",
+      "tags": [
+        "index",
+        "rules",
+        "careers",
+        "combat",
+        "hazards",
+        "starships"
+      ],
+      "source": "hostile_rules"
     },
     {
       "slug": "hostile_setting",
-      "title": "Hostile Setting",
+      "title": "Hostile Setting — Reference Digest",
       "category": "core_setting",
       "tier": 3,
       "source_pdf": "Hostile-Setting.pdf",
@@ -1777,14 +1788,24 @@
         {
           "level": 2,
           "heading": "Contents & Page Map",
-          "line": 6
+          "line": 17
         },
         {
           "level": 2,
           "heading": "Corporations & Power Blocs",
-          "line": 13
+          "line": 24
         }
-      ]
+      ],
+      "entity_type": "index",
+      "pages": "8-220",
+      "tags": [
+        "index",
+        "setting",
+        "megacorporations",
+        "colonies",
+        "sectors"
+      ],
+      "source": "hostile_setting"
     },
     {
       "slug": "hostile_synthetics/_index",

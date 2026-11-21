@@ -6,3 +6,5 @@ updates:
       interval: daily
     allow:
       - dependency-type: direct
+    ignore:
+      - dependency-name: "oude-mechanismen"
