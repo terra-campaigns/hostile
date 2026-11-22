@@ -48,3 +48,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - TASKS.md

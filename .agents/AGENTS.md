@@ -22,7 +22,7 @@ Common folders:
 - `imgs/`: images used by markdown pages and galleries.
 - `_includes/`: reusable Jekyll snippets.
 - `_sass/`: Just the Docs theme customisation.
-- `_data/`: generated JSON used by includes, backlinks, galleries, and metadata.
+- `_data/`: optional manual site data (links, galleries, and last-modified metadata are extracted in memory by the `oude-mechanismen` RubyGem).
 - `.obsidian/`: Obsidian vault settings. Avoid changing unless explicitly asked.
 
 ## Writing Style
@@ -67,7 +67,7 @@ Common folders:
 - The catalogue is a navigation index, not a replacement for reading the note. Once located, open only the target file (using line-range reads where practical).
 - For Tier 3 setting lore or procedures, consult `_gm-materials/digests/` via `.agents/context/references.json` before opening raw PDFs.
 - Front-matter `hooks` field is deprecated and ignored across all agents and tooling. Do not add `hooks:` to new front matter.
-- Regenerate the Tier 1 catalogue manually with `bundle exec jekyll build` (or `oude doctor --fix`) or automatically upon git commit.
+- Regenerate the local Tier 1 catalogue cache with `bundle exec jekyll build` (or `oude doctor --fix`) or automatically upon git commit. Do not commit `.agents/context/catalog.json` or `.agents/context/rolling_glossary.md` to Git.
 - For heavy batch text processing, extraction, or local summarisation, offload to local Ollama (`qwen2.5:14b`) over `localhost:11434`, always enforcing British English in prompt instructions.
 
 ## Campaign Specification
@@ -166,10 +166,3 @@ There are no generated data files saved to `_data/`. The data for links, galleri
 - Preserve the dual use of the repo: it must remain pleasant in Obsidian and buildable as a website.
 - If a request touches prose and mechanics, maintain both flavour and table usability.
 - **Branch Lifecycle:** Feature branches must be deleted immediately after their corresponding Pull Request is merged or closed. Never retain merged remote or local feature branches.
-
-## Generating LLM Context Dumps in Static Sites (Jekyll)
-
-When creating raw context dumps (e.g., `all-content`) for LLM ingestion in a static site:
-- **Use `.html` extensions**: Set the permalink to `.html` (e.g., `permalink: /all-content.html`) with `layout: null`. 
-- **Do not use `.txt`**: `.txt` files expose raw HTML tags (like `<details>` or `<iframe>`) in the browser, making them unreadable for humans.
-- **Do not strip HTML**: Never strip HTML tags just to make a `.txt` file human-readable. LLMs rely on those tags for structure. The `.html` extension solves both problems by rendering the tags nicely in the browser while preserving them in the source code for the LLM.

@@ -34,3 +34,4 @@ __pycache__/
 .agents/venv/
 
 _gm-materials/
+.agents/context/rolling_glossary.md
