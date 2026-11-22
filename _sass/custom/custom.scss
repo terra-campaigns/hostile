@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bytesized&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gugi&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body{
   font-family: 'Ubuntu Mono';
@@ -6,9 +6,13 @@ body{
 }
 
 h1, h2, h3, h4 {
-  font-family: "Bytesized";
+  font-family: "Gugi";
   font-weight: 400;
   font-style: normal;
+}
+
+.site-title {
+  font-family: "Gugi";
 }
 
 tr:nth-child(even) td{
