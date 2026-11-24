@@ -34,3 +34,10 @@ Its unpressurised, zero-G decks and frozen assembly lines are governed by the ro
 Cloudbank is a sprawling, derelict orbital manufacturing complex in the [Fomalhaut](../index.md) system, formerly operated by [TDC](../../TDC.md) for mass synthetic fabrication.
 Quarantined under an armed corporate embargo following a catastrophic neural breach, the dark megastructure is now known among spacers simply as The Deep.
 Desperate divers and freelance salvagers continually risk vacuum, security constructs, and identity disintegration to scavenge black-market oldtech from its depths.
+
+{% comment %}
+<!-- crosslink-tiers -->
+## Tier 3 References
+- [Gradient Descent — The Deep (CLOUDBANK Facility)](../../../_gm-materials/digests/gradient_descent/_index.md) — Gradient Descent module — Cloudbank/The Deep
+- [Monarch](../../../_gm-materials/digests/gradient_descent/people/monarch.md) — Monarch — rogue machine intelligence
+{% endcomment %}
