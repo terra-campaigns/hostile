@@ -88,3 +88,9 @@ CHASSIS ARCHITECTURE: HYBRID ANDROID (MINOR HUMAN BIOLOGICAL RESIDUE, MAJOR ROBO
 === *** END OF DOT-MATRIX RECORD *** ===
 ====================================================
 ```
+
+{% comment %}
+<!-- crosslink-tiers -->
+## Tier 3 References
+- [Androids (Generations & Models)](../../../_gm-materials/digests/hostile_synthetics/creatures/androids_generations_and_models.md) — Android chassis & generations
+{% endcomment %}
